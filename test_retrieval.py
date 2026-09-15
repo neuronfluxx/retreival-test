@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
 Retrieval testing script for RAG quality evaluation.
-Query Pinecone with questions and evaluate retrieved chunks.
+Query ChromaDB with questions and evaluate retrieved chunks.
 """
 
 import os
 import sys
 from typing import Optional
 
-from pinecone import Pinecone
+import chromadb
 import requests
 from dotenv import load_dotenv
 
@@ -16,8 +16,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-PINECONE_API_KEY = os.environ["PINECONE_API_KEY"]
-PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "rag-test-index")
+CHROMA_DB_PATH = os.environ.get("CHROMA_DB_PATH", "./chroma_db")
+CHROMA_COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION_NAME", "rag-test-collection")
 
 AZURE_ENDPOINT = os.environ["AZURE_OPENAI_ENDPOINT"]
 AZURE_API_KEY = os.environ["AZURE_OPENAI_API_KEY"]
@@ -26,9 +26,12 @@ AZURE_API_VERSION = os.environ.get("AZURE_OPENAI_API_VERSION", "2024-02-01")
 AZURE_CHAT_DEPLOYMENT = os.environ.get("AZURE_OPENAI_DEPLOYMENT", "gpt-4o-mini")
 EMBED_DIM = 3072
 
-# Initialize Pinecone
-pc = Pinecone(api_key=PINECONE_API_KEY)
-index = pc.Index(PINECONE_INDEX_NAME)
+# Initialize ChromaDB
+chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
+collection = chroma_client.get_or_create_collection(
+    name=CHROMA_COLLECTION_NAME,
+    metadata={"hnsw:space": "cosine"}
+)
 
 
 def embed_query(query: str) -> list[float]:
@@ -47,12 +50,12 @@ def retrieve(
     filter_metadata: Optional[dict] = None
 ) -> list[dict]:
     """
-    Retrieve relevant chunks from Pinecone.
+    Retrieve relevant chunks from ChromaDB.
     
     Args:
         query: The search query
         top_k: Number of results to return
-        namespace: Pinecone namespace
+        namespace: Optional namespace filter (unused in ChromaDB, kept for compatibility)
         filter_metadata: Optional metadata filter (e.g., {"source": "document_name"})
     
     Returns:
@@ -61,29 +64,40 @@ def retrieve(
     # Generate query embedding
     query_embedding = embed_query(query)
     
-    # Query Pinecone
-    query_params = {
-        "vector": query_embedding,
-        "top_k": top_k,
-        "namespace": namespace,
-        "include_metadata": True,
-    }
+    # Build where filter
+    where_filter = None
     if filter_metadata:
-        query_params["filter"] = filter_metadata
+        where_filter = filter_metadata
     
-    results = index.query(**query_params)
+    # Query ChromaDB
+    results = collection.query(
+        query_embeddings=[query_embedding],
+        n_results=top_k,
+        where=where_filter,
+        include=["documents", "metadatas", "distances"]
+    )
     
-    return [
-        {
-            "id": match["id"],
-            "score": match["score"],
-            "text": match["metadata"].get("text", ""),
-            "source": match["metadata"].get("source", "unknown"),
-            "filename": match["metadata"].get("filename", "unknown"),
-            "chunk_index": match["metadata"].get("chunk_index", -1)
-        }
-        for match in results["matches"]
-    ]
+    # Convert distances to similarity scores (ChromaDB returns distances, we convert to similarity)
+    retrieved = []
+    if results["ids"] and len(results["ids"]) > 0:
+        for i, (doc_id, document, metadata, distance) in enumerate(zip(
+            results["ids"][0],
+            results["documents"][0],
+            results["metadatas"][0],
+            results["distances"][0]
+        )):
+            # Convert distance to similarity score (cosine distance -> similarity)
+            similarity_score = 1 - distance
+            retrieved.append({
+                "id": doc_id,
+                "score": similarity_score,
+                "text": document,
+                "source": metadata.get("source", "unknown"),
+                "filename": metadata.get("filename", "unknown"),
+                "chunk_index": int(metadata.get("chunk_index", -1))
+            })
+    
+    return retrieved
 
 
 def generate_answer(query: str, context: str) -> str:
@@ -112,39 +126,52 @@ Instructions:
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def print_retrieval_results(query: str, results: list[dict], show_text: bool = True):
-    """Pretty print retrieval results."""
+def print_retrieval_results(query: str, results: list[dict], show_text: bool = True, answer: str = None):
+    """Pretty print retrieval results with optional LLM answer."""
     print(f"\n{'='*80}")
     print(f"🔍 Query: {query}")
     print(f"{'='*80}")
-    print(f"\n📊 Found {len(results)} results:\n")
+    
+    # Show LLM answer first if available
+    if answer:
+        print(f"\n{'='*80}")
+        print("💡 AI ANSWER")
+        print(f"{'='*80}")
+        print(f"\n{answer}\n")
+        print(f"{'='*80}")
+    
+    # Then show retrieved chunks
+    print(f"\n📊 Retrieved {len(results)} relevant chunks:\n")
     
     for i, result in enumerate(results, 1):
-        print(f"--- Result {i} (Score: {result['score']:.4f}) ---")
-        print(f"Source: {result['filename']} (chunk #{result['chunk_index']})")
+        print(f"{'─'*80}")
+        print(f"📄 Chunk {i} | Score: {result['score']:.4f}")
+        print(f"   Source: {result['filename']} (chunk #{result['chunk_index']})")
         if show_text:
-            print(f"\nText:\n{result['text'][:500]}{'...' if len(result['text']) > 500 else ''}")
+            print(f"\n{result['text']}")
         print()
 
 
-def interactive_mode(namespace: str = "", top_k: int = 5, generate: bool = False):
+def interactive_mode(namespace: str = "", top_k: int = 5, generate: bool = True):
     """
-    Interactive Q&A mode for testing retrieval.
+    Interactive Q&A mode for testing retrieval with LLM answers.
     
     Args:
-        namespace: Pinecone namespace to query
+        namespace: ChromaDB namespace filter
         top_k: Number of results to retrieve
-        generate: Whether to generate answers with LLM
+        generate: Whether to generate answers with LLM (default: True)
     """
-    print("\n🤖 RAG Retrieval Testing")
+    print("\n🤖 RAG Retrieval Testing with AI Answers")
     print("=" * 40)
     print(f"Namespace: {namespace or '(default)'}")
     print(f"Top K: {top_k}")
-    print(f"Generate answers: {'Yes' if generate else 'No'}")
+    print(f"Generate answers: {'Yes ✓' if generate else 'No'}")
     print("\nCommands:")
     print("  - Type your question and press Enter")
     print("  - Type 'quit' or 'exit' to stop")
     print("  - Type 'filter:source=filename' to filter by source")
+    print("  - Type 'clear' to remove filters")
+    print("  - Type 'toggle' to enable/disable AI answers")
     print("-" * 40)
     
     current_filter = None
@@ -159,6 +186,12 @@ def interactive_mode(namespace: str = "", top_k: int = 5, generate: bool = False
             if user_input.lower() in ['quit', 'exit', 'q']:
                 print("\n👋 Goodbye!")
                 break
+            
+            # Handle toggle command
+            if user_input.lower() == 'toggle':
+                generate = not generate
+                print(f"✅ AI answers {'enabled' if generate else 'disabled'}")
+                continue
             
             # Handle filter commands
             if user_input.startswith('filter:'):
@@ -180,22 +213,21 @@ def interactive_mode(namespace: str = "", top_k: int = 5, generate: bool = False
                 continue
             
             # Retrieve
+            print("\n⏳ Searching...")
             results = retrieve(user_input, top_k=top_k, namespace=namespace, filter_metadata=current_filter)
-            print_retrieval_results(user_input, results)
             
             # Generate answer if enabled
+            answer = None
             if generate and results:
-                context = "\n\n---\n\n".join([r['text'] for r in results])
-                print("🤖 Generating answer...\n")
+                print("🤖 Generating answer...")
                 try:
+                    context = "\n\n---\n\n".join([r['text'] for r in results])
                     answer = generate_answer(user_input, context)
-                    print(f"{'='*80}")
-                    print("💡 Answer:")
-                    print(f"{'='*80}")
-                    print(answer)
-                    print(f"{'='*80}\n")
                 except Exception as e:
                     print(f"❌ Error generating answer: {e}")
+            
+            # Display results with answer
+            print_retrieval_results(user_input, results, answer=answer)
         
         except KeyboardInterrupt:
             print("\n\n👋 Goodbye!")
@@ -237,25 +269,33 @@ def main():
     """CLI entry point."""
     import argparse
     
-    parser = argparse.ArgumentParser(description="Test RAG retrieval quality")
-    parser.add_argument("--namespace", "-n", default="", help="Pinecone namespace")
+    parser = argparse.ArgumentParser(description="Test RAG retrieval quality with ChromaDB")
+    parser.add_argument("--namespace", "-n", default="", help="Namespace filter (optional)")
     parser.add_argument("--top-k", "-k", type=int, default=5, help="Number of results to retrieve")
-    parser.add_argument("--generate", "-g", action="store_true", help="Generate answers with LLM")
+    parser.add_argument("--no-generate", action="store_true", help="Disable AI answer generation (enabled by default)")
     parser.add_argument("--question", "-q", help="Single question (non-interactive)")
     parser.add_argument("--batch", "-b", help="Path to file with questions (one per line)")
     parser.add_argument("--no-text", action="store_true", help="Hide chunk text in output")
     
     args = parser.parse_args()
+    generate = not args.no_generate  # Generate by default
     
     if args.question:
         # Single question mode
+        print("\n⏳ Searching...")
         results = retrieve(args.question, top_k=args.top_k, namespace=args.namespace)
-        print_retrieval_results(args.question, results, show_text=not args.no_text)
         
-        if args.generate and results:
-            context = "\n\n---\n\n".join([r['text'] for r in results])
-            answer = generate_answer(args.question, context)
-            print(f"\n💡 Answer:\n{answer}")
+        # Generate answer
+        answer = None
+        if generate and results:
+            print("🤖 Generating answer...")
+            try:
+                context = "\n\n---\n\n".join([r['text'] for r in results])
+                answer = generate_answer(args.question, context)
+            except Exception as e:
+                print(f"❌ Error generating answer: {e}")
+        
+        print_retrieval_results(args.question, results, show_text=not args.no_text, answer=answer)
     
     elif args.batch:
         # Batch test mode
@@ -273,8 +313,8 @@ def main():
             print(f"   Sources: {', '.join(r['sources'])}")
     
     else:
-        # Interactive mode
-        interactive_mode(namespace=args.namespace, top_k=args.top_k, generate=args.generate)
+        # Interactive mode (generate enabled by default)
+        interactive_mode(namespace=args.namespace, top_k=args.top_k, generate=generate)
 
 
 if __name__ == "__main__":

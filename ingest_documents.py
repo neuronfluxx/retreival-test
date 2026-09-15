@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Local document ingestion script for testing retrieval quality.
-Ingests PDFs from a local directory into Pinecone without S3.
+Ingests PDFs from a local directory into ChromaDB without S3.
 """
 
 import os
@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pinecone import Pinecone
+import chromadb
 from pypdf import PdfReader
 import requests
 from dotenv import load_dotenv
@@ -18,8 +18,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-PINECONE_API_KEY = os.environ["PINECONE_API_KEY"]
-PINECONE_INDEX_NAME = os.environ.get("PINECONE_INDEX_NAME", "rag-test-index")
+CHROMA_DB_PATH = os.environ.get("CHROMA_DB_PATH", "./chroma_db")
+CHROMA_COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION_NAME", "rag-test-collection")
 
 AZURE_ENDPOINT = os.environ["AZURE_OPENAI_ENDPOINT"]
 AZURE_API_KEY = os.environ["AZURE_OPENAI_API_KEY"]
@@ -27,9 +27,12 @@ AZURE_DEPLOYMENT = os.environ.get("AZURE_OPENAI_EMBEDDING_DEPLOYMENT", "text-emb
 AZURE_API_VERSION = os.environ.get("AZURE_OPENAI_API_VERSION", "2024-02-01")
 EMBED_DIM = 3072
 
-# Initialize clients
-pc = Pinecone(api_key=PINECONE_API_KEY)
-index = pc.Index(PINECONE_INDEX_NAME)
+# Initialize ChromaDB client
+chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
+collection = chroma_client.get_or_create_collection(
+    name=CHROMA_COLLECTION_NAME,
+    metadata={"hnsw:space": "cosine"}
+)
 
 # Text splitter
 splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=150)
@@ -64,11 +67,11 @@ def extract_text_from_pdf(pdf_path: Path) -> str:
 
 def ingest_document(pdf_path: Path, namespace: str = "") -> int:
     """
-    Ingest a single PDF document into Pinecone.
+    Ingest a single PDF document into ChromaDB.
     
     Args:
         pdf_path: Path to the PDF file
-        namespace: Optional Pinecone namespace for isolation
+        namespace: Optional namespace for filtering (ChromaDB uses metadata instead)
     
     Returns:
         Number of chunks ingested
@@ -89,28 +92,35 @@ def ingest_document(pdf_path: Path, namespace: str = "") -> int:
     print(f"  🔢 Generating embeddings...")
     embeddings = embed(chunks)
     
-    # Prepare vectors with metadata
+    # Prepare documents for ChromaDB
     source_id = pdf_path.stem  # filename without extension
-    vectors = [
-        {
-            "id": f"{source_id}#{i}",
-            "values": emb,
-            "metadata": {
-                "source": source_id,
-                "filename": pdf_path.name,
-                "chunk_index": i,
-                "text": chunk
-            }
+    ids = []
+    documents = []
+    metadatas = []
+    
+    for i, (chunk, emb) in enumerate(zip(chunks, embeddings)):
+        ids.append(f"{source_id}#{i}")
+        documents.append(chunk)
+        metadata = {
+            "source": source_id,
+            "filename": pdf_path.name,
+            "chunk_index": str(i),
         }
-        for i, (chunk, emb) in enumerate(zip(chunks, embeddings))
-    ]
+        if namespace:
+            metadata["namespace"] = namespace
+        metadatas.append(metadata)
     
-    # Upsert to Pinecone
-    print(f"  ⬆️  Upserting to Pinecone...")
-    index.upsert(vectors=vectors, namespace=namespace)
-    print(f"  ✅ Upserted {len(vectors)} vectors")
+    # Add to ChromaDB
+    print(f"  ⬆️  Adding to ChromaDB...")
+    collection.add(
+        ids=ids,
+        embeddings=embeddings,
+        documents=documents,
+        metadatas=metadatas
+    )
+    print(f"  ✅ Added {len(ids)} vectors")
     
-    return len(vectors)
+    return len(ids)
 
 
 def ingest_directory(directory: str, namespace: str = "") -> dict:
@@ -119,7 +129,7 @@ def ingest_directory(directory: str, namespace: str = "") -> dict:
     
     Args:
         directory: Path to directory containing PDFs
-        namespace: Optional Pinecone namespace
+        namespace: Optional namespace for filtering
     
     Returns:
         Summary of ingestion results
@@ -155,35 +165,36 @@ def ingest_directory(directory: str, namespace: str = "") -> dict:
 
 
 def clear_namespace(namespace: str = "") -> int:
-    """Delete all vectors in a namespace."""
+    """Delete all vectors with a specific namespace."""
     print(f"\n🗑️  Clearing namespace: {namespace or '(default)'}")
     
-    # Query all vectors with dummy vector
-    results = index.query(
-        vector=[0.0] * EMBED_DIM,
-        top_k=10000,
-        namespace=namespace,
-        include_values=False,
-        include_metadata=False,
-    )
-    
-    ids = [match["id"] for match in results["matches"]]
-    if ids:
-        index.delete(ids=ids, namespace=namespace)
-        print(f"  ✅ Deleted {len(ids)} vectors")
-    else:
-        print(f"  ℹ️  No vectors to delete")
-    
-    return len(ids)
+    # Query all documents with namespace filter
+    try:
+        if namespace:
+            results = collection.get(where={"namespace": namespace})
+        else:
+            results = collection.get()
+        
+        ids = results["ids"]
+        if ids:
+            collection.delete(ids=ids)
+            print(f"  ✅ Deleted {len(ids)} vectors")
+        else:
+            print(f"  ℹ️  No vectors to delete")
+        
+        return len(ids)
+    except Exception as e:
+        print(f"  ❌ Error deleting: {e}")
+        return 0
 
 
 def main():
     """CLI entry point."""
     import argparse
     
-    parser = argparse.ArgumentParser(description="Ingest PDFs into Pinecone for RAG testing")
+    parser = argparse.ArgumentParser(description="Ingest PDFs into ChromaDB for RAG testing")
     parser.add_argument("path", help="Path to PDF file or directory")
-    parser.add_argument("--namespace", "-n", default="", help="Pinecone namespace (optional)")
+    parser.add_argument("--namespace", "-n", default="", help="Namespace for filtering (optional)")
     parser.add_argument("--clear", action="store_true", help="Clear namespace before ingesting")
     
     args = parser.parse_args()

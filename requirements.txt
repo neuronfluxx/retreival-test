@@ -1,0 +1,13 @@
+# Vector database
+chromadb>=1.5.0,<2.0.0
+
+# Text processing
+langchain-text-splitters>=0.3.0
+pypdf>=6.0.0
+
+# HTTP and utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# AWS integration (for Lambda function)
+boto3>=1.43.0

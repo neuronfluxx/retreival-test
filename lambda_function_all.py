@@ -5,12 +5,19 @@ import urllib.parse
 import boto3
 import requests
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from pinecone import Pinecone
+import chromadb
 from pypdf import PdfReader
 
 s3 = boto3.client("s3")
-pc = Pinecone(api_key=os.environ["PINECONE_API_KEY"])
-index = pc.Index(os.environ.get("PINECONE_INDEX_NAME", "integrated-dense-py"))
+
+# Initialize ChromaDB client
+CHROMA_DB_PATH = os.environ.get("CHROMA_DB_PATH", "./chroma_db")
+CHROMA_COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION_NAME", "rag-test-collection")
+chroma_client = chromadb.PersistentClient(path=CHROMA_DB_PATH)
+collection = chroma_client.get_or_create_collection(
+    name=CHROMA_COLLECTION_NAME,
+    metadata={"hnsw:space": "cosine"}
+)
 
 AZURE_ENDPOINT = os.environ["AZURE_OPENAI_ENDPOINT"]
 AZURE_API_KEY = os.environ["AZURE_OPENAI_API_KEY"]
@@ -39,28 +46,40 @@ def handle_upsert(bucket, key):
         return
 
     embeddings = embed(chunks)
-    vectors = [
-        {"id": f"{key}#{i}", "values": emb, "metadata": {"source": key, "text": chunk}}
-        for i, (chunk, emb) in enumerate(zip(chunks, embeddings))
-    ]
-    index.upsert(vectors=vectors)
-    print(f"Upserted {len(vectors)} chunks for {key}")
+    
+    # Prepare for ChromaDB
+    ids = []
+    documents = []
+    metadatas = []
+    
+    for i, (chunk, emb) in enumerate(zip(chunks, embeddings)):
+        ids.append(f"{key}#{i}")
+        documents.append(chunk)
+        metadatas.append({"source": key})
+    
+    # Add to ChromaDB
+    collection.add(
+        ids=ids,
+        embeddings=embeddings,
+        documents=documents,
+        metadatas=metadatas
+    )
+    print(f"Added {len(ids)} chunks for {key} to ChromaDB")
 
 
 def handle_delete(bucket, key):
-    # Serverless Pinecone indexes don't support delete-by-metadata-filter,
-    # so find matching ids via a filtered query first, then delete by id.
-    results = index.query(
-        vector=[0.0] * EMBED_DIM,
-        top_k=10000,
-        filter={"source": key},
-        include_values=False,
-        include_metadata=False,
-    )
-    ids = [match["id"] for match in results["matches"]]
-    if ids:
-        index.delete(ids=ids)
-    print(f"Deleted {len(ids)} vectors for {key}")
+    # Delete all vectors with matching source in ChromaDB
+    try:
+        # Get all documents with matching source
+        results = collection.get(where={"source": key})
+        ids = results["ids"]
+        if ids:
+            collection.delete(ids=ids)
+            print(f"Deleted {len(ids)} vectors for {key}")
+        else:
+            print(f"No vectors found for {key}")
+    except Exception as e:
+        print(f"Error deleting from ChromaDB: {e}")
 
 
 def lambda_handler(event, context):
