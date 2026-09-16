@@ -76,8 +76,9 @@ class CLIPEmbedder:
                 image_features = self.model.get_image_features(**inputs)
 
                 if normalize:
-                    image_features = image_features / image_features.norm(
-                        dim=-1, keepdim=True
+                    # Normalize using torch.nn.functional
+                    image_features = torch.nn.functional.normalize(
+                        image_features, p=2, dim=-1
                     )
 
             embeddings = image_features.cpu().numpy()
@@ -125,8 +126,9 @@ class CLIPEmbedder:
                 text_features = self.model.get_text_features(**inputs)
 
                 if normalize:
-                    text_features = text_features / text_features.norm(
-                        dim=-1, keepdim=True
+                    # Normalize using torch.nn.functional
+                    text_features = torch.nn.functional.normalize(
+                        text_features, p=2, dim=-1
                     )
 
             embeddings = text_features.cpu().numpy()
