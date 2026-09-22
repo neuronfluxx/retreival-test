@@ -1,0 +1,5452 @@
+{
+  "pdf_name": "Naac_appLetter",
+  "total_pages": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sample Scanned Copy:\nAcademic Year : 2012-2013\nANNA UNIVERSITY, CHENNAI\nFACULTY OF SCIENCE AND HUMANITIES\nPhone:+91-44-22358488\nPROGRUS THIOUGH EHOWLIDGE\n+91-44-22358654\nCHENNAI - 600 025. INDIA\nProf. K. SHANTHI, Ph.D.\nCell : +91-9840146642\n+91-9962520678\nChairperson\nshanthiramesh@annauniv.edu\n24.05.2013\nTo whom so ever it may concern\nThis is to certify that Dr. O.D.Shakila. Associate Professor of\nChemistry, K.L.N. College of Engineering, Pottapalayam- 630611 has\nattended the Anna University – 18th meeting of Board of Studies at Anna\nUniversity on 24.05.2013.\nADlearlh\n24105/2013.\n(Dr.K.SHANTHI)\n(Chairman, Faculty of S&H)",
+      "word_count": 84,
+      "line_count": 23,
+      "structured_data": [
+        {
+          "text": "Sample Scanned Copy:",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              43,
+              62
+            ],
+            [
+              288,
+              67
+            ],
+            [
+              288,
+              91
+            ],
+            [
+              42,
+              86
+            ]
+          ]
+        },
+        {
+          "text": "Academic Year : 2012-2013",
+          "confidence": 0.9955,
+          "bbox": [
+            [
+              42,
+              114
+            ],
+            [
+              334,
+              121
+            ],
+            [
+              334,
+              145
+            ],
+            [
+              41,
+              137
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY, CHENNAI",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              535,
+              232
+            ],
+            [
+              772,
+              237
+            ],
+            [
+              772,
+              258
+            ],
+            [
+              534,
+              252
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF SCIENCE AND HUMANITIES",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              459,
+              259
+            ],
+            [
+              844,
+              265
+            ],
+            [
+              843,
+              289
+            ],
+            [
+              459,
+              283
+            ]
+          ]
+        },
+        {
+          "text": "Phone:+91-44-22358488",
+          "confidence": 0.9981,
+          "bbox": [
+            [
+              874,
+              261
+            ],
+            [
+              1015,
+              261
+            ],
+            [
+              1015,
+              281
+            ],
+            [
+              874,
+              281
+            ]
+          ]
+        },
+        {
+          "text": "PROGRUS THIOUGH EHOWLIDGE",
+          "confidence": 0.8024,
+          "bbox": [
+            [
+              297,
+              279
+            ],
+            [
+              369,
+              282
+            ],
+            [
+              368,
+              295
+            ],
+            [
+              297,
+              292
+            ]
+          ]
+        },
+        {
+          "text": "+91-44-22358654",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              916,
+              276
+            ],
+            [
+              1014,
+              278
+            ],
+            [
+              1013,
+              296
+            ],
+            [
+              916,
+              294
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI - 600 025. INDIA",
+          "confidence": 0.9895,
+          "bbox": [
+            [
+              569,
+              288
+            ],
+            [
+              737,
+              290
+            ],
+            [
+              737,
+              308
+            ],
+            [
+              569,
+              306
+            ]
+          ]
+        },
+        {
+          "text": "Prof. K. SHANTHI, Ph.D.",
+          "confidence": 0.9851,
+          "bbox": [
+            [
+              288,
+              299
+            ],
+            [
+              484,
+              305
+            ],
+            [
+              484,
+              329
+            ],
+            [
+              288,
+              323
+            ]
+          ]
+        },
+        {
+          "text": "Cell : +91-9840146642",
+          "confidence": 0.9821,
+          "bbox": [
+            [
+              878,
+              292
+            ],
+            [
+              1016,
+              292
+            ],
+            [
+              1016,
+              312
+            ],
+            [
+              878,
+              312
+            ]
+          ]
+        },
+        {
+          "text": "+91-9962520678",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              919,
+              308
+            ],
+            [
+              1014,
+              310
+            ],
+            [
+              1013,
+              328
+            ],
+            [
+              919,
+              326
+            ]
+          ]
+        },
+        {
+          "text": "Chairperson",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              290,
+              322
+            ],
+            [
+              366,
+              324
+            ],
+            [
+              365,
+              342
+            ],
+            [
+              290,
+              339
+            ]
+          ]
+        },
+        {
+          "text": "shanthiramesh@annauniv.edu",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              852,
+              327
+            ],
+            [
+              1014,
+              327
+            ],
+            [
+              1014,
+              344
+            ],
+            [
+              852,
+              344
+            ]
+          ]
+        },
+        {
+          "text": "24.05.2013",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              865,
+              419
+            ],
+            [
+              967,
+              419
+            ],
+            [
+              967,
+              446
+            ],
+            [
+              865,
+              446
+            ]
+          ]
+        },
+        {
+          "text": "To whom so ever it may concern",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              482,
+              481
+            ],
+            [
+              826,
+              486
+            ],
+            [
+              825,
+              513
+            ],
+            [
+              482,
+              508
+            ]
+          ]
+        },
+        {
+          "text": "This is to certify that Dr. O.D.Shakila. Associate Professor of",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              381,
+              590
+            ],
+            [
+              967,
+              591
+            ],
+            [
+              967,
+              615
+            ],
+            [
+              380,
+              614
+            ]
+          ]
+        },
+        {
+          "text": "Chemistry, K.L.N. College of Engineering, Pottapalayam- 630611 has",
+          "confidence": 0.9959,
+          "bbox": [
+            [
+              327,
+              633
+            ],
+            [
+              968,
+              630
+            ],
+            [
+              968,
+              656
+            ],
+            [
+              327,
+              659
+            ]
+          ]
+        },
+        {
+          "text": "attended the Anna University – 18th meeting of Board of Studies at Anna",
+          "confidence": 0.9865,
+          "bbox": [
+            [
+              324,
+              673
+            ],
+            [
+              969,
+              668
+            ],
+            [
+              969,
+              698
+            ],
+            [
+              324,
+              703
+            ]
+          ]
+        },
+        {
+          "text": "University on 24.05.2013.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              326,
+              719
+            ],
+            [
+              545,
+              714
+            ],
+            [
+              546,
+              738
+            ],
+            [
+              327,
+              744
+            ]
+          ]
+        },
+        {
+          "text": "ADlearlh",
+          "confidence": 0.4937,
+          "bbox": [
+            [
+              757,
+              774
+            ],
+            [
+              936,
+              763
+            ],
+            [
+              940,
+              830
+            ],
+            [
+              761,
+              842
+            ]
+          ]
+        },
+        {
+          "text": "24105/2013.",
+          "confidence": 0.9035,
+          "bbox": [
+            [
+              842,
+              813
+            ],
+            [
+              1003,
+              802
+            ],
+            [
+              1007,
+              850
+            ],
+            [
+              845,
+              861
+            ]
+          ]
+        },
+        {
+          "text": "(Dr.K.SHANTHI)",
+          "confidence": 0.9989,
+          "bbox": [
+            [
+              849,
+              851
+            ],
+            [
+              972,
+              851
+            ],
+            [
+              972,
+              876
+            ],
+            [
+              849,
+              876
+            ]
+          ]
+        },
+        {
+          "text": "(Chairman, Faculty of S&H)",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              758,
+              896
+            ],
+            [
+              973,
+              896
+            ],
+            [
+              973,
+              920
+            ],
+            [
+              758,
+              920
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Academic Year : 2013 - 2014\nANNA UNIVERSITY, CHENNAI\nFACULTY OF SCIENCE AND HUMANITIES\nPhone:+91-44-22358488\n+91-44-22358654\nCHENNAI - 600 025. INDIA\nCell : +91-9840146642\nProf. K. SHANTHI, Ph.D.\n+91-9962520678\nChairperson\nshanthiramesh@annauniv.edu\n29.10.2013\nTo whom so ever it may concern\nThis is to certify that Dr.J.K.SUBASHINI, Professor & Head,\nDepartment of Mathematics, K.L.N. College of Engineering, Pottapalayam-\n630611 has attended the Anna University - Syllabus Sub Committee meeting\nheld in the Department of Mathematics, Anna University on 29.10.2013.\nl Pleaullr\n1o/l3\n(Dr.K.SHANTHI)\n(Chairman, Faculty of S&H)",
+      "word_count": 85,
+      "line_count": 21,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2013 - 2014",
+          "confidence": 0.9761,
+          "bbox": [
+            [
+              37,
+              66
+            ],
+            [
+              369,
+              78
+            ],
+            [
+              368,
+              102
+            ],
+            [
+              36,
+              90
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY, CHENNAI",
+          "confidence": 0.9938,
+          "bbox": [
+            [
+              509,
+              199
+            ],
+            [
+              817,
+              202
+            ],
+            [
+              817,
+              226
+            ],
+            [
+              509,
+              223
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF SCIENCE AND HUMANITIES",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              410,
+              233
+            ],
+            [
+              916,
+              237
+            ],
+            [
+              916,
+              262
+            ],
+            [
+              410,
+              258
+            ]
+          ]
+        },
+        {
+          "text": "Phone:+91-44-22358488",
+          "confidence": 0.998,
+          "bbox": [
+            [
+              958,
+              233
+            ],
+            [
+              1146,
+              233
+            ],
+            [
+              1146,
+              252
+            ],
+            [
+              958,
+              252
+            ]
+          ]
+        },
+        {
+          "text": "+91-44-22358654",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              1017,
+              250
+            ],
+            [
+              1148,
+              250
+            ],
+            [
+              1148,
+              270
+            ],
+            [
+              1017,
+              270
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI - 600 025. INDIA",
+          "confidence": 0.9743,
+          "bbox": [
+            [
+              557,
+              260
+            ],
+            [
+              772,
+              263
+            ],
+            [
+              772,
+              281
+            ],
+            [
+              557,
+              278
+            ]
+          ]
+        },
+        {
+          "text": "Cell : +91-9840146642",
+          "confidence": 0.9611,
+          "bbox": [
+            [
+              963,
+              266
+            ],
+            [
+              1149,
+              267
+            ],
+            [
+              1148,
+              288
+            ],
+            [
+              963,
+              287
+            ]
+          ]
+        },
+        {
+          "text": "Prof. K. SHANTHI, Ph.D.",
+          "confidence": 0.9865,
+          "bbox": [
+            [
+              180,
+              283
+            ],
+            [
+              447,
+              284
+            ],
+            [
+              447,
+              308
+            ],
+            [
+              180,
+              307
+            ]
+          ]
+        },
+        {
+          "text": "+91-9962520678",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              1022,
+              285
+            ],
+            [
+              1149,
+              285
+            ],
+            [
+              1149,
+              305
+            ],
+            [
+              1022,
+              305
+            ]
+          ]
+        },
+        {
+          "text": "Chairperson",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              182,
+              306
+            ],
+            [
+              284,
+              306
+            ],
+            [
+              284,
+              326
+            ],
+            [
+              182,
+              326
+            ]
+          ]
+        },
+        {
+          "text": "shanthiramesh@annauniv.edu",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              928,
+              301
+            ],
+            [
+              1149,
+              303
+            ],
+            [
+              1148,
+              324
+            ],
+            [
+              928,
+              322
+            ]
+          ]
+        },
+        {
+          "text": "29.10.2013",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              964,
+              479
+            ],
+            [
+              1102,
+              481
+            ],
+            [
+              1102,
+              506
+            ],
+            [
+              963,
+              504
+            ]
+          ]
+        },
+        {
+          "text": "To whom so ever it may concern",
+          "confidence": 0.9959,
+          "bbox": [
+            [
+              458,
+              534
+            ],
+            [
+              906,
+              548
+            ],
+            [
+              905,
+              580
+            ],
+            [
+              457,
+              567
+            ]
+          ]
+        },
+        {
+          "text": "This is to certify that Dr.J.K.SUBASHINI, Professor & Head,",
+          "confidence": 0.9924,
+          "bbox": [
+            [
+              330,
+              650
+            ],
+            [
+              1105,
+              663
+            ],
+            [
+              1105,
+              693
+            ],
+            [
+              329,
+              680
+            ]
+          ]
+        },
+        {
+          "text": "Department of Mathematics, K.L.N. College of Engineering, Pottapalayam-",
+          "confidence": 0.9921,
+          "bbox": [
+            [
+              262,
+              697
+            ],
+            [
+              1103,
+              703
+            ],
+            [
+              1103,
+              737
+            ],
+            [
+              262,
+              731
+            ]
+          ]
+        },
+        {
+          "text": "630611 has attended the Anna University - Syllabus Sub Committee meeting",
+          "confidence": 0.9938,
+          "bbox": [
+            [
+              262,
+              741
+            ],
+            [
+              1103,
+              748
+            ],
+            [
+              1103,
+              780
+            ],
+            [
+              262,
+              774
+            ]
+          ]
+        },
+        {
+          "text": "held in the Department of Mathematics, Anna University on 29.10.2013.",
+          "confidence": 0.9944,
+          "bbox": [
+            [
+              258,
+              786
+            ],
+            [
+              1053,
+              788
+            ],
+            [
+              1053,
+              821
+            ],
+            [
+              258,
+              819
+            ]
+          ]
+        },
+        {
+          "text": "l Pleaullr",
+          "confidence": 0.6704,
+          "bbox": [
+            [
+              840,
+              868
+            ],
+            [
+              1065,
+              866
+            ],
+            [
+              1066,
+              945
+            ],
+            [
+              841,
+              948
+            ]
+          ]
+        },
+        {
+          "text": "1o/l3",
+          "confidence": 0.5955,
+          "bbox": [
+            [
+              1031,
+              911
+            ],
+            [
+              1109,
+              911
+            ],
+            [
+              1109,
+              952
+            ],
+            [
+              1031,
+              952
+            ]
+          ]
+        },
+        {
+          "text": "(Dr.K.SHANTHI)",
+          "confidence": 0.9816,
+          "bbox": [
+            [
+              922,
+              926
+            ],
+            [
+              1104,
+              926
+            ],
+            [
+              1104,
+              974
+            ],
+            [
+              922,
+              974
+            ]
+          ]
+        },
+        {
+          "text": "(Chairman, Faculty of S&H)",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              804,
+              990
+            ],
+            [
+              1090,
+              990
+            ],
+            [
+              1090,
+              1017
+            ],
+            [
+              804,
+              1017
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Academic Year : 2014 - 2015\nOf:22516020.6306\nE-Mail:chairmanice@gmail.com\nFACULTY OF INFORMATION AND COMMUNICATION\nENGINEERING\nANNA UNIVERSITY\nCHENNAI - 600 025\nDr. V. VAIDEHI\nChairperson\nProcs. No. 3485/AU/FI&C-SSC/CAC/2014\n18.08.2014\nDr. N. Balaji\nTo\nProfessor & Head\nInformation Technology,\nKLN College of Engineering,\nPottapalayam, Sivagangai Dist\nMadurai - 630 611.\nSir / Madam,\nSub: Anna University - Syllabus Sub Committee Meeting of the Faculty of Information and\nCommunication Engineering - Reg.\nRef: Vice-Chancellor's approval dated :08.06.2012\nIt is proposed to conduct the Syllabus Sub Committee Meeting of CSE and IT of the\nFaculty of Information and Communication Engineering to discuss the following items.\n1. Addition of an elective on \"Foundation Skills in Integrated Product\nDevelopment (FSIPD).\n2. Addition of books in references.\nDate and Time\n: 27.08.2014 (Wednesday) at 10.00. a.m.\nVenue\n: Academic Council Hall\nAnna University, Chennai - 25\nI request you to kindly make it convenient to attend the meeting and offer your valuable\ncontributions. A line of confirmation regarding your participation through Phone / E-mail: will be\ngreatly appreciated.\nWith kind regards,\nYours faithfully,\nLaudeh\nNOTE: TA / DA FOR MEMBERS PARTICIPATING IN THE MEETING\nMembers from Anna University, Chennai will be paid a sitting fee of Rs. 1000/- per day including\nTraveling Allowances.\nMembers from Chennai City will be paid sitting fee of Rs. 1000/- per day and Rs. 400/- as travelling\nallowance.\nMembers from outside Chennai city will be paid Traveling Allowance at the rate of\n1 & 2/3 (Both Ways) by First Class Train Fare and sitting Fee of Rs. 1,000/- per day.\nMembers from outside the Tamil Nadu State are eligible for Airfare (Economy Class) on both ways\nbesides Rs. 1200/- towards conveyance charges (to and fro Residence - Airport - University) and\nsitting fee Rs. 1000/- per day for attending the meeting.\nTravel by car is permitted upto a maximum of 200kms both ways and will be paid Rs.7/per km\nsubject to the production of official bill from the Travel Agency (with TIN Registration number).",
+      "word_count": 332,
+      "line_count": 50,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2014 - 2015",
+          "confidence": 0.9967,
+          "bbox": [
+            [
+              30,
+              55
+            ],
+            [
+              349,
+              67
+            ],
+            [
+              348,
+              89
+            ],
+            [
+              29,
+              78
+            ]
+          ]
+        },
+        {
+          "text": "Of:22516020.6306",
+          "confidence": 0.9444,
+          "bbox": [
+            [
+              835,
+              173
+            ],
+            [
+              1006,
+              171
+            ],
+            [
+              1007,
+              189
+            ],
+            [
+              836,
+              191
+            ]
+          ]
+        },
+        {
+          "text": "E-Mail:chairmanice@gmail.com",
+          "confidence": 0.9742,
+          "bbox": [
+            [
+              832,
+              190
+            ],
+            [
+              1085,
+              188
+            ],
+            [
+              1085,
+              208
+            ],
+            [
+              833,
+              210
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF INFORMATION AND COMMUNICATION",
+          "confidence": 0.9982,
+          "bbox": [
+            [
+              444,
+              210
+            ],
+            [
+              957,
+              210
+            ],
+            [
+              957,
+              230
+            ],
+            [
+              444,
+              230
+            ]
+          ]
+        },
+        {
+          "text": "ENGINEERING",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              594,
+              231
+            ],
+            [
+              739,
+              233
+            ],
+            [
+              739,
+              253
+            ],
+            [
+              594,
+              250
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              569,
+              252
+            ],
+            [
+              754,
+              252
+            ],
+            [
+              754,
+              272
+            ],
+            [
+              569,
+              272
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI - 600 025",
+          "confidence": 0.9796,
+          "bbox": [
+            [
+              590,
+              272
+            ],
+            [
+              732,
+              272
+            ],
+            [
+              732,
+              289
+            ],
+            [
+              590,
+              289
+            ]
+          ]
+        },
+        {
+          "text": "Dr. V. VAIDEHI",
+          "confidence": 0.9893,
+          "bbox": [
+            [
+              290,
+              303
+            ],
+            [
+              423,
+              305
+            ],
+            [
+              423,
+              326
+            ],
+            [
+              290,
+              324
+            ]
+          ]
+        },
+        {
+          "text": "Chairperson",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              290,
+              324
+            ],
+            [
+              404,
+              326
+            ],
+            [
+              403,
+              347
+            ],
+            [
+              290,
+              344
+            ]
+          ]
+        },
+        {
+          "text": "Procs. No. 3485/AU/FI&C-SSC/CAC/2014",
+          "confidence": 0.9915,
+          "bbox": [
+            [
+              290,
+              345
+            ],
+            [
+              646,
+              350
+            ],
+            [
+              646,
+              370
+            ],
+            [
+              290,
+              366
+            ]
+          ]
+        },
+        {
+          "text": "18.08.2014",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              948,
+              347
+            ],
+            [
+              1052,
+              351
+            ],
+            [
+              1051,
+              371
+            ],
+            [
+              947,
+              368
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N. Balaji",
+          "confidence": 0.9863,
+          "bbox": [
+            [
+              426,
+              368
+            ],
+            [
+              527,
+              371
+            ],
+            [
+              526,
+              389
+            ],
+            [
+              426,
+              386
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              287,
+              381
+            ],
+            [
+              319,
+              383
+            ],
+            [
+              316,
+              408
+            ],
+            [
+              285,
+              405
+            ]
+          ]
+        },
+        {
+          "text": "Professor & Head",
+          "confidence": 0.9879,
+          "bbox": [
+            [
+              425,
+              390
+            ],
+            [
+              573,
+              393
+            ],
+            [
+              572,
+              410
+            ],
+            [
+              425,
+              407
+            ]
+          ]
+        },
+        {
+          "text": "Information Technology,",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              424,
+              408
+            ],
+            [
+              625,
+              415
+            ],
+            [
+              625,
+              435
+            ],
+            [
+              424,
+              427
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering,",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              423,
+              429
+            ],
+            [
+              652,
+              437
+            ],
+            [
+              652,
+              457
+            ],
+            [
+              423,
+              449
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam, Sivagangai Dist",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              423,
+              451
+            ],
+            [
+              674,
+              459
+            ],
+            [
+              673,
+              479
+            ],
+            [
+              423,
+              472
+            ]
+          ]
+        },
+        {
+          "text": "Madurai - 630 611.",
+          "confidence": 0.9721,
+          "bbox": [
+            [
+              423,
+              472
+            ],
+            [
+              582,
+              478
+            ],
+            [
+              581,
+              496
+            ],
+            [
+              423,
+              490
+            ]
+          ]
+        },
+        {
+          "text": "Sir / Madam,",
+          "confidence": 0.9241,
+          "bbox": [
+            [
+              282,
+              492
+            ],
+            [
+              390,
+              494
+            ],
+            [
+              389,
+              515
+            ],
+            [
+              282,
+              513
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Anna University - Syllabus Sub Committee Meeting of the Faculty of Information and",
+          "confidence": 0.9957,
+          "bbox": [
+            [
+              310,
+              524
+            ],
+            [
+              1065,
+              534
+            ],
+            [
+              1065,
+              557
+            ],
+            [
+              310,
+              547
+            ]
+          ]
+        },
+        {
+          "text": "Communication Engineering - Reg.",
+          "confidence": 0.9842,
+          "bbox": [
+            [
+              351,
+              544
+            ],
+            [
+              660,
+              552
+            ],
+            [
+              660,
+              571
+            ],
+            [
+              350,
+              564
+            ]
+          ]
+        },
+        {
+          "text": "Ref: Vice-Chancellor's approval dated :08.06.2012",
+          "confidence": 0.9952,
+          "bbox": [
+            [
+              304,
+              569
+            ],
+            [
+              729,
+              576
+            ],
+            [
+              729,
+              597
+            ],
+            [
+              304,
+              590
+            ]
+          ]
+        },
+        {
+          "text": "It is proposed to conduct the Syllabus Sub Committee Meeting of CSE and IT of the",
+          "confidence": 0.9946,
+          "bbox": [
+            [
+              337,
+              638
+            ],
+            [
+              1096,
+              654
+            ],
+            [
+              1096,
+              677
+            ],
+            [
+              336,
+              662
+            ]
+          ]
+        },
+        {
+          "text": "Faculty of Information and Communication Engineering to discuss the following items.",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              268,
+              667
+            ],
+            [
+              985,
+              680
+            ],
+            [
+              984,
+              704
+            ],
+            [
+              268,
+              691
+            ]
+          ]
+        },
+        {
+          "text": "1. Addition of an elective on \"Foundation Skills in Integrated Product",
+          "confidence": 0.9951,
+          "bbox": [
+            [
+              411,
+              699
+            ],
+            [
+              994,
+              711
+            ],
+            [
+              993,
+              731
+            ],
+            [
+              411,
+              719
+            ]
+          ]
+        },
+        {
+          "text": "Development (FSIPD).",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              442,
+              719
+            ],
+            [
+              632,
+              724
+            ],
+            [
+              632,
+              745
+            ],
+            [
+              442,
+              739
+            ]
+          ]
+        },
+        {
+          "text": "2. Addition of books in references.",
+          "confidence": 0.9961,
+          "bbox": [
+            [
+              406,
+              737
+            ],
+            [
+              706,
+              745
+            ],
+            [
+              705,
+              765
+            ],
+            [
+              405,
+              758
+            ]
+          ]
+        },
+        {
+          "text": "Date and Time",
+          "confidence": 0.9684,
+          "bbox": [
+            [
+              318,
+              774
+            ],
+            [
+              447,
+              776
+            ],
+            [
+              447,
+              797
+            ],
+            [
+              318,
+              795
+            ]
+          ]
+        },
+        {
+          "text": ": 27.08.2014 (Wednesday) at 10.00. a.m.",
+          "confidence": 0.9826,
+          "bbox": [
+            [
+              515,
+              777
+            ],
+            [
+              870,
+              783
+            ],
+            [
+              869,
+              804
+            ],
+            [
+              514,
+              798
+            ]
+          ]
+        },
+        {
+          "text": "Venue",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              319,
+              793
+            ],
+            [
+              381,
+              795
+            ],
+            [
+              380,
+              817
+            ],
+            [
+              318,
+              815
+            ]
+          ]
+        },
+        {
+          "text": ": Academic Council Hall",
+          "confidence": 0.9897,
+          "bbox": [
+            [
+              516,
+              798
+            ],
+            [
+              735,
+              801
+            ],
+            [
+              735,
+              821
+            ],
+            [
+              515,
+              818
+            ]
+          ]
+        },
+        {
+          "text": "Anna University, Chennai - 25",
+          "confidence": 0.9956,
+          "bbox": [
+            [
+              523,
+              818
+            ],
+            [
+              779,
+              822
+            ],
+            [
+              779,
+              843
+            ],
+            [
+              522,
+              838
+            ]
+          ]
+        },
+        {
+          "text": "I request you to kindly make it convenient to attend the meeting and offer your valuable",
+          "confidence": 0.9963,
+          "bbox": [
+            [
+              308,
+              859
+            ],
+            [
+              1089,
+              873
+            ],
+            [
+              1089,
+              896
+            ],
+            [
+              308,
+              882
+            ]
+          ]
+        },
+        {
+          "text": "contributions. A line of confirmation regarding your participation through Phone / E-mail: will be",
+          "confidence": 0.9904,
+          "bbox": [
+            [
+              245,
+              877
+            ],
+            [
+              1089,
+              893
+            ],
+            [
+              1089,
+              916
+            ],
+            [
+              244,
+              900
+            ]
+          ]
+        },
+        {
+          "text": "greatly appreciated.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              242,
+              899
+            ],
+            [
+              418,
+              901
+            ],
+            [
+              418,
+              922
+            ],
+            [
+              241,
+              920
+            ]
+          ]
+        },
+        {
+          "text": "With kind regards,",
+          "confidence": 0.9931,
+          "bbox": [
+            [
+              302,
+              938
+            ],
+            [
+              464,
+              942
+            ],
+            [
+              464,
+              964
+            ],
+            [
+              302,
+              961
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9546,
+          "bbox": [
+            [
+              961,
+              969
+            ],
+            [
+              1085,
+              971
+            ],
+            [
+              1085,
+              998
+            ],
+            [
+              960,
+              996
+            ]
+          ]
+        },
+        {
+          "text": "Laudeh",
+          "confidence": 0.8014,
+          "bbox": [
+            [
+              933,
+              999
+            ],
+            [
+              1089,
+              997
+            ],
+            [
+              1089,
+              1046
+            ],
+            [
+              934,
+              1049
+            ]
+          ]
+        },
+        {
+          "text": "NOTE: TA / DA FOR MEMBERS PARTICIPATING IN THE MEETING",
+          "confidence": 0.9882,
+          "bbox": [
+            [
+              221,
+              1055
+            ],
+            [
+              842,
+              1065
+            ],
+            [
+              841,
+              1086
+            ],
+            [
+              220,
+              1076
+            ]
+          ]
+        },
+        {
+          "text": "Members from Anna University, Chennai will be paid a sitting fee of Rs. 1000/- per day including",
+          "confidence": 0.9843,
+          "bbox": [
+            [
+              260,
+              1075
+            ],
+            [
+              1058,
+              1090
+            ],
+            [
+              1058,
+              1114
+            ],
+            [
+              260,
+              1099
+            ]
+          ]
+        },
+        {
+          "text": "Traveling Allowances.",
+          "confidence": 0.9981,
+          "bbox": [
+            [
+              261,
+              1099
+            ],
+            [
+              441,
+              1101
+            ],
+            [
+              441,
+              1119
+            ],
+            [
+              261,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "Members from Chennai City will be paid sitting fee of Rs. 1000/- per day and Rs. 400/- as travelling",
+          "confidence": 0.994,
+          "bbox": [
+            [
+              257,
+              1115
+            ],
+            [
+              1057,
+              1128
+            ],
+            [
+              1057,
+              1151
+            ],
+            [
+              257,
+              1137
+            ]
+          ]
+        },
+        {
+          "text": "allowance.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              259,
+              1138
+            ],
+            [
+              346,
+              1138
+            ],
+            [
+              346,
+              1156
+            ],
+            [
+              259,
+              1156
+            ]
+          ]
+        },
+        {
+          "text": "Members from outside Chennai city will be paid Traveling Allowance at the rate of",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              254,
+              1153
+            ],
+            [
+              1057,
+              1163
+            ],
+            [
+              1057,
+              1187
+            ],
+            [
+              254,
+              1177
+            ]
+          ]
+        },
+        {
+          "text": "1 & 2/3 (Both Ways) by First Class Train Fare and sitting Fee of Rs. 1,000/- per day.",
+          "confidence": 0.9953,
+          "bbox": [
+            [
+              253,
+              1172
+            ],
+            [
+              931,
+              1181
+            ],
+            [
+              931,
+              1204
+            ],
+            [
+              253,
+              1195
+            ]
+          ]
+        },
+        {
+          "text": "Members from outside the Tamil Nadu State are eligible for Airfare (Economy Class) on both ways",
+          "confidence": 0.9883,
+          "bbox": [
+            [
+              251,
+              1191
+            ],
+            [
+              1054,
+              1204
+            ],
+            [
+              1054,
+              1227
+            ],
+            [
+              251,
+              1214
+            ]
+          ]
+        },
+        {
+          "text": "besides Rs. 1200/- towards conveyance charges (to and fro Residence - Airport - University) and",
+          "confidence": 0.979,
+          "bbox": [
+            [
+              250,
+              1210
+            ],
+            [
+              1053,
+              1222
+            ],
+            [
+              1053,
+              1246
+            ],
+            [
+              249,
+              1233
+            ]
+          ]
+        },
+        {
+          "text": "sitting fee Rs. 1000/- per day for attending the meeting.",
+          "confidence": 0.9947,
+          "bbox": [
+            [
+              249,
+              1230
+            ],
+            [
+              698,
+              1235
+            ],
+            [
+              697,
+              1258
+            ],
+            [
+              249,
+              1254
+            ]
+          ]
+        },
+        {
+          "text": "Travel by car is permitted upto a maximum of 200kms both ways and will be paid Rs.7/per km",
+          "confidence": 0.9869,
+          "bbox": [
+            [
+              246,
+              1247
+            ],
+            [
+              1052,
+              1258
+            ],
+            [
+              1052,
+              1285
+            ],
+            [
+              245,
+              1274
+            ]
+          ]
+        },
+        {
+          "text": "subject to the production of official bill from the Travel Agency (with TIN Registration number).",
+          "confidence": 0.9874,
+          "bbox": [
+            [
+              245,
+              1266
+            ],
+            [
+              1003,
+              1275
+            ],
+            [
+              1002,
+              1302
+            ],
+            [
+              244,
+              1293
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Academic Year : 2015 - 2016\nANNA UNIVERSITY\nCHENNAI - 600 025. INDIA\nPhone : +91 - 44 - 2235 2161\n+91 - 44 - 2235 7003\nREGISTRAR\nFax:+91 -44- 2235 1956\n1\nGram : ANNATECH\nE-mail : registrar@annauniv.edu\nProcs. No. 666/AUC/CAC/2016\nDated: 11.02.2016\nTo\nDr. Jothimurugan T\n7\nDirector,Department of MBA\nKLN college of Engineering\nPottapalayam,\nsivagangai district - 630 612.\nSir / Madam,\nSub: Anna University, Chennai - Affiliated Institutions - Board of Studies of the\nFaculty of Management Sciences - Constitution - Appointment of members\n- Information - Reg.\nRef: Vice-Chancellor's approval dated 28.09.2015.\nI am pleased to inform you that the Vice - Chancellor has appointed you as a Member of\nthe Board of Studies of the Affiliated Institutions under the Faculty of Management Sciences of\nAnna University, Chennai.\nA copy of the Syndicate Resolution indicating the powers and functions of the Board is\nalso enclosed for your reference.\nThe Membership is honorary and it is for a tenure of three years upto February 2019.\nI am to request you to kindly accept the offer and send your acceptance letter on or\nbefore 04.03.2016, either by post or by E-mail (dac@annauniv.edu).\nWith kind regards,\nYours faithfully\nfor REGISTRAR\nEncl: As above",
+      "word_count": 205,
+      "line_count": 36,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2015 - 2016",
+          "confidence": 0.9758,
+          "bbox": [
+            [
+              0,
+              51
+            ],
+            [
+              330,
+              59
+            ],
+            [
+              330,
+              81
+            ],
+            [
+              0,
+              74
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY",
+          "confidence": 0.9979,
+          "bbox": [
+            [
+              416,
+              176
+            ],
+            [
+              905,
+              181
+            ],
+            [
+              905,
+              218
+            ],
+            [
+              416,
+              213
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI - 600 025. INDIA",
+          "confidence": 0.9537,
+          "bbox": [
+            [
+              470,
+              220
+            ],
+            [
+              847,
+              223
+            ],
+            [
+              846,
+              246
+            ],
+            [
+              470,
+              242
+            ]
+          ]
+        },
+        {
+          "text": "Phone : +91 - 44 - 2235 2161",
+          "confidence": 0.9483,
+          "bbox": [
+            [
+              888,
+              242
+            ],
+            [
+              1163,
+              247
+            ],
+            [
+              1162,
+              267
+            ],
+            [
+              888,
+              263
+            ]
+          ]
+        },
+        {
+          "text": "+91 - 44 - 2235 7003",
+          "confidence": 0.9434,
+          "bbox": [
+            [
+              979,
+              264
+            ],
+            [
+              1163,
+              266
+            ],
+            [
+              1162,
+              286
+            ],
+            [
+              978,
+              284
+            ]
+          ]
+        },
+        {
+          "text": "REGISTRAR",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              111,
+              283
+            ],
+            [
+              268,
+              288
+            ],
+            [
+              267,
+              309
+            ],
+            [
+              110,
+              304
+            ]
+          ]
+        },
+        {
+          "text": "Fax:+91 -44- 2235 1956",
+          "confidence": 0.9349,
+          "bbox": [
+            [
+              886,
+              282
+            ],
+            [
+              1165,
+              286
+            ],
+            [
+              1164,
+              306
+            ],
+            [
+              886,
+              302
+            ]
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 0.9194,
+          "bbox": [
+            [
+              49,
+              295
+            ],
+            [
+              59,
+              295
+            ],
+            [
+              59,
+              306
+            ],
+            [
+              49,
+              306
+            ]
+          ]
+        },
+        {
+          "text": "Gram : ANNATECH",
+          "confidence": 0.96,
+          "bbox": [
+            [
+              887,
+              303
+            ],
+            [
+              1093,
+              305
+            ],
+            [
+              1093,
+              325
+            ],
+            [
+              887,
+              323
+            ]
+          ]
+        },
+        {
+          "text": "E-mail : registrar@annauniv.edu",
+          "confidence": 0.9715,
+          "bbox": [
+            [
+              887,
+              321
+            ],
+            [
+              1207,
+              325
+            ],
+            [
+              1207,
+              346
+            ],
+            [
+              887,
+              341
+            ]
+          ]
+        },
+        {
+          "text": "Procs. No. 666/AUC/CAC/2016",
+          "confidence": 0.9698,
+          "bbox": [
+            [
+              177,
+              384
+            ],
+            [
+              492,
+              387
+            ],
+            [
+              492,
+              407
+            ],
+            [
+              177,
+              404
+            ]
+          ]
+        },
+        {
+          "text": "Dated: 11.02.2016",
+          "confidence": 0.9864,
+          "bbox": [
+            [
+              919,
+              392
+            ],
+            [
+              1106,
+              395
+            ],
+            [
+              1106,
+              416
+            ],
+            [
+              919,
+              413
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              173,
+              422
+            ],
+            [
+              206,
+              422
+            ],
+            [
+              206,
+              446
+            ],
+            [
+              173,
+              446
+            ]
+          ]
+        },
+        {
+          "text": "Dr. Jothimurugan T",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              199,
+              450
+            ],
+            [
+              375,
+              454
+            ],
+            [
+              374,
+              474
+            ],
+            [
+              198,
+              471
+            ]
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              449,
+              456
+            ],
+            [
+              467,
+              456
+            ],
+            [
+              467,
+              477
+            ],
+            [
+              449,
+              477
+            ]
+          ]
+        },
+        {
+          "text": "Director,Department of MBA",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              196,
+              471
+            ],
+            [
+              450,
+              474
+            ],
+            [
+              450,
+              495
+            ],
+            [
+              196,
+              492
+            ]
+          ]
+        },
+        {
+          "text": "KLN college of Engineering",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              196,
+              490
+            ],
+            [
+              440,
+              494
+            ],
+            [
+              440,
+              515
+            ],
+            [
+              195,
+              511
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam,",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              194,
+              509
+            ],
+            [
+              325,
+              512
+            ],
+            [
+              325,
+              533
+            ],
+            [
+              193,
+              529
+            ]
+          ]
+        },
+        {
+          "text": "sivagangai district - 630 612.",
+          "confidence": 0.9963,
+          "bbox": [
+            [
+              191,
+              529
+            ],
+            [
+              447,
+              532
+            ],
+            [
+              447,
+              553
+            ],
+            [
+              191,
+              549
+            ]
+          ]
+        },
+        {
+          "text": "Sir / Madam,",
+          "confidence": 0.9807,
+          "bbox": [
+            [
+              160,
+              628
+            ],
+            [
+              292,
+              630
+            ],
+            [
+              292,
+              654
+            ],
+            [
+              160,
+              651
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Anna University, Chennai - Affiliated Institutions - Board of Studies of the",
+          "confidence": 0.9829,
+          "bbox": [
+            [
+              251,
+              666
+            ],
+            [
+              1097,
+              679
+            ],
+            [
+              1097,
+              709
+            ],
+            [
+              250,
+              696
+            ]
+          ]
+        },
+        {
+          "text": "Faculty of Management Sciences - Constitution - Appointment of members",
+          "confidence": 0.9719,
+          "bbox": [
+            [
+              324,
+              690
+            ],
+            [
+              1097,
+              701
+            ],
+            [
+              1097,
+              728
+            ],
+            [
+              324,
+              717
+            ]
+          ]
+        },
+        {
+          "text": "- Information - Reg.",
+          "confidence": 0.9739,
+          "bbox": [
+            [
+              307,
+              715
+            ],
+            [
+              511,
+              716
+            ],
+            [
+              511,
+              737
+            ],
+            [
+              307,
+              736
+            ]
+          ]
+        },
+        {
+          "text": "Ref: Vice-Chancellor's approval dated 28.09.2015.",
+          "confidence": 0.9898,
+          "bbox": [
+            [
+              249,
+              740
+            ],
+            [
+              762,
+              746
+            ],
+            [
+              762,
+              768
+            ],
+            [
+              249,
+              763
+            ]
+          ]
+        },
+        {
+          "text": "I am pleased to inform you that the Vice - Chancellor has appointed you as a Member of",
+          "confidence": 0.9905,
+          "bbox": [
+            [
+              229,
+              803
+            ],
+            [
+              1096,
+              812
+            ],
+            [
+              1096,
+              836
+            ],
+            [
+              228,
+              827
+            ]
+          ]
+        },
+        {
+          "text": "the Board of Studies of the Affiliated Institutions under the Faculty of Management Sciences of",
+          "confidence": 0.9975,
+          "bbox": [
+            [
+              154,
+              827
+            ],
+            [
+              1095,
+              837
+            ],
+            [
+              1095,
+              860
+            ],
+            [
+              154,
+              850
+            ]
+          ]
+        },
+        {
+          "text": "Anna University, Chennai.",
+          "confidence": 0.9854,
+          "bbox": [
+            [
+              154,
+              853
+            ],
+            [
+              417,
+              855
+            ],
+            [
+              417,
+              876
+            ],
+            [
+              154,
+              874
+            ]
+          ]
+        },
+        {
+          "text": "A copy of the Syndicate Resolution indicating the powers and functions of the Board is",
+          "confidence": 0.9931,
+          "bbox": [
+            [
+              228,
+              900
+            ],
+            [
+              1092,
+              907
+            ],
+            [
+              1092,
+              931
+            ],
+            [
+              227,
+              924
+            ]
+          ]
+        },
+        {
+          "text": "also enclosed for your reference.",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              155,
+              925
+            ],
+            [
+              483,
+              928
+            ],
+            [
+              483,
+              947
+            ],
+            [
+              155,
+              944
+            ]
+          ]
+        },
+        {
+          "text": "The Membership is honorary and it is for a tenure of three years upto February 2019.",
+          "confidence": 0.9938,
+          "bbox": [
+            [
+              228,
+              973
+            ],
+            [
+              1051,
+              979
+            ],
+            [
+              1051,
+              1003
+            ],
+            [
+              227,
+              997
+            ]
+          ]
+        },
+        {
+          "text": "I am to request you to kindly accept the offer and send your acceptance letter on or",
+          "confidence": 0.9908,
+          "bbox": [
+            [
+              227,
+              1022
+            ],
+            [
+              1089,
+              1030
+            ],
+            [
+              1089,
+              1053
+            ],
+            [
+              226,
+              1045
+            ]
+          ]
+        },
+        {
+          "text": "before 04.03.2016, either by post or by E-mail (dac@annauniv.edu).",
+          "confidence": 0.9843,
+          "bbox": [
+            [
+              156,
+              1044
+            ],
+            [
+              818,
+              1051
+            ],
+            [
+              818,
+              1074
+            ],
+            [
+              156,
+              1067
+            ]
+          ]
+        },
+        {
+          "text": "With kind regards,",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              157,
+              1092
+            ],
+            [
+              338,
+              1096
+            ],
+            [
+              338,
+              1120
+            ],
+            [
+              157,
+              1116
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully",
+          "confidence": 0.9727,
+          "bbox": [
+            [
+              898,
+              1116
+            ],
+            [
+              1043,
+              1121
+            ],
+            [
+              1042,
+              1145
+            ],
+            [
+              898,
+              1140
+            ]
+          ]
+        },
+        {
+          "text": "for REGISTRAR",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              897,
+              1199
+            ],
+            [
+              1061,
+              1201
+            ],
+            [
+              1061,
+              1222
+            ],
+            [
+              897,
+              1220
+            ]
+          ]
+        },
+        {
+          "text": "Encl: As above",
+          "confidence": 0.996,
+          "bbox": [
+            [
+              164,
+              1224
+            ],
+            [
+              321,
+              1228
+            ],
+            [
+              321,
+              1249
+            ],
+            [
+              164,
+              1245
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Academic Year : 2016-2017\nFATIMA COLLEGE (Autonomous)\nMary Land, Madurai-18.\n(College with Potential for Excellence)\nPHONE: 2668016,\n2669015.\nUG Department of Computer Applications\nFAX: 0452-2668437\nDate: 31.03.2017.\nTo\nDr. N. Balaji,\nProfessor & Head,\nDept. of Information Technology,\nKLN College of Engineering,\nPottapalayam,\nSivagangai.\nDear Sir,\nWe are pleased to inform that you have been appointed as the Subject Expert in our\nBoard of Studies for the course B.C.A. With regard to this we have planned to convene the\nmeeting on 5th April, 2017 at 10.00 a.m. in the Department of Computer Applications(BCA).\nLooking forward for your favorable reply.\nThanking You,\nYours truly,\n(P.Nancy Vincentina Mary)\nHead of the Department",
+      "word_count": 110,
+      "line_count": 25,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2016-2017",
+          "confidence": 0.9978,
+          "bbox": [
+            [
+              11,
+              68
+            ],
+            [
+              318,
+              74
+            ],
+            [
+              318,
+              99
+            ],
+            [
+              11,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "FATIMA COLLEGE (Autonomous)",
+          "confidence": 0.9976,
+          "bbox": [
+            [
+              212,
+              312
+            ],
+            [
+              533,
+              317
+            ],
+            [
+              532,
+              338
+            ],
+            [
+              211,
+              333
+            ]
+          ]
+        },
+        {
+          "text": "Mary Land, Madurai-18.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              780,
+              317
+            ],
+            [
+              1006,
+              321
+            ],
+            [
+              1005,
+              342
+            ],
+            [
+              780,
+              337
+            ]
+          ]
+        },
+        {
+          "text": "(College with Potential for Excellence)",
+          "confidence": 0.9984,
+          "bbox": [
+            [
+              211,
+              333
+            ],
+            [
+              540,
+              337
+            ],
+            [
+              539,
+              357
+            ],
+            [
+              210,
+              353
+            ]
+          ]
+        },
+        {
+          "text": "PHONE: 2668016,",
+          "confidence": 0.964,
+          "bbox": [
+            [
+              780,
+              335
+            ],
+            [
+              947,
+              340
+            ],
+            [
+              947,
+              361
+            ],
+            [
+              780,
+              356
+            ]
+          ]
+        },
+        {
+          "text": "2669015.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              861,
+              355
+            ],
+            [
+              946,
+              358
+            ],
+            [
+              946,
+              379
+            ],
+            [
+              860,
+              377
+            ]
+          ]
+        },
+        {
+          "text": "UG Department of Computer Applications",
+          "confidence": 0.9881,
+          "bbox": [
+            [
+              208,
+              369
+            ],
+            [
+              595,
+              375
+            ],
+            [
+              595,
+              398
+            ],
+            [
+              207,
+              392
+            ]
+          ]
+        },
+        {
+          "text": "FAX: 0452-2668437",
+          "confidence": 0.9971,
+          "bbox": [
+            [
+              778,
+              373
+            ],
+            [
+              960,
+              377
+            ],
+            [
+              960,
+              401
+            ],
+            [
+              778,
+              397
+            ]
+          ]
+        },
+        {
+          "text": "Date: 31.03.2017.",
+          "confidence": 0.9767,
+          "bbox": [
+            [
+              803,
+              428
+            ],
+            [
+              974,
+              431
+            ],
+            [
+              973,
+              455
+            ],
+            [
+              802,
+              451
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              196,
+              552
+            ],
+            [
+              235,
+              552
+            ],
+            [
+              235,
+              580
+            ],
+            [
+              196,
+              580
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N. Balaji,",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              257,
+              596
+            ],
+            [
+              382,
+              598
+            ],
+            [
+              381,
+              623
+            ],
+            [
+              257,
+              621
+            ]
+          ]
+        },
+        {
+          "text": "Professor & Head,",
+          "confidence": 0.9971,
+          "bbox": [
+            [
+              256,
+              619
+            ],
+            [
+              425,
+              621
+            ],
+            [
+              425,
+              645
+            ],
+            [
+              256,
+              642
+            ]
+          ]
+        },
+        {
+          "text": "Dept. of Information Technology,",
+          "confidence": 0.9888,
+          "bbox": [
+            [
+              256,
+              642
+            ],
+            [
+              559,
+              646
+            ],
+            [
+              558,
+              669
+            ],
+            [
+              256,
+              666
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering,",
+          "confidence": 0.9809,
+          "bbox": [
+            [
+              255,
+              663
+            ],
+            [
+              521,
+              667
+            ],
+            [
+              520,
+              691
+            ],
+            [
+              255,
+              687
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam,",
+          "confidence": 0.9793,
+          "bbox": [
+            [
+              253,
+              687
+            ],
+            [
+              382,
+              687
+            ],
+            [
+              382,
+              711
+            ],
+            [
+              253,
+              711
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              254,
+              710
+            ],
+            [
+              361,
+              710
+            ],
+            [
+              361,
+              735
+            ],
+            [
+              254,
+              735
+            ]
+          ]
+        },
+        {
+          "text": "Dear Sir,",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              193,
+              753
+            ],
+            [
+              282,
+              753
+            ],
+            [
+              282,
+              781
+            ],
+            [
+              193,
+              781
+            ]
+          ]
+        },
+        {
+          "text": "We are pleased to inform that you have been appointed as the Subject Expert in our",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              260,
+              819
+            ],
+            [
+              1062,
+              828
+            ],
+            [
+              1062,
+              854
+            ],
+            [
+              260,
+              845
+            ]
+          ]
+        },
+        {
+          "text": "Board of Studies for the course B.C.A. With regard to this we have planned to convene the",
+          "confidence": 0.9959,
+          "bbox": [
+            [
+              192,
+              851
+            ],
+            [
+              1060,
+              860
+            ],
+            [
+              1060,
+              887
+            ],
+            [
+              192,
+              878
+            ]
+          ]
+        },
+        {
+          "text": "meeting on 5th April, 2017 at 10.00 a.m. in the Department of Computer Applications(BCA).",
+          "confidence": 0.9764,
+          "bbox": [
+            [
+              192,
+              885
+            ],
+            [
+              1027,
+              893
+            ],
+            [
+              1027,
+              920
+            ],
+            [
+              192,
+              912
+            ]
+          ]
+        },
+        {
+          "text": "Looking forward for your favorable reply.",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              255,
+              920
+            ],
+            [
+              627,
+              925
+            ],
+            [
+              627,
+              949
+            ],
+            [
+              255,
+              943
+            ]
+          ]
+        },
+        {
+          "text": "Thanking You,",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              548,
+              989
+            ],
+            [
+              685,
+              991
+            ],
+            [
+              684,
+              1019
+            ],
+            [
+              547,
+              1017
+            ]
+          ]
+        },
+        {
+          "text": "Yours truly,",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              783,
+              1089
+            ],
+            [
+              898,
+              1091
+            ],
+            [
+              897,
+              1119
+            ],
+            [
+              782,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "(P.Nancy Vincentina Mary)",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              746,
+              1124
+            ],
+            [
+              1001,
+              1127
+            ],
+            [
+              1000,
+              1150
+            ],
+            [
+              746,
+              1147
+            ]
+          ]
+        },
+        {
+          "text": "Head of the Department",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              756,
+              1155
+            ],
+            [
+              979,
+              1159
+            ],
+            [
+              978,
+              1182
+            ],
+            [
+              756,
+              1178
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Academic Year : 2016-2017\nDr. Sr. K. Fatima Mary, M.A., Ph.D., D. Litt., HDSE. PGDVE\nPrincipal\nFATIMA COLLEGE (Autonomous)\nRe - Accredited with 'A' Grade by NAAC)\n(College with Potential for Excellence)\nMary Land, Madurai-18.\nPHONE:2668016,2669015\nFAX :0452-2668437\nEmail : fatimacollegemdu@gmail.com\nDate : 28.03.2017\nNo. 25/P/2016-2017\nDr. N.Balaji\nProfessor & Head\nDepartment of IT\nKLN College of Engineering\nPottapalayam\nSivagangai Dist.\nSir/Madam,\nSub: Fatima College (Autonomous), Madurai - Board of Studies\nMeeting - Reg.\n*****\nDepartment of M.C.A. is happy to have you as the Board member and we are\nsure that your interactions and contributions would help us to sustain and enhance\nthe quality of education given in Fatima College.\nThe meeting of the Board of Studies in M.C.A. will be held on 04.04.2017 at\n3.00 P.M. Please make it convenient to be present for the meeting.\nThank you.\nYours sincerely,\n91.  M\n(Dr. Sr. K.Fatima Mary)\nPRINCIPAL\nFATIMA COLLEGE (AUTONOMOUS)\nMADURAI-625018",
+      "word_count": 153,
+      "line_count": 34,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2016-2017",
+          "confidence": 0.9974,
+          "bbox": [
+            [
+              39,
+              47
+            ],
+            [
+              345,
+              62
+            ],
+            [
+              343,
+              85
+            ],
+            [
+              38,
+              71
+            ]
+          ]
+        },
+        {
+          "text": "Dr. Sr. K. Fatima Mary, M.A., Ph.D., D. Litt., HDSE. PGDVE",
+          "confidence": 0.9903,
+          "bbox": [
+            [
+              170,
+              274
+            ],
+            [
+              640,
+              286
+            ],
+            [
+              640,
+              310
+            ],
+            [
+              169,
+              298
+            ]
+          ]
+        },
+        {
+          "text": "Principal",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              169,
+              296
+            ],
+            [
+              263,
+              299
+            ],
+            [
+              262,
+              325
+            ],
+            [
+              168,
+              321
+            ]
+          ]
+        },
+        {
+          "text": "FATIMA COLLEGE (Autonomous)",
+          "confidence": 0.9909,
+          "bbox": [
+            [
+              785,
+              287
+            ],
+            [
+              1051,
+              292
+            ],
+            [
+              1051,
+              312
+            ],
+            [
+              785,
+              307
+            ]
+          ]
+        },
+        {
+          "text": "Re - Accredited with 'A' Grade by NAAC)",
+          "confidence": 0.9784,
+          "bbox": [
+            [
+              784,
+              308
+            ],
+            [
+              1098,
+              310
+            ],
+            [
+              1098,
+              331
+            ],
+            [
+              784,
+              329
+            ]
+          ]
+        },
+        {
+          "text": "(College with Potential for Excellence)",
+          "confidence": 0.9912,
+          "bbox": [
+            [
+              785,
+              325
+            ],
+            [
+              1075,
+              330
+            ],
+            [
+              1075,
+              350
+            ],
+            [
+              785,
+              344
+            ]
+          ]
+        },
+        {
+          "text": "Mary Land, Madurai-18.",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              785,
+              342
+            ],
+            [
+              973,
+              345
+            ],
+            [
+              973,
+              364
+            ],
+            [
+              785,
+              362
+            ]
+          ]
+        },
+        {
+          "text": "PHONE:2668016,2669015",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              784,
+              360
+            ],
+            [
+              1009,
+              364
+            ],
+            [
+              1008,
+              384
+            ],
+            [
+              784,
+              380
+            ]
+          ]
+        },
+        {
+          "text": "FAX :0452-2668437",
+          "confidence": 0.9818,
+          "bbox": [
+            [
+              785,
+              378
+            ],
+            [
+              981,
+              383
+            ],
+            [
+              980,
+              404
+            ],
+            [
+              784,
+              399
+            ]
+          ]
+        },
+        {
+          "text": "Email : fatimacollegemdu@gmail.com",
+          "confidence": 0.9914,
+          "bbox": [
+            [
+              784,
+              398
+            ],
+            [
+              1101,
+              406
+            ],
+            [
+              1101,
+              429
+            ],
+            [
+              783,
+              421
+            ]
+          ]
+        },
+        {
+          "text": "Date : 28.03.2017",
+          "confidence": 0.9506,
+          "bbox": [
+            [
+              784,
+              430
+            ],
+            [
+              1000,
+              435
+            ],
+            [
+              999,
+              459
+            ],
+            [
+              784,
+              454
+            ]
+          ]
+        },
+        {
+          "text": "No. 25/P/2016-2017",
+          "confidence": 0.9836,
+          "bbox": [
+            [
+              239,
+              473
+            ],
+            [
+              441,
+              475
+            ],
+            [
+              441,
+              499
+            ],
+            [
+              238,
+              497
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N.Balaji",
+          "confidence": 0.9728,
+          "bbox": [
+            [
+              239,
+              529
+            ],
+            [
+              357,
+              529
+            ],
+            [
+              357,
+              553
+            ],
+            [
+              239,
+              553
+            ]
+          ]
+        },
+        {
+          "text": "Professor & Head",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              239,
+              551
+            ],
+            [
+              419,
+              553
+            ],
+            [
+              419,
+              577
+            ],
+            [
+              238,
+              575
+            ]
+          ]
+        },
+        {
+          "text": "Department of IT",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              242,
+              580
+            ],
+            [
+              415,
+              580
+            ],
+            [
+              415,
+              601
+            ],
+            [
+              242,
+              601
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              239,
+              601
+            ],
+            [
+              522,
+              604
+            ],
+            [
+              521,
+              631
+            ],
+            [
+              238,
+              628
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              241,
+              629
+            ],
+            [
+              380,
+              629
+            ],
+            [
+              380,
+              652
+            ],
+            [
+              241,
+              652
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai Dist.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              241,
+              654
+            ],
+            [
+              402,
+              654
+            ],
+            [
+              402,
+              678
+            ],
+            [
+              241,
+              678
+            ]
+          ]
+        },
+        {
+          "text": "Sir/Madam,",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              240,
+              725
+            ],
+            [
+              362,
+              727
+            ],
+            [
+              361,
+              755
+            ],
+            [
+              239,
+              752
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Fatima College (Autonomous), Madurai - Board of Studies",
+          "confidence": 0.9877,
+          "bbox": [
+            [
+              367,
+              796
+            ],
+            [
+              1017,
+              805
+            ],
+            [
+              1016,
+              829
+            ],
+            [
+              366,
+              820
+            ]
+          ]
+        },
+        {
+          "text": "Meeting - Reg.",
+          "confidence": 0.9803,
+          "bbox": [
+            [
+              433,
+              821
+            ],
+            [
+              586,
+              824
+            ],
+            [
+              585,
+              851
+            ],
+            [
+              433,
+              847
+            ]
+          ]
+        },
+        {
+          "text": "*****",
+          "confidence": 0.8201,
+          "bbox": [
+            [
+              619,
+              869
+            ],
+            [
+              675,
+              869
+            ],
+            [
+              675,
+              890
+            ],
+            [
+              619,
+              890
+            ]
+          ]
+        },
+        {
+          "text": "Department of M.C.A. is happy to have you as the Board member and we are",
+          "confidence": 0.9936,
+          "bbox": [
+            [
+              301,
+              891
+            ],
+            [
+              1067,
+              899
+            ],
+            [
+              1067,
+              926
+            ],
+            [
+              301,
+              918
+            ]
+          ]
+        },
+        {
+          "text": "sure that your interactions and contributions would help us to sustain and enhance",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              234,
+              926
+            ],
+            [
+              1066,
+              935
+            ],
+            [
+              1066,
+              961
+            ],
+            [
+              233,
+              952
+            ]
+          ]
+        },
+        {
+          "text": "the quality of education given in Fatima College.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              234,
+              964
+            ],
+            [
+              704,
+              968
+            ],
+            [
+              703,
+              995
+            ],
+            [
+              233,
+              991
+            ]
+          ]
+        },
+        {
+          "text": "The meeting of the Board of Studies in M.C.A. will be held on 04.04.2017 at",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              295,
+              1025
+            ],
+            [
+              1064,
+              1034
+            ],
+            [
+              1064,
+              1060
+            ],
+            [
+              295,
+              1051
+            ]
+          ]
+        },
+        {
+          "text": "3.00 P.M. Please make it convenient to be present for the meeting.",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              228,
+              1060
+            ],
+            [
+              872,
+              1068
+            ],
+            [
+              871,
+              1095
+            ],
+            [
+              227,
+              1087
+            ]
+          ]
+        },
+        {
+          "text": "Thank you.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              355,
+              1123
+            ],
+            [
+              474,
+              1123
+            ],
+            [
+              474,
+              1153
+            ],
+            [
+              355,
+              1153
+            ]
+          ]
+        },
+        {
+          "text": "Yours sincerely,",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              790,
+              1182
+            ],
+            [
+              956,
+              1185
+            ],
+            [
+              956,
+              1212
+            ],
+            [
+              789,
+              1209
+            ]
+          ]
+        },
+        {
+          "text": "91.  M",
+          "confidence": 0.6268,
+          "bbox": [
+            [
+              704,
+              1222
+            ],
+            [
+              1026,
+              1214
+            ],
+            [
+              1027,
+              1273
+            ],
+            [
+              706,
+              1280
+            ]
+          ]
+        },
+        {
+          "text": "(Dr. Sr. K.Fatima Mary)",
+          "confidence": 0.9899,
+          "bbox": [
+            [
+              749,
+              1275
+            ],
+            [
+              1001,
+              1278
+            ],
+            [
+              1000,
+              1303
+            ],
+            [
+              749,
+              1300
+            ]
+          ]
+        },
+        {
+          "text": "PRINCIPAL",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              828,
+              1300
+            ],
+            [
+              920,
+              1300
+            ],
+            [
+              920,
+              1318
+            ],
+            [
+              828,
+              1318
+            ]
+          ]
+        },
+        {
+          "text": "FATIMA COLLEGE (AUTONOMOUS)",
+          "confidence": 0.9813,
+          "bbox": [
+            [
+              724,
+              1314
+            ],
+            [
+              1023,
+              1317
+            ],
+            [
+              1023,
+              1340
+            ],
+            [
+              724,
+              1336
+            ]
+          ]
+        },
+        {
+          "text": "MADURAI-625018",
+          "confidence": 0.9951,
+          "bbox": [
+            [
+              795,
+              1336
+            ],
+            [
+              950,
+              1336
+            ],
+            [
+              950,
+              1356
+            ],
+            [
+              795,
+              1356
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Academic Year : 2016 - 2017\nOff:22357077/76\nFax/Dir.:22352272\nCENTRE FOR ACADEMIC COURSES\nANNA UNIVERSITY\nPHOSHESS THROLOH EOWIEDH\nCHENNAI-600 025\nDr. T. V. GEETHA\nDIRECTOR\nLr. No. 4440/AU/SSC/CBCS/FICE/2016\n14.10.2016\nTO\n14\nDr. N. Balaji\nHead,DEPT OF IT\nKLN College of Engineering\nPottapalayam\nSivagangai District-630 612\nSir / Madam,\nSub: Anna University - Syllabus Sub Committee - Revision of Curriculum and\nSyllabi under R-2017 for the Constituent Colleges and Affiliated Institutions -\nFaculty of Information and Communication Engineering - Appointment as\nMember - Information - Reg.\nI have the pleasure of informing you that the Registrar, Anna University has appointed\nyou as a Member of the Syllabus Sub Committee for framing the Curricula and Syllabi for\nB.E. Computer Science and Engineering, B.Tech. Information Technology, and\nB.E. Computer and Communication Engineering, to be offered in UG degree Programmes\nunder R-2017 by the Constituent Colleges and Affiliated Institutions of Anna University,\nChennai under the Faculty of Information and Communication Engineering in accordance\nwith the Choice Based Credit System (CBCS).\nI am to inform you that the Syllabus Sub Committee Meeting of the Faculty of\nInformation and Communication Engineering will be held on 01.11.2016 (Tuesday) at\n10.00 AM at Turing Hall, Department of Computer Science and Engineering,\nCEG Campus, Anna University, Chennai.\nThe Agenda will be:\n Full Curriculum of UG Programmes and Syllabi of I & Il Semesters.\nSalient points of the general guidelines as per AICTE norms is enclosed. The AICTE\nguidelines are available at www.aicte-india.org/modelsyllabus.php - for reference.\nPlease come prepared with your inputs, so that we can prepare quality Curriculum &\nSyllabi. The main discussions will be held on the day of the Syllabus Sub Committee meeting.\nHowever, the finalization will be through interaction-using group e-mails.\nThank you in advance for your co-operation.\nI am to request you to kindly accept the offer and send your acceptance letter on or before\n21.10.2016, either by post or by E-mail (ICE.SSC8@gmail.com).\nYours faithfully,\nDIRECTOR\n1.\nAll the members except student members, will be paid a sitting fec of Rs. 2,000/-\nII.\nFor all members other than the faculty of Anna University, Chennai the travelling allowance will be paid as per the following\nnoms:\nLocal members from the Chennai city will be paid Rs.500/-.\nMembers from outside Chennai city within Tamil Nadu will be paid at the rate of 3 tier AC fare for travelling in the\nshortest route 1 & 2/3 (Both ways) (if ticket not produced) (or) Actual Train Fare and Conveyance (ticket should be\nproduced).\nMembers from outside Tami Nadu State are eligible for A'rfare (Economv Class) both wavs oius Rs. 1 2oo/- towarrfs",
+      "word_count": 432,
+      "line_count": 56,
+      "structured_data": [
+        {
+          "text": "Academic Year : 2016 - 2017",
+          "confidence": 0.9914,
+          "bbox": [
+            [
+              1,
+              46
+            ],
+            [
+              329,
+              58
+            ],
+            [
+              329,
+              81
+            ],
+            [
+              0,
+              70
+            ]
+          ]
+        },
+        {
+          "text": "Off:22357077/76",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              797,
+              114
+            ],
+            [
+              988,
+              106
+            ],
+            [
+              989,
+              129
+            ],
+            [
+              798,
+              138
+            ]
+          ]
+        },
+        {
+          "text": "Fax/Dir.:22352272",
+          "confidence": 0.9983,
+          "bbox": [
+            [
+              795,
+              138
+            ],
+            [
+              1006,
+              128
+            ],
+            [
+              1007,
+              155
+            ],
+            [
+              796,
+              165
+            ]
+          ]
+        },
+        {
+          "text": "CENTRE FOR ACADEMIC COURSES",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              393,
+              168
+            ],
+            [
+              850,
+              162
+            ],
+            [
+              851,
+              189
+            ],
+            [
+              394,
+              195
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY",
+          "confidence": 0.9923,
+          "bbox": [
+            [
+              511,
+              198
+            ],
+            [
+              748,
+              194
+            ],
+            [
+              748,
+              215
+            ],
+            [
+              512,
+              219
+            ]
+          ]
+        },
+        {
+          "text": "PHOSHESS THROLOH EOWIEDH",
+          "confidence": 0.7109,
+          "bbox": [
+            [
+              209,
+              210
+            ],
+            [
+              315,
+              210
+            ],
+            [
+              315,
+              224
+            ],
+            [
+              209,
+              224
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI-600 025",
+          "confidence": 0.9936,
+          "bbox": [
+            [
+              549,
+              220
+            ],
+            [
+              707,
+              217
+            ],
+            [
+              708,
+              234
+            ],
+            [
+              550,
+              237
+            ]
+          ]
+        },
+        {
+          "text": "Dr. T. V. GEETHA",
+          "confidence": 0.9447,
+          "bbox": [
+            [
+              197,
+              253
+            ],
+            [
+              363,
+              253
+            ],
+            [
+              363,
+              273
+            ],
+            [
+              197,
+              273
+            ]
+          ]
+        },
+        {
+          "text": "DIRECTOR",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              196,
+              274
+            ],
+            [
+              303,
+              274
+            ],
+            [
+              303,
+              294
+            ],
+            [
+              196,
+              294
+            ]
+          ]
+        },
+        {
+          "text": "Lr. No. 4440/AU/SSC/CBCS/FICE/2016",
+          "confidence": 0.9608,
+          "bbox": [
+            [
+              194,
+              303
+            ],
+            [
+              557,
+              303
+            ],
+            [
+              557,
+              323
+            ],
+            [
+              194,
+              323
+            ]
+          ]
+        },
+        {
+          "text": "14.10.2016",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              947,
+              297
+            ],
+            [
+              1060,
+              297
+            ],
+            [
+              1060,
+              318
+            ],
+            [
+              947,
+              318
+            ]
+          ]
+        },
+        {
+          "text": "TO",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              343,
+              321
+            ],
+            [
+              376,
+              321
+            ],
+            [
+              376,
+              341
+            ],
+            [
+              343,
+              341
+            ]
+          ]
+        },
+        {
+          "text": "14",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              423,
+              323
+            ],
+            [
+              450,
+              323
+            ],
+            [
+              450,
+              341
+            ],
+            [
+              423,
+              341
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N. Balaji",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              342,
+              338
+            ],
+            [
+              450,
+              341
+            ],
+            [
+              450,
+              361
+            ],
+            [
+              341,
+              359
+            ]
+          ]
+        },
+        {
+          "text": "Head,DEPT OF IT",
+          "confidence": 0.9985,
+          "bbox": [
+            [
+              341,
+              361
+            ],
+            [
+              502,
+              361
+            ],
+            [
+              502,
+              381
+            ],
+            [
+              341,
+              381
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              340,
+              380
+            ],
+            [
+              580,
+              384
+            ],
+            [
+              580,
+              405
+            ],
+            [
+              340,
+              401
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              343,
+              402
+            ],
+            [
+              466,
+              404
+            ],
+            [
+              466,
+              424
+            ],
+            [
+              343,
+              422
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai District-630 612",
+          "confidence": 0.9965,
+          "bbox": [
+            [
+              338,
+              423
+            ],
+            [
+              593,
+              426
+            ],
+            [
+              593,
+              447
+            ],
+            [
+              338,
+              443
+            ]
+          ]
+        },
+        {
+          "text": "Sir / Madam,",
+          "confidence": 0.9728,
+          "bbox": [
+            [
+              182,
+              443
+            ],
+            [
+              299,
+              446
+            ],
+            [
+              299,
+              467
+            ],
+            [
+              182,
+              465
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Anna University - Syllabus Sub Committee - Revision of Curriculum and",
+          "confidence": 0.9907,
+          "bbox": [
+            [
+              203,
+              471
+            ],
+            [
+              1063,
+              473
+            ],
+            [
+              1063,
+              497
+            ],
+            [
+              203,
+              495
+            ]
+          ]
+        },
+        {
+          "text": "Syllabi under R-2017 for the Constituent Colleges and Affiliated Institutions -",
+          "confidence": 0.9891,
+          "bbox": [
+            [
+              254,
+              492
+            ],
+            [
+              1063,
+              495
+            ],
+            [
+              1063,
+              519
+            ],
+            [
+              254,
+              516
+            ]
+          ]
+        },
+        {
+          "text": "Faculty of Information and Communication Engineering - Appointment as",
+          "confidence": 0.9925,
+          "bbox": [
+            [
+              253,
+              512
+            ],
+            [
+              1063,
+              516
+            ],
+            [
+              1063,
+              540
+            ],
+            [
+              253,
+              536
+            ]
+          ]
+        },
+        {
+          "text": "Member - Information - Reg.",
+          "confidence": 0.9535,
+          "bbox": [
+            [
+              252,
+              532
+            ],
+            [
+              530,
+              536
+            ],
+            [
+              529,
+              558
+            ],
+            [
+              252,
+              554
+            ]
+          ]
+        },
+        {
+          "text": "I have the pleasure of informing you that the Registrar, Anna University has appointed",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              227,
+              572
+            ],
+            [
+              1062,
+              579
+            ],
+            [
+              1062,
+              605
+            ],
+            [
+              226,
+              598
+            ]
+          ]
+        },
+        {
+          "text": "you as a Member of the Syllabus Sub Committee for framing the Curricula and Syllabi for",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              159,
+              600
+            ],
+            [
+              1060,
+              606
+            ],
+            [
+              1060,
+              630
+            ],
+            [
+              159,
+              624
+            ]
+          ]
+        },
+        {
+          "text": "B.E. Computer Science and Engineering, B.Tech. Information Technology, and",
+          "confidence": 0.9861,
+          "bbox": [
+            [
+              158,
+              627
+            ],
+            [
+              1059,
+              633
+            ],
+            [
+              1059,
+              656
+            ],
+            [
+              158,
+              650
+            ]
+          ]
+        },
+        {
+          "text": "B.E. Computer and Communication Engineering, to be offered in UG degree Programmes",
+          "confidence": 0.9963,
+          "bbox": [
+            [
+              155,
+              653
+            ],
+            [
+              1059,
+              660
+            ],
+            [
+              1059,
+              683
+            ],
+            [
+              155,
+              676
+            ]
+          ]
+        },
+        {
+          "text": "under R-2017 by the Constituent Colleges and Affiliated Institutions of Anna University,",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              151,
+              681
+            ],
+            [
+              1058,
+              686
+            ],
+            [
+              1058,
+              709
+            ],
+            [
+              151,
+              704
+            ]
+          ]
+        },
+        {
+          "text": "Chennai under the Faculty of Information and Communication Engineering in accordance",
+          "confidence": 0.9989,
+          "bbox": [
+            [
+              149,
+              708
+            ],
+            [
+              1058,
+              712
+            ],
+            [
+              1058,
+              735
+            ],
+            [
+              149,
+              731
+            ]
+          ]
+        },
+        {
+          "text": "with the Choice Based Credit System (CBCS).",
+          "confidence": 0.9924,
+          "bbox": [
+            [
+              146,
+              737
+            ],
+            [
+              590,
+              738
+            ],
+            [
+              590,
+              758
+            ],
+            [
+              146,
+              757
+            ]
+          ]
+        },
+        {
+          "text": "I am to inform you that the Syllabus Sub Committee Meeting of the Faculty of",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              191,
+              761
+            ],
+            [
+              1060,
+              764
+            ],
+            [
+              1060,
+              788
+            ],
+            [
+              191,
+              785
+            ]
+          ]
+        },
+        {
+          "text": "Information and Communication Engineering will be held on 01.11.2016 (Tuesday) at",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              149,
+              788
+            ],
+            [
+              1059,
+              791
+            ],
+            [
+              1059,
+              815
+            ],
+            [
+              149,
+              812
+            ]
+          ]
+        },
+        {
+          "text": "10.00 AM at Turing Hall, Department of Computer Science and Engineering,",
+          "confidence": 0.9888,
+          "bbox": [
+            [
+              148,
+              815
+            ],
+            [
+              1057,
+              819
+            ],
+            [
+              1057,
+              843
+            ],
+            [
+              148,
+              838
+            ]
+          ]
+        },
+        {
+          "text": "CEG Campus, Anna University, Chennai.",
+          "confidence": 0.992,
+          "bbox": [
+            [
+              147,
+              845
+            ],
+            [
+              550,
+              845
+            ],
+            [
+              550,
+              865
+            ],
+            [
+              147,
+              865
+            ]
+          ]
+        },
+        {
+          "text": "The Agenda will be:",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              144,
+              871
+            ],
+            [
+              343,
+              872
+            ],
+            [
+              343,
+              893
+            ],
+            [
+              144,
+              892
+            ]
+          ]
+        },
+        {
+          "text": " Full Curriculum of UG Programmes and Syllabi of I & Il Semesters.",
+          "confidence": 0.9764,
+          "bbox": [
+            [
+              176,
+              896
+            ],
+            [
+              864,
+              898
+            ],
+            [
+              864,
+              922
+            ],
+            [
+              176,
+              920
+            ]
+          ]
+        },
+        {
+          "text": "Salient points of the general guidelines as per AICTE norms is enclosed. The AICTE",
+          "confidence": 0.9967,
+          "bbox": [
+            [
+              138,
+              922
+            ],
+            [
+              1058,
+              924
+            ],
+            [
+              1058,
+              950
+            ],
+            [
+              138,
+              948
+            ]
+          ]
+        },
+        {
+          "text": "guidelines are available at www.aicte-india.org/modelsyllabus.php - for reference.",
+          "confidence": 0.9883,
+          "bbox": [
+            [
+              137,
+              950
+            ],
+            [
+              936,
+              952
+            ],
+            [
+              936,
+              976
+            ],
+            [
+              137,
+              974
+            ]
+          ]
+        },
+        {
+          "text": "Please come prepared with your inputs, so that we can prepare quality Curriculum &",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              209,
+              980
+            ],
+            [
+              1056,
+              981
+            ],
+            [
+              1056,
+              1005
+            ],
+            [
+              209,
+              1004
+            ]
+          ]
+        },
+        {
+          "text": "Syllabi. The main discussions will be held on the day of the Syllabus Sub Committee meeting.",
+          "confidence": 0.9892,
+          "bbox": [
+            [
+              136,
+              1006
+            ],
+            [
+              1054,
+              1010
+            ],
+            [
+              1054,
+              1034
+            ],
+            [
+              136,
+              1030
+            ]
+          ]
+        },
+        {
+          "text": "However, the finalization will be through interaction-using group e-mails.",
+          "confidence": 0.9911,
+          "bbox": [
+            [
+              135,
+              1034
+            ],
+            [
+              841,
+              1037
+            ],
+            [
+              840,
+              1060
+            ],
+            [
+              135,
+              1057
+            ]
+          ]
+        },
+        {
+          "text": "Thank you in advance for your co-operation.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              208,
+              1063
+            ],
+            [
+              643,
+              1063
+            ],
+            [
+              643,
+              1086
+            ],
+            [
+              208,
+              1086
+            ]
+          ]
+        },
+        {
+          "text": "I am to request you to kindly accept the offer and send your acceptance letter on or before",
+          "confidence": 0.9842,
+          "bbox": [
+            [
+              135,
+              1093
+            ],
+            [
+              1056,
+              1093
+            ],
+            [
+              1056,
+              1116
+            ],
+            [
+              135,
+              1116
+            ]
+          ]
+        },
+        {
+          "text": "21.10.2016, either by post or by E-mail (ICE.SSC8@gmail.com).",
+          "confidence": 0.9927,
+          "bbox": [
+            [
+              135,
+              1120
+            ],
+            [
+              766,
+              1121
+            ],
+            [
+              766,
+              1144
+            ],
+            [
+              135,
+              1143
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithfully,",
+          "confidence": 0.9867,
+          "bbox": [
+            [
+              902,
+              1150
+            ],
+            [
+              1051,
+              1152
+            ],
+            [
+              1051,
+              1177
+            ],
+            [
+              902,
+              1175
+            ]
+          ]
+        },
+        {
+          "text": "DIRECTOR",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              914,
+              1209
+            ],
+            [
+              1036,
+              1209
+            ],
+            [
+              1036,
+              1234
+            ],
+            [
+              914,
+              1234
+            ]
+          ]
+        },
+        {
+          "text": "1.",
+          "confidence": 0.9475,
+          "bbox": [
+            [
+              123,
+              1264
+            ],
+            [
+              140,
+              1264
+            ],
+            [
+              140,
+              1282
+            ],
+            [
+              123,
+              1282
+            ]
+          ]
+        },
+        {
+          "text": "All the members except student members, will be paid a sitting fec of Rs. 2,000/-",
+          "confidence": 0.9946,
+          "bbox": [
+            [
+              168,
+              1264
+            ],
+            [
+              745,
+              1260
+            ],
+            [
+              745,
+              1280
+            ],
+            [
+              168,
+              1284
+            ]
+          ]
+        },
+        {
+          "text": "II.",
+          "confidence": 0.97,
+          "bbox": [
+            [
+              120,
+              1280
+            ],
+            [
+              139,
+              1280
+            ],
+            [
+              139,
+              1298
+            ],
+            [
+              120,
+              1298
+            ]
+          ]
+        },
+        {
+          "text": "For all members other than the faculty of Anna University, Chennai the travelling allowance will be paid as per the following",
+          "confidence": 0.9916,
+          "bbox": [
+            [
+              168,
+              1280
+            ],
+            [
+              1051,
+              1274
+            ],
+            [
+              1051,
+              1295
+            ],
+            [
+              168,
+              1301
+            ]
+          ]
+        },
+        {
+          "text": "noms:",
+          "confidence": 0.9935,
+          "bbox": [
+            [
+              170,
+              1301
+            ],
+            [
+              227,
+              1301
+            ],
+            [
+              227,
+              1315
+            ],
+            [
+              170,
+              1315
+            ]
+          ]
+        },
+        {
+          "text": "Local members from the Chennai city will be paid Rs.500/-.",
+          "confidence": 0.9905,
+          "bbox": [
+            [
+              204,
+              1315
+            ],
+            [
+              626,
+              1309
+            ],
+            [
+              626,
+              1328
+            ],
+            [
+              205,
+              1334
+            ]
+          ]
+        },
+        {
+          "text": "Members from outside Chennai city within Tamil Nadu will be paid at the rate of 3 tier AC fare for travelling in the",
+          "confidence": 0.9951,
+          "bbox": [
+            [
+              203,
+              1329
+            ],
+            [
+              1051,
+              1322
+            ],
+            [
+              1051,
+              1342
+            ],
+            [
+              203,
+              1349
+            ]
+          ]
+        },
+        {
+          "text": "shortest route 1 & 2/3 (Both ways) (if ticket not produced) (or) Actual Train Fare and Conveyance (ticket should be",
+          "confidence": 0.941,
+          "bbox": [
+            [
+              203,
+              1344
+            ],
+            [
+              1050,
+              1336
+            ],
+            [
+              1050,
+              1356
+            ],
+            [
+              203,
+              1364
+            ]
+          ]
+        },
+        {
+          "text": "produced).",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              205,
+              1363
+            ],
+            [
+              286,
+              1363
+            ],
+            [
+              286,
+              1380
+            ],
+            [
+              205,
+              1380
+            ]
+          ]
+        },
+        {
+          "text": "Members from outside Tami Nadu State are eligible for A'rfare (Economv Class) both wavs oius Rs. 1 2oo/- towarrfs",
+          "confidence": 0.9555,
+          "bbox": [
+            [
+              203,
+              1377
+            ],
+            [
+              1048,
+              1366
+            ],
+            [
+              1048,
+              1386
+            ],
+            [
+              204,
+              1397
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

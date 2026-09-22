@@ -1,0 +1,26 @@
+Contents. Guide map
+Uymd:dgb-g,.
+1. Solar PV at a Glance
+2. Homeowner Learning Guide
+3. System Components and Power Flow
+4. Q.TRON BLK M-G2+ Technical Snapshot
+5. Electrical Design Considerations
+6. Roof, Mounting and Weather Factors
+7. Installation Workflow
+8. Commissioning and Handover
+9. Monitoring and Performance Checks
+10. Homeowner Troubleshooting
+11. Installer Troubleshooting
+12. Battery Storage and Backup Concepts
+13. Maintenance and Preventive Care
+14. Safety and Emergency Procedures
+15. Historical Installation Records - Sample Dataset
+16. Current Installation Updates and Status - Sample Dashboard
+17. Quality-Control Checklists
+18. Field Handover Template
+19. Glossary and Quick Reference
+20. Sources and Document Control
+Document conventions
+Heading: major topic. Subheading: focused topic. Sub-subheading: specific procedure, comparison, or field case. Tables
+appear only where they add value; narrative and diagrams are intentionally used on other pages.
+Sample / illustrative records in Sections 15 and 16 are synthetic training examples, not Qcells customer or operational records.

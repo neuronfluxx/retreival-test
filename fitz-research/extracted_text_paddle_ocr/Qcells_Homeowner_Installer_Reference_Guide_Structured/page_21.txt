@@ -1,0 +1,30 @@
+19. Glossary and Quick Reference
+A compact reference for recurring terms in homeowner and installer discussions.
+19.1 PV and electrical terms
+Term
+Quick reference
+Array
+Collection of PV modules installed as one system or defined electrical grouping
+Azimuth
+Compass direction of a roof plane / array orientation
+Clipping
+Inverter limits AC output when DC production exceeds inverter output capacity
+Isc
+Short-circuit current of a PV module / string
+Voc
+Open-circuit voltage of a PV module / string
+Vmp / Vmpp
+Voltage at the module / string maximum power point
+Impp
+Current at the maximum power point
+STC
+Standard test conditions used for module nameplate measurements
+NMOT
+Nominal module operating temperature test basis used in a datasheet
+SOC
+Battery state of charge
+One-line
+Simplified electrical diagram showing system topology and key devices
+19.2 Quick reference rule
+When a field symptom is ambiguous, identify the asset, establish the time window, check monitoring context, compare peer
+assets and then follow the current manufacturer procedure. Avoid changing settings before capturing the original evidence.

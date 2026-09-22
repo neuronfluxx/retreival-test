@@ -9,7 +9,9 @@ import os
 import argparse
 from pathlib import Path
 from paddleocr import PaddleOCR
+import certifi
 import json
+import ssl
 from PIL import Image
 import io
 
@@ -24,10 +26,14 @@ class PDFTextExtractor:
             use_gpu (bool): Whether to use GPU for processing (note: may not be supported in all versions)
         """
         print("Initializing PaddleOCR...")
+        ssl._create_default_https_context = lambda: ssl.create_default_context(
+            cafile=certifi.where()
+        )
         # Simplified initialization for newer PaddleOCR version
         self.ocr = PaddleOCR(
             use_textline_orientation=True,  # Enable text orientation detection
-            lang=lang
+            lang=lang,
+            device="gpu:0" if use_gpu else "cpu",
         )
         print("PaddleOCR initialized successfully!")
     
@@ -66,8 +72,11 @@ class PDFTextExtractor:
         import numpy as np
         img_array = np.array(image)
         
-        # Perform OCR
-        result = self.ocr.ocr(img_array, cls=True)
+        # PaddleOCR 3.x uses predict() and returns structured result objects.
+        if hasattr(self.ocr, "predict"):
+            result = self.ocr.predict(img_array)
+        else:
+            result = self.ocr.ocr(img_array, cls=True)
         
         return result
     
@@ -81,23 +90,44 @@ class PDFTextExtractor:
         Returns:
             tuple: (full_text, structured_data)
         """
-        if not result or result[0] is None:
+        if not result:
             return "", []
-        
+
         full_text = []
         structured_data = []
-        
-        for line in result[0]:
-            bbox = line[0]  # Bounding box coordinates
-            text_info = line[1]  # (text, confidence)
-            text = text_info[0]
-            confidence = text_info[1]
-            
+
+        # PaddleOCR 3.x returns one result object per image.
+        first_result = result[0]
+        if hasattr(first_result, "json"):
+            data = first_result.json
+            if isinstance(data, str):
+                data = json.loads(data)
+            data = data.get("res", data)
+
+            texts = data.get("rec_texts", [])
+            scores = data.get("rec_scores", [])
+            boxes = data.get("rec_polys", data.get("dt_polys", []))
+            for text, confidence, bbox in zip(texts, scores, boxes):
+                full_text.append(text)
+                structured_data.append({
+                    "text": text,
+                    "confidence": round(float(confidence), 4),
+                    "bbox": [[int(point[0]), int(point[1])] for point in bbox],
+                })
+            return "\n".join(full_text), structured_data
+
+        # PaddleOCR 2.x fallback: [[box, (text, confidence), ...]].
+        legacy_result = first_result
+        if legacy_result is None:
+            return "", []
+        for line in legacy_result:
+            bbox = line[0]
+            text, confidence = line[1]
             full_text.append(text)
             structured_data.append({
                 "text": text,
-                "confidence": round(confidence, 4),
-                "bbox": bbox
+                "confidence": round(float(confidence), 4),
+                "bbox": [[int(point[0]), int(point[1])] for point in bbox],
             })
         
         return "\n".join(full_text), structured_data
@@ -191,8 +221,14 @@ def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=Fals
     Returns:
         dict: Processing statistics
     """
-    # Get all PDF files
-    pdf_files = [f for f in os.listdir(input_folder) if f.lower().endswith('.pdf')]
+    input_path = Path(input_folder)
+    if input_path.is_file() and input_path.suffix.lower() == ".pdf":
+        pdf_files = [input_path.name]
+        input_folder = str(input_path.parent)
+    else:
+        pdf_files = [
+            f for f in os.listdir(input_folder) if f.lower().endswith(".pdf")
+        ]
     
     if not pdf_files:
         print(f"No PDF files found in '{input_folder}'")
@@ -200,7 +236,9 @@ def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=Fals
     
     # Create output folder
     if output_folder is None:
-        output_folder = os.path.join(os.path.dirname(input_folder.rstrip('/\\')), "extracted_text")
+        output_folder = os.path.join(
+            os.path.dirname(input_folder.rstrip('/\\')), "extracted_text_paddle_ocr"
+        )
     
     os.makedirs(output_folder, exist_ok=True)
     
@@ -257,11 +295,11 @@ def main():
     )
     parser.add_argument(
         "input_folder",
-        help="Path to folder containing PDF files"
+        help="Path to a PDF file or folder containing PDF files"
     )
     parser.add_argument(
         "-o", "--output",
-        help="Output directory for extracted text (default: 'extracted_text')",
+        help="Output directory for extracted text (default: 'extracted_text_paddle_ocr')",
         default=None
     )
     parser.add_argument(
@@ -287,15 +325,18 @@ def main():
         print(f"Error: Folder '{args.input_folder}' not found.")
         return
     
-    if not os.path.isdir(args.input_folder):
-        print(f"Error: '{args.input_folder}' is not a directory.")
+    if not os.path.isdir(args.input_folder) and not (
+        os.path.isfile(args.input_folder)
+        and args.input_folder.lower().endswith(".pdf")
+    ):
+        print(f"Error: '{args.input_folder}' is not a PDF file or directory.")
         return
     
     print("=" * 60)
     print("PDF OCR Text Extraction Tool (PaddleOCR)")
     print("=" * 60)
     print(f"Input folder: {args.input_folder}")
-    print(f"Output folder: {args.output or 'extracted_text (auto-generated)'}")
+    print(f"Output folder: {args.output or 'extracted_text_paddle_ocr (auto-generated)'}")
     print(f"Language: {args.lang}")
     print(f"GPU: {'Enabled' if args.gpu else 'Disabled'}")
     print(f"Save images: {'Yes' if args.save_images else 'No'}")

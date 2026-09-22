@@ -1,0 +1,37 @@
+14. Safety and Emergency Procedures
+When there is a suspected electrical hazard, protect people first and follow the site emergency plan.
+14.1 Scenario-based response
+Situation
+Immediate action
+Notes
+Electrical shock / arc event
+Keep clear; call emergency services when needed; do not touch
+Follow site emergency plan
+energized person / equipment without appropriate training
+Fire
+Move to safe location and call emergency services
+Tell responders that a PV / battery system is
+installed
+Roof damage
+Keep off compromised roof areas
+Use qualified inspection
+Flooding around electrical
+Keep clear; isolate only through safe / qualified procedures
+Do not enter flooded electrical areas
+equipment
+Lightning / severe weather
+Stay indoors and avoid equipment contact
+Resume inspection only when safe
+Suspected module damage
+Do not handle cracked / burned modules or conductors
+Treat PV conductors as energized when
+illuminated unless safely isolated
+14.2 Emergency information card
+Item
+Project entry
+Installer / O&M;
+Utility / emergency contact
+System address
+Inverter location
+Battery location
+Service disconnect location

@@ -1,0 +1,9764 @@
+{
+  "pdf_name": "Naac_appLetter",
+  "total_pages": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Sample Scanned\nAcademic Year\n2012-2013\nANNA UNIVERSITY, CHENNAI\nFACULTY OF SCIENCE AND HUMANITIES\nPhone ; +91-44-22358488\n+91-44-22358654\nCHENNAI =\n600 025. INDIA\nCell\n+91-9840146642\nProf: K SHANTHI PhD,\n+91.9962520678\nChairperson\nshanthiramesh Qannauniv edu;\n24.05.2013\nTo whom so ever it may concern\nThis   is\nto   certify  that\nDr,   O.D.Shakila:   Associate\nProfessor   of\nChemistry, KLN: College   of Engineering   Pottapalayam-  630611\nhas\nattended the Anna University\n18t meeting of Board of Studies at Anna\nUniversity on 24.05.2013.\nUQA bzkel_\n4y\n(Dr,K SHANTHI)\n(Chairman; Faculty of s&H)\nCopy:",
+      "word_count": 84,
+      "line_count": 31,
+      "structured_data": [
+        {
+          "text": "Sample Scanned",
+          "confidence": 0.7232,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              264,
+              136
+            ],
+            [
+              264,
+              162
+            ],
+            [
+              116,
+              162
+            ]
+          ]
+        },
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              184
+            ],
+            [
+              250,
+              184
+            ],
+            [
+              250,
+              208
+            ],
+            [
+              116,
+              208
+            ]
+          ]
+        },
+        {
+          "text": "2012-2013",
+          "confidence": 0.9179,
+          "bbox": [
+            [
+              258,
+              184
+            ],
+            [
+              354,
+              184
+            ],
+            [
+              354,
+              208
+            ],
+            [
+              258,
+              208
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY, CHENNAI",
+          "confidence": 0.9464,
+          "bbox": [
+            [
+              522,
+              276
+            ],
+            [
+              728,
+              276
+            ],
+            [
+              728,
+              300
+            ],
+            [
+              522,
+              300
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF SCIENCE AND HUMANITIES",
+          "confidence": 0.9962,
+          "bbox": [
+            [
+              458,
+              304
+            ],
+            [
+              788,
+              304
+            ],
+            [
+              788,
+              328
+            ],
+            [
+              458,
+              328
+            ]
+          ]
+        },
+        {
+          "text": "Phone ; +91-44-22358488",
+          "confidence": 0.437,
+          "bbox": [
+            [
+              813,
+              305
+            ],
+            [
+              931,
+              305
+            ],
+            [
+              931,
+              321
+            ],
+            [
+              813,
+              321
+            ]
+          ]
+        },
+        {
+          "text": "+91-44-22358654",
+          "confidence": 0.556,
+          "bbox": [
+            [
+              849,
+              319
+            ],
+            [
+              931,
+              319
+            ],
+            [
+              931,
+              335
+            ],
+            [
+              849,
+              335
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI =",
+          "confidence": 0.5855,
+          "bbox": [
+            [
+              553,
+              329
+            ],
+            [
+              609,
+              329
+            ],
+            [
+              609,
+              345
+            ],
+            [
+              553,
+              345
+            ]
+          ]
+        },
+        {
+          "text": "600 025. INDIA",
+          "confidence": 0.4306,
+          "bbox": [
+            [
+              613,
+              331
+            ],
+            [
+              695,
+              331
+            ],
+            [
+              695,
+              345
+            ],
+            [
+              613,
+              345
+            ]
+          ]
+        },
+        {
+          "text": "Cell",
+          "confidence": 0.6185,
+          "bbox": [
+            [
+              817,
+              335
+            ],
+            [
+              839,
+              335
+            ],
+            [
+              839,
+              349
+            ],
+            [
+              817,
+              349
+            ]
+          ]
+        },
+        {
+          "text": "+91-9840146642",
+          "confidence": 0.566,
+          "bbox": [
+            [
+              853,
+              335
+            ],
+            [
+              931,
+              335
+            ],
+            [
+              931,
+              349
+            ],
+            [
+              853,
+              349
+            ]
+          ]
+        },
+        {
+          "text": "Prof: K SHANTHI PhD,",
+          "confidence": 0.3936,
+          "bbox": [
+            [
+              315,
+              347
+            ],
+            [
+              479,
+              347
+            ],
+            [
+              479,
+              367
+            ],
+            [
+              315,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "+91.9962520678",
+          "confidence": 0.7968,
+          "bbox": [
+            [
+              853,
+              349
+            ],
+            [
+              931,
+              349
+            ],
+            [
+              931,
+              365
+            ],
+            [
+              853,
+              365
+            ]
+          ]
+        },
+        {
+          "text": "Chairperson",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              316,
+              366
+            ],
+            [
+              381,
+              366
+            ],
+            [
+              381,
+              384
+            ],
+            [
+              316,
+              384
+            ]
+          ]
+        },
+        {
+          "text": "shanthiramesh Qannauniv edu;",
+          "confidence": 0.4737,
+          "bbox": [
+            [
+              793,
+              365
+            ],
+            [
+              933,
+              365
+            ],
+            [
+              933,
+              379
+            ],
+            [
+              793,
+              379
+            ]
+          ]
+        },
+        {
+          "text": "24.05.2013",
+          "confidence": 0.7273,
+          "bbox": [
+            [
+              802,
+              452
+            ],
+            [
+              892,
+              452
+            ],
+            [
+              892,
+              476
+            ],
+            [
+              802,
+              476
+            ]
+          ]
+        },
+        {
+          "text": "To whom so ever it may concern",
+          "confidence": 0.7745,
+          "bbox": [
+            [
+              480,
+              512
+            ],
+            [
+              770,
+              512
+            ],
+            [
+              770,
+              536
+            ],
+            [
+              480,
+              536
+            ]
+          ]
+        },
+        {
+          "text": "This   is",
+          "confidence": 0.2789,
+          "bbox": [
+            [
+              399,
+              613
+            ],
+            [
+              455,
+              613
+            ],
+            [
+              455,
+              631
+            ],
+            [
+              399,
+              631
+            ]
+          ]
+        },
+        {
+          "text": "to   certify  that",
+          "confidence": 0.6057,
+          "bbox": [
+            [
+              460,
+              610
+            ],
+            [
+              580,
+              610
+            ],
+            [
+              580,
+              634
+            ],
+            [
+              460,
+              634
+            ]
+          ]
+        },
+        {
+          "text": "Dr,   O.D.Shakila:   Associate",
+          "confidence": 0.3843,
+          "bbox": [
+            [
+              587,
+              611
+            ],
+            [
+              787,
+              611
+            ],
+            [
+              787,
+              631
+            ],
+            [
+              587,
+              631
+            ]
+          ]
+        },
+        {
+          "text": "Professor   of",
+          "confidence": 0.861,
+          "bbox": [
+            [
+              796,
+              608
+            ],
+            [
+              894,
+              608
+            ],
+            [
+              894,
+              632
+            ],
+            [
+              796,
+              632
+            ]
+          ]
+        },
+        {
+          "text": "Chemistry, KLN: College   of Engineering   Pottapalayam-  630611",
+          "confidence": 0.3398,
+          "bbox": [
+            [
+              357,
+              645
+            ],
+            [
+              856,
+              645
+            ],
+            [
+              856,
+              675
+            ],
+            [
+              357,
+              675
+            ]
+          ]
+        },
+        {
+          "text": "has",
+          "confidence": 0.9431,
+          "bbox": [
+            [
+              865,
+              651
+            ],
+            [
+              891,
+              651
+            ],
+            [
+              891,
+              669
+            ],
+            [
+              865,
+              669
+            ]
+          ]
+        },
+        {
+          "text": "attended the Anna University",
+          "confidence": 0.9961,
+          "bbox": [
+            [
+              355,
+              684
+            ],
+            [
+              576,
+              684
+            ],
+            [
+              576,
+              710
+            ],
+            [
+              355,
+              710
+            ]
+          ]
+        },
+        {
+          "text": "18t meeting of Board of Studies at Anna",
+          "confidence": 0.782,
+          "bbox": [
+            [
+              588,
+              682
+            ],
+            [
+              892,
+              682
+            ],
+            [
+              892,
+              710
+            ],
+            [
+              588,
+              710
+            ]
+          ]
+        },
+        {
+          "text": "University on 24.05.2013.",
+          "confidence": 0.9981,
+          "bbox": [
+            [
+              358,
+              720
+            ],
+            [
+              538,
+              720
+            ],
+            [
+              538,
+              746
+            ],
+            [
+              358,
+              746
+            ]
+          ]
+        },
+        {
+          "text": "UQA bzkel_",
+          "confidence": 0.0134,
+          "bbox": [
+            [
+              708,
+              774
+            ],
+            [
+              914,
+              774
+            ],
+            [
+              914,
+              854
+            ],
+            [
+              708,
+              854
+            ]
+          ]
+        },
+        {
+          "text": "4y",
+          "confidence": 0.6188,
+          "bbox": [
+            [
+              786,
+              826
+            ],
+            [
+              818,
+              826
+            ],
+            [
+              818,
+              850
+            ],
+            [
+              786,
+              850
+            ]
+          ]
+        },
+        {
+          "text": "(Dr,K SHANTHI)",
+          "confidence": 0.5719,
+          "bbox": [
+            [
+              782,
+              846
+            ],
+            [
+              894,
+              846
+            ],
+            [
+              894,
+              870
+            ],
+            [
+              782,
+              870
+            ]
+          ]
+        },
+        {
+          "text": "(Chairman; Faculty of s&H)",
+          "confidence": 0.3831,
+          "bbox": [
+            [
+              709,
+              889
+            ],
+            [
+              891,
+              889
+            ],
+            [
+              891,
+              909
+            ],
+            [
+              709,
+              909
+            ]
+          ]
+        },
+        {
+          "text": "Copy:",
+          "confidence": 0.8926,
+          "bbox": [
+            [
+              262,
+              133
+            ],
+            [
+              319,
+              141
+            ],
+            [
+              316,
+              164
+            ],
+            [
+              259,
+              157
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Academic Year\n2013\n2014\nANNA UNIVERSITY, CHENNAI\nPhone\n+91.-44-22358488\nFACULTY OF SCIENCE AND HUMANITIES\n+9144-22358654\nCHENNAI\n600 025. INDIA\nCell\n491-9840146642\n+91-9962520678\nProf; K SHANTHI, PhD.\nshanthiramesh@annauniv edu\nChairdarson\n29.10.2013\nTo whom so ever it may concern\nThis\nto\ncertify\nthat\nDr J KSUBASHINI;\nProfessor\nHead,\nDepartment of Mathematics, KLN: College of Engineering, Pottapalayam-\n630611 has attended the Anna University\nSyllabus Sub Committee meeting\nheld in the Department of Mathematics, Anna University on 29.10.2013.\n( o_Jazl;\n(Dr.\n(Chairman, Faculty of s&H)\nS7",
+      "word_count": 82,
+      "line_count": 33,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2013",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              308,
+              136
+            ],
+            [
+              308,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2014",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              316,
+              136
+            ],
+            [
+              364,
+              136
+            ],
+            [
+              364,
+              160
+            ],
+            [
+              316,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY, CHENNAI",
+          "confidence": 0.8925,
+          "bbox": [
+            [
+              470,
+              228
+            ],
+            [
+              724,
+              228
+            ],
+            [
+              724,
+              256
+            ],
+            [
+              470,
+              256
+            ]
+          ]
+        },
+        {
+          "text": "Phone",
+          "confidence": 0.954,
+          "bbox": [
+            [
+              831,
+              253
+            ],
+            [
+              871,
+              253
+            ],
+            [
+              871,
+              269
+            ],
+            [
+              831,
+              269
+            ]
+          ]
+        },
+        {
+          "text": "+91.-44-22358488",
+          "confidence": 0.423,
+          "bbox": [
+            [
+              877,
+              251
+            ],
+            [
+              979,
+              251
+            ],
+            [
+              979,
+              267
+            ],
+            [
+              877,
+              267
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF SCIENCE AND HUMANITIES",
+          "confidence": 0.9348,
+          "bbox": [
+            [
+              391,
+              254
+            ],
+            [
+              803,
+              254
+            ],
+            [
+              803,
+              291
+            ],
+            [
+              391,
+              291
+            ]
+          ]
+        },
+        {
+          "text": "+9144-22358654",
+          "confidence": 0.7036,
+          "bbox": [
+            [
+              877,
+              267
+            ],
+            [
+              979,
+              267
+            ],
+            [
+              979,
+              281
+            ],
+            [
+              877,
+              281
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI",
+          "confidence": 0.9829,
+          "bbox": [
+            [
+              511,
+              289
+            ],
+            [
+              579,
+              289
+            ],
+            [
+              579,
+              305
+            ],
+            [
+              511,
+              305
+            ]
+          ]
+        },
+        {
+          "text": "600 025. INDIA",
+          "confidence": 0.9084,
+          "bbox": [
+            [
+              585,
+              285
+            ],
+            [
+              685,
+              285
+            ],
+            [
+              685,
+              303
+            ],
+            [
+              585,
+              303
+            ]
+          ]
+        },
+        {
+          "text": "Cell",
+          "confidence": 0.9059,
+          "bbox": [
+            [
+              837,
+              283
+            ],
+            [
+              863,
+              283
+            ],
+            [
+              863,
+              299
+            ],
+            [
+              837,
+              299
+            ]
+          ]
+        },
+        {
+          "text": "491-9840146642",
+          "confidence": 0.4468,
+          "bbox": [
+            [
+              882,
+              279
+            ],
+            [
+              979,
+              279
+            ],
+            [
+              979,
+              298
+            ],
+            [
+              882,
+              298
+            ]
+          ]
+        },
+        {
+          "text": "+91-9962520678",
+          "confidence": 0.9853,
+          "bbox": [
+            [
+              883,
+              297
+            ],
+            [
+              981,
+              297
+            ],
+            [
+              981,
+              313
+            ],
+            [
+              883,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "Prof; K SHANTHI, PhD.",
+          "confidence": 0.3438,
+          "bbox": [
+            [
+              216,
+              312
+            ],
+            [
+              420,
+              312
+            ],
+            [
+              420,
+              338
+            ],
+            [
+              216,
+              338
+            ]
+          ]
+        },
+        {
+          "text": "shanthiramesh@annauniv edu",
+          "confidence": 0.6247,
+          "bbox": [
+            [
+              808,
+              312
+            ],
+            [
+              981,
+              312
+            ],
+            [
+              981,
+              332
+            ],
+            [
+              808,
+              332
+            ]
+          ]
+        },
+        {
+          "text": "Chairdarson",
+          "confidence": 0.1478,
+          "bbox": [
+            [
+              219,
+              337
+            ],
+            [
+              295,
+              337
+            ],
+            [
+              295,
+              351
+            ],
+            [
+              219,
+              351
+            ]
+          ]
+        },
+        {
+          "text": "29.10.2013",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              834,
+              470
+            ],
+            [
+              944,
+              470
+            ],
+            [
+              944,
+              498
+            ],
+            [
+              834,
+              498
+            ]
+          ]
+        },
+        {
+          "text": "To whom so ever it may concern",
+          "confidence": 0.6491,
+          "bbox": [
+            [
+              434,
+              538
+            ],
+            [
+              792,
+              538
+            ],
+            [
+              792,
+              568
+            ],
+            [
+              434,
+              568
+            ]
+          ]
+        },
+        {
+          "text": "This",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              337,
+              647
+            ],
+            [
+              375,
+              647
+            ],
+            [
+              375,
+              667
+            ],
+            [
+              337,
+              667
+            ]
+          ]
+        },
+        {
+          "text": "to",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              419,
+              647
+            ],
+            [
+              443,
+              647
+            ],
+            [
+              443,
+              667
+            ],
+            [
+              419,
+              667
+            ]
+          ]
+        },
+        {
+          "text": "certify",
+          "confidence": 0.7929,
+          "bbox": [
+            [
+              456,
+              644
+            ],
+            [
+              518,
+              644
+            ],
+            [
+              518,
+              668
+            ],
+            [
+              456,
+              668
+            ]
+          ]
+        },
+        {
+          "text": "that",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              529,
+              645
+            ],
+            [
+              571,
+              645
+            ],
+            [
+              571,
+              665
+            ],
+            [
+              529,
+              665
+            ]
+          ]
+        },
+        {
+          "text": "Dr J KSUBASHINI;",
+          "confidence": 0.728,
+          "bbox": [
+            [
+              582,
+              640
+            ],
+            [
+              746,
+              640
+            ],
+            [
+              746,
+              664
+            ],
+            [
+              582,
+              664
+            ]
+          ]
+        },
+        {
+          "text": "Professor",
+          "confidence": 0.9716,
+          "bbox": [
+            [
+              758,
+              638
+            ],
+            [
+              848,
+              638
+            ],
+            [
+              848,
+              662
+            ],
+            [
+              758,
+              662
+            ]
+          ]
+        },
+        {
+          "text": "Head,",
+          "confidence": 0.9483,
+          "bbox": [
+            [
+              890,
+              636
+            ],
+            [
+              946,
+              636
+            ],
+            [
+              946,
+              660
+            ],
+            [
+              890,
+              660
+            ]
+          ]
+        },
+        {
+          "text": "Department of Mathematics, KLN: College of Engineering, Pottapalayam-",
+          "confidence": 0.735,
+          "bbox": [
+            [
+              285,
+              675
+            ],
+            [
+              947,
+              675
+            ],
+            [
+              947,
+              711
+            ],
+            [
+              285,
+              711
+            ]
+          ]
+        },
+        {
+          "text": "630611 has attended the Anna University",
+          "confidence": 0.968,
+          "bbox": [
+            [
+              286,
+              718
+            ],
+            [
+              646,
+              718
+            ],
+            [
+              646,
+              748
+            ],
+            [
+              286,
+              748
+            ]
+          ]
+        },
+        {
+          "text": "Syllabus Sub Committee meeting",
+          "confidence": 0.9078,
+          "bbox": [
+            [
+              658,
+              716
+            ],
+            [
+              948,
+              716
+            ],
+            [
+              948,
+              744
+            ],
+            [
+              658,
+              744
+            ]
+          ]
+        },
+        {
+          "text": "held in the Department of Mathematics, Anna University on 29.10.2013.",
+          "confidence": 0.7063,
+          "bbox": [
+            [
+              285,
+              753
+            ],
+            [
+              907,
+              753
+            ],
+            [
+              907,
+              789
+            ],
+            [
+              285,
+              789
+            ]
+          ]
+        },
+        {
+          "text": "( o_Jazl;",
+          "confidence": 0.0671,
+          "bbox": [
+            [
+              749,
+              825
+            ],
+            [
+              965,
+              825
+            ],
+            [
+              965,
+              913
+            ],
+            [
+              749,
+              913
+            ]
+          ]
+        },
+        {
+          "text": "(Dr.",
+          "confidence": 0.9881,
+          "bbox": [
+            [
+              816,
+              886
+            ],
+            [
+              852,
+              886
+            ],
+            [
+              852,
+              910
+            ],
+            [
+              816,
+              910
+            ]
+          ]
+        },
+        {
+          "text": "(Chairman, Faculty of s&H)",
+          "confidence": 0.842,
+          "bbox": [
+            [
+              724,
+              926
+            ],
+            [
+              950,
+              926
+            ],
+            [
+              950,
+              954
+            ],
+            [
+              724,
+              954
+            ]
+          ]
+        },
+        {
+          "text": "S7",
+          "confidence": 0.0029,
+          "bbox": [
+            [
+              180,
+              1358
+            ],
+            [
+              218,
+              1358
+            ],
+            [
+              218,
+              1382
+            ],
+            [
+              180,
+              1382
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Academic Year\n2014\n2015\n3632\n696\nExMailchairmanice@gmail com\nFACULTY OF INFORMATION AND COMMUNICATION\nENGINEERING\nANNA UNIVERSITY\nCHENNAI\n600 025\nDr V. VAIDEHI\nChairperson\nProcs. No. 3485/AUIFIEC-SSCICACI2014\n18.08.2014\nDr. N: Daljji\nTo\nProlessor & Head\nInformation Technology\nKLN Colloge of Engineering \nPottapalayam, Sivagangal Dist\nMadurai\n630 6115\nSir / Madam,\nSub: Anna University\nSyllabus Sub Committee Meeting of the Faculty of Information and\nCommunication\nEngineering\nRef;\nChancellor'$ approval dated .08.06.2012\nIt is proposed\nt0 conduct the Syllabus Sub Commitlee Meeting\nCSE and IT of the\nFaculty of Information and Communication Engineering t0 discuss the following items .\nAddition of an elective on \"Foundation Skills in Integrated Product\nDevelopment (FSIPD) .\nAddition of books in references\nDate and Time\n27.08.2014 (Wednosday) at 10.00.\na.m\nVenue\nAcademic Council Hall\nAnna University, Chennai =\n25\nrequest you t0\nkindly make it convenient to attend the meeting and offer your valuable\ncontributions\nof confirmation regarding your participation through Phone\nE-mail; will be\ngreatly appreciated,\nWith kind regards\nours faithful\nChairp\nNOTE: TA T DA FOR MEMBERS PARTICIPATING IN THE MEETING\nMembers from Anna University, Chenna\nwilll De\nsitting fee of Rs.\n1000/- per day including\nTraveling Allowances\nMembers from Chennai City will be\nsitting fee of Rs; 1000/- per day and Rs. 400/- as travelling\nallowance\nMembers\nIrom\noutside\nChennal\ncity\nWil\npaid\nTraveling\nAllowance\nthe\nrate\n8 2/3 (Both Ways) by\nClass Train Fare and\nFee of Rs\nOoo/= per day:\nMembers from outside the Tamil Nadu State are eligible for Airfare\nEconomy Class) on both ways\nbesides\nRs. 1200/- towards conveyance charges (to and fro Residence\nAirpont\nUniversity) and\nsitting fee Rs. 10OO/- per day for attending the meeting\nTravel by\ncar is permitted upto\nMaximum 0f Z0okms\nboth ways and wilI be\nRs 7lper km\nsubject t0 (he production of official bill from the Travel Agency (with TIN Registration number)\nReg:\nVice-(\nJine\npald\npald\nFirst\nsitting\npaid",
+      "word_count": 316,
+      "line_count": 98,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2014",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              308,
+              136
+            ],
+            [
+              308,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2015",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              316,
+              136
+            ],
+            [
+              364,
+              136
+            ],
+            [
+              364,
+              160
+            ],
+            [
+              316,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "3632",
+          "confidence": 0.0297,
+          "bbox": [
+            [
+              777,
+              233
+            ],
+            [
+              841,
+              233
+            ],
+            [
+              841,
+              249
+            ],
+            [
+              777,
+              249
+            ]
+          ]
+        },
+        {
+          "text": "696",
+          "confidence": 0.3602,
+          "bbox": [
+            [
+              849,
+              233
+            ],
+            [
+              883,
+              233
+            ],
+            [
+              883,
+              249
+            ],
+            [
+              849,
+              249
+            ]
+          ]
+        },
+        {
+          "text": "ExMailchairmanice@gmail com",
+          "confidence": 0.4855,
+          "bbox": [
+            [
+              747,
+              244
+            ],
+            [
+              944,
+              244
+            ],
+            [
+              944,
+              269
+            ],
+            [
+              747,
+              269
+            ]
+          ]
+        },
+        {
+          "text": "FACULTY OF INFORMATION AND COMMUNICATION",
+          "confidence": 0.6607,
+          "bbox": [
+            [
+              434,
+              260
+            ],
+            [
+              846,
+              260
+            ],
+            [
+              846,
+              284
+            ],
+            [
+              434,
+              284
+            ]
+          ]
+        },
+        {
+          "text": "ENGINEERING",
+          "confidence": 0.9477,
+          "bbox": [
+            [
+              557,
+              281
+            ],
+            [
+              673,
+              281
+            ],
+            [
+              673,
+              301
+            ],
+            [
+              557,
+              301
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY",
+          "confidence": 0.7992,
+          "bbox": [
+            [
+              535,
+              298
+            ],
+            [
+              684,
+              298
+            ],
+            [
+              684,
+              319
+            ],
+            [
+              535,
+              319
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI",
+          "confidence": 0.9916,
+          "bbox": [
+            [
+              553,
+              319
+            ],
+            [
+              613,
+              319
+            ],
+            [
+              613,
+              335
+            ],
+            [
+              553,
+              335
+            ]
+          ]
+        },
+        {
+          "text": "600 025",
+          "confidence": 0.8722,
+          "bbox": [
+            [
+              621,
+              321
+            ],
+            [
+              669,
+              321
+            ],
+            [
+              669,
+              335
+            ],
+            [
+              621,
+              335
+            ]
+          ]
+        },
+        {
+          "text": "Dr V. VAIDEHI",
+          "confidence": 0.6543,
+          "bbox": [
+            [
+              319,
+              349
+            ],
+            [
+              423,
+              349
+            ],
+            [
+              423,
+              367
+            ],
+            [
+              319,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "Chairperson",
+          "confidence": 0.8451,
+          "bbox": [
+            [
+              319,
+              369
+            ],
+            [
+              407,
+              369
+            ],
+            [
+              407,
+              387
+            ],
+            [
+              319,
+              387
+            ]
+          ]
+        },
+        {
+          "text": "Procs. No. 3485/AUIFIEC-SSCICACI2014",
+          "confidence": 0.6404,
+          "bbox": [
+            [
+              317,
+              385
+            ],
+            [
+              601,
+              385
+            ],
+            [
+              601,
+              405
+            ],
+            [
+              317,
+              405
+            ]
+          ]
+        },
+        {
+          "text": "18.08.2014",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              839,
+              389
+            ],
+            [
+              917,
+              389
+            ],
+            [
+              917,
+              407
+            ],
+            [
+              839,
+              407
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N: Daljji",
+          "confidence": 0.3217,
+          "bbox": [
+            [
+              427,
+              409
+            ],
+            [
+              505,
+              409
+            ],
+            [
+              505,
+              423
+            ],
+            [
+              427,
+              423
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.999,
+          "bbox": [
+            [
+              317,
+              421
+            ],
+            [
+              339,
+              421
+            ],
+            [
+              339,
+              437
+            ],
+            [
+              317,
+              437
+            ]
+          ]
+        },
+        {
+          "text": "Prolessor & Head",
+          "confidence": 0.8701,
+          "bbox": [
+            [
+              427,
+              427
+            ],
+            [
+              541,
+              427
+            ],
+            [
+              541,
+              441
+            ],
+            [
+              427,
+              441
+            ]
+          ]
+        },
+        {
+          "text": "Information Technology",
+          "confidence": 0.9984,
+          "bbox": [
+            [
+              425,
+              444
+            ],
+            [
+              581,
+              444
+            ],
+            [
+              581,
+              463
+            ],
+            [
+              425,
+              463
+            ]
+          ]
+        },
+        {
+          "text": "KLN Colloge of Engineering ",
+          "confidence": 0.7008,
+          "bbox": [
+            [
+              425,
+              462
+            ],
+            [
+              603,
+              462
+            ],
+            [
+              603,
+              482
+            ],
+            [
+              425,
+              482
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam, Sivagangal Dist",
+          "confidence": 0.7567,
+          "bbox": [
+            [
+              425,
+              482
+            ],
+            [
+              623,
+              482
+            ],
+            [
+              623,
+              500
+            ],
+            [
+              425,
+              500
+            ]
+          ]
+        },
+        {
+          "text": "Madurai",
+          "confidence": 0.7809,
+          "bbox": [
+            [
+              425,
+              503
+            ],
+            [
+              481,
+              503
+            ],
+            [
+              481,
+              517
+            ],
+            [
+              425,
+              517
+            ]
+          ]
+        },
+        {
+          "text": "630 6115",
+          "confidence": 0.2366,
+          "bbox": [
+            [
+              491,
+              503
+            ],
+            [
+              545,
+              503
+            ],
+            [
+              545,
+              517
+            ],
+            [
+              491,
+              517
+            ]
+          ]
+        },
+        {
+          "text": "Sir / Madam,",
+          "confidence": 0.5242,
+          "bbox": [
+            [
+              312,
+              516
+            ],
+            [
+              400,
+              516
+            ],
+            [
+              400,
+              540
+            ],
+            [
+              312,
+              540
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Anna University",
+          "confidence": 0.9183,
+          "bbox": [
+            [
+              339,
+              548
+            ],
+            [
+              479,
+              548
+            ],
+            [
+              479,
+              568
+            ],
+            [
+              339,
+              568
+            ]
+          ]
+        },
+        {
+          "text": "Syllabus Sub Committee Meeting of the Faculty of Information and",
+          "confidence": 0.6821,
+          "bbox": [
+            [
+              491,
+              549
+            ],
+            [
+              931,
+              549
+            ],
+            [
+              931,
+              570
+            ],
+            [
+              491,
+              570
+            ]
+          ]
+        },
+        {
+          "text": "Communication",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              369,
+              567
+            ],
+            [
+              475,
+              567
+            ],
+            [
+              475,
+              583
+            ],
+            [
+              369,
+              583
+            ]
+          ]
+        },
+        {
+          "text": "Engineering",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              473,
+              561
+            ],
+            [
+              560,
+              561
+            ],
+            [
+              560,
+              588
+            ],
+            [
+              473,
+              588
+            ]
+          ]
+        },
+        {
+          "text": "Ref;",
+          "confidence": 0.6931,
+          "bbox": [
+            [
+              331,
+              587
+            ],
+            [
+              363,
+              587
+            ],
+            [
+              363,
+              605
+            ],
+            [
+              331,
+              605
+            ]
+          ]
+        },
+        {
+          "text": "Chancellor'$ approval dated .08.06.2012",
+          "confidence": 0.6614,
+          "bbox": [
+            [
+              401,
+              589
+            ],
+            [
+              669,
+              589
+            ],
+            [
+              669,
+              609
+            ],
+            [
+              401,
+              609
+            ]
+          ]
+        },
+        {
+          "text": "It is proposed",
+          "confidence": 0.9496,
+          "bbox": [
+            [
+              361,
+              652
+            ],
+            [
+              459,
+              652
+            ],
+            [
+              459,
+              672
+            ],
+            [
+              361,
+              672
+            ]
+          ]
+        },
+        {
+          "text": "t0 conduct the Syllabus Sub Commitlee Meeting",
+          "confidence": 0.5833,
+          "bbox": [
+            [
+              463,
+              653
+            ],
+            [
+              801,
+              653
+            ],
+            [
+              801,
+              673
+            ],
+            [
+              463,
+              673
+            ]
+          ]
+        },
+        {
+          "text": "CSE and IT of the",
+          "confidence": 0.6059,
+          "bbox": [
+            [
+              823,
+              653
+            ],
+            [
+              957,
+              653
+            ],
+            [
+              957,
+              673
+            ],
+            [
+              823,
+              673
+            ]
+          ]
+        },
+        {
+          "text": "Faculty of Information and Communication Engineering t0 discuss the following items .",
+          "confidence": 0.7011,
+          "bbox": [
+            [
+              306,
+              674
+            ],
+            [
+              870,
+              674
+            ],
+            [
+              870,
+              702
+            ],
+            [
+              306,
+              702
+            ]
+          ]
+        },
+        {
+          "text": "Addition of an elective on \"Foundation Skills in Integrated Product",
+          "confidence": 0.6923,
+          "bbox": [
+            [
+              444,
+              702
+            ],
+            [
+              882,
+              702
+            ],
+            [
+              882,
+              726
+            ],
+            [
+              444,
+              726
+            ]
+          ]
+        },
+        {
+          "text": "Development (FSIPD) .",
+          "confidence": 0.6737,
+          "bbox": [
+            [
+              445,
+              719
+            ],
+            [
+              596,
+              719
+            ],
+            [
+              596,
+              744
+            ],
+            [
+              445,
+              744
+            ]
+          ]
+        },
+        {
+          "text": "Addition of books in references",
+          "confidence": 0.9941,
+          "bbox": [
+            [
+              445,
+              739
+            ],
+            [
+              651,
+              739
+            ],
+            [
+              651,
+              757
+            ],
+            [
+              445,
+              757
+            ]
+          ]
+        },
+        {
+          "text": "Date and Time",
+          "confidence": 0.9656,
+          "bbox": [
+            [
+              353,
+              771
+            ],
+            [
+              453,
+              771
+            ],
+            [
+              453,
+              787
+            ],
+            [
+              353,
+              787
+            ]
+          ]
+        },
+        {
+          "text": "27.08.2014 (Wednosday) at 10.00.",
+          "confidence": 0.9376,
+          "bbox": [
+            [
+              512,
+              768
+            ],
+            [
+              748,
+              768
+            ],
+            [
+              748,
+              792
+            ],
+            [
+              512,
+              792
+            ]
+          ]
+        },
+        {
+          "text": "a.m",
+          "confidence": 0.3329,
+          "bbox": [
+            [
+              751,
+              775
+            ],
+            [
+              785,
+              775
+            ],
+            [
+              785,
+              789
+            ],
+            [
+              751,
+              789
+            ]
+          ]
+        },
+        {
+          "text": "Venue",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              355,
+              787
+            ],
+            [
+              401,
+              787
+            ],
+            [
+              401,
+              805
+            ],
+            [
+              355,
+              805
+            ]
+          ]
+        },
+        {
+          "text": "Academic Council Hall",
+          "confidence": 0.7393,
+          "bbox": [
+            [
+              517,
+              787
+            ],
+            [
+              679,
+              787
+            ],
+            [
+              679,
+              807
+            ],
+            [
+              517,
+              807
+            ]
+          ]
+        },
+        {
+          "text": "Anna University, Chennai =",
+          "confidence": 0.8304,
+          "bbox": [
+            [
+              515,
+              807
+            ],
+            [
+              687,
+              807
+            ],
+            [
+              687,
+              825
+            ],
+            [
+              515,
+              825
+            ]
+          ]
+        },
+        {
+          "text": "25",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              693,
+              805
+            ],
+            [
+              715,
+              805
+            ],
+            [
+              715,
+              823
+            ],
+            [
+              693,
+              823
+            ]
+          ]
+        },
+        {
+          "text": "request you t0",
+          "confidence": 0.7298,
+          "bbox": [
+            [
+              361,
+              847
+            ],
+            [
+              463,
+              847
+            ],
+            [
+              463,
+              865
+            ],
+            [
+              361,
+              865
+            ]
+          ]
+        },
+        {
+          "text": "kindly make it convenient to attend the meeting and offer your valuable",
+          "confidence": 0.8512,
+          "bbox": [
+            [
+              461,
+              841
+            ],
+            [
+              956,
+              841
+            ],
+            [
+              956,
+              868
+            ],
+            [
+              461,
+              868
+            ]
+          ]
+        },
+        {
+          "text": "contributions",
+          "confidence": 0.9966,
+          "bbox": [
+            [
+              306,
+              863
+            ],
+            [
+              392,
+              863
+            ],
+            [
+              392,
+              879
+            ],
+            [
+              306,
+              879
+            ]
+          ]
+        },
+        {
+          "text": "of confirmation regarding your participation through Phone",
+          "confidence": 0.7287,
+          "bbox": [
+            [
+              443,
+              865
+            ],
+            [
+              843,
+              865
+            ],
+            [
+              843,
+              885
+            ],
+            [
+              443,
+              885
+            ]
+          ]
+        },
+        {
+          "text": "E-mail; will be",
+          "confidence": 0.5612,
+          "bbox": [
+            [
+              857,
+              867
+            ],
+            [
+              955,
+              867
+            ],
+            [
+              955,
+              883
+            ],
+            [
+              857,
+              883
+            ]
+          ]
+        },
+        {
+          "text": "greatly appreciated,",
+          "confidence": 0.8156,
+          "bbox": [
+            [
+              304,
+              879
+            ],
+            [
+              435,
+              879
+            ],
+            [
+              435,
+              899
+            ],
+            [
+              304,
+              899
+            ]
+          ]
+        },
+        {
+          "text": "With kind regards",
+          "confidence": 0.8342,
+          "bbox": [
+            [
+              350,
+              912
+            ],
+            [
+              472,
+              912
+            ],
+            [
+              472,
+              937
+            ],
+            [
+              350,
+              937
+            ]
+          ]
+        },
+        {
+          "text": "ours faithful",
+          "confidence": 0.9237,
+          "bbox": [
+            [
+              861,
+              935
+            ],
+            [
+              937,
+              935
+            ],
+            [
+              937,
+              953
+            ],
+            [
+              861,
+              953
+            ]
+          ]
+        },
+        {
+          "text": "Chairp",
+          "confidence": 0.9719,
+          "bbox": [
+            [
+              858,
+              988
+            ],
+            [
+              907,
+              988
+            ],
+            [
+              907,
+              1007
+            ],
+            [
+              858,
+              1007
+            ]
+          ]
+        },
+        {
+          "text": "NOTE: TA T DA FOR MEMBERS PARTICIPATING IN THE MEETING",
+          "confidence": 0.4526,
+          "bbox": [
+            [
+              300,
+              1010
+            ],
+            [
+              768,
+              1010
+            ],
+            [
+              768,
+              1036
+            ],
+            [
+              300,
+              1036
+            ]
+          ]
+        },
+        {
+          "text": "Members from Anna University, Chenna",
+          "confidence": 0.7619,
+          "bbox": [
+            [
+              333,
+              1032
+            ],
+            [
+              581,
+              1032
+            ],
+            [
+              581,
+              1051
+            ],
+            [
+              333,
+              1051
+            ]
+          ]
+        },
+        {
+          "text": "willl De",
+          "confidence": 0.545,
+          "bbox": [
+            [
+              587,
+              1035
+            ],
+            [
+              629,
+              1035
+            ],
+            [
+              629,
+              1049
+            ],
+            [
+              587,
+              1049
+            ]
+          ]
+        },
+        {
+          "text": "sitting fee of Rs.",
+          "confidence": 0.5429,
+          "bbox": [
+            [
+              673,
+              1035
+            ],
+            [
+              775,
+              1035
+            ],
+            [
+              775,
+              1053
+            ],
+            [
+              673,
+              1053
+            ]
+          ]
+        },
+        {
+          "text": "1000/- per day including",
+          "confidence": 0.8979,
+          "bbox": [
+            [
+              781,
+              1035
+            ],
+            [
+              931,
+              1035
+            ],
+            [
+              931,
+              1055
+            ],
+            [
+              781,
+              1055
+            ]
+          ]
+        },
+        {
+          "text": "Traveling Allowances",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              334,
+              1044
+            ],
+            [
+              465,
+              1044
+            ],
+            [
+              465,
+              1065
+            ],
+            [
+              334,
+              1065
+            ]
+          ]
+        },
+        {
+          "text": "Members from Chennai City will be",
+          "confidence": 0.5672,
+          "bbox": [
+            [
+              333,
+              1064
+            ],
+            [
+              547,
+              1064
+            ],
+            [
+              547,
+              1081
+            ],
+            [
+              333,
+              1081
+            ]
+          ]
+        },
+        {
+          "text": "sitting fee of Rs; 1000/- per day and Rs. 400/- as travelling",
+          "confidence": 0.4236,
+          "bbox": [
+            [
+              576,
+              1064
+            ],
+            [
+              932,
+              1064
+            ],
+            [
+              932,
+              1088
+            ],
+            [
+              576,
+              1088
+            ]
+          ]
+        },
+        {
+          "text": "allowance",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              333,
+              1079
+            ],
+            [
+              395,
+              1079
+            ],
+            [
+              395,
+              1095
+            ],
+            [
+              333,
+              1095
+            ]
+          ]
+        },
+        {
+          "text": "Members",
+          "confidence": 0.8807,
+          "bbox": [
+            [
+              333,
+              1097
+            ],
+            [
+              391,
+              1097
+            ],
+            [
+              391,
+              1111
+            ],
+            [
+              333,
+              1111
+            ]
+          ]
+        },
+        {
+          "text": "Irom",
+          "confidence": 0.6353,
+          "bbox": [
+            [
+              399,
+              1097
+            ],
+            [
+              431,
+              1097
+            ],
+            [
+              431,
+              1111
+            ],
+            [
+              399,
+              1111
+            ]
+          ]
+        },
+        {
+          "text": "outside",
+          "confidence": 0.9814,
+          "bbox": [
+            [
+              439,
+              1097
+            ],
+            [
+              487,
+              1097
+            ],
+            [
+              487,
+              1113
+            ],
+            [
+              439,
+              1113
+            ]
+          ]
+        },
+        {
+          "text": "Chennal",
+          "confidence": 0.9373,
+          "bbox": [
+            [
+              495,
+              1097
+            ],
+            [
+              551,
+              1097
+            ],
+            [
+              551,
+              1113
+            ],
+            [
+              495,
+              1113
+            ]
+          ]
+        },
+        {
+          "text": "city",
+          "confidence": 0.9952,
+          "bbox": [
+            [
+              557,
+              1099
+            ],
+            [
+              581,
+              1099
+            ],
+            [
+              581,
+              1115
+            ],
+            [
+              557,
+              1115
+            ]
+          ]
+        },
+        {
+          "text": "Wil",
+          "confidence": 0.1274,
+          "bbox": [
+            [
+              589,
+              1099
+            ],
+            [
+              613,
+              1099
+            ],
+            [
+              613,
+              1113
+            ],
+            [
+              589,
+              1113
+            ]
+          ]
+        },
+        {
+          "text": "paid",
+          "confidence": 0.9899,
+          "bbox": [
+            [
+              647,
+              1099
+            ],
+            [
+              675,
+              1099
+            ],
+            [
+              675,
+              1115
+            ],
+            [
+              647,
+              1115
+            ]
+          ]
+        },
+        {
+          "text": "Traveling",
+          "confidence": 0.4748,
+          "bbox": [
+            [
+              684,
+              1096
+            ],
+            [
+              743,
+              1096
+            ],
+            [
+              743,
+              1117
+            ],
+            [
+              684,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "Allowance",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              752,
+              1100
+            ],
+            [
+              819,
+              1100
+            ],
+            [
+              819,
+              1117
+            ],
+            [
+              752,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "the",
+          "confidence": 0.9769,
+          "bbox": [
+            [
+              849,
+              1101
+            ],
+            [
+              873,
+              1101
+            ],
+            [
+              873,
+              1117
+            ],
+            [
+              849,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "rate",
+          "confidence": 0.9511,
+          "bbox": [
+            [
+              879,
+              1103
+            ],
+            [
+              907,
+              1103
+            ],
+            [
+              907,
+              1117
+            ],
+            [
+              879,
+              1117
+            ]
+          ]
+        },
+        {
+          "text": "8 2/3 (Both Ways) by",
+          "confidence": 0.8547,
+          "bbox": [
+            [
+              343,
+              1111
+            ],
+            [
+              475,
+              1111
+            ],
+            [
+              475,
+              1129
+            ],
+            [
+              343,
+              1129
+            ]
+          ]
+        },
+        {
+          "text": "Class Train Fare and",
+          "confidence": 0.9854,
+          "bbox": [
+            [
+              505,
+              1113
+            ],
+            [
+              633,
+              1113
+            ],
+            [
+              633,
+              1129
+            ],
+            [
+              505,
+              1129
+            ]
+          ]
+        },
+        {
+          "text": "Fee of Rs",
+          "confidence": 0.917,
+          "bbox": [
+            [
+              671,
+              1115
+            ],
+            [
+              735,
+              1115
+            ],
+            [
+              735,
+              1131
+            ],
+            [
+              671,
+              1131
+            ]
+          ]
+        },
+        {
+          "text": "Ooo/= per day:",
+          "confidence": 0.414,
+          "bbox": [
+            [
+              749,
+              1115
+            ],
+            [
+              835,
+              1115
+            ],
+            [
+              835,
+              1133
+            ],
+            [
+              749,
+              1133
+            ]
+          ]
+        },
+        {
+          "text": "Members from outside the Tamil Nadu State are eligible for Airfare",
+          "confidence": 0.8997,
+          "bbox": [
+            [
+              333,
+              1129
+            ],
+            [
+              737,
+              1129
+            ],
+            [
+              737,
+              1149
+            ],
+            [
+              333,
+              1149
+            ]
+          ]
+        },
+        {
+          "text": "Economy Class) on both ways",
+          "confidence": 0.8856,
+          "bbox": [
+            [
+              743,
+              1133
+            ],
+            [
+              931,
+              1133
+            ],
+            [
+              931,
+              1151
+            ],
+            [
+              743,
+              1151
+            ]
+          ]
+        },
+        {
+          "text": "besides",
+          "confidence": 0.8375,
+          "bbox": [
+            [
+              333,
+              1145
+            ],
+            [
+              381,
+              1145
+            ],
+            [
+              381,
+              1159
+            ],
+            [
+              333,
+              1159
+            ]
+          ]
+        },
+        {
+          "text": "Rs. 1200/- towards conveyance charges (to and fro Residence",
+          "confidence": 0.6757,
+          "bbox": [
+            [
+              387,
+              1143
+            ],
+            [
+              767,
+              1143
+            ],
+            [
+              767,
+              1164
+            ],
+            [
+              387,
+              1164
+            ]
+          ]
+        },
+        {
+          "text": "Airpont",
+          "confidence": 0.5416,
+          "bbox": [
+            [
+              781,
+              1149
+            ],
+            [
+              825,
+              1149
+            ],
+            [
+              825,
+              1165
+            ],
+            [
+              781,
+              1165
+            ]
+          ]
+        },
+        {
+          "text": "University) and",
+          "confidence": 0.981,
+          "bbox": [
+            [
+              836,
+              1148
+            ],
+            [
+              931,
+              1148
+            ],
+            [
+              931,
+              1167
+            ],
+            [
+              836,
+              1167
+            ]
+          ]
+        },
+        {
+          "text": "sitting fee Rs. 10OO/- per day for attending the meeting",
+          "confidence": 0.5045,
+          "bbox": [
+            [
+              329,
+              1156
+            ],
+            [
+              660,
+              1156
+            ],
+            [
+              660,
+              1180
+            ],
+            [
+              329,
+              1180
+            ]
+          ]
+        },
+        {
+          "text": "Travel by",
+          "confidence": 0.8867,
+          "bbox": [
+            [
+              333,
+              1175
+            ],
+            [
+              391,
+              1175
+            ],
+            [
+              391,
+              1193
+            ],
+            [
+              333,
+              1193
+            ]
+          ]
+        },
+        {
+          "text": "car is permitted upto",
+          "confidence": 0.9472,
+          "bbox": [
+            [
+              395,
+              1177
+            ],
+            [
+              527,
+              1177
+            ],
+            [
+              527,
+              1193
+            ],
+            [
+              395,
+              1193
+            ]
+          ]
+        },
+        {
+          "text": "Maximum 0f Z0okms",
+          "confidence": 0.3372,
+          "bbox": [
+            [
+              543,
+              1179
+            ],
+            [
+              673,
+              1179
+            ],
+            [
+              673,
+              1195
+            ],
+            [
+              543,
+              1195
+            ]
+          ]
+        },
+        {
+          "text": "both ways and wilI be",
+          "confidence": 0.7193,
+          "bbox": [
+            [
+              677,
+              1181
+            ],
+            [
+              819,
+              1181
+            ],
+            [
+              819,
+              1197
+            ],
+            [
+              677,
+              1197
+            ]
+          ]
+        },
+        {
+          "text": "Rs 7lper km",
+          "confidence": 0.9341,
+          "bbox": [
+            [
+              849,
+              1179
+            ],
+            [
+              929,
+              1179
+            ],
+            [
+              929,
+              1199
+            ],
+            [
+              849,
+              1199
+            ]
+          ]
+        },
+        {
+          "text": "subject t0 (he production of official bill from the Travel Agency (with TIN Registration number)",
+          "confidence": 0.6462,
+          "bbox": [
+            [
+              330,
+              1190
+            ],
+            [
+              892,
+              1190
+            ],
+            [
+              892,
+              1216
+            ],
+            [
+              330,
+              1216
+            ]
+          ]
+        },
+        {
+          "text": "Reg:",
+          "confidence": 0.8647,
+          "bbox": [
+            [
+              577,
+              562
+            ],
+            [
+              612,
+              567
+            ],
+            [
+              609,
+              588
+            ],
+            [
+              574,
+              583
+            ]
+          ]
+        },
+        {
+          "text": "Vice-(",
+          "confidence": 0.6634,
+          "bbox": [
+            [
+              367,
+              586
+            ],
+            [
+              406,
+              591
+            ],
+            [
+              403,
+              609
+            ],
+            [
+              364,
+              604
+            ]
+          ]
+        },
+        {
+          "text": "Jine",
+          "confidence": 0.4975,
+          "bbox": [
+            [
+              413,
+              860
+            ],
+            [
+              442,
+              865
+            ],
+            [
+              439,
+              881
+            ],
+            [
+              410,
+              877
+            ]
+          ]
+        },
+        {
+          "text": "pald",
+          "confidence": 0.7076,
+          "bbox": [
+            [
+              626,
+              1036
+            ],
+            [
+              658,
+              1032
+            ],
+            [
+              660,
+              1050
+            ],
+            [
+              628,
+              1053
+            ]
+          ]
+        },
+        {
+          "text": "pald",
+          "confidence": 0.8531,
+          "bbox": [
+            [
+              544,
+              1066
+            ],
+            [
+              574,
+              1063
+            ],
+            [
+              576,
+              1080
+            ],
+            [
+              546,
+              1083
+            ]
+          ]
+        },
+        {
+          "text": "First",
+          "confidence": 0.1853,
+          "bbox": [
+            [
+              473,
+              1112
+            ],
+            [
+              504,
+              1115
+            ],
+            [
+              503,
+              1129
+            ],
+            [
+              471,
+              1126
+            ]
+          ]
+        },
+        {
+          "text": "sitting",
+          "confidence": 0.5981,
+          "bbox": [
+            [
+              633,
+              1111
+            ],
+            [
+              672,
+              1117
+            ],
+            [
+              669,
+              1133
+            ],
+            [
+              630,
+              1128
+            ]
+          ]
+        },
+        {
+          "text": "paid",
+          "confidence": 0.9982,
+          "bbox": [
+            [
+              818,
+              1182
+            ],
+            [
+              848,
+              1179
+            ],
+            [
+              850,
+              1196
+            ],
+            [
+              820,
+              1199
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Academic Year\n2015\n2016\nANNA UNIVERSITY\nCHENNAI - 600 025 . INDIA\nPhone\n+91\n44 = 2235 2161\n+91\n7735 7003\nFax\n+91\n2236 1956\nREGISTRAR\nGram\nAnnaTeCH\nEamatl\nregistrarannaunivedu\nProcs\nNo.666/AUCICAC/2016\nDated: 11.02.2016\nTo\nDr.Jolhimurugan\nDirector Department 0i MBA\nKLN college 0l Engineenng\nPollapalayam\nsivaqanga\ndistict\n630 612\nSir\nMadam\nSub: Anna University,\nChennal\nAffiliated  Institutions\nBoard\nofStudies\n0i Ine\nFacully of Management Sciences\nConstitution\nAppointment of members\nInformation\nRef:\nVice-Chancellor s approval dated 28.09.2015.\netted\nam pleased to inform yau that the Vice\nChancellor has appointed you as a Member 0f\nIhe Board of Studies of the Affiliated Institutions under the Faculty of Management Sciences of\nAnna University, Chennai;\nA copy of the Syndicate Resolution indicating the powers and functions of Ihe Board is\nalso enclosed for your reference:.\nThe Membership is honorary and it is for & tenure of three years upto February 2019.\nam t0 request You t0 kindly accept\noffer and send your acceptance letter on Or\nbefore 04.03.2016, eitfier by post or by E-mall (dac@annauniv edu)\nWih kind regards\nYours {aithfully\nfor REGISTRAR\nEncl: As above\nReg:\nthe",
+      "word_count": 184,
+      "line_count": 60,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2015",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              308,
+              136
+            ],
+            [
+              308,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2016",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              316,
+              136
+            ],
+            [
+              364,
+              136
+            ],
+            [
+              364,
+              160
+            ],
+            [
+              316,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "ANNA UNIVERSITY",
+          "confidence": 0.9979,
+          "bbox": [
+            [
+              431,
+              237
+            ],
+            [
+              805,
+              237
+            ],
+            [
+              805,
+              279
+            ],
+            [
+              431,
+              279
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI - 600 025 . INDIA",
+          "confidence": 0.5307,
+          "bbox": [
+            [
+              472,
+              276
+            ],
+            [
+              758,
+              276
+            ],
+            [
+              758,
+              302
+            ],
+            [
+              472,
+              302
+            ]
+          ]
+        },
+        {
+          "text": "Phone",
+          "confidence": 0.7365,
+          "bbox": [
+            [
+              789,
+              297
+            ],
+            [
+              837,
+              297
+            ],
+            [
+              837,
+              313
+            ],
+            [
+              789,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "+91",
+          "confidence": 0.9697,
+          "bbox": [
+            [
+              855,
+              297
+            ],
+            [
+              885,
+              297
+            ],
+            [
+              885,
+              313
+            ],
+            [
+              855,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "44 = 2235 2161",
+          "confidence": 0.2645,
+          "bbox": [
+            [
+              893,
+              293
+            ],
+            [
+              991,
+              293
+            ],
+            [
+              991,
+              313
+            ],
+            [
+              893,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "+91",
+          "confidence": 0.6344,
+          "bbox": [
+            [
+              857,
+              313
+            ],
+            [
+              885,
+              313
+            ],
+            [
+              885,
+              329
+            ],
+            [
+              857,
+              329
+            ]
+          ]
+        },
+        {
+          "text": "7735 7003",
+          "confidence": 0.3589,
+          "bbox": [
+            [
+              919,
+              311
+            ],
+            [
+              993,
+              311
+            ],
+            [
+              993,
+              329
+            ],
+            [
+              919,
+              329
+            ]
+          ]
+        },
+        {
+          "text": "Fax",
+          "confidence": 0.1274,
+          "bbox": [
+            [
+              789,
+              333
+            ],
+            [
+              819,
+              333
+            ],
+            [
+              819,
+              349
+            ],
+            [
+              789,
+              349
+            ]
+          ]
+        },
+        {
+          "text": "+91",
+          "confidence": 0.9844,
+          "bbox": [
+            [
+              857,
+              331
+            ],
+            [
+              885,
+              331
+            ],
+            [
+              885,
+              347
+            ],
+            [
+              857,
+              347
+            ]
+          ]
+        },
+        {
+          "text": "2236 1956",
+          "confidence": 0.1649,
+          "bbox": [
+            [
+              919,
+              329
+            ],
+            [
+              993,
+              329
+            ],
+            [
+              993,
+              347
+            ],
+            [
+              919,
+              347
+            ]
+          ]
+        },
+        {
+          "text": "REGISTRAR",
+          "confidence": 0.6835,
+          "bbox": [
+            [
+              211,
+              345
+            ],
+            [
+              329,
+              345
+            ],
+            [
+              329,
+              365
+            ],
+            [
+              211,
+              365
+            ]
+          ]
+        },
+        {
+          "text": "Gram",
+          "confidence": 0.8675,
+          "bbox": [
+            [
+              789,
+              351
+            ],
+            [
+              831,
+              351
+            ],
+            [
+              831,
+              367
+            ],
+            [
+              789,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "AnnaTeCH",
+          "confidence": 0.13,
+          "bbox": [
+            [
+              855,
+              347
+            ],
+            [
+              939,
+              347
+            ],
+            [
+              939,
+              367
+            ],
+            [
+              855,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "Eamatl",
+          "confidence": 0.1704,
+          "bbox": [
+            [
+              791,
+              367
+            ],
+            [
+              837,
+              367
+            ],
+            [
+              837,
+              383
+            ],
+            [
+              791,
+              383
+            ]
+          ]
+        },
+        {
+          "text": "registrarannaunivedu",
+          "confidence": 0.7263,
+          "bbox": [
+            [
+              855,
+              363
+            ],
+            [
+              1024,
+              363
+            ],
+            [
+              1024,
+              387
+            ],
+            [
+              855,
+              387
+            ]
+          ]
+        },
+        {
+          "text": "Procs",
+          "confidence": 0.9987,
+          "bbox": [
+            [
+              269,
+              437
+            ],
+            [
+              315,
+              437
+            ],
+            [
+              315,
+              455
+            ],
+            [
+              269,
+              455
+            ]
+          ]
+        },
+        {
+          "text": "No.666/AUCICAC/2016",
+          "confidence": 0.5524,
+          "bbox": [
+            [
+              321,
+              433
+            ],
+            [
+              497,
+              433
+            ],
+            [
+              497,
+              453
+            ],
+            [
+              321,
+              453
+            ]
+          ]
+        },
+        {
+          "text": "Dated: 11.02.2016",
+          "confidence": 0.9344,
+          "bbox": [
+            [
+              810,
+              425
+            ],
+            [
+              951,
+              425
+            ],
+            [
+              951,
+              450
+            ],
+            [
+              810,
+              450
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              269,
+              473
+            ],
+            [
+              291,
+              473
+            ],
+            [
+              291,
+              489
+            ],
+            [
+              269,
+              489
+            ]
+          ]
+        },
+        {
+          "text": "Dr.Jolhimurugan",
+          "confidence": 0.2767,
+          "bbox": [
+            [
+              289,
+              496
+            ],
+            [
+              401,
+              496
+            ],
+            [
+              401,
+              515
+            ],
+            [
+              289,
+              515
+            ]
+          ]
+        },
+        {
+          "text": "Director Department 0i MBA",
+          "confidence": 0.3468,
+          "bbox": [
+            [
+              289,
+              515
+            ],
+            [
+              471,
+              515
+            ],
+            [
+              471,
+              531
+            ],
+            [
+              289,
+              531
+            ]
+          ]
+        },
+        {
+          "text": "KLN college 0l Engineenng",
+          "confidence": 0.4297,
+          "bbox": [
+            [
+              288,
+              528
+            ],
+            [
+              464,
+              528
+            ],
+            [
+              464,
+              552
+            ],
+            [
+              288,
+              552
+            ]
+          ]
+        },
+        {
+          "text": "Pollapalayam",
+          "confidence": 0.6798,
+          "bbox": [
+            [
+              287,
+              549
+            ],
+            [
+              379,
+              549
+            ],
+            [
+              379,
+              565
+            ],
+            [
+              287,
+              565
+            ]
+          ]
+        },
+        {
+          "text": "sivaqanga",
+          "confidence": 0.8062,
+          "bbox": [
+            [
+              287,
+              567
+            ],
+            [
+              355,
+              567
+            ],
+            [
+              355,
+              583
+            ],
+            [
+              287,
+              583
+            ]
+          ]
+        },
+        {
+          "text": "distict",
+          "confidence": 0.8745,
+          "bbox": [
+            [
+              359,
+              567
+            ],
+            [
+              405,
+              567
+            ],
+            [
+              405,
+              581
+            ],
+            [
+              359,
+              581
+            ]
+          ]
+        },
+        {
+          "text": "630 612",
+          "confidence": 0.6549,
+          "bbox": [
+            [
+              413,
+              565
+            ],
+            [
+              469,
+              565
+            ],
+            [
+              469,
+              581
+            ],
+            [
+              413,
+              581
+            ]
+          ]
+        },
+        {
+          "text": "Sir",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              269,
+              651
+            ],
+            [
+              293,
+              651
+            ],
+            [
+              293,
+              671
+            ],
+            [
+              269,
+              671
+            ]
+          ]
+        },
+        {
+          "text": "Madam",
+          "confidence": 0.9984,
+          "bbox": [
+            [
+              303,
+              653
+            ],
+            [
+              363,
+              653
+            ],
+            [
+              363,
+              671
+            ],
+            [
+              303,
+              671
+            ]
+          ]
+        },
+        {
+          "text": "Sub: Anna University,",
+          "confidence": 0.4553,
+          "bbox": [
+            [
+              333,
+              687
+            ],
+            [
+              499,
+              687
+            ],
+            [
+              499,
+              707
+            ],
+            [
+              333,
+              707
+            ]
+          ]
+        },
+        {
+          "text": "Chennal",
+          "confidence": 0.9455,
+          "bbox": [
+            [
+              505,
+              687
+            ],
+            [
+              569,
+              687
+            ],
+            [
+              569,
+              705
+            ],
+            [
+              505,
+              705
+            ]
+          ]
+        },
+        {
+          "text": "Affiliated  Institutions",
+          "confidence": 0.8218,
+          "bbox": [
+            [
+              589,
+              685
+            ],
+            [
+              739,
+              685
+            ],
+            [
+              739,
+              705
+            ],
+            [
+              589,
+              705
+            ]
+          ]
+        },
+        {
+          "text": "Board",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              761,
+              683
+            ],
+            [
+              809,
+              683
+            ],
+            [
+              809,
+              703
+            ],
+            [
+              761,
+              703
+            ]
+          ]
+        },
+        {
+          "text": "ofStudies",
+          "confidence": 0.8901,
+          "bbox": [
+            [
+              815,
+              685
+            ],
+            [
+              893,
+              685
+            ],
+            [
+              893,
+              701
+            ],
+            [
+              815,
+              701
+            ]
+          ]
+        },
+        {
+          "text": "0i Ine",
+          "confidence": 0.4945,
+          "bbox": [
+            [
+              899,
+              685
+            ],
+            [
+              947,
+              685
+            ],
+            [
+              947,
+              701
+            ],
+            [
+              899,
+              701
+            ]
+          ]
+        },
+        {
+          "text": "Facully of Management Sciences",
+          "confidence": 0.6935,
+          "bbox": [
+            [
+              387,
+              705
+            ],
+            [
+              635,
+              705
+            ],
+            [
+              635,
+              725
+            ],
+            [
+              387,
+              725
+            ]
+          ]
+        },
+        {
+          "text": "Constitution",
+          "confidence": 0.716,
+          "bbox": [
+            [
+              653,
+              705
+            ],
+            [
+              741,
+              705
+            ],
+            [
+              741,
+              721
+            ],
+            [
+              653,
+              721
+            ]
+          ]
+        },
+        {
+          "text": "Appointment of members",
+          "confidence": 0.944,
+          "bbox": [
+            [
+              758,
+              700
+            ],
+            [
+              946,
+              700
+            ],
+            [
+              946,
+              724
+            ],
+            [
+              758,
+              724
+            ]
+          ]
+        },
+        {
+          "text": "Information",
+          "confidence": 0.7155,
+          "bbox": [
+            [
+              387,
+              725
+            ],
+            [
+              471,
+              725
+            ],
+            [
+              471,
+              743
+            ],
+            [
+              387,
+              743
+            ]
+          ]
+        },
+        {
+          "text": "Ref:",
+          "confidence": 0.9332,
+          "bbox": [
+            [
+              333,
+              749
+            ],
+            [
+              367,
+              749
+            ],
+            [
+              367,
+              767
+            ],
+            [
+              333,
+              767
+            ]
+          ]
+        },
+        {
+          "text": "Vice-Chancellor s approval dated 28.09.2015.",
+          "confidence": 0.5492,
+          "bbox": [
+            [
+              378,
+              744
+            ],
+            [
+              702,
+              744
+            ],
+            [
+              702,
+              768
+            ],
+            [
+              378,
+              768
+            ]
+          ]
+        },
+        {
+          "text": "etted",
+          "confidence": 0.0003,
+          "bbox": [
+            [
+              592,
+              766
+            ],
+            [
+              628,
+              766
+            ],
+            [
+              628,
+              774
+            ],
+            [
+              592,
+              774
+            ]
+          ]
+        },
+        {
+          "text": "am pleased to inform yau that the Vice",
+          "confidence": 0.5838,
+          "bbox": [
+            [
+              330,
+              800
+            ],
+            [
+              606,
+              800
+            ],
+            [
+              606,
+              825
+            ],
+            [
+              330,
+              825
+            ]
+          ]
+        },
+        {
+          "text": "Chancellor has appointed you as a Member 0f",
+          "confidence": 0.749,
+          "bbox": [
+            [
+              619,
+              800
+            ],
+            [
+              949,
+              800
+            ],
+            [
+              949,
+              821
+            ],
+            [
+              619,
+              821
+            ]
+          ]
+        },
+        {
+          "text": "Ihe Board of Studies of the Affiliated Institutions under the Faculty of Management Sciences of",
+          "confidence": 0.7151,
+          "bbox": [
+            [
+              270,
+              820
+            ],
+            [
+              950,
+              820
+            ],
+            [
+              950,
+              846
+            ],
+            [
+              270,
+              846
+            ]
+          ]
+        },
+        {
+          "text": "Anna University, Chennai;",
+          "confidence": 0.5678,
+          "bbox": [
+            [
+              271,
+              847
+            ],
+            [
+              455,
+              847
+            ],
+            [
+              455,
+              865
+            ],
+            [
+              271,
+              865
+            ]
+          ]
+        },
+        {
+          "text": "A copy of the Syndicate Resolution indicating the powers and functions of Ihe Board is",
+          "confidence": 0.7653,
+          "bbox": [
+            [
+              322,
+              880
+            ],
+            [
+              948,
+              880
+            ],
+            [
+              948,
+              908
+            ],
+            [
+              322,
+              908
+            ]
+          ]
+        },
+        {
+          "text": "also enclosed for your reference:.",
+          "confidence": 0.5773,
+          "bbox": [
+            [
+              272,
+              906
+            ],
+            [
+              504,
+              906
+            ],
+            [
+              504,
+              930
+            ],
+            [
+              272,
+              930
+            ]
+          ]
+        },
+        {
+          "text": "The Membership is honorary and it is for & tenure of three years upto February 2019.",
+          "confidence": 0.6307,
+          "bbox": [
+            [
+              324,
+              941
+            ],
+            [
+              922,
+              941
+            ],
+            [
+              922,
+              972
+            ],
+            [
+              324,
+              972
+            ]
+          ]
+        },
+        {
+          "text": "am t0 request You t0 kindly accept",
+          "confidence": 0.4067,
+          "bbox": [
+            [
+              334,
+              990
+            ],
+            [
+              596,
+              990
+            ],
+            [
+              596,
+              1014
+            ],
+            [
+              334,
+              1014
+            ]
+          ]
+        },
+        {
+          "text": "offer and send your acceptance letter on Or",
+          "confidence": 0.623,
+          "bbox": [
+            [
+              627,
+              989
+            ],
+            [
+              949,
+              989
+            ],
+            [
+              949,
+              1009
+            ],
+            [
+              627,
+              1009
+            ]
+          ]
+        },
+        {
+          "text": "before 04.03.2016, eitfier by post or by E-mall (dac@annauniv edu)",
+          "confidence": 0.5987,
+          "bbox": [
+            [
+              272,
+              1010
+            ],
+            [
+              748,
+              1010
+            ],
+            [
+              748,
+              1034
+            ],
+            [
+              272,
+              1034
+            ]
+          ]
+        },
+        {
+          "text": "Wih kind regards",
+          "confidence": 0.7381,
+          "bbox": [
+            [
+              271,
+              1055
+            ],
+            [
+              399,
+              1055
+            ],
+            [
+              399,
+              1076
+            ],
+            [
+              271,
+              1076
+            ]
+          ]
+        },
+        {
+          "text": "Yours {aithfully",
+          "confidence": 0.5548,
+          "bbox": [
+            [
+              811,
+              1067
+            ],
+            [
+              919,
+              1067
+            ],
+            [
+              919,
+              1087
+            ],
+            [
+              811,
+              1087
+            ]
+          ]
+        },
+        {
+          "text": "for REGISTRAR",
+          "confidence": 0.9994,
+          "bbox": [
+            [
+              813,
+              1139
+            ],
+            [
+              935,
+              1139
+            ],
+            [
+              935,
+              1159
+            ],
+            [
+              813,
+              1159
+            ]
+          ]
+        },
+        {
+          "text": "Encl: As above",
+          "confidence": 0.8541,
+          "bbox": [
+            [
+              273,
+              1171
+            ],
+            [
+              391,
+              1171
+            ],
+            [
+              391,
+              1189
+            ],
+            [
+              273,
+              1189
+            ]
+          ]
+        },
+        {
+          "text": "Reg:",
+          "confidence": 0.7621,
+          "bbox": [
+            [
+              483,
+              720
+            ],
+            [
+              522,
+              725
+            ],
+            [
+              519,
+              746
+            ],
+            [
+              480,
+              741
+            ]
+          ]
+        },
+        {
+          "text": "the",
+          "confidence": 0.7053,
+          "bbox": [
+            [
+              596,
+              989
+            ],
+            [
+              624,
+              993
+            ],
+            [
+              622,
+              1009
+            ],
+            [
+              594,
+              1005
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Academic Year\n2016-2017\nFATIMA COLLEGE (Autonomous)\n(College with Potential for Excellence)\nLand; Madurai-18.\nPHONE: 2668016,\nUG Department of Computer Applications\n2669015.\nFAX: 0452-2068437\nDate : 31,03.2017,\nTo\nDr. N. Balaji;\nProfessor & Head,\nof Information Technology.\nKLN College of Engineering;\nPottapalayam:\nSivagangai.\nSir.\nWe\npleased to inform that YOu have been appointed as the\nSubject\nOur\nBoard of' Studies for the course BCA\nWith regard t0 this we have\nplanned\nt0 convene the\n5\" April, 2017\nat [0.00 a.m , in the\nDepartment of Computer\nApplications(BCA)\nLooking forward for your favorable reply,\nThanking You;\nYours truly,\n(PNancy Vincentina\nHead of the Department\nMany\nDepl\nDear\nare\nExpert\nmeeting\nMary )",
+      "word_count": 110,
+      "line_count": 42,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2016-2017",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              354,
+              136
+            ],
+            [
+              354,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "FATIMA COLLEGE (Autonomous)",
+          "confidence": 0.9359,
+          "bbox": [
+            [
+              278,
+              340
+            ],
+            [
+              526,
+              340
+            ],
+            [
+              526,
+              366
+            ],
+            [
+              278,
+              366
+            ]
+          ]
+        },
+        {
+          "text": "(College with Potential for Excellence)",
+          "confidence": 0.9464,
+          "bbox": [
+            [
+              275,
+              358
+            ],
+            [
+              532,
+              358
+            ],
+            [
+              532,
+              384
+            ],
+            [
+              275,
+              384
+            ]
+          ]
+        },
+        {
+          "text": "Land; Madurai-18.",
+          "confidence": 0.767,
+          "bbox": [
+            [
+              757,
+              354
+            ],
+            [
+              887,
+              354
+            ],
+            [
+              887,
+              375
+            ],
+            [
+              757,
+              375
+            ]
+          ]
+        },
+        {
+          "text": "PHONE: 2668016,",
+          "confidence": 0.9868,
+          "bbox": [
+            [
+              714,
+              368
+            ],
+            [
+              844,
+              368
+            ],
+            [
+              844,
+              392
+            ],
+            [
+              714,
+              392
+            ]
+          ]
+        },
+        {
+          "text": "UG Department of Computer Applications",
+          "confidence": 0.989,
+          "bbox": [
+            [
+              276,
+              394
+            ],
+            [
+              574,
+              394
+            ],
+            [
+              574,
+              422
+            ],
+            [
+              276,
+              422
+            ]
+          ]
+        },
+        {
+          "text": "2669015.",
+          "confidence": 0.9839,
+          "bbox": [
+            [
+              777,
+              389
+            ],
+            [
+              839,
+              389
+            ],
+            [
+              839,
+              409
+            ],
+            [
+              777,
+              409
+            ]
+          ]
+        },
+        {
+          "text": "FAX: 0452-2068437",
+          "confidence": 0.6902,
+          "bbox": [
+            [
+              715,
+              407
+            ],
+            [
+              851,
+              407
+            ],
+            [
+              851,
+              425
+            ],
+            [
+              715,
+              425
+            ]
+          ]
+        },
+        {
+          "text": "Date : 31,03.2017,",
+          "confidence": 0.8855,
+          "bbox": [
+            [
+              732,
+              452
+            ],
+            [
+              860,
+              452
+            ],
+            [
+              860,
+              476
+            ],
+            [
+              732,
+              476
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.8904,
+          "bbox": [
+            [
+              273,
+              561
+            ],
+            [
+              295,
+              561
+            ],
+            [
+              295,
+              577
+            ],
+            [
+              273,
+              577
+            ]
+          ]
+        },
+        {
+          "text": "Dr. N. Balaji;",
+          "confidence": 0.3116,
+          "bbox": [
+            [
+              315,
+              599
+            ],
+            [
+              407,
+              599
+            ],
+            [
+              407,
+              619
+            ],
+            [
+              315,
+              619
+            ]
+          ]
+        },
+        {
+          "text": "Professor & Head,",
+          "confidence": 0.5932,
+          "bbox": [
+            [
+              315,
+              619
+            ],
+            [
+              441,
+              619
+            ],
+            [
+              441,
+              639
+            ],
+            [
+              315,
+              639
+            ]
+          ]
+        },
+        {
+          "text": "of Information Technology.",
+          "confidence": 0.8194,
+          "bbox": [
+            [
+              354,
+              636
+            ],
+            [
+              549,
+              636
+            ],
+            [
+              549,
+              665
+            ],
+            [
+              354,
+              665
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering;",
+          "confidence": 0.8745,
+          "bbox": [
+            [
+              310,
+              653
+            ],
+            [
+              520,
+              653
+            ],
+            [
+              520,
+              684
+            ],
+            [
+              310,
+              684
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam:",
+          "confidence": 0.8073,
+          "bbox": [
+            [
+              311,
+              675
+            ],
+            [
+              412,
+              675
+            ],
+            [
+              412,
+              700
+            ],
+            [
+              311,
+              700
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai.",
+          "confidence": 0.7052,
+          "bbox": [
+            [
+              310,
+              694
+            ],
+            [
+              396,
+              694
+            ],
+            [
+              396,
+              721
+            ],
+            [
+              310,
+              721
+            ]
+          ]
+        },
+        {
+          "text": "Sir.",
+          "confidence": 0.6921,
+          "bbox": [
+            [
+              303,
+              733
+            ],
+            [
+              331,
+              733
+            ],
+            [
+              331,
+              753
+            ],
+            [
+              303,
+              753
+            ]
+          ]
+        },
+        {
+          "text": "We",
+          "confidence": 0.9961,
+          "bbox": [
+            [
+              317,
+              795
+            ],
+            [
+              343,
+              795
+            ],
+            [
+              343,
+              811
+            ],
+            [
+              317,
+              811
+            ]
+          ]
+        },
+        {
+          "text": "pleased to inform that YOu have been appointed as the",
+          "confidence": 0.6694,
+          "bbox": [
+            [
+              372,
+              796
+            ],
+            [
+              770,
+              796
+            ],
+            [
+              770,
+              824
+            ],
+            [
+              372,
+              824
+            ]
+          ]
+        },
+        {
+          "text": "Subject",
+          "confidence": 0.9993,
+          "bbox": [
+            [
+              768,
+              801
+            ],
+            [
+              831,
+              801
+            ],
+            [
+              831,
+              828
+            ],
+            [
+              768,
+              828
+            ]
+          ]
+        },
+        {
+          "text": "Our",
+          "confidence": 0.1584,
+          "bbox": [
+            [
+              903,
+              813
+            ],
+            [
+              931,
+              813
+            ],
+            [
+              931,
+              827
+            ],
+            [
+              903,
+              827
+            ]
+          ]
+        },
+        {
+          "text": "Board of' Studies for the course BCA",
+          "confidence": 0.5895,
+          "bbox": [
+            [
+              264,
+              822
+            ],
+            [
+              544,
+              822
+            ],
+            [
+              544,
+              846
+            ],
+            [
+              264,
+              846
+            ]
+          ]
+        },
+        {
+          "text": "With regard t0 this we have",
+          "confidence": 0.9064,
+          "bbox": [
+            [
+              550,
+              826
+            ],
+            [
+              758,
+              826
+            ],
+            [
+              758,
+              852
+            ],
+            [
+              550,
+              852
+            ]
+          ]
+        },
+        {
+          "text": "planned",
+          "confidence": 0.8063,
+          "bbox": [
+            [
+              761,
+              835
+            ],
+            [
+              817,
+              835
+            ],
+            [
+              817,
+              855
+            ],
+            [
+              761,
+              855
+            ]
+          ]
+        },
+        {
+          "text": "t0 convene the",
+          "confidence": 0.9004,
+          "bbox": [
+            [
+              821,
+              839
+            ],
+            [
+              929,
+              839
+            ],
+            [
+              929,
+              855
+            ],
+            [
+              821,
+              855
+            ]
+          ]
+        },
+        {
+          "text": "5\" April, 2017",
+          "confidence": 0.7254,
+          "bbox": [
+            [
+              342,
+              850
+            ],
+            [
+              452,
+              850
+            ],
+            [
+              452,
+              874
+            ],
+            [
+              342,
+              874
+            ]
+          ]
+        },
+        {
+          "text": "at [0.00 a.m , in the",
+          "confidence": 0.4981,
+          "bbox": [
+            [
+              455,
+              855
+            ],
+            [
+              589,
+              855
+            ],
+            [
+              589,
+              875
+            ],
+            [
+              455,
+              875
+            ]
+          ]
+        },
+        {
+          "text": "Department of Computer",
+          "confidence": 0.8907,
+          "bbox": [
+            [
+              589,
+              857
+            ],
+            [
+              766,
+              857
+            ],
+            [
+              766,
+              884
+            ],
+            [
+              589,
+              884
+            ]
+          ]
+        },
+        {
+          "text": "Applications(BCA)",
+          "confidence": 0.9936,
+          "bbox": [
+            [
+              762,
+              862
+            ],
+            [
+              904,
+              862
+            ],
+            [
+              904,
+              886
+            ],
+            [
+              762,
+              886
+            ]
+          ]
+        },
+        {
+          "text": "Looking forward for your favorable reply,",
+          "confidence": 0.7577,
+          "bbox": [
+            [
+              308,
+              875
+            ],
+            [
+              604,
+              875
+            ],
+            [
+              604,
+              908
+            ],
+            [
+              308,
+              908
+            ]
+          ]
+        },
+        {
+          "text": "Thanking You;",
+          "confidence": 0.898,
+          "bbox": [
+            [
+              536,
+              940
+            ],
+            [
+              644,
+              940
+            ],
+            [
+              644,
+              968
+            ],
+            [
+              536,
+              968
+            ]
+          ]
+        },
+        {
+          "text": "Yours truly,",
+          "confidence": 0.4442,
+          "bbox": [
+            [
+              726,
+              1036
+            ],
+            [
+              812,
+              1036
+            ],
+            [
+              812,
+              1060
+            ],
+            [
+              726,
+              1060
+            ]
+          ]
+        },
+        {
+          "text": "(PNancy Vincentina",
+          "confidence": 0.9468,
+          "bbox": [
+            [
+              697,
+              1066
+            ],
+            [
+              843,
+              1066
+            ],
+            [
+              843,
+              1087
+            ],
+            [
+              697,
+              1087
+            ]
+          ]
+        },
+        {
+          "text": "Head of the Department",
+          "confidence": 0.8203,
+          "bbox": [
+            [
+              702,
+              1092
+            ],
+            [
+              874,
+              1092
+            ],
+            [
+              874,
+              1121
+            ],
+            [
+              702,
+              1121
+            ]
+          ]
+        },
+        {
+          "text": "Many",
+          "confidence": 0.6374,
+          "bbox": [
+            [
+              717,
+              350
+            ],
+            [
+              758,
+              357
+            ],
+            [
+              754,
+              374
+            ],
+            [
+              714,
+              367
+            ]
+          ]
+        },
+        {
+          "text": "Depl",
+          "confidence": 0.8847,
+          "bbox": [
+            [
+              315,
+              636
+            ],
+            [
+              354,
+              641
+            ],
+            [
+              351,
+              658
+            ],
+            [
+              312,
+              654
+            ]
+          ]
+        },
+        {
+          "text": "Dear",
+          "confidence": 0.9988,
+          "bbox": [
+            [
+              267,
+              732
+            ],
+            [
+              304,
+              738
+            ],
+            [
+              301,
+              756
+            ],
+            [
+              264,
+              749
+            ]
+          ]
+        },
+        {
+          "text": "are",
+          "confidence": 0.5866,
+          "bbox": [
+            [
+              343,
+              799
+            ],
+            [
+              369,
+              795
+            ],
+            [
+              371,
+              809
+            ],
+            [
+              345,
+              813
+            ]
+          ]
+        },
+        {
+          "text": "Expert",
+          "confidence": 0.9932,
+          "bbox": [
+            [
+              831,
+              804
+            ],
+            [
+              882,
+              811
+            ],
+            [
+              879,
+              830
+            ],
+            [
+              828,
+              823
+            ]
+          ]
+        },
+        {
+          "text": "meeting",
+          "confidence": 0.6987,
+          "bbox": [
+            [
+              263,
+              847
+            ],
+            [
+              322,
+              855
+            ],
+            [
+              319,
+              873
+            ],
+            [
+              260,
+              865
+            ]
+          ]
+        },
+        {
+          "text": "Mary )",
+          "confidence": 0.9811,
+          "bbox": [
+            [
+              845,
+              1066
+            ],
+            [
+              892,
+              1073
+            ],
+            [
+              889,
+              1092
+            ],
+            [
+              842,
+              1086
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Academic Year\n2016-2017\nDr. Sr. K Fatima Mary, MA.PhD\nD. Liut-, HDSE: PGDVE\nFCo\nFATIMA COLLEGE (Autonomous)\nAccredited tth\nGrade by NAAC)\nPrincipal\n(College tith Fotential for Excellence)\nMary Land; Madurai-1S.\nPHONE: 2668016, 2669015\nFAX\n(452-2668437\nEtuail\nfatimacollegemdu@gmailcom\nDate\n28.03.2017\nNo. 25/P/2016-2017\nDr; N.Balaji\nProfessor & Head\nDepartment of IT\nKLN College of Engineering\nPottapalayam\nSivagangai Dist\nSirfMadam;\nSub:\nFatima\nCollege (Autonomous) Madurai\nBoard of Studies\nMeeting\nDepartment of MCA.is hapPy to have yOu as the Board member and we are\nsure that your interactions and contributions would\nus to sustain and enhance\nthe\nquality of education given in Fatima\nThe meeting of the Board of Studies in MCA: will be held on 04.04.2017 at\n3.00 PM; Please make it convenient to be present for the meeting:\nThank you.\nYours sincerely,\n3 .\n(Dr. Sr. KFatima Mary)\nPRinciPAL\nFatima CollEGE (Autonomous)\n#adrai\n625 018\nReg:\nhelp\nCollege",
+      "word_count": 147,
+      "line_count": 49,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2016-2017",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              354,
+              136
+            ],
+            [
+              354,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "Dr. Sr. K Fatima Mary, MA.PhD",
+          "confidence": 0.6185,
+          "bbox": [
+            [
+              221,
+              331
+            ],
+            [
+              459,
+              331
+            ],
+            [
+              459,
+              352
+            ],
+            [
+              221,
+              352
+            ]
+          ]
+        },
+        {
+          "text": "D. Liut-, HDSE: PGDVE",
+          "confidence": 0.1854,
+          "bbox": [
+            [
+              463,
+              333
+            ],
+            [
+              591,
+              333
+            ],
+            [
+              591,
+              349
+            ],
+            [
+              463,
+              349
+            ]
+          ]
+        },
+        {
+          "text": "FCo",
+          "confidence": 0.0754,
+          "bbox": [
+            [
+              637,
+              331
+            ],
+            [
+              677,
+              331
+            ],
+            [
+              677,
+              343
+            ],
+            [
+              637,
+              343
+            ]
+          ]
+        },
+        {
+          "text": "FATIMA COLLEGE (Autonomous)",
+          "confidence": 0.98,
+          "bbox": [
+            [
+              711,
+              329
+            ],
+            [
+              921,
+              329
+            ],
+            [
+              921,
+              347
+            ],
+            [
+              711,
+              347
+            ]
+          ]
+        },
+        {
+          "text": "Accredited tth",
+          "confidence": 0.5453,
+          "bbox": [
+            [
+              739,
+              349
+            ],
+            [
+              837,
+              349
+            ],
+            [
+              837,
+              363
+            ],
+            [
+              739,
+              363
+            ]
+          ]
+        },
+        {
+          "text": "Grade by NAAC)",
+          "confidence": 0.8609,
+          "bbox": [
+            [
+              855,
+              347
+            ],
+            [
+              957,
+              347
+            ],
+            [
+              957,
+              363
+            ],
+            [
+              855,
+              363
+            ]
+          ]
+        },
+        {
+          "text": "Principal",
+          "confidence": 0.7113,
+          "bbox": [
+            [
+              221,
+              353
+            ],
+            [
+              293,
+              353
+            ],
+            [
+              293,
+              371
+            ],
+            [
+              221,
+              371
+            ]
+          ]
+        },
+        {
+          "text": "(College tith Fotential for Excellence)",
+          "confidence": 0.7902,
+          "bbox": [
+            [
+              711,
+              361
+            ],
+            [
+              939,
+              361
+            ],
+            [
+              939,
+              381
+            ],
+            [
+              711,
+              381
+            ]
+          ]
+        },
+        {
+          "text": "Mary Land; Madurai-1S.",
+          "confidence": 0.491,
+          "bbox": [
+            [
+              711,
+              378
+            ],
+            [
+              857,
+              378
+            ],
+            [
+              857,
+              395
+            ],
+            [
+              711,
+              395
+            ]
+          ]
+        },
+        {
+          "text": "PHONE: 2668016, 2669015",
+          "confidence": 0.7206,
+          "bbox": [
+            [
+              711,
+              395
+            ],
+            [
+              885,
+              395
+            ],
+            [
+              885,
+              413
+            ],
+            [
+              711,
+              413
+            ]
+          ]
+        },
+        {
+          "text": "FAX",
+          "confidence": 0.7399,
+          "bbox": [
+            [
+              711,
+              415
+            ],
+            [
+              745,
+              415
+            ],
+            [
+              745,
+              429
+            ],
+            [
+              711,
+              429
+            ]
+          ]
+        },
+        {
+          "text": "(452-2668437",
+          "confidence": 0.5707,
+          "bbox": [
+            [
+              775,
+              413
+            ],
+            [
+              865,
+              413
+            ],
+            [
+              865,
+              429
+            ],
+            [
+              775,
+              429
+            ]
+          ]
+        },
+        {
+          "text": "Etuail",
+          "confidence": 0.8179,
+          "bbox": [
+            [
+              713,
+              431
+            ],
+            [
+              755,
+              431
+            ],
+            [
+              755,
+              447
+            ],
+            [
+              713,
+              447
+            ]
+          ]
+        },
+        {
+          "text": "fatimacollegemdu@gmailcom",
+          "confidence": 0.5803,
+          "bbox": [
+            [
+              774,
+              430
+            ],
+            [
+              959,
+              430
+            ],
+            [
+              959,
+              450
+            ],
+            [
+              774,
+              450
+            ]
+          ]
+        },
+        {
+          "text": "Date",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              711,
+              457
+            ],
+            [
+              757,
+              457
+            ],
+            [
+              757,
+              477
+            ],
+            [
+              711,
+              477
+            ]
+          ]
+        },
+        {
+          "text": "28.03.2017",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              788,
+              454
+            ],
+            [
+              878,
+              454
+            ],
+            [
+              878,
+              478
+            ],
+            [
+              788,
+              478
+            ]
+          ]
+        },
+        {
+          "text": "No. 25/P/2016-2017",
+          "confidence": 0.8556,
+          "bbox": [
+            [
+              275,
+              505
+            ],
+            [
+              432,
+              505
+            ],
+            [
+              432,
+              525
+            ],
+            [
+              275,
+              525
+            ]
+          ]
+        },
+        {
+          "text": "Dr; N.Balaji",
+          "confidence": 0.5362,
+          "bbox": [
+            [
+              273,
+              553
+            ],
+            [
+              369,
+              553
+            ],
+            [
+              369,
+              573
+            ],
+            [
+              273,
+              573
+            ]
+          ]
+        },
+        {
+          "text": "Professor & Head",
+          "confidence": 0.8346,
+          "bbox": [
+            [
+              275,
+              573
+            ],
+            [
+              415,
+              573
+            ],
+            [
+              415,
+              593
+            ],
+            [
+              275,
+              593
+            ]
+          ]
+        },
+        {
+          "text": "Department of IT",
+          "confidence": 0.99,
+          "bbox": [
+            [
+              274,
+              594
+            ],
+            [
+              414,
+              594
+            ],
+            [
+              414,
+              618
+            ],
+            [
+              274,
+              618
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineering",
+          "confidence": 0.8048,
+          "bbox": [
+            [
+              274,
+              613
+            ],
+            [
+              498,
+              613
+            ],
+            [
+              498,
+              643
+            ],
+            [
+              274,
+              643
+            ]
+          ]
+        },
+        {
+          "text": "Pottapalayam",
+          "confidence": 0.9606,
+          "bbox": [
+            [
+              272,
+              638
+            ],
+            [
+              386,
+              638
+            ],
+            [
+              386,
+              664
+            ],
+            [
+              272,
+              664
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai Dist",
+          "confidence": 0.9644,
+          "bbox": [
+            [
+              271,
+              659
+            ],
+            [
+              402,
+              659
+            ],
+            [
+              402,
+              687
+            ],
+            [
+              271,
+              687
+            ]
+          ]
+        },
+        {
+          "text": "SirfMadam;",
+          "confidence": 0.7029,
+          "bbox": [
+            [
+              273,
+              725
+            ],
+            [
+              373,
+              725
+            ],
+            [
+              373,
+              745
+            ],
+            [
+              273,
+              745
+            ]
+          ]
+        },
+        {
+          "text": "Sub:",
+          "confidence": 0.993,
+          "bbox": [
+            [
+              379,
+              787
+            ],
+            [
+              421,
+              787
+            ],
+            [
+              421,
+              807
+            ],
+            [
+              379,
+              807
+            ]
+          ]
+        },
+        {
+          "text": "Fatima",
+          "confidence": 0.9029,
+          "bbox": [
+            [
+              431,
+              789
+            ],
+            [
+              489,
+              789
+            ],
+            [
+              489,
+              807
+            ],
+            [
+              431,
+              807
+            ]
+          ]
+        },
+        {
+          "text": "College (Autonomous) Madurai",
+          "confidence": 0.9536,
+          "bbox": [
+            [
+              484,
+              782
+            ],
+            [
+              746,
+              782
+            ],
+            [
+              746,
+              813
+            ],
+            [
+              484,
+              813
+            ]
+          ]
+        },
+        {
+          "text": "Board of Studies",
+          "confidence": 0.9972,
+          "bbox": [
+            [
+              759,
+              785
+            ],
+            [
+              895,
+              785
+            ],
+            [
+              895,
+              805
+            ],
+            [
+              759,
+              805
+            ]
+          ]
+        },
+        {
+          "text": "Meeting",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              429,
+              804
+            ],
+            [
+              505,
+              804
+            ],
+            [
+              505,
+              834
+            ],
+            [
+              429,
+              834
+            ]
+          ]
+        },
+        {
+          "text": "Department of MCA.is hapPy to have yOu as the Board member and we are",
+          "confidence": 0.5411,
+          "bbox": [
+            [
+              327,
+              870
+            ],
+            [
+              934,
+              870
+            ],
+            [
+              934,
+              899
+            ],
+            [
+              327,
+              899
+            ]
+          ]
+        },
+        {
+          "text": "sure that your interactions and contributions would",
+          "confidence": 0.764,
+          "bbox": [
+            [
+              274,
+              904
+            ],
+            [
+              686,
+              904
+            ],
+            [
+              686,
+              930
+            ],
+            [
+              274,
+              930
+            ]
+          ]
+        },
+        {
+          "text": "us to sustain and enhance",
+          "confidence": 0.7442,
+          "bbox": [
+            [
+              727,
+              903
+            ],
+            [
+              933,
+              903
+            ],
+            [
+              933,
+              923
+            ],
+            [
+              727,
+              923
+            ]
+          ]
+        },
+        {
+          "text": "the",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              277,
+              941
+            ],
+            [
+              305,
+              941
+            ],
+            [
+              305,
+              957
+            ],
+            [
+              277,
+              957
+            ]
+          ]
+        },
+        {
+          "text": "quality of education given in Fatima",
+          "confidence": 0.8948,
+          "bbox": [
+            [
+              301,
+              936
+            ],
+            [
+              588,
+              936
+            ],
+            [
+              588,
+              962
+            ],
+            [
+              301,
+              962
+            ]
+          ]
+        },
+        {
+          "text": "The meeting of the Board of Studies in MCA: will be held on 04.04.2017 at",
+          "confidence": 0.6791,
+          "bbox": [
+            [
+              326,
+              988
+            ],
+            [
+              936,
+              988
+            ],
+            [
+              936,
+              1016
+            ],
+            [
+              326,
+              1016
+            ]
+          ]
+        },
+        {
+          "text": "3.00 PM; Please make it convenient to be present for the meeting:",
+          "confidence": 0.687,
+          "bbox": [
+            [
+              274,
+              1020
+            ],
+            [
+              787,
+              1020
+            ],
+            [
+              787,
+              1046
+            ],
+            [
+              274,
+              1046
+            ]
+          ]
+        },
+        {
+          "text": "Thank you.",
+          "confidence": 0.8088,
+          "bbox": [
+            [
+              378,
+              1076
+            ],
+            [
+              472,
+              1076
+            ],
+            [
+              472,
+              1102
+            ],
+            [
+              378,
+              1102
+            ]
+          ]
+        },
+        {
+          "text": "Yours sincerely,",
+          "confidence": 0.9929,
+          "bbox": [
+            [
+              728,
+              1126
+            ],
+            [
+              856,
+              1126
+            ],
+            [
+              856,
+              1150
+            ],
+            [
+              728,
+              1150
+            ]
+          ]
+        },
+        {
+          "text": "3 .",
+          "confidence": 0.2244,
+          "bbox": [
+            [
+              665,
+              1173
+            ],
+            [
+              709,
+              1173
+            ],
+            [
+              709,
+              1213
+            ],
+            [
+              665,
+              1213
+            ]
+          ]
+        },
+        {
+          "text": "(Dr. Sr. KFatima Mary)",
+          "confidence": 0.7689,
+          "bbox": [
+            [
+              697,
+              1209
+            ],
+            [
+              887,
+              1209
+            ],
+            [
+              887,
+              1229
+            ],
+            [
+              697,
+              1229
+            ]
+          ]
+        },
+        {
+          "text": "PRinciPAL",
+          "confidence": 0.2723,
+          "bbox": [
+            [
+              759,
+              1229
+            ],
+            [
+              831,
+              1229
+            ],
+            [
+              831,
+              1245
+            ],
+            [
+              759,
+              1245
+            ]
+          ]
+        },
+        {
+          "text": "Fatima CollEGE (Autonomous)",
+          "confidence": 0.1539,
+          "bbox": [
+            [
+              680,
+              1239
+            ],
+            [
+              912,
+              1239
+            ],
+            [
+              912,
+              1264
+            ],
+            [
+              680,
+              1264
+            ]
+          ]
+        },
+        {
+          "text": "#adrai",
+          "confidence": 0.069,
+          "bbox": [
+            [
+              735,
+              1263
+            ],
+            [
+              799,
+              1263
+            ],
+            [
+              799,
+              1279
+            ],
+            [
+              735,
+              1279
+            ]
+          ]
+        },
+        {
+          "text": "625 018",
+          "confidence": 0.2264,
+          "bbox": [
+            [
+              805,
+              1263
+            ],
+            [
+              855,
+              1263
+            ],
+            [
+              855,
+              1279
+            ],
+            [
+              805,
+              1279
+            ]
+          ]
+        },
+        {
+          "text": "Reg:",
+          "confidence": 0.8551,
+          "bbox": [
+            [
+              512,
+              805
+            ],
+            [
+              555,
+              810
+            ],
+            [
+              552,
+              835
+            ],
+            [
+              509,
+              830
+            ]
+          ]
+        },
+        {
+          "text": "help",
+          "confidence": 0.9989,
+          "bbox": [
+            [
+              685,
+              900
+            ],
+            [
+              726,
+              906
+            ],
+            [
+              723,
+              928
+            ],
+            [
+              681,
+              922
+            ]
+          ]
+        },
+        {
+          "text": "College",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              587,
+              931
+            ],
+            [
+              652,
+              941
+            ],
+            [
+              648,
+              963
+            ],
+            [
+              583,
+              953
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Academic Year\n2016\n2017\nOff: 22357077\n76\nFax\nDir .: 22352272\nCENTRE FOR ACADEMIC COURSES\nANNA\nUNIVERSITY\nCHENNAI\n600 025\nDr; T, V. GEETHA\nDIRECTOR\nLr No.\n4440AUIISSCICRCSIFICF/2016\n14.10,.2016\nTo\nDr N. Balaji\nHead DEPT OF IT\nKLN College of Engineenng\nPoltapalayam\nSivagangai District-630 612\nSir\nMadam\nSub;\nAnna\nUniversily\nSyllabus\nSub\nCommittee\nRevision\nCurriculum\nand\nSyllabi under R-2017.for (he\nConstituent Colleges and Affiliated Institutions\nFaculty\nInformation\nand\nCommunication\nEngineering\nAppointment\nMember\nInformation\nReg\nhave the pleasure of informing you that the Registrar, Anna University has appointed\nMember of the Syllabus Sub Committee for framing the Curricula and Syllabi for\nVOu\nB.E:\nComputer\nScience\nand\nEnginccring,\nB.Tech:\nInformation\nTechnology,\nB.E: Computer and Communication Engineering, to be offered in UG degree Programmes\nunder R-2017 by the Constituent Colleges and Affiliated Institutions of Anna University,\nChennai under the Faculty of Information\nCommunication Engineering in accordance\nwith the Choice Based Credit System (CBCS) .\nam\nInform\nyou that the  Syllabus\nSub\nCommiltee\nMeeting\nof  the\nFaculty\nInformation and Communication Engineering\nWill\nbe held\non 01.11.2016 (Tuesday) at\n10.00\nAM\nTuring\nHall;\nDepartment\nComputer\nScience\nEngineering;\nCEG Campus\nAnna\nUniversity, Chennai.\nThe Agenda will be:\nFull Curriculum of UG Programmes and Syllabi of [\n& II Semesters\nSalient   points\nof   Ihe   general\nguidelines\nper AICTE\nnorms\nenclosed:\nThe AICTE\nguidelines are available a: Wwwaicte-india orglmodelsyllabus php\nfor reference\nPlease come prepared with your inputs\nso that we can prepare quality Curriculum\nSyllabi; The main discussions will be held on the day of the Sylabus Sub Committee meeting:\nHowever; the finalization will be through interaction using group e-mails\nThank you in advance for your Co-operation;\nam (0\nrequest\nto kindly accept the offer and send your acceptance letter on or before\n21 10.2016, either by post or by E-mail (ICE SSCB@gmail com):\nYours faithiully\nDIRECTOR\nMline membcrs cxccpt studert metibers. wall De paid\nsing tct 0 Rs 2,00-\nFor all members other (han ihe Iaculty of Anna University Chennal ihe travelling allowance Wll be pald 35 per Ihe following\nnoins\nLocal members from Ine Chennai City\nbe paid Rs 5004-\nMembers Irom outslde Chennai\nciy wnthin Tami Nadu Wll be paid al Ihe rate 0l\nIler AC tare for (ravelling\n#hortcst roulg\n203 (Bolh wraye) (M Ucket nol\nproduced) (Gr)\nActunl Troin Fare and Conveyance (Ilcket should be\nproducedh\nMembers from oulside Temi Nadu Slale are ellaible io\nArjt (Economv Ciass) both V ZvS ? W8 Rs\n20M- towatde\nand\nand\nand\nyou",
+      "word_count": 408,
+      "line_count": 128,
+      "structured_data": [
+        {
+          "text": "Academic Year",
+          "confidence": 0.9973,
+          "bbox": [
+            [
+              116,
+              136
+            ],
+            [
+              250,
+              136
+            ],
+            [
+              250,
+              160
+            ],
+            [
+              116,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2016",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              258,
+              136
+            ],
+            [
+              308,
+              136
+            ],
+            [
+              308,
+              160
+            ],
+            [
+              258,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "2017",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              316,
+              136
+            ],
+            [
+              364,
+              136
+            ],
+            [
+              364,
+              160
+            ],
+            [
+              316,
+              160
+            ]
+          ]
+        },
+        {
+          "text": "Off: 22357077",
+          "confidence": 0.5854,
+          "bbox": [
+            [
+              720,
+              182
+            ],
+            [
+              836,
+              182
+            ],
+            [
+              836,
+              206
+            ],
+            [
+              720,
+              206
+            ]
+          ]
+        },
+        {
+          "text": "76",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              843,
+              183
+            ],
+            [
+              869,
+              183
+            ],
+            [
+              869,
+              201
+            ],
+            [
+              843,
+              201
+            ]
+          ]
+        },
+        {
+          "text": "Fax",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              723,
+              207
+            ],
+            [
+              755,
+              207
+            ],
+            [
+              755,
+              223
+            ],
+            [
+              723,
+              223
+            ]
+          ]
+        },
+        {
+          "text": "Dir .: 22352272",
+          "confidence": 0.5893,
+          "bbox": [
+            [
+              762,
+              198
+            ],
+            [
+              882,
+              198
+            ],
+            [
+              882,
+              226
+            ],
+            [
+              762,
+              226
+            ]
+          ]
+        },
+        {
+          "text": "CENTRE FOR ACADEMIC COURSES",
+          "confidence": 0.8686,
+          "bbox": [
+            [
+              414,
+              224
+            ],
+            [
+              766,
+              224
+            ],
+            [
+              766,
+              252
+            ],
+            [
+              414,
+              252
+            ]
+          ]
+        },
+        {
+          "text": "ANNA",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              504,
+              250
+            ],
+            [
+              560,
+              250
+            ],
+            [
+              560,
+              274
+            ],
+            [
+              504,
+              274
+            ]
+          ]
+        },
+        {
+          "text": "UNIVERSITY",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              572,
+              248
+            ],
+            [
+              686,
+              248
+            ],
+            [
+              686,
+              272
+            ],
+            [
+              572,
+              272
+            ]
+          ]
+        },
+        {
+          "text": "CHENNAI",
+          "confidence": 0.959,
+          "bbox": [
+            [
+              535,
+              273
+            ],
+            [
+              597,
+              273
+            ],
+            [
+              597,
+              287
+            ],
+            [
+              535,
+              287
+            ]
+          ]
+        },
+        {
+          "text": "600 025",
+          "confidence": 0.988,
+          "bbox": [
+            [
+              607,
+              273
+            ],
+            [
+              657,
+              273
+            ],
+            [
+              657,
+              287
+            ],
+            [
+              607,
+              287
+            ]
+          ]
+        },
+        {
+          "text": "Dr; T, V. GEETHA",
+          "confidence": 0.4805,
+          "bbox": [
+            [
+              264,
+              304
+            ],
+            [
+              394,
+              304
+            ],
+            [
+              394,
+              328
+            ],
+            [
+              264,
+              328
+            ]
+          ]
+        },
+        {
+          "text": "DIRECTOR",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              263,
+              325
+            ],
+            [
+              347,
+              325
+            ],
+            [
+              347,
+              345
+            ],
+            [
+              263,
+              345
+            ]
+          ]
+        },
+        {
+          "text": "Lr No.",
+          "confidence": 0.7277,
+          "bbox": [
+            [
+              265,
+              351
+            ],
+            [
+              311,
+              351
+            ],
+            [
+              311,
+              371
+            ],
+            [
+              265,
+              371
+            ]
+          ]
+        },
+        {
+          "text": "4440AUIISSCICRCSIFICF/2016",
+          "confidence": 0.5503,
+          "bbox": [
+            [
+              313,
+              345
+            ],
+            [
+              544,
+              345
+            ],
+            [
+              544,
+              373
+            ],
+            [
+              313,
+              373
+            ]
+          ]
+        },
+        {
+          "text": "14.10,.2016",
+          "confidence": 0.4595,
+          "bbox": [
+            [
+              835,
+              341
+            ],
+            [
+              921,
+              341
+            ],
+            [
+              921,
+              361
+            ],
+            [
+              835,
+              361
+            ]
+          ]
+        },
+        {
+          "text": "To",
+          "confidence": 0.5064,
+          "bbox": [
+            [
+              381,
+              367
+            ],
+            [
+              405,
+              367
+            ],
+            [
+              405,
+              383
+            ],
+            [
+              381,
+              383
+            ]
+          ]
+        },
+        {
+          "text": "Dr N. Balaji",
+          "confidence": 0.71,
+          "bbox": [
+            [
+              381,
+              385
+            ],
+            [
+              463,
+              385
+            ],
+            [
+              463,
+              403
+            ],
+            [
+              381,
+              403
+            ]
+          ]
+        },
+        {
+          "text": "Head DEPT OF IT",
+          "confidence": 0.7668,
+          "bbox": [
+            [
+              381,
+              401
+            ],
+            [
+              505,
+              401
+            ],
+            [
+              505,
+              421
+            ],
+            [
+              381,
+              421
+            ]
+          ]
+        },
+        {
+          "text": "KLN College of Engineenng",
+          "confidence": 0.9693,
+          "bbox": [
+            [
+              379,
+              423
+            ],
+            [
+              563,
+              423
+            ],
+            [
+              563,
+              443
+            ],
+            [
+              379,
+              443
+            ]
+          ]
+        },
+        {
+          "text": "Poltapalayam",
+          "confidence": 0.826,
+          "bbox": [
+            [
+              385,
+              445
+            ],
+            [
+              477,
+              445
+            ],
+            [
+              477,
+              461
+            ],
+            [
+              385,
+              461
+            ]
+          ]
+        },
+        {
+          "text": "Sivagangai District-630 612",
+          "confidence": 0.9554,
+          "bbox": [
+            [
+              380,
+              461
+            ],
+            [
+              573,
+              461
+            ],
+            [
+              573,
+              482
+            ],
+            [
+              380,
+              482
+            ]
+          ]
+        },
+        {
+          "text": "Sir",
+          "confidence": 0.9974,
+          "bbox": [
+            [
+              261,
+              483
+            ],
+            [
+              285,
+              483
+            ],
+            [
+              285,
+              501
+            ],
+            [
+              261,
+              501
+            ]
+          ]
+        },
+        {
+          "text": "Madam",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              293,
+              485
+            ],
+            [
+              349,
+              485
+            ],
+            [
+              349,
+              501
+            ],
+            [
+              293,
+              501
+            ]
+          ]
+        },
+        {
+          "text": "Sub;",
+          "confidence": 0.6971,
+          "bbox": [
+            [
+              283,
+              509
+            ],
+            [
+              317,
+              509
+            ],
+            [
+              317,
+              525
+            ],
+            [
+              283,
+              525
+            ]
+          ]
+        },
+        {
+          "text": "Anna",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              325,
+              509
+            ],
+            [
+              365,
+              509
+            ],
+            [
+              365,
+              525
+            ],
+            [
+              325,
+              525
+            ]
+          ]
+        },
+        {
+          "text": "Universily",
+          "confidence": 0.752,
+          "bbox": [
+            [
+              375,
+              507
+            ],
+            [
+              447,
+              507
+            ],
+            [
+              447,
+              523
+            ],
+            [
+              375,
+              523
+            ]
+          ]
+        },
+        {
+          "text": "Syllabus",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              479,
+              505
+            ],
+            [
+              543,
+              505
+            ],
+            [
+              543,
+              525
+            ],
+            [
+              479,
+              525
+            ]
+          ]
+        },
+        {
+          "text": "Sub",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              551,
+              505
+            ],
+            [
+              583,
+              505
+            ],
+            [
+              583,
+              521
+            ],
+            [
+              551,
+              521
+            ]
+          ]
+        },
+        {
+          "text": "Committee",
+          "confidence": 0.5773,
+          "bbox": [
+            [
+              593,
+              505
+            ],
+            [
+              671,
+              505
+            ],
+            [
+              671,
+              521
+            ],
+            [
+              593,
+              521
+            ]
+          ]
+        },
+        {
+          "text": "Revision",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              703,
+              503
+            ],
+            [
+              767,
+              503
+            ],
+            [
+              767,
+              519
+            ],
+            [
+              703,
+              519
+            ]
+          ]
+        },
+        {
+          "text": "Curriculum",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              803,
+              501
+            ],
+            [
+              883,
+              501
+            ],
+            [
+              883,
+              517
+            ],
+            [
+              803,
+              517
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              893,
+              501
+            ],
+            [
+              923,
+              501
+            ],
+            [
+              923,
+              517
+            ],
+            [
+              893,
+              517
+            ]
+          ]
+        },
+        {
+          "text": "Syllabi under R-2017.for (he",
+          "confidence": 0.5276,
+          "bbox": [
+            [
+              319,
+              520
+            ],
+            [
+              536,
+              520
+            ],
+            [
+              536,
+              546
+            ],
+            [
+              319,
+              546
+            ]
+          ]
+        },
+        {
+          "text": "Constituent Colleges and Affiliated Institutions",
+          "confidence": 0.6747,
+          "bbox": [
+            [
+              540,
+              516
+            ],
+            [
+              910,
+              516
+            ],
+            [
+              910,
+              541
+            ],
+            [
+              540,
+              541
+            ]
+          ]
+        },
+        {
+          "text": "Faculty",
+          "confidence": 0.9683,
+          "bbox": [
+            [
+              321,
+              543
+            ],
+            [
+              379,
+              543
+            ],
+            [
+              379,
+              561
+            ],
+            [
+              321,
+              561
+            ]
+          ]
+        },
+        {
+          "text": "Information",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              411,
+              541
+            ],
+            [
+              503,
+              541
+            ],
+            [
+              503,
+              559
+            ],
+            [
+              411,
+              559
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              511,
+              541
+            ],
+            [
+              543,
+              541
+            ],
+            [
+              543,
+              557
+            ],
+            [
+              511,
+              557
+            ]
+          ]
+        },
+        {
+          "text": "Communication",
+          "confidence": 0.9031,
+          "bbox": [
+            [
+              551,
+              541
+            ],
+            [
+              671,
+              541
+            ],
+            [
+              671,
+              557
+            ],
+            [
+              551,
+              557
+            ]
+          ]
+        },
+        {
+          "text": "Engineering",
+          "confidence": 0.9872,
+          "bbox": [
+            [
+              679,
+              539
+            ],
+            [
+              775,
+              539
+            ],
+            [
+              775,
+              557
+            ],
+            [
+              679,
+              557
+            ]
+          ]
+        },
+        {
+          "text": "Appointment",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              803,
+              537
+            ],
+            [
+              895,
+              537
+            ],
+            [
+              895,
+              555
+            ],
+            [
+              803,
+              555
+            ]
+          ]
+        },
+        {
+          "text": "Member",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              321,
+              561
+            ],
+            [
+              383,
+              561
+            ],
+            [
+              383,
+              579
+            ],
+            [
+              321,
+              579
+            ]
+          ]
+        },
+        {
+          "text": "Information",
+          "confidence": 0.9988,
+          "bbox": [
+            [
+              395,
+              561
+            ],
+            [
+              479,
+              561
+            ],
+            [
+              479,
+              577
+            ],
+            [
+              395,
+              577
+            ]
+          ]
+        },
+        {
+          "text": "Reg",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              491,
+              557
+            ],
+            [
+              525,
+              557
+            ],
+            [
+              525,
+              577
+            ],
+            [
+              491,
+              577
+            ]
+          ]
+        },
+        {
+          "text": "have the pleasure of informing you that the Registrar, Anna University has appointed",
+          "confidence": 0.8214,
+          "bbox": [
+            [
+              314,
+              588
+            ],
+            [
+              924,
+              588
+            ],
+            [
+              924,
+              618
+            ],
+            [
+              314,
+              618
+            ]
+          ]
+        },
+        {
+          "text": "Member of the Syllabus Sub Committee for framing the Curricula and Syllabi for",
+          "confidence": 0.6164,
+          "bbox": [
+            [
+              326,
+              612
+            ],
+            [
+              926,
+              612
+            ],
+            [
+              926,
+              640
+            ],
+            [
+              326,
+              640
+            ]
+          ]
+        },
+        {
+          "text": "VOu",
+          "confidence": 0.8241,
+          "bbox": [
+            [
+              257,
+              627
+            ],
+            [
+              287,
+              627
+            ],
+            [
+              287,
+              643
+            ],
+            [
+              257,
+              643
+            ]
+          ]
+        },
+        {
+          "text": "B.E:",
+          "confidence": 0.8906,
+          "bbox": [
+            [
+              259,
+              647
+            ],
+            [
+              291,
+              647
+            ],
+            [
+              291,
+              663
+            ],
+            [
+              259,
+              663
+            ]
+          ]
+        },
+        {
+          "text": "Computer",
+          "confidence": 0.9871,
+          "bbox": [
+            [
+              303,
+              647
+            ],
+            [
+              379,
+              647
+            ],
+            [
+              379,
+              665
+            ],
+            [
+              303,
+              665
+            ]
+          ]
+        },
+        {
+          "text": "Science",
+          "confidence": 0.9865,
+          "bbox": [
+            [
+              389,
+              645
+            ],
+            [
+              453,
+              645
+            ],
+            [
+              453,
+              661
+            ],
+            [
+              389,
+              661
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              463,
+              645
+            ],
+            [
+              495,
+              645
+            ],
+            [
+              495,
+              661
+            ],
+            [
+              463,
+              661
+            ]
+          ]
+        },
+        {
+          "text": "Enginccring,",
+          "confidence": 0.7852,
+          "bbox": [
+            [
+              504,
+              640
+            ],
+            [
+              604,
+              640
+            ],
+            [
+              604,
+              664
+            ],
+            [
+              504,
+              664
+            ]
+          ]
+        },
+        {
+          "text": "B.Tech:",
+          "confidence": 0.621,
+          "bbox": [
+            [
+              615,
+              641
+            ],
+            [
+              673,
+              641
+            ],
+            [
+              673,
+              657
+            ],
+            [
+              615,
+              657
+            ]
+          ]
+        },
+        {
+          "text": "Information",
+          "confidence": 0.9959,
+          "bbox": [
+            [
+              683,
+              641
+            ],
+            [
+              775,
+              641
+            ],
+            [
+              775,
+              657
+            ],
+            [
+              683,
+              657
+            ]
+          ]
+        },
+        {
+          "text": "Technology,",
+          "confidence": 0.7797,
+          "bbox": [
+            [
+              786,
+              637
+            ],
+            [
+              883,
+              637
+            ],
+            [
+              883,
+              657
+            ],
+            [
+              786,
+              657
+            ]
+          ]
+        },
+        {
+          "text": "B.E: Computer and Communication Engineering, to be offered in UG degree Programmes",
+          "confidence": 0.6113,
+          "bbox": [
+            [
+              256,
+              659
+            ],
+            [
+              924,
+              659
+            ],
+            [
+              924,
+              691
+            ],
+            [
+              256,
+              691
+            ]
+          ]
+        },
+        {
+          "text": "under R-2017 by the Constituent Colleges and Affiliated Institutions of Anna University,",
+          "confidence": 0.9139,
+          "bbox": [
+            [
+              258,
+              682
+            ],
+            [
+              924,
+              682
+            ],
+            [
+              924,
+              712
+            ],
+            [
+              258,
+              712
+            ]
+          ]
+        },
+        {
+          "text": "Chennai under the Faculty of Information",
+          "confidence": 0.9989,
+          "bbox": [
+            [
+              256,
+              712
+            ],
+            [
+              568,
+              712
+            ],
+            [
+              568,
+              736
+            ],
+            [
+              256,
+              736
+            ]
+          ]
+        },
+        {
+          "text": "Communication Engineering in accordance",
+          "confidence": 0.8516,
+          "bbox": [
+            [
+              600,
+              709
+            ],
+            [
+              923,
+              709
+            ],
+            [
+              923,
+              730
+            ],
+            [
+              600,
+              730
+            ]
+          ]
+        },
+        {
+          "text": "with the Choice Based Credit System (CBCS) .",
+          "confidence": 0.6794,
+          "bbox": [
+            [
+              256,
+              732
+            ],
+            [
+              582,
+              732
+            ],
+            [
+              582,
+              758
+            ],
+            [
+              256,
+              758
+            ]
+          ]
+        },
+        {
+          "text": "am",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              309,
+              767
+            ],
+            [
+              333,
+              767
+            ],
+            [
+              333,
+              781
+            ],
+            [
+              309,
+              781
+            ]
+          ]
+        },
+        {
+          "text": "Inform",
+          "confidence": 0.6366,
+          "bbox": [
+            [
+              363,
+              763
+            ],
+            [
+              411,
+              763
+            ],
+            [
+              411,
+              779
+            ],
+            [
+              363,
+              779
+            ]
+          ]
+        },
+        {
+          "text": "you that the  Syllabus",
+          "confidence": 0.7144,
+          "bbox": [
+            [
+              416,
+              756
+            ],
+            [
+              588,
+              756
+            ],
+            [
+              588,
+              782
+            ],
+            [
+              416,
+              782
+            ]
+          ]
+        },
+        {
+          "text": "Sub",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              593,
+              759
+            ],
+            [
+              625,
+              759
+            ],
+            [
+              625,
+              775
+            ],
+            [
+              593,
+              775
+            ]
+          ]
+        },
+        {
+          "text": "Commiltee",
+          "confidence": 0.5298,
+          "bbox": [
+            [
+              631,
+              759
+            ],
+            [
+              709,
+              759
+            ],
+            [
+              709,
+              775
+            ],
+            [
+              631,
+              775
+            ]
+          ]
+        },
+        {
+          "text": "Meeting",
+          "confidence": 0.9508,
+          "bbox": [
+            [
+              716,
+              755
+            ],
+            [
+              777,
+              755
+            ],
+            [
+              777,
+              775
+            ],
+            [
+              716,
+              775
+            ]
+          ]
+        },
+        {
+          "text": "of  the",
+          "confidence": 0.8521,
+          "bbox": [
+            [
+              783,
+              753
+            ],
+            [
+              833,
+              753
+            ],
+            [
+              833,
+              773
+            ],
+            [
+              783,
+              773
+            ]
+          ]
+        },
+        {
+          "text": "Faculty",
+          "confidence": 0.7447,
+          "bbox": [
+            [
+              839,
+              755
+            ],
+            [
+              899,
+              755
+            ],
+            [
+              899,
+              773
+            ],
+            [
+              839,
+              773
+            ]
+          ]
+        },
+        {
+          "text": "Information and Communication Engineering",
+          "confidence": 0.9059,
+          "bbox": [
+            [
+              265,
+              783
+            ],
+            [
+              615,
+              783
+            ],
+            [
+              615,
+              803
+            ],
+            [
+              265,
+              803
+            ]
+          ]
+        },
+        {
+          "text": "Will",
+          "confidence": 0.8306,
+          "bbox": [
+            [
+              619,
+              783
+            ],
+            [
+              645,
+              783
+            ],
+            [
+              645,
+              797
+            ],
+            [
+              619,
+              797
+            ]
+          ]
+        },
+        {
+          "text": "be held",
+          "confidence": 0.7851,
+          "bbox": [
+            [
+              647,
+              779
+            ],
+            [
+              707,
+              779
+            ],
+            [
+              707,
+              799
+            ],
+            [
+              647,
+              799
+            ]
+          ]
+        },
+        {
+          "text": "on 01.11.2016 (Tuesday) at",
+          "confidence": 0.5828,
+          "bbox": [
+            [
+              711,
+              777
+            ],
+            [
+              925,
+              777
+            ],
+            [
+              925,
+              797
+            ],
+            [
+              711,
+              797
+            ]
+          ]
+        },
+        {
+          "text": "10.00",
+          "confidence": 0.6051,
+          "bbox": [
+            [
+              263,
+              807
+            ],
+            [
+              307,
+              807
+            ],
+            [
+              307,
+              827
+            ],
+            [
+              263,
+              827
+            ]
+          ]
+        },
+        {
+          "text": "AM",
+          "confidence": 0.9426,
+          "bbox": [
+            [
+              319,
+              809
+            ],
+            [
+              347,
+              809
+            ],
+            [
+              347,
+              827
+            ],
+            [
+              319,
+              827
+            ]
+          ]
+        },
+        {
+          "text": "Turing",
+          "confidence": 0.8118,
+          "bbox": [
+            [
+              385,
+              804
+            ],
+            [
+              442,
+              804
+            ],
+            [
+              442,
+              828
+            ],
+            [
+              385,
+              828
+            ]
+          ]
+        },
+        {
+          "text": "Hall;",
+          "confidence": 0.9611,
+          "bbox": [
+            [
+              453,
+              805
+            ],
+            [
+              491,
+              805
+            ],
+            [
+              491,
+              825
+            ],
+            [
+              453,
+              825
+            ]
+          ]
+        },
+        {
+          "text": "Department",
+          "confidence": 0.8352,
+          "bbox": [
+            [
+              505,
+              807
+            ],
+            [
+              591,
+              807
+            ],
+            [
+              591,
+              825
+            ],
+            [
+              505,
+              825
+            ]
+          ]
+        },
+        {
+          "text": "Computer",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              631,
+              805
+            ],
+            [
+              705,
+              805
+            ],
+            [
+              705,
+              823
+            ],
+            [
+              631,
+              823
+            ]
+          ]
+        },
+        {
+          "text": "Science",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              717,
+              803
+            ],
+            [
+              777,
+              803
+            ],
+            [
+              777,
+              821
+            ],
+            [
+              717,
+              821
+            ]
+          ]
+        },
+        {
+          "text": "Engineering;",
+          "confidence": 0.9815,
+          "bbox": [
+            [
+              829,
+              797
+            ],
+            [
+              924,
+              797
+            ],
+            [
+              924,
+              823
+            ],
+            [
+              829,
+              823
+            ]
+          ]
+        },
+        {
+          "text": "CEG Campus",
+          "confidence": 0.6889,
+          "bbox": [
+            [
+              263,
+              831
+            ],
+            [
+              363,
+              831
+            ],
+            [
+              363,
+              851
+            ],
+            [
+              263,
+              851
+            ]
+          ]
+        },
+        {
+          "text": "Anna",
+          "confidence": 0.8068,
+          "bbox": [
+            [
+              369,
+              833
+            ],
+            [
+              409,
+              833
+            ],
+            [
+              409,
+              849
+            ],
+            [
+              369,
+              849
+            ]
+          ]
+        },
+        {
+          "text": "University, Chennai.",
+          "confidence": 0.9187,
+          "bbox": [
+            [
+              407,
+              827
+            ],
+            [
+              554,
+              827
+            ],
+            [
+              554,
+              852
+            ],
+            [
+              407,
+              852
+            ]
+          ]
+        },
+        {
+          "text": "The Agenda will be:",
+          "confidence": 0.9208,
+          "bbox": [
+            [
+              262,
+              854
+            ],
+            [
+              406,
+              854
+            ],
+            [
+              406,
+              878
+            ],
+            [
+              262,
+              878
+            ]
+          ]
+        },
+        {
+          "text": "Full Curriculum of UG Programmes and Syllabi of [",
+          "confidence": 0.7817,
+          "bbox": [
+            [
+              312,
+              872
+            ],
+            [
+              666,
+              872
+            ],
+            [
+              666,
+              899
+            ],
+            [
+              312,
+              899
+            ]
+          ]
+        },
+        {
+          "text": "& II Semesters",
+          "confidence": 0.4753,
+          "bbox": [
+            [
+              673,
+              873
+            ],
+            [
+              779,
+              873
+            ],
+            [
+              779,
+              891
+            ],
+            [
+              673,
+              891
+            ]
+          ]
+        },
+        {
+          "text": "Salient   points",
+          "confidence": 0.5452,
+          "bbox": [
+            [
+              263,
+              901
+            ],
+            [
+              367,
+              901
+            ],
+            [
+              367,
+              921
+            ],
+            [
+              263,
+              921
+            ]
+          ]
+        },
+        {
+          "text": "of   Ihe   general",
+          "confidence": 0.4559,
+          "bbox": [
+            [
+              373,
+              901
+            ],
+            [
+              485,
+              901
+            ],
+            [
+              485,
+              921
+            ],
+            [
+              373,
+              921
+            ]
+          ]
+        },
+        {
+          "text": "guidelines",
+          "confidence": 0.9975,
+          "bbox": [
+            [
+              486,
+              893
+            ],
+            [
+              566,
+              893
+            ],
+            [
+              566,
+              922
+            ],
+            [
+              486,
+              922
+            ]
+          ]
+        },
+        {
+          "text": "per AICTE",
+          "confidence": 0.7095,
+          "bbox": [
+            [
+              596,
+              894
+            ],
+            [
+              680,
+              894
+            ],
+            [
+              680,
+              918
+            ],
+            [
+              596,
+              918
+            ]
+          ]
+        },
+        {
+          "text": "norms",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              685,
+              899
+            ],
+            [
+              733,
+              899
+            ],
+            [
+              733,
+              915
+            ],
+            [
+              685,
+              915
+            ]
+          ]
+        },
+        {
+          "text": "enclosed:",
+          "confidence": 0.9664,
+          "bbox": [
+            [
+              761,
+              897
+            ],
+            [
+              829,
+              897
+            ],
+            [
+              829,
+              913
+            ],
+            [
+              761,
+              913
+            ]
+          ]
+        },
+        {
+          "text": "The AICTE",
+          "confidence": 0.7747,
+          "bbox": [
+            [
+              837,
+              891
+            ],
+            [
+              925,
+              891
+            ],
+            [
+              925,
+              911
+            ],
+            [
+              837,
+              911
+            ]
+          ]
+        },
+        {
+          "text": "guidelines are available a: Wwwaicte-india orglmodelsyllabus php",
+          "confidence": 0.5229,
+          "bbox": [
+            [
+              263,
+              918
+            ],
+            [
+              730,
+              918
+            ],
+            [
+              730,
+              948
+            ],
+            [
+              263,
+              948
+            ]
+          ]
+        },
+        {
+          "text": "for reference",
+          "confidence": 0.9384,
+          "bbox": [
+            [
+              737,
+              921
+            ],
+            [
+              833,
+              921
+            ],
+            [
+              833,
+              937
+            ],
+            [
+              737,
+              937
+            ]
+          ]
+        },
+        {
+          "text": "Please come prepared with your inputs",
+          "confidence": 0.8193,
+          "bbox": [
+            [
+              312,
+              944
+            ],
+            [
+              600,
+              944
+            ],
+            [
+              600,
+              968
+            ],
+            [
+              312,
+              968
+            ]
+          ]
+        },
+        {
+          "text": "so that we can prepare quality Curriculum",
+          "confidence": 0.7303,
+          "bbox": [
+            [
+              604,
+              940
+            ],
+            [
+              910,
+              940
+            ],
+            [
+              910,
+              965
+            ],
+            [
+              604,
+              965
+            ]
+          ]
+        },
+        {
+          "text": "Syllabi; The main discussions will be held on the day of the Sylabus Sub Committee meeting:",
+          "confidence": 0.4601,
+          "bbox": [
+            [
+              260,
+              959
+            ],
+            [
+              923,
+              959
+            ],
+            [
+              923,
+              996
+            ],
+            [
+              260,
+              996
+            ]
+          ]
+        },
+        {
+          "text": "However; the finalization will be through interaction using group e-mails",
+          "confidence": 0.6652,
+          "bbox": [
+            [
+              264,
+              988
+            ],
+            [
+              764,
+              988
+            ],
+            [
+              764,
+              1014
+            ],
+            [
+              264,
+              1014
+            ]
+          ]
+        },
+        {
+          "text": "Thank you in advance for your Co-operation;",
+          "confidence": 0.3498,
+          "bbox": [
+            [
+              314,
+              1014
+            ],
+            [
+              626,
+              1014
+            ],
+            [
+              626,
+              1038
+            ],
+            [
+              314,
+              1038
+            ]
+          ]
+        },
+        {
+          "text": "am (0",
+          "confidence": 0.4514,
+          "bbox": [
+            [
+              275,
+              1047
+            ],
+            [
+              319,
+              1047
+            ],
+            [
+              319,
+              1061
+            ],
+            [
+              275,
+              1061
+            ]
+          ]
+        },
+        {
+          "text": "request",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              320,
+              1044
+            ],
+            [
+              379,
+              1044
+            ],
+            [
+              379,
+              1064
+            ],
+            [
+              320,
+              1064
+            ]
+          ]
+        },
+        {
+          "text": "to kindly accept the offer and send your acceptance letter on or before",
+          "confidence": 0.7821,
+          "bbox": [
+            [
+              408,
+              1034
+            ],
+            [
+              926,
+              1034
+            ],
+            [
+              926,
+              1062
+            ],
+            [
+              408,
+              1062
+            ]
+          ]
+        },
+        {
+          "text": "21 10.2016, either by post or by E-mail (ICE SSCB@gmail com):",
+          "confidence": 0.427,
+          "bbox": [
+            [
+              262,
+              1062
+            ],
+            [
+              714,
+              1062
+            ],
+            [
+              714,
+              1086
+            ],
+            [
+              262,
+              1086
+            ]
+          ]
+        },
+        {
+          "text": "Yours faithiully",
+          "confidence": 0.7948,
+          "bbox": [
+            [
+              815,
+              1087
+            ],
+            [
+              921,
+              1087
+            ],
+            [
+              921,
+              1107
+            ],
+            [
+              815,
+              1107
+            ]
+          ]
+        },
+        {
+          "text": "DIRECTOR",
+          "confidence": 0.6951,
+          "bbox": [
+            [
+              824,
+              1131
+            ],
+            [
+              914,
+              1131
+            ],
+            [
+              914,
+              1155
+            ],
+            [
+              824,
+              1155
+            ]
+          ]
+        },
+        {
+          "text": "Mline membcrs cxccpt studert metibers. wall De paid",
+          "confidence": 0.1809,
+          "bbox": [
+            [
+              289,
+              1187
+            ],
+            [
+              569,
+              1187
+            ],
+            [
+              569,
+              1201
+            ],
+            [
+              289,
+              1201
+            ]
+          ]
+        },
+        {
+          "text": "sing tct 0 Rs 2,00-",
+          "confidence": 0.2157,
+          "bbox": [
+            [
+              576,
+              1183
+            ],
+            [
+              703,
+              1183
+            ],
+            [
+              703,
+              1201
+            ],
+            [
+              576,
+              1201
+            ]
+          ]
+        },
+        {
+          "text": "For all members other (han ihe Iaculty of Anna University Chennal ihe travelling allowance Wll be pald 35 per Ihe following",
+          "confidence": 0.1649,
+          "bbox": [
+            [
+              289,
+              1197
+            ],
+            [
+              927,
+              1197
+            ],
+            [
+              927,
+              1215
+            ],
+            [
+              289,
+              1215
+            ]
+          ]
+        },
+        {
+          "text": "noins",
+          "confidence": 0.1477,
+          "bbox": [
+            [
+              290,
+              1218
+            ],
+            [
+              322,
+              1218
+            ],
+            [
+              322,
+              1226
+            ],
+            [
+              290,
+              1226
+            ]
+          ]
+        },
+        {
+          "text": "Local members from Ine Chennai City",
+          "confidence": 0.544,
+          "bbox": [
+            [
+              315,
+              1227
+            ],
+            [
+              511,
+              1227
+            ],
+            [
+              511,
+              1243
+            ],
+            [
+              315,
+              1243
+            ]
+          ]
+        },
+        {
+          "text": "be paid Rs 5004-",
+          "confidence": 0.3421,
+          "bbox": [
+            [
+              529,
+              1225
+            ],
+            [
+              617,
+              1225
+            ],
+            [
+              617,
+              1241
+            ],
+            [
+              529,
+              1241
+            ]
+          ]
+        },
+        {
+          "text": "Members Irom outslde Chennai",
+          "confidence": 0.319,
+          "bbox": [
+            [
+              315,
+              1241
+            ],
+            [
+              481,
+              1241
+            ],
+            [
+              481,
+              1255
+            ],
+            [
+              315,
+              1255
+            ]
+          ]
+        },
+        {
+          "text": "ciy wnthin Tami Nadu Wll be paid al Ihe rate 0l",
+          "confidence": 0.1143,
+          "bbox": [
+            [
+              487,
+              1239
+            ],
+            [
+              747,
+              1239
+            ],
+            [
+              747,
+              1255
+            ],
+            [
+              487,
+              1255
+            ]
+          ]
+        },
+        {
+          "text": "Iler AC tare for (ravelling",
+          "confidence": 0.5191,
+          "bbox": [
+            [
+              757,
+              1235
+            ],
+            [
+              893,
+              1235
+            ],
+            [
+              893,
+              1253
+            ],
+            [
+              757,
+              1253
+            ]
+          ]
+        },
+        {
+          "text": "#hortcst roulg",
+          "confidence": 0.2101,
+          "bbox": [
+            [
+              315,
+              1255
+            ],
+            [
+              391,
+              1255
+            ],
+            [
+              391,
+              1269
+            ],
+            [
+              315,
+              1269
+            ]
+          ]
+        },
+        {
+          "text": "203 (Bolh wraye) (M Ucket nol",
+          "confidence": 0.1871,
+          "bbox": [
+            [
+              413,
+              1253
+            ],
+            [
+              563,
+              1253
+            ],
+            [
+              563,
+              1269
+            ],
+            [
+              413,
+              1269
+            ]
+          ]
+        },
+        {
+          "text": "produced) (Gr)",
+          "confidence": 0.4255,
+          "bbox": [
+            [
+              567,
+              1253
+            ],
+            [
+              645,
+              1253
+            ],
+            [
+              645,
+              1267
+            ],
+            [
+              567,
+              1267
+            ]
+          ]
+        },
+        {
+          "text": "Actunl Troin Fare and Conveyance (Ilcket should be",
+          "confidence": 0.5185,
+          "bbox": [
+            [
+              649,
+              1249
+            ],
+            [
+              927,
+              1249
+            ],
+            [
+              927,
+              1265
+            ],
+            [
+              649,
+              1265
+            ]
+          ]
+        },
+        {
+          "text": "producedh",
+          "confidence": 0.3166,
+          "bbox": [
+            [
+              315,
+              1269
+            ],
+            [
+              371,
+              1269
+            ],
+            [
+              371,
+              1283
+            ],
+            [
+              315,
+              1283
+            ]
+          ]
+        },
+        {
+          "text": "Members from oulside Temi Nadu Slale are ellaible io",
+          "confidence": 0.2427,
+          "bbox": [
+            [
+              315,
+              1279
+            ],
+            [
+              605,
+              1279
+            ],
+            [
+              605,
+              1295
+            ],
+            [
+              315,
+              1295
+            ]
+          ]
+        },
+        {
+          "text": "Arjt (Economv Ciass) both V ZvS ? W8 Rs",
+          "confidence": 0.06,
+          "bbox": [
+            [
+              609,
+              1277
+            ],
+            [
+              839,
+              1277
+            ],
+            [
+              839,
+              1293
+            ],
+            [
+              609,
+              1293
+            ]
+          ]
+        },
+        {
+          "text": "20M- towatde",
+          "confidence": 0.1138,
+          "bbox": [
+            [
+              853,
+              1277
+            ],
+            [
+              925,
+              1277
+            ],
+            [
+              925,
+              1291
+            ],
+            [
+              853,
+              1291
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 0.9814,
+          "bbox": [
+            [
+              890,
+              638
+            ],
+            [
+              922,
+              635
+            ],
+            [
+              924,
+              652
+            ],
+            [
+              892,
+              655
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              565,
+              714
+            ],
+            [
+              598,
+              711
+            ],
+            [
+              600,
+              728
+            ],
+            [
+              566,
+              731
+            ]
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              786,
+              804
+            ],
+            [
+              818,
+              800
+            ],
+            [
+              820,
+              818
+            ],
+            [
+              788,
+              821
+            ]
+          ]
+        },
+        {
+          "text": "you",
+          "confidence": 0.8893,
+          "bbox": [
+            [
+              376,
+              1046
+            ],
+            [
+              408,
+              1043
+            ],
+            [
+              410,
+              1060
+            ],
+            [
+              378,
+              1063
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+16. Current Installation Updates and Status - Sample
+Dashboard
+Illustrative project-status structure for a project-management or monitoring workflow. Replace with live data in a production
+system.
+16.1 Current status table
+Project
+Stage
+Latest update
+Open issue
+Owner
+QC-LIVE-101
+Design approved
+2026-09-10 - plan set released
+Utility review
+PM
+QC-LIVE-102
+2026-09-13 - modules and inverter received
+None
+Site lead
+Materials staged
+QC-LIVE-103
+Mechanical install
+2026-09-15 - roof plane A complete
+Weather delay risk
+Installer
+QC-LIVE-104
+Commissioning
+2026-09-16 - monitoring enrollment pending
+Network access
+Commissionin
+g tech
+QC-LIVE-105
+Closed / handover
+2026-09-12 - owner training complete
+None
+O&M;
+16.2 Recommended status fields
+• Project ID and address / region identifier
+• Planned install, commissioning, inspection and handover dates
+• Stage, blocker, latest action, owner and next action
+• Equipment serial-number completeness
+• Permit / inspection status
+• Monitoring connectivity status
+• Open punch-list items and closure evidence
+16.3 Public-document context
+Qcells public product pages and technical documents are revision-controlled. This guide uses published examples to
+demonstrate structure; field teams should retrieve the current manufacturer document before implementation.

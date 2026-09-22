@@ -1,0 +1,652 @@
+{
+  "pdf_name": "scansmpl",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "THE SLEREXE COMPANY LIMITED\nSAPORS LANE - BOOLE - DORSET - BH 25 8 ER\nTELEPHONE BOOLE (945 13) 51617 - TELEX 123456\nOur Ref. 350/PJC/EAC\n18th January, 1972.\n早\nDr. P.N. Cundall,\nMining Surveys Ltd.,\nHolroyd Road,\nReading,\nBerks.\nDear Pete,\nPermit me to introduce you to the facility of facsimile\ntransmission.\nIn facsimile a photocell is caused to perform a raster scan over\nthe subject copy. The variations of print density on the document\ncause the photocell to generate an analogous electrical video signal.\nThis signal is used to modulate a carrier, which is transmitted to a\nremote destination over a radio or cable communications link.\nAt the remote terminal, demodulation reconstructs the video\nsignal, which is used to modulate the density of print produced by a\nprinting device. This device is scanning in a raster scan synchronised\nwith that at the transmitting terminal. As a result, a facsimile\ncopy of the subject document is produced.\nProbably you have uses for this facility in your organisation.\nYours sincerely,\nPhil.\nP.J. CROSS\nGroup Leader - Facsimile Research",
+      "word_count": 178,
+      "line_count": 29,
+      "structured_data": [
+        {
+          "text": "THE SLEREXE COMPANY LIMITED",
+          "confidence": 0.9992,
+          "bbox": [
+            [
+              259,
+              71
+            ],
+            [
+              966,
+              71
+            ],
+            [
+              966,
+              108
+            ],
+            [
+              259,
+              108
+            ]
+          ]
+        },
+        {
+          "text": "SAPORS LANE - BOOLE - DORSET - BH 25 8 ER",
+          "confidence": 0.991,
+          "bbox": [
+            [
+              354,
+              133
+            ],
+            [
+              869,
+              133
+            ],
+            [
+              869,
+              156
+            ],
+            [
+              354,
+              156
+            ]
+          ]
+        },
+        {
+          "text": "TELEPHONE BOOLE (945 13) 51617 - TELEX 123456",
+          "confidence": 0.9901,
+          "bbox": [
+            [
+              381,
+              176
+            ],
+            [
+              840,
+              174
+            ],
+            [
+              840,
+              198
+            ],
+            [
+              381,
+              200
+            ]
+          ]
+        },
+        {
+          "text": "Our Ref. 350/PJC/EAC",
+          "confidence": 0.9995,
+          "bbox": [
+            [
+              114,
+              361
+            ],
+            [
+              397,
+              365
+            ],
+            [
+              397,
+              396
+            ],
+            [
+              113,
+              392
+            ]
+          ]
+        },
+        {
+          "text": "18th January, 1972.",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              832,
+              355
+            ],
+            [
+              1106,
+              347
+            ],
+            [
+              1107,
+              374
+            ],
+            [
+              833,
+              382
+            ]
+          ]
+        },
+        {
+          "text": "早",
+          "confidence": 0.7524,
+          "bbox": [
+            [
+              613,
+              413
+            ],
+            [
+              652,
+              413
+            ],
+            [
+              652,
+              456
+            ],
+            [
+              613,
+              456
+            ]
+          ]
+        },
+        {
+          "text": "Dr. P.N. Cundall,",
+          "confidence": 0.9952,
+          "bbox": [
+            [
+              112,
+              464
+            ],
+            [
+              352,
+              468
+            ],
+            [
+              351,
+              494
+            ],
+            [
+              111,
+              491
+            ]
+          ]
+        },
+        {
+          "text": "Mining Surveys Ltd.,",
+          "confidence": 0.9942,
+          "bbox": [
+            [
+              110,
+              491
+            ],
+            [
+              392,
+              494
+            ],
+            [
+              392,
+              521
+            ],
+            [
+              109,
+              518
+            ]
+          ]
+        },
+        {
+          "text": "Holroyd Road,",
+          "confidence": 0.9968,
+          "bbox": [
+            [
+              111,
+              518
+            ],
+            [
+              295,
+              520
+            ],
+            [
+              294,
+              544
+            ],
+            [
+              110,
+              542
+            ]
+          ]
+        },
+        {
+          "text": "Reading,",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              110,
+              540
+            ],
+            [
+              225,
+              545
+            ],
+            [
+              224,
+              573
+            ],
+            [
+              109,
+              568
+            ]
+          ]
+        },
+        {
+          "text": "Berks.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              110,
+              567
+            ],
+            [
+              197,
+              569
+            ],
+            [
+              196,
+              594
+            ],
+            [
+              109,
+              592
+            ]
+          ]
+        },
+        {
+          "text": "Dear Pete,",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              114,
+              649
+            ],
+            [
+              253,
+              649
+            ],
+            [
+              253,
+              670
+            ],
+            [
+              114,
+              670
+            ]
+          ]
+        },
+        {
+          "text": "Permit me to introduce you to the facility of facsimile",
+          "confidence": 0.9947,
+          "bbox": [
+            [
+              180,
+              693
+            ],
+            [
+              964,
+              683
+            ],
+            [
+              965,
+              713
+            ],
+            [
+              180,
+              723
+            ]
+          ]
+        },
+        {
+          "text": "transmission.",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              114,
+              724
+            ],
+            [
+              296,
+              721
+            ],
+            [
+              297,
+              745
+            ],
+            [
+              115,
+              748
+            ]
+          ]
+        },
+        {
+          "text": "In facsimile a photocell is caused to perform a raster scan over",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              183,
+              770
+            ],
+            [
+              1100,
+              762
+            ],
+            [
+              1101,
+              793
+            ],
+            [
+              183,
+              801
+            ]
+          ]
+        },
+        {
+          "text": "the subject copy. The variations of print density on the document",
+          "confidence": 0.9834,
+          "bbox": [
+            [
+              113,
+              797
+            ],
+            [
+              1059,
+              788
+            ],
+            [
+              1059,
+              818
+            ],
+            [
+              114,
+              827
+            ]
+          ]
+        },
+        {
+          "text": "cause the photocell to generate an analogous electrical video signal.",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              111,
+              825
+            ],
+            [
+              1096,
+              816
+            ],
+            [
+              1096,
+              843
+            ],
+            [
+              112,
+              852
+            ]
+          ]
+        },
+        {
+          "text": "This signal is used to modulate a carrier, which is transmitted to a",
+          "confidence": 0.997,
+          "bbox": [
+            [
+              114,
+              850
+            ],
+            [
+              1090,
+              842
+            ],
+            [
+              1090,
+              869
+            ],
+            [
+              115,
+              877
+            ]
+          ]
+        },
+        {
+          "text": "remote destination over a radio or cable communications link.",
+          "confidence": 0.9921,
+          "bbox": [
+            [
+              114,
+              876
+            ],
+            [
+              985,
+              870
+            ],
+            [
+              985,
+              896
+            ],
+            [
+              115,
+              902
+            ]
+          ]
+        },
+        {
+          "text": "At the remote terminal, demodulation reconstructs the video",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              186,
+              926
+            ],
+            [
+              1033,
+              923
+            ],
+            [
+              1033,
+              950
+            ],
+            [
+              186,
+              953
+            ]
+          ]
+        },
+        {
+          "text": "signal, which is used to modulate the density of print produced by a",
+          "confidence": 0.99,
+          "bbox": [
+            [
+              119,
+              953
+            ],
+            [
+              1091,
+              949
+            ],
+            [
+              1091,
+              976
+            ],
+            [
+              119,
+              980
+            ]
+          ]
+        },
+        {
+          "text": "printing device. This device is scanning in a raster scan synchronised",
+          "confidence": 0.9943,
+          "bbox": [
+            [
+              119,
+              980
+            ],
+            [
+              1132,
+              975
+            ],
+            [
+              1133,
+              1003
+            ],
+            [
+              119,
+              1008
+            ]
+          ]
+        },
+        {
+          "text": "with that at the transmitting terminal. As a result, a facsimile",
+          "confidence": 0.9944,
+          "bbox": [
+            [
+              119,
+              1007
+            ],
+            [
+              1049,
+              1004
+            ],
+            [
+              1049,
+              1031
+            ],
+            [
+              119,
+              1034
+            ]
+          ]
+        },
+        {
+          "text": "copy of the subject document is produced.",
+          "confidence": 0.9879,
+          "bbox": [
+            [
+              123,
+              1035
+            ],
+            [
+              702,
+              1033
+            ],
+            [
+              702,
+              1057
+            ],
+            [
+              123,
+              1059
+            ]
+          ]
+        },
+        {
+          "text": "Probably you have uses for this facility in your organisation.",
+          "confidence": 0.9872,
+          "bbox": [
+            [
+              193,
+              1086
+            ],
+            [
+              1074,
+              1082
+            ],
+            [
+              1074,
+              1109
+            ],
+            [
+              193,
+              1113
+            ]
+          ]
+        },
+        {
+          "text": "Yours sincerely,",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              648,
+              1137
+            ],
+            [
+              874,
+              1137
+            ],
+            [
+              874,
+              1161
+            ],
+            [
+              648,
+              1161
+            ]
+          ]
+        },
+        {
+          "text": "Phil.",
+          "confidence": 0.9957,
+          "bbox": [
+            [
+              660,
+              1189
+            ],
+            [
+              842,
+              1189
+            ],
+            [
+              842,
+              1288
+            ],
+            [
+              660,
+              1288
+            ]
+          ]
+        },
+        {
+          "text": "P.J. CROSS",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              645,
+              1301
+            ],
+            [
+              794,
+              1299
+            ],
+            [
+              794,
+              1323
+            ],
+            [
+              645,
+              1325
+            ]
+          ]
+        },
+        {
+          "text": "Group Leader - Facsimile Research",
+          "confidence": 0.9831,
+          "bbox": [
+            [
+              647,
+              1327
+            ],
+            [
+              1117,
+              1320
+            ],
+            [
+              1118,
+              1344
+            ],
+            [
+              647,
+              1351
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

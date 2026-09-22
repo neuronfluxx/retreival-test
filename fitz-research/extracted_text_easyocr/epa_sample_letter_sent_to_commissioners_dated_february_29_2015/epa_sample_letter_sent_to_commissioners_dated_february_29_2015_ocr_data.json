@@ -1,0 +1,3044 @@
+{
+  "pdf_name": "epa_sample_letter_sent_to_commissioners_dated_february_29_2015",
+  "total_pages": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "UNITED STATES ENVIRONMENTAL PROTECTION AGENCY\nWASHINGTON, D.C. 20460\nSAMPLE LETTER\nLI\n\"ulc\nOFFICE OF\nWATER\nDear Commissioner:\nThere is no higher priority for the U.S. Environmental Protection Agency than protecting public health\nand ensuring the safety of our nation $ drinking water: Under the Safe Drinking Water Act (SDWA)\n(Statex and other states have the primary responsibility for the implementation and enforcement of\ndrinking water regulations, while the EPA is tasked with oversight of state efforts Recent events in\nFlint; Michigan, and other U.S. cities, have led to important discussions about the safety of our nation\ndrinking water supplies _\nam\nto ask\nto join in taking action to strengthen our safe\ndrinking water programs; consistent with our shared recognition of the critical importance of safe\ndrinking water for the health of all Americans:\nFirst, with most states having primacy under SDWA\nwe need t0 work\ntogether to ensure that states are\ntaking action to demonstrate that the Lead and Copper Rule (LCR) is\nproperly implemented. To\nthis end, the EPA\nOffice of Water is increasing oversight of state programs to identify and address any\ndeficiencies in current implementation of the Lead and Copper Rule_\nEPA staff are meeting with every\nstate\ndrinking water program across the country to ensure that states are taking appropriate actions to\naddress lead action level exceedances, including optimizing corrosion control, providing effective public\nhealth communication and outreach to residents on steps to reduce exposures to lead, and removing lead\nservice lines where\nrequired by the LCR:\nask you to join us in giving these efforts the highest priority\nSecond; to assure the public of our shared commitment to addressing lead risks, I ask for your leadership\nin\nnear-term actions tO assure the\npublic that we are\neverything we can t0 work together to\naddress risks from lead in drinking water. Specifically,\nurge you to take near-term action in the\nfollowing areas:\nConfirm that the state $ protocols and procedures for implementing the LCR are fully consistent\nwith the LCR and\napplicable EPA guidance;\n(2) Use relevant EPA guidance on LCR sampling protocols and procedures for optimizing corrosion\ncontrol;\n3) Post on your agency'$ public website all state LCR sampling protocols and guidance for\nidentification of Tier\nsites (at which LCR sampling is required to be conducted);\nWork with public water systems\nwith a priority emphasis on\nsystems\nto increase\ntransparency in\nimplementation of the LCR by posting on their public website and/or on your\nagency' $ website:\nInteret Address (URL)\nhitp /wrw epa gov\nRecycled/Recyclable\nPrinted with Vegetable Oil Based Inks on 100% Postconsumer Process Chlonne Free Recycled Paper\nSTATES\n(\nPROTECTiO\" '\nwriting\ntoday\nyou\nbeing\ndoing\ntaking\nlarge",
+      "word_count": 446,
+      "line_count": 72,
+      "structured_data": [
+        {
+          "text": "UNITED STATES ENVIRONMENTAL PROTECTION AGENCY",
+          "confidence": 0.8054,
+          "bbox": [
+            [
+              332,
+              106
+            ],
+            [
+              890,
+              106
+            ],
+            [
+              890,
+              134
+            ],
+            [
+              332,
+              134
+            ]
+          ]
+        },
+        {
+          "text": "WASHINGTON, D.C. 20460",
+          "confidence": 0.8863,
+          "bbox": [
+            [
+              484,
+              140
+            ],
+            [
+              738,
+              140
+            ],
+            [
+              738,
+              166
+            ],
+            [
+              484,
+              166
+            ]
+          ]
+        },
+        {
+          "text": "SAMPLE LETTER",
+          "confidence": 0.7105,
+          "bbox": [
+            [
+              446,
+              181
+            ],
+            [
+              804,
+              181
+            ],
+            [
+              804,
+              234
+            ],
+            [
+              446,
+              234
+            ]
+          ]
+        },
+        {
+          "text": "LI",
+          "confidence": 0.5023,
+          "bbox": [
+            [
+              556,
+              268
+            ],
+            [
+              588,
+              268
+            ],
+            [
+              588,
+              292
+            ],
+            [
+              556,
+              292
+            ]
+          ]
+        },
+        {
+          "text": "\"ulc",
+          "confidence": 0.409,
+          "bbox": [
+            [
+              642,
+              272
+            ],
+            [
+              688,
+              272
+            ],
+            [
+              688,
+              300
+            ],
+            [
+              642,
+              300
+            ]
+          ]
+        },
+        {
+          "text": "OFFICE OF",
+          "confidence": 0.8909,
+          "bbox": [
+            [
+              961,
+              305
+            ],
+            [
+              1043,
+              305
+            ],
+            [
+              1043,
+              321
+            ],
+            [
+              961,
+              321
+            ]
+          ]
+        },
+        {
+          "text": "WATER",
+          "confidence": 0.9911,
+          "bbox": [
+            [
+              975,
+              321
+            ],
+            [
+              1029,
+              321
+            ],
+            [
+              1029,
+              337
+            ],
+            [
+              975,
+              337
+            ]
+          ]
+        },
+        {
+          "text": "Dear Commissioner:",
+          "confidence": 0.6195,
+          "bbox": [
+            [
+              104,
+              412
+            ],
+            [
+              306,
+              412
+            ],
+            [
+              306,
+              438
+            ],
+            [
+              104,
+              438
+            ]
+          ]
+        },
+        {
+          "text": "There is no higher priority for the U.S. Environmental Protection Agency than protecting public health",
+          "confidence": 0.8776,
+          "bbox": [
+            [
+              103,
+              458
+            ],
+            [
+              1087,
+              458
+            ],
+            [
+              1087,
+              501
+            ],
+            [
+              103,
+              501
+            ]
+          ]
+        },
+        {
+          "text": "and ensuring the safety of our nation $ drinking water: Under the Safe Drinking Water Act (SDWA)",
+          "confidence": 0.5939,
+          "bbox": [
+            [
+              103,
+              487
+            ],
+            [
+              1065,
+              487
+            ],
+            [
+              1065,
+              528
+            ],
+            [
+              103,
+              528
+            ]
+          ]
+        },
+        {
+          "text": "(Statex and other states have the primary responsibility for the implementation and enforcement of",
+          "confidence": 0.6733,
+          "bbox": [
+            [
+              103,
+              517
+            ],
+            [
+              1053,
+              517
+            ],
+            [
+              1053,
+              553
+            ],
+            [
+              103,
+              553
+            ]
+          ]
+        },
+        {
+          "text": "drinking water regulations, while the EPA is tasked with oversight of state efforts Recent events in",
+          "confidence": 0.6855,
+          "bbox": [
+            [
+              102,
+              545
+            ],
+            [
+              1053,
+              545
+            ],
+            [
+              1053,
+              583
+            ],
+            [
+              102,
+              583
+            ]
+          ]
+        },
+        {
+          "text": "Flint; Michigan, and other U.S. cities, have led to important discussions about the safety of our nation",
+          "confidence": 0.61,
+          "bbox": [
+            [
+              102,
+              573
+            ],
+            [
+              1077,
+              573
+            ],
+            [
+              1077,
+              611
+            ],
+            [
+              102,
+              611
+            ]
+          ]
+        },
+        {
+          "text": "drinking water supplies _",
+          "confidence": 0.7576,
+          "bbox": [
+            [
+              103,
+              607
+            ],
+            [
+              334,
+              607
+            ],
+            [
+              334,
+              638
+            ],
+            [
+              103,
+              638
+            ]
+          ]
+        },
+        {
+          "text": "am",
+          "confidence": 0.9984,
+          "bbox": [
+            [
+              355,
+              613
+            ],
+            [
+              387,
+              613
+            ],
+            [
+              387,
+              633
+            ],
+            [
+              355,
+              633
+            ]
+          ]
+        },
+        {
+          "text": "to ask",
+          "confidence": 0.9908,
+          "bbox": [
+            [
+              520,
+              608
+            ],
+            [
+              582,
+              608
+            ],
+            [
+              582,
+              632
+            ],
+            [
+              520,
+              632
+            ]
+          ]
+        },
+        {
+          "text": "to join in taking action to strengthen our safe",
+          "confidence": 0.742,
+          "bbox": [
+            [
+              621,
+              600
+            ],
+            [
+              1057,
+              600
+            ],
+            [
+              1057,
+              638
+            ],
+            [
+              621,
+              638
+            ]
+          ]
+        },
+        {
+          "text": "drinking water programs; consistent with our shared recognition of the critical importance of safe",
+          "confidence": 0.5513,
+          "bbox": [
+            [
+              101,
+              629
+            ],
+            [
+              1035,
+              629
+            ],
+            [
+              1035,
+              669
+            ],
+            [
+              101,
+              669
+            ]
+          ]
+        },
+        {
+          "text": "drinking water for the health of all Americans:",
+          "confidence": 0.5876,
+          "bbox": [
+            [
+              103,
+              662
+            ],
+            [
+              548,
+              662
+            ],
+            [
+              548,
+              694
+            ],
+            [
+              103,
+              694
+            ]
+          ]
+        },
+        {
+          "text": "First, with most states having primacy under SDWA",
+          "confidence": 0.6903,
+          "bbox": [
+            [
+              104,
+              716
+            ],
+            [
+              608,
+              716
+            ],
+            [
+              608,
+              748
+            ],
+            [
+              104,
+              748
+            ]
+          ]
+        },
+        {
+          "text": "we need t0 work",
+          "confidence": 0.9566,
+          "bbox": [
+            [
+              616,
+              718
+            ],
+            [
+              774,
+              718
+            ],
+            [
+              774,
+              742
+            ],
+            [
+              616,
+              742
+            ]
+          ]
+        },
+        {
+          "text": "together to ensure that states are",
+          "confidence": 0.8911,
+          "bbox": [
+            [
+              773,
+              714
+            ],
+            [
+              1090,
+              714
+            ],
+            [
+              1090,
+              747
+            ],
+            [
+              773,
+              747
+            ]
+          ]
+        },
+        {
+          "text": "taking action to demonstrate that the Lead and Copper Rule (LCR) is",
+          "confidence": 0.8047,
+          "bbox": [
+            [
+              101,
+              741
+            ],
+            [
+              765,
+              741
+            ],
+            [
+              765,
+              778
+            ],
+            [
+              101,
+              778
+            ]
+          ]
+        },
+        {
+          "text": "properly implemented. To",
+          "confidence": 0.7201,
+          "bbox": [
+            [
+              820,
+              742
+            ],
+            [
+              1082,
+              742
+            ],
+            [
+              1082,
+              774
+            ],
+            [
+              820,
+              774
+            ]
+          ]
+        },
+        {
+          "text": "this end, the EPA",
+          "confidence": 0.9356,
+          "bbox": [
+            [
+              104,
+              774
+            ],
+            [
+              276,
+              774
+            ],
+            [
+              276,
+              800
+            ],
+            [
+              104,
+              800
+            ]
+          ]
+        },
+        {
+          "text": "Office of Water is increasing oversight of state programs to identify and address any",
+          "confidence": 0.614,
+          "bbox": [
+            [
+              295,
+              767
+            ],
+            [
+              1103,
+              767
+            ],
+            [
+              1103,
+              803
+            ],
+            [
+              295,
+              803
+            ]
+          ]
+        },
+        {
+          "text": "deficiencies in current implementation of the Lead and Copper Rule_",
+          "confidence": 0.9552,
+          "bbox": [
+            [
+              106,
+              798
+            ],
+            [
+              756,
+              798
+            ],
+            [
+              756,
+              831
+            ],
+            [
+              106,
+              831
+            ]
+          ]
+        },
+        {
+          "text": "EPA staff are meeting with every",
+          "confidence": 0.8708,
+          "bbox": [
+            [
+              762,
+              794
+            ],
+            [
+              1086,
+              794
+            ],
+            [
+              1086,
+              826
+            ],
+            [
+              762,
+              826
+            ]
+          ]
+        },
+        {
+          "text": "state",
+          "confidence": 0.8369,
+          "bbox": [
+            [
+              106,
+              830
+            ],
+            [
+              156,
+              830
+            ],
+            [
+              156,
+              854
+            ],
+            [
+              106,
+              854
+            ]
+          ]
+        },
+        {
+          "text": "drinking water program across the country to ensure that states are taking appropriate actions to",
+          "confidence": 0.5918,
+          "bbox": [
+            [
+              153,
+              820
+            ],
+            [
+              1071,
+              820
+            ],
+            [
+              1071,
+              859
+            ],
+            [
+              153,
+              859
+            ]
+          ]
+        },
+        {
+          "text": "address lead action level exceedances, including optimizing corrosion control, providing effective public",
+          "confidence": 0.7402,
+          "bbox": [
+            [
+              105,
+              845
+            ],
+            [
+              1110,
+              845
+            ],
+            [
+              1110,
+              885
+            ],
+            [
+              105,
+              885
+            ]
+          ]
+        },
+        {
+          "text": "health communication and outreach to residents on steps to reduce exposures to lead, and removing lead",
+          "confidence": 0.665,
+          "bbox": [
+            [
+              105,
+              873
+            ],
+            [
+              1103,
+              873
+            ],
+            [
+              1103,
+              912
+            ],
+            [
+              105,
+              912
+            ]
+          ]
+        },
+        {
+          "text": "service lines where",
+          "confidence": 0.9598,
+          "bbox": [
+            [
+              106,
+              912
+            ],
+            [
+              294,
+              912
+            ],
+            [
+              294,
+              936
+            ],
+            [
+              106,
+              936
+            ]
+          ]
+        },
+        {
+          "text": "required by the LCR:",
+          "confidence": 0.5642,
+          "bbox": [
+            [
+              291,
+              907
+            ],
+            [
+              499,
+              907
+            ],
+            [
+              499,
+              943
+            ],
+            [
+              291,
+              943
+            ]
+          ]
+        },
+        {
+          "text": "ask you to join us in giving these efforts the highest priority",
+          "confidence": 0.8137,
+          "bbox": [
+            [
+              514,
+              906
+            ],
+            [
+              1090,
+              906
+            ],
+            [
+              1090,
+              938
+            ],
+            [
+              514,
+              938
+            ]
+          ]
+        },
+        {
+          "text": "Second; to assure the public of our shared commitment to addressing lead risks, I ask for your leadership",
+          "confidence": 0.6009,
+          "bbox": [
+            [
+              107,
+              959
+            ],
+            [
+              1109,
+              959
+            ],
+            [
+              1109,
+              997
+            ],
+            [
+              107,
+              997
+            ]
+          ]
+        },
+        {
+          "text": "in",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              106,
+              996
+            ],
+            [
+              132,
+              996
+            ],
+            [
+              132,
+              1020
+            ],
+            [
+              106,
+              1020
+            ]
+          ]
+        },
+        {
+          "text": "near-term actions tO assure the",
+          "confidence": 0.5951,
+          "bbox": [
+            [
+              196,
+              994
+            ],
+            [
+              492,
+              994
+            ],
+            [
+              492,
+              1020
+            ],
+            [
+              196,
+              1020
+            ]
+          ]
+        },
+        {
+          "text": "public that we are",
+          "confidence": 0.9983,
+          "bbox": [
+            [
+              490,
+              990
+            ],
+            [
+              666,
+              990
+            ],
+            [
+              666,
+              1023
+            ],
+            [
+              490,
+              1023
+            ]
+          ]
+        },
+        {
+          "text": "everything we can t0 work together to",
+          "confidence": 0.7835,
+          "bbox": [
+            [
+              724,
+              988
+            ],
+            [
+              1096,
+              988
+            ],
+            [
+              1096,
+              1020
+            ],
+            [
+              724,
+              1020
+            ]
+          ]
+        },
+        {
+          "text": "address risks from lead in drinking water. Specifically,",
+          "confidence": 0.9455,
+          "bbox": [
+            [
+              105,
+              1017
+            ],
+            [
+              633,
+              1017
+            ],
+            [
+              633,
+              1053
+            ],
+            [
+              105,
+              1053
+            ]
+          ]
+        },
+        {
+          "text": "urge you to take near-term action in the",
+          "confidence": 0.7254,
+          "bbox": [
+            [
+              644,
+              1018
+            ],
+            [
+              1028,
+              1018
+            ],
+            [
+              1028,
+              1050
+            ],
+            [
+              644,
+              1050
+            ]
+          ]
+        },
+        {
+          "text": "following areas:",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              107,
+              1048
+            ],
+            [
+              266,
+              1048
+            ],
+            [
+              266,
+              1080
+            ],
+            [
+              107,
+              1080
+            ]
+          ]
+        },
+        {
+          "text": "Confirm that the state $ protocols and procedures for implementing the LCR are fully consistent",
+          "confidence": 0.7204,
+          "bbox": [
+            [
+              179,
+              1083
+            ],
+            [
+              1101,
+              1083
+            ],
+            [
+              1101,
+              1121
+            ],
+            [
+              179,
+              1121
+            ]
+          ]
+        },
+        {
+          "text": "with the LCR and",
+          "confidence": 0.9424,
+          "bbox": [
+            [
+              180,
+              1120
+            ],
+            [
+              354,
+              1120
+            ],
+            [
+              354,
+              1148
+            ],
+            [
+              180,
+              1148
+            ]
+          ]
+        },
+        {
+          "text": "applicable EPA guidance;",
+          "confidence": 0.9545,
+          "bbox": [
+            [
+              351,
+              1113
+            ],
+            [
+              605,
+              1113
+            ],
+            [
+              605,
+              1152
+            ],
+            [
+              351,
+              1152
+            ]
+          ]
+        },
+        {
+          "text": "(2) Use relevant EPA guidance on LCR sampling protocols and procedures for optimizing corrosion",
+          "confidence": 0.6843,
+          "bbox": [
+            [
+              143,
+              1165
+            ],
+            [
+              1107,
+              1165
+            ],
+            [
+              1107,
+              1205
+            ],
+            [
+              143,
+              1205
+            ]
+          ]
+        },
+        {
+          "text": "control;",
+          "confidence": 0.9989,
+          "bbox": [
+            [
+              180,
+              1204
+            ],
+            [
+              260,
+              1204
+            ],
+            [
+              260,
+              1230
+            ],
+            [
+              180,
+              1230
+            ]
+          ]
+        },
+        {
+          "text": "3) Post on your agency'$ public website all state LCR sampling protocols and guidance for",
+          "confidence": 0.5324,
+          "bbox": [
+            [
+              151,
+              1247
+            ],
+            [
+              1025,
+              1247
+            ],
+            [
+              1025,
+              1289
+            ],
+            [
+              151,
+              1289
+            ]
+          ]
+        },
+        {
+          "text": "identification of Tier",
+          "confidence": 0.9958,
+          "bbox": [
+            [
+              178,
+              1284
+            ],
+            [
+              386,
+              1284
+            ],
+            [
+              386,
+              1312
+            ],
+            [
+              178,
+              1312
+            ]
+          ]
+        },
+        {
+          "text": "sites (at which LCR sampling is required to be conducted);",
+          "confidence": 0.8238,
+          "bbox": [
+            [
+              401,
+              1277
+            ],
+            [
+              967,
+              1277
+            ],
+            [
+              967,
+              1313
+            ],
+            [
+              401,
+              1313
+            ]
+          ]
+        },
+        {
+          "text": "Work with public water systems",
+          "confidence": 0.9231,
+          "bbox": [
+            [
+              182,
+              1337
+            ],
+            [
+              495,
+              1337
+            ],
+            [
+              495,
+              1370
+            ],
+            [
+              182,
+              1370
+            ]
+          ]
+        },
+        {
+          "text": "with a priority emphasis on",
+          "confidence": 0.934,
+          "bbox": [
+            [
+              509,
+              1333
+            ],
+            [
+              775,
+              1333
+            ],
+            [
+              775,
+              1369
+            ],
+            [
+              509,
+              1369
+            ]
+          ]
+        },
+        {
+          "text": "systems",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              824,
+              1332
+            ],
+            [
+              911,
+              1332
+            ],
+            [
+              911,
+              1365
+            ],
+            [
+              824,
+              1365
+            ]
+          ]
+        },
+        {
+          "text": "to increase",
+          "confidence": 0.9592,
+          "bbox": [
+            [
+              926,
+              1334
+            ],
+            [
+              1036,
+              1334
+            ],
+            [
+              1036,
+              1358
+            ],
+            [
+              926,
+              1358
+            ]
+          ]
+        },
+        {
+          "text": "transparency in",
+          "confidence": 0.7633,
+          "bbox": [
+            [
+              179,
+              1370
+            ],
+            [
+              332,
+              1370
+            ],
+            [
+              332,
+              1397
+            ],
+            [
+              179,
+              1397
+            ]
+          ]
+        },
+        {
+          "text": "implementation of the LCR by posting on their public website and/or on your",
+          "confidence": 0.7849,
+          "bbox": [
+            [
+              328,
+              1358
+            ],
+            [
+              1075,
+              1358
+            ],
+            [
+              1075,
+              1400
+            ],
+            [
+              328,
+              1400
+            ]
+          ]
+        },
+        {
+          "text": "agency' $ website:",
+          "confidence": 0.7854,
+          "bbox": [
+            [
+              180,
+              1396
+            ],
+            [
+              356,
+              1396
+            ],
+            [
+              356,
+              1426
+            ],
+            [
+              180,
+              1426
+            ]
+          ]
+        },
+        {
+          "text": "Interet Address (URL)",
+          "confidence": 0.8425,
+          "bbox": [
+            [
+              495,
+              1487
+            ],
+            [
+              639,
+              1487
+            ],
+            [
+              639,
+              1505
+            ],
+            [
+              495,
+              1505
+            ]
+          ]
+        },
+        {
+          "text": "hitp /wrw epa gov",
+          "confidence": 0.1908,
+          "bbox": [
+            [
+              655,
+              1487
+            ],
+            [
+              777,
+              1487
+            ],
+            [
+              777,
+              1503
+            ],
+            [
+              655,
+              1503
+            ]
+          ]
+        },
+        {
+          "text": "Recycled/Recyclable",
+          "confidence": 0.9644,
+          "bbox": [
+            [
+              247,
+              1505
+            ],
+            [
+              389,
+              1505
+            ],
+            [
+              389,
+              1523
+            ],
+            [
+              247,
+              1523
+            ]
+          ]
+        },
+        {
+          "text": "Printed with Vegetable Oil Based Inks on 100% Postconsumer Process Chlonne Free Recycled Paper",
+          "confidence": 0.5103,
+          "bbox": [
+            [
+              404,
+              1498
+            ],
+            [
+              1028,
+              1498
+            ],
+            [
+              1028,
+              1524
+            ],
+            [
+              404,
+              1524
+            ]
+          ]
+        },
+        {
+          "text": "STATES",
+          "confidence": 0.8987,
+          "bbox": [
+            [
+              195,
+              75
+            ],
+            [
+              245,
+              96
+            ],
+            [
+              237,
+              114
+            ],
+            [
+              188,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "(",
+          "confidence": 0.8617,
+          "bbox": [
+            [
+              109,
+              132
+            ],
+            [
+              137,
+              119
+            ],
+            [
+              180,
+              216
+            ],
+            [
+              152,
+              229
+            ]
+          ]
+        },
+        {
+          "text": "PROTECTiO\" '",
+          "confidence": 0.4227,
+          "bbox": [
+            [
+              170,
+              203
+            ],
+            [
+              251,
+              164
+            ],
+            [
+              264,
+              194
+            ],
+            [
+              183,
+              234
+            ]
+          ]
+        },
+        {
+          "text": "writing",
+          "confidence": 0.999,
+          "bbox": [
+            [
+              390,
+              602
+            ],
+            [
+              465,
+              611
+            ],
+            [
+              461,
+              639
+            ],
+            [
+              385,
+              629
+            ]
+          ]
+        },
+        {
+          "text": "today",
+          "confidence": 0.9962,
+          "bbox": [
+            [
+              463,
+              603
+            ],
+            [
+              521,
+              611
+            ],
+            [
+              517,
+              637
+            ],
+            [
+              459,
+              629
+            ]
+          ]
+        },
+        {
+          "text": "you",
+          "confidence": 0.9701,
+          "bbox": [
+            [
+              578,
+              611
+            ],
+            [
+              622,
+              606
+            ],
+            [
+              624,
+              631
+            ],
+            [
+              580,
+              636
+            ]
+          ]
+        },
+        {
+          "text": "being",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              765,
+              739
+            ],
+            [
+              826,
+              748
+            ],
+            [
+              821,
+              775
+            ],
+            [
+              760,
+              765
+            ]
+          ]
+        },
+        {
+          "text": "doing",
+          "confidence": 0.8473,
+          "bbox": [
+            [
+              665,
+              987
+            ],
+            [
+              727,
+              995
+            ],
+            [
+              723,
+              1023
+            ],
+            [
+              661,
+              1015
+            ]
+          ]
+        },
+        {
+          "text": "taking",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              131,
+              991
+            ],
+            [
+              199,
+              999
+            ],
+            [
+              194,
+              1027
+            ],
+            [
+              127,
+              1018
+            ]
+          ]
+        },
+        {
+          "text": "large",
+          "confidence": 0.9985,
+          "bbox": [
+            [
+              773,
+              1334
+            ],
+            [
+              829,
+              1341
+            ],
+            [
+              824,
+              1368
+            ],
+            [
+              768,
+              1360
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "the materials inventory that systems were required to complete under the LCR, including\nthe locations of lead service lines, together with any more updated inventory Or map of\nlead service lines and lead plumbing in the system; and\nLCR compliance sampling results collected by the system; aS well as justifications for\ninvalidation of LCR samples; and\n5) Enhance efforts to ensure that residents promptly receive lead sampling results from their homes,\ntogether with clear information on lead risks and how to abate them; and that the general public\nreceives prompt information on high lead levels in\ndrinking water systems\nThese actions are essential to restoring public confidence in our shared work to ensure safe drinking\nwater for the American people \nask you for your leadership and partnership in this effort and request\nthat you respond in writing; within the next 30 days, to provide information On your activities in these\nareas_\nTo support state efforts to properly implement the LCR, the EPA will be providing information to assist\nstates in\nunderstanding steps needed t0 ensure\ncorrosion control treatment and on\nappropriate\nsampling techniques\nam\nattaching to this letter a memorandum from the EPA $ Office of Ground\nWater and Drinking Water summarizing EPA recommendations on sampling techniques. We will also\nbe\nconducting training for state and public water systems staff to ensure that all water systems\nunderstand how to carry out the requirements of the LCR properly. Finally, we are working to revise and\nstrengthen the LCR, but those revisions will take time to propose and finalize; our current expectation is\nthat proposed revisions will be issued in 2017. The actions outlined above are not a substitute for needed\nrevisions to the rule, but we can and should work together t0 take immediate steps to strengthen\nimplementation of the existing rule.\nWhile we have an immediate focus on lead in\ndrinking water, we recognize that protection of the\nnation $\ndrinking water involves both legacy and emerging contaminants, and a much broader set of\nscientific, technical and resource challenges as well as opportunities_\nThis is a shared responsibility\ninvolving state, tribal, local and federal governments, system owners and operators, consumers and other\nstakeholders Accordingly, in the\nweeks and months, we will be working with states and other\nstakeholders to identify strategies and actions to improve the safety and sustainability of our drinking\nwater systems, including:\nensuring adequate and sustained investment in, and attention to, regulatory oversight at all levels\nof government;\nusing information technology to enhance transparency and accountability with regard t0\nreporting and public availability of drinking water compliance data:\nleveraging\nsources to finance maintenance, upgrading and replacement of aging\ninfrastructure, especially for poor and overburdened communities; and\nidentifying technology and infrastructure to address both existing and emerging contaminants.\nAs always, the EPA appreciates your leadership and engagement as a partner in OUr efforts to protect\npublic health and the environment. Please do not hesitate to contact me, Or your staff may contact\nPeter Grevatt; Director of the Office of Ground Water and Drinking Water at grevattpeter(@epa.LOV Or\n(202) 564-8954\noptimal\ncoming\nfunding",
+      "word_count": 514,
+      "line_count": 56,
+      "structured_data": [
+        {
+          "text": "the materials inventory that systems were required to complete under the LCR, including",
+          "confidence": 0.814,
+          "bbox": [
+            [
+              261,
+              109
+            ],
+            [
+              1114,
+              109
+            ],
+            [
+              1114,
+              146
+            ],
+            [
+              261,
+              146
+            ]
+          ]
+        },
+        {
+          "text": "the locations of lead service lines, together with any more updated inventory Or map of",
+          "confidence": 0.7795,
+          "bbox": [
+            [
+              262,
+              142
+            ],
+            [
+              1094,
+              142
+            ],
+            [
+              1094,
+              175
+            ],
+            [
+              262,
+              175
+            ]
+          ]
+        },
+        {
+          "text": "lead service lines and lead plumbing in the system; and",
+          "confidence": 0.7073,
+          "bbox": [
+            [
+              262,
+              170
+            ],
+            [
+              788,
+              170
+            ],
+            [
+              788,
+              200
+            ],
+            [
+              262,
+              200
+            ]
+          ]
+        },
+        {
+          "text": "LCR compliance sampling results collected by the system; aS well as justifications for",
+          "confidence": 0.7134,
+          "bbox": [
+            [
+              262,
+              196
+            ],
+            [
+              1086,
+              196
+            ],
+            [
+              1086,
+              228
+            ],
+            [
+              262,
+              228
+            ]
+          ]
+        },
+        {
+          "text": "invalidation of LCR samples; and",
+          "confidence": 0.9188,
+          "bbox": [
+            [
+              262,
+              224
+            ],
+            [
+              588,
+              224
+            ],
+            [
+              588,
+              254
+            ],
+            [
+              262,
+              254
+            ]
+          ]
+        },
+        {
+          "text": "5) Enhance efforts to ensure that residents promptly receive lead sampling results from their homes,",
+          "confidence": 0.7863,
+          "bbox": [
+            [
+              163,
+              277
+            ],
+            [
+              1121,
+              277
+            ],
+            [
+              1121,
+              313
+            ],
+            [
+              163,
+              313
+            ]
+          ]
+        },
+        {
+          "text": "together with clear information on lead risks and how to abate them; and that the general public",
+          "confidence": 0.7238,
+          "bbox": [
+            [
+              188,
+              305
+            ],
+            [
+              1104,
+              305
+            ],
+            [
+              1104,
+              341
+            ],
+            [
+              188,
+              341
+            ]
+          ]
+        },
+        {
+          "text": "receives prompt information on high lead levels in",
+          "confidence": 0.7246,
+          "bbox": [
+            [
+              190,
+              336
+            ],
+            [
+              674,
+              336
+            ],
+            [
+              674,
+              366
+            ],
+            [
+              190,
+              366
+            ]
+          ]
+        },
+        {
+          "text": "drinking water systems",
+          "confidence": 0.8481,
+          "bbox": [
+            [
+              669,
+              331
+            ],
+            [
+              903,
+              331
+            ],
+            [
+              903,
+              369
+            ],
+            [
+              669,
+              369
+            ]
+          ]
+        },
+        {
+          "text": "These actions are essential to restoring public confidence in our shared work to ensure safe drinking",
+          "confidence": 0.6301,
+          "bbox": [
+            [
+              119,
+              388
+            ],
+            [
+              1076,
+              388
+            ],
+            [
+              1076,
+              425
+            ],
+            [
+              119,
+              425
+            ]
+          ]
+        },
+        {
+          "text": "water for the American people ",
+          "confidence": 0.788,
+          "bbox": [
+            [
+              120,
+              420
+            ],
+            [
+              418,
+              420
+            ],
+            [
+              418,
+              450
+            ],
+            [
+              120,
+              450
+            ]
+          ]
+        },
+        {
+          "text": "ask you for your leadership and partnership in this effort and request",
+          "confidence": 0.7643,
+          "bbox": [
+            [
+              436,
+              422
+            ],
+            [
+              1092,
+              422
+            ],
+            [
+              1092,
+              450
+            ],
+            [
+              436,
+              450
+            ]
+          ]
+        },
+        {
+          "text": "that you respond in writing; within the next 30 days, to provide information On your activities in these",
+          "confidence": 0.679,
+          "bbox": [
+            [
+              119,
+              445
+            ],
+            [
+              1094,
+              445
+            ],
+            [
+              1094,
+              481
+            ],
+            [
+              119,
+              481
+            ]
+          ]
+        },
+        {
+          "text": "areas_",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              121,
+              481
+            ],
+            [
+              175,
+              481
+            ],
+            [
+              175,
+              501
+            ],
+            [
+              121,
+              501
+            ]
+          ]
+        },
+        {
+          "text": "To support state efforts to properly implement the LCR, the EPA will be providing information to assist",
+          "confidence": 0.8474,
+          "bbox": [
+            [
+              121,
+              529
+            ],
+            [
+              1113,
+              529
+            ],
+            [
+              1113,
+              565
+            ],
+            [
+              121,
+              565
+            ]
+          ]
+        },
+        {
+          "text": "states in",
+          "confidence": 0.9991,
+          "bbox": [
+            [
+              120,
+              560
+            ],
+            [
+              204,
+              560
+            ],
+            [
+              204,
+              584
+            ],
+            [
+              120,
+              584
+            ]
+          ]
+        },
+        {
+          "text": "understanding steps needed t0 ensure",
+          "confidence": 0.7865,
+          "bbox": [
+            [
+              200,
+              551
+            ],
+            [
+              563,
+              551
+            ],
+            [
+              563,
+              591
+            ],
+            [
+              200,
+              591
+            ]
+          ]
+        },
+        {
+          "text": "corrosion control treatment and on",
+          "confidence": 0.9777,
+          "bbox": [
+            [
+              638,
+              560
+            ],
+            [
+              972,
+              560
+            ],
+            [
+              972,
+              586
+            ],
+            [
+              638,
+              586
+            ]
+          ]
+        },
+        {
+          "text": "appropriate",
+          "confidence": 0.952,
+          "bbox": [
+            [
+              969,
+              556
+            ],
+            [
+              1090,
+              556
+            ],
+            [
+              1090,
+              595
+            ],
+            [
+              969,
+              595
+            ]
+          ]
+        },
+        {
+          "text": "sampling techniques",
+          "confidence": 0.9949,
+          "bbox": [
+            [
+              120,
+              586
+            ],
+            [
+              322,
+              586
+            ],
+            [
+              322,
+              614
+            ],
+            [
+              120,
+              614
+            ]
+          ]
+        },
+        {
+          "text": "am",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              341,
+              593
+            ],
+            [
+              373,
+              593
+            ],
+            [
+              373,
+              611
+            ],
+            [
+              341,
+              611
+            ]
+          ]
+        },
+        {
+          "text": "attaching to this letter a memorandum from the EPA $ Office of Ground",
+          "confidence": 0.7506,
+          "bbox": [
+            [
+              375,
+              584
+            ],
+            [
+              1064,
+              584
+            ],
+            [
+              1064,
+              616
+            ],
+            [
+              375,
+              616
+            ]
+          ]
+        },
+        {
+          "text": "Water and Drinking Water summarizing EPA recommendations on sampling techniques. We will also",
+          "confidence": 0.6931,
+          "bbox": [
+            [
+              121,
+              608
+            ],
+            [
+              1097,
+              608
+            ],
+            [
+              1097,
+              647
+            ],
+            [
+              121,
+              647
+            ]
+          ]
+        },
+        {
+          "text": "be",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              120,
+              642
+            ],
+            [
+              148,
+              642
+            ],
+            [
+              148,
+              666
+            ],
+            [
+              120,
+              666
+            ]
+          ]
+        },
+        {
+          "text": "conducting training for state and public water systems staff to ensure that all water systems",
+          "confidence": 0.7314,
+          "bbox": [
+            [
+              146,
+              636
+            ],
+            [
+              1020,
+              636
+            ],
+            [
+              1020,
+              676
+            ],
+            [
+              146,
+              676
+            ]
+          ]
+        },
+        {
+          "text": "understand how to carry out the requirements of the LCR properly. Finally, we are working to revise and",
+          "confidence": 0.644,
+          "bbox": [
+            [
+              119,
+              667
+            ],
+            [
+              1121,
+              667
+            ],
+            [
+              1121,
+              704
+            ],
+            [
+              119,
+              704
+            ]
+          ]
+        },
+        {
+          "text": "strengthen the LCR, but those revisions will take time to propose and finalize; our current expectation is",
+          "confidence": 0.8955,
+          "bbox": [
+            [
+              119,
+              695
+            ],
+            [
+              1115,
+              695
+            ],
+            [
+              1115,
+              732
+            ],
+            [
+              119,
+              732
+            ]
+          ]
+        },
+        {
+          "text": "that proposed revisions will be issued in 2017. The actions outlined above are not a substitute for needed",
+          "confidence": 0.9326,
+          "bbox": [
+            [
+              118,
+              725
+            ],
+            [
+              1118,
+              725
+            ],
+            [
+              1118,
+              758
+            ],
+            [
+              118,
+              758
+            ]
+          ]
+        },
+        {
+          "text": "revisions to the rule, but we can and should work together t0 take immediate steps to strengthen",
+          "confidence": 0.8414,
+          "bbox": [
+            [
+              118,
+              754
+            ],
+            [
+              1032,
+              754
+            ],
+            [
+              1032,
+              787
+            ],
+            [
+              118,
+              787
+            ]
+          ]
+        },
+        {
+          "text": "implementation of the existing rule.",
+          "confidence": 0.9917,
+          "bbox": [
+            [
+              118,
+              780
+            ],
+            [
+              466,
+              780
+            ],
+            [
+              466,
+              812
+            ],
+            [
+              118,
+              812
+            ]
+          ]
+        },
+        {
+          "text": "While we have an immediate focus on lead in",
+          "confidence": 0.6896,
+          "bbox": [
+            [
+              122,
+              836
+            ],
+            [
+              558,
+              836
+            ],
+            [
+              558,
+              864
+            ],
+            [
+              122,
+              864
+            ]
+          ]
+        },
+        {
+          "text": "drinking water, we recognize that protection of the",
+          "confidence": 0.9354,
+          "bbox": [
+            [
+              555,
+              833
+            ],
+            [
+              1045,
+              833
+            ],
+            [
+              1045,
+              872
+            ],
+            [
+              555,
+              872
+            ]
+          ]
+        },
+        {
+          "text": "nation $",
+          "confidence": 0.3925,
+          "bbox": [
+            [
+              118,
+              864
+            ],
+            [
+              202,
+              864
+            ],
+            [
+              202,
+              888
+            ],
+            [
+              118,
+              888
+            ]
+          ]
+        },
+        {
+          "text": "drinking water involves both legacy and emerging contaminants, and a much broader set of",
+          "confidence": 0.6602,
+          "bbox": [
+            [
+              197,
+              857
+            ],
+            [
+              1077,
+              857
+            ],
+            [
+              1077,
+              898
+            ],
+            [
+              197,
+              898
+            ]
+          ]
+        },
+        {
+          "text": "scientific, technical and resource challenges as well as opportunities_",
+          "confidence": 0.8247,
+          "bbox": [
+            [
+              116,
+              887
+            ],
+            [
+              769,
+              887
+            ],
+            [
+              769,
+              924
+            ],
+            [
+              116,
+              924
+            ]
+          ]
+        },
+        {
+          "text": "This is a shared responsibility",
+          "confidence": 0.8586,
+          "bbox": [
+            [
+              774,
+              894
+            ],
+            [
+              1064,
+              894
+            ],
+            [
+              1064,
+              922
+            ],
+            [
+              774,
+              922
+            ]
+          ]
+        },
+        {
+          "text": "involving state, tribal, local and federal governments, system owners and operators, consumers and other",
+          "confidence": 0.5513,
+          "bbox": [
+            [
+              115,
+              912
+            ],
+            [
+              1121,
+              912
+            ],
+            [
+              1121,
+              952
+            ],
+            [
+              115,
+              952
+            ]
+          ]
+        },
+        {
+          "text": "stakeholders Accordingly, in the",
+          "confidence": 0.6766,
+          "bbox": [
+            [
+              117,
+              941
+            ],
+            [
+              441,
+              941
+            ],
+            [
+              441,
+              978
+            ],
+            [
+              117,
+              978
+            ]
+          ]
+        },
+        {
+          "text": "weeks and months, we will be working with states and other",
+          "confidence": 0.7079,
+          "bbox": [
+            [
+              516,
+              946
+            ],
+            [
+              1094,
+              946
+            ],
+            [
+              1094,
+              978
+            ],
+            [
+              516,
+              978
+            ]
+          ]
+        },
+        {
+          "text": "stakeholders to identify strategies and actions to improve the safety and sustainability of our drinking",
+          "confidence": 0.839,
+          "bbox": [
+            [
+              117,
+              969
+            ],
+            [
+              1086,
+              969
+            ],
+            [
+              1086,
+              1008
+            ],
+            [
+              117,
+              1008
+            ]
+          ]
+        },
+        {
+          "text": "water systems, including:",
+          "confidence": 0.5836,
+          "bbox": [
+            [
+              117,
+              997
+            ],
+            [
+              368,
+              997
+            ],
+            [
+              368,
+              1034
+            ],
+            [
+              117,
+              1034
+            ]
+          ]
+        },
+        {
+          "text": "ensuring adequate and sustained investment in, and attention to, regulatory oversight at all levels",
+          "confidence": 0.7059,
+          "bbox": [
+            [
+              186,
+              1039
+            ],
+            [
+              1113,
+              1039
+            ],
+            [
+              1113,
+              1078
+            ],
+            [
+              186,
+              1078
+            ]
+          ]
+        },
+        {
+          "text": "of government;",
+          "confidence": 0.7145,
+          "bbox": [
+            [
+              188,
+              1074
+            ],
+            [
+              342,
+              1074
+            ],
+            [
+              342,
+              1104
+            ],
+            [
+              188,
+              1104
+            ]
+          ]
+        },
+        {
+          "text": "using information technology to enhance transparency and accountability with regard t0",
+          "confidence": 0.8082,
+          "bbox": [
+            [
+              187,
+              1099
+            ],
+            [
+              1029,
+              1099
+            ],
+            [
+              1029,
+              1136
+            ],
+            [
+              187,
+              1136
+            ]
+          ]
+        },
+        {
+          "text": "reporting and public availability of drinking water compliance data:",
+          "confidence": 0.9611,
+          "bbox": [
+            [
+              186,
+              1127
+            ],
+            [
+              836,
+              1127
+            ],
+            [
+              836,
+              1166
+            ],
+            [
+              186,
+              1166
+            ]
+          ]
+        },
+        {
+          "text": "leveraging",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              188,
+              1162
+            ],
+            [
+              296,
+              1162
+            ],
+            [
+              296,
+              1192
+            ],
+            [
+              188,
+              1192
+            ]
+          ]
+        },
+        {
+          "text": "sources to finance maintenance, upgrading and replacement of aging",
+          "confidence": 0.7657,
+          "bbox": [
+            [
+              374,
+              1159
+            ],
+            [
+              1031,
+              1159
+            ],
+            [
+              1031,
+              1192
+            ],
+            [
+              374,
+              1192
+            ]
+          ]
+        },
+        {
+          "text": "infrastructure, especially for poor and overburdened communities; and",
+          "confidence": 0.9276,
+          "bbox": [
+            [
+              187,
+              1187
+            ],
+            [
+              862,
+              1187
+            ],
+            [
+              862,
+              1219
+            ],
+            [
+              187,
+              1219
+            ]
+          ]
+        },
+        {
+          "text": "identifying technology and infrastructure to address both existing and emerging contaminants.",
+          "confidence": 0.8009,
+          "bbox": [
+            [
+              186,
+              1214
+            ],
+            [
+              1085,
+              1214
+            ],
+            [
+              1085,
+              1250
+            ],
+            [
+              186,
+              1250
+            ]
+          ]
+        },
+        {
+          "text": "As always, the EPA appreciates your leadership and engagement as a partner in OUr efforts to protect",
+          "confidence": 0.6412,
+          "bbox": [
+            [
+              118,
+              1272
+            ],
+            [
+              1081,
+              1272
+            ],
+            [
+              1081,
+              1304
+            ],
+            [
+              118,
+              1304
+            ]
+          ]
+        },
+        {
+          "text": "public health and the environment. Please do not hesitate to contact me, Or your staff may contact",
+          "confidence": 0.5251,
+          "bbox": [
+            [
+              113,
+              1295
+            ],
+            [
+              1049,
+              1295
+            ],
+            [
+              1049,
+              1331
+            ],
+            [
+              113,
+              1331
+            ]
+          ]
+        },
+        {
+          "text": "Peter Grevatt; Director of the Office of Ground Water and Drinking Water at grevattpeter(@epa.LOV Or",
+          "confidence": 0.3308,
+          "bbox": [
+            [
+              115,
+              1326
+            ],
+            [
+              1100,
+              1326
+            ],
+            [
+              1100,
+              1358
+            ],
+            [
+              115,
+              1358
+            ]
+          ]
+        },
+        {
+          "text": "(202) 564-8954",
+          "confidence": 0.744,
+          "bbox": [
+            [
+              116,
+              1354
+            ],
+            [
+              272,
+              1354
+            ],
+            [
+              272,
+              1384
+            ],
+            [
+              116,
+              1384
+            ]
+          ]
+        },
+        {
+          "text": "optimal",
+          "confidence": 0.7763,
+          "bbox": [
+            [
+              558,
+              562
+            ],
+            [
+              637,
+              555
+            ],
+            [
+              638,
+              585
+            ],
+            [
+              559,
+              591
+            ]
+          ]
+        },
+        {
+          "text": "coming",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              440,
+              942
+            ],
+            [
+              518,
+              951
+            ],
+            [
+              513,
+              979
+            ],
+            [
+              435,
+              969
+            ]
+          ]
+        },
+        {
+          "text": "funding",
+          "confidence": 0.7745,
+          "bbox": [
+            [
+              297,
+              1156
+            ],
+            [
+              378,
+              1165
+            ],
+            [
+              373,
+              1193
+            ],
+            [
+              293,
+              1183
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Thank you in advance for your support to ensure that we are\nfulfilling our joint responsibility for the\nprotection 0f public health and to restore public confidence in our shared work to ensure safe drinking\nwater for the American\nSincerely,\nJoel Beauvais\nDeputy Assistant Administrator\nEnclosure\npeople:",
+      "word_count": 47,
+      "line_count": 9,
+      "structured_data": [
+        {
+          "text": "Thank you in advance for your support to ensure that we are",
+          "confidence": 0.9903,
+          "bbox": [
+            [
+              112,
+              138
+            ],
+            [
+              687,
+              138
+            ],
+            [
+              687,
+              171
+            ],
+            [
+              112,
+              171
+            ]
+          ]
+        },
+        {
+          "text": "fulfilling our joint responsibility for the",
+          "confidence": 0.9061,
+          "bbox": [
+            [
+              681,
+              130
+            ],
+            [
+              1071,
+              130
+            ],
+            [
+              1071,
+              169
+            ],
+            [
+              681,
+              169
+            ]
+          ]
+        },
+        {
+          "text": "protection 0f public health and to restore public confidence in our shared work to ensure safe drinking",
+          "confidence": 0.7179,
+          "bbox": [
+            [
+              107,
+              156
+            ],
+            [
+              1088,
+              156
+            ],
+            [
+              1088,
+              201
+            ],
+            [
+              107,
+              201
+            ]
+          ]
+        },
+        {
+          "text": "water for the American",
+          "confidence": 0.9881,
+          "bbox": [
+            [
+              112,
+              196
+            ],
+            [
+              338,
+              196
+            ],
+            [
+              338,
+              222
+            ],
+            [
+              112,
+              222
+            ]
+          ]
+        },
+        {
+          "text": "Sincerely,",
+          "confidence": 0.6712,
+          "bbox": [
+            [
+              607,
+              249
+            ],
+            [
+              708,
+              249
+            ],
+            [
+              708,
+              278
+            ],
+            [
+              607,
+              278
+            ]
+          ]
+        },
+        {
+          "text": "Joel Beauvais",
+          "confidence": 0.8815,
+          "bbox": [
+            [
+              608,
+              358
+            ],
+            [
+              744,
+              358
+            ],
+            [
+              744,
+              382
+            ],
+            [
+              608,
+              382
+            ]
+          ]
+        },
+        {
+          "text": "Deputy Assistant Administrator",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              606,
+              381
+            ],
+            [
+              919,
+              381
+            ],
+            [
+              919,
+              418
+            ],
+            [
+              606,
+              418
+            ]
+          ]
+        },
+        {
+          "text": "Enclosure",
+          "confidence": 0.9522,
+          "bbox": [
+            [
+              112,
+              500
+            ],
+            [
+              214,
+              500
+            ],
+            [
+              214,
+              526
+            ],
+            [
+              112,
+              526
+            ]
+          ]
+        },
+        {
+          "text": "people:",
+          "confidence": 0.6346,
+          "bbox": [
+            [
+              334,
+              201
+            ],
+            [
+              410,
+              193
+            ],
+            [
+              412,
+              222
+            ],
+            [
+              336,
+              230
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

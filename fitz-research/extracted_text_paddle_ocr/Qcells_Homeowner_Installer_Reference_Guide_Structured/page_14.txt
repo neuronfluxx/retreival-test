@@ -1,0 +1,26 @@
+12. Battery Storage and Backup Concepts
+Qcells public Q.HOME materials describe integrated residential storage architectures; exact capabilities depend on the product
+generation and installed configuration.
+12.1 Q.HOME CORE example - published public values
+PV / Grid
+Hybridinverter
+Battery
+Critical loads
+Backup behavior depends on system design, transfer equipment, configured loads, and limits.
+Published item
+Public value in cited Q.HOME CORE material
+Storage capacity
+10 kWh up to 20 kWh
+PV max input
+7.6 kW up to 15.2 kW
+Battery chemistry
+LFP (lithium iron phosphate)
+Battery modules
+Up to four 5 kWh modules in the cited configuration
+Backup output
+7.6 kW max
+Communications
+Wi-Fi / cellular; web and mobile monitoring
+12.2 Backup is not automatically “whole-home” power
+Backup behavior depends on the installed inverter, transfer / backup equipment, supported circuits, load limits and configured
+operating mode. Always use the exact current equipment documentation for the project.

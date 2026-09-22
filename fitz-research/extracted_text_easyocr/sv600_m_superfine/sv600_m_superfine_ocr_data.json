@@ -1,0 +1,1444 @@
+{
+  "pdf_name": "sv600_m_superfine",
+  "total_pages": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "PFU Business report\nNo.068\nNew customer's development\nand increasing the sale ofproduct\nMy country economy at this season\nescaping from Odoba of business though holds a crude oil\nhigh so on unstable element that continues still, and recovering gradually and well.\nIn the IT industry, there is an influence such as competing intensification in narrowing investment field.\n[The main product and service at this season]\nFrom the product headquarters\nIn the image business, the new model turning on of the A3 high-speed;\nusually\nbad\ntwo sided color scanner that achieved a high-speed reading aimed at\nwroom was established in United States, Europe, and Asia/Oceania\n20%\nvery good\nImage business\ngood\n47 %\n1) Scanner class\nA3 high-speed; two sided color scanner  \"fi-590C\" that 100 high-n\n2616\nfunction to enable industry-leading was installed was announced in\nScanSnap gotten popular because of an office and individual use:\n2) DLM solution scanner\nThe DLM solution that used received the rise of the concern to efficient\nSatisfaction rating to new product\nmanagement and internal management of the corporate private circum-\nstances report in recent years and attracted attention.\nfunction of software that the inspection of data is possible by\nthe sense that turns over the fle is strengthened, and easiness t0 use has been improved:\n[approach on business risk]\nIn-house activity\nThe attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February;\n2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention; and\n\"Culbiz\" is done. The scandal of the enterprise has frequently generated is received; concern is sent t0 the system mainte:\nnance including the observance of the law in recent years\n100\nEnhancement of system of management\n90\nThe committee that aimed at the decrease of\nvariety of business\n80\nrisks in an individual business talk was newly established Moreover,\n70\n60\nthe\nrecognition of \"Privacy mark\nis received to manage customer and\n50\nemployee's individual information appropriately in 2001 , and the activ-\n40\nity based on the protection of individual information policy is continued:\n30\nIt is _bAsia/ Oceania in globalln addition, our technology, commodity\n20\npower, and correspondence power were evaluating acquired:\n10\n998   1999 2000\n2001\n2002 20032004\nSatisfaction rating t0 new product\nkeeps\nThe",
+      "word_count": 383,
+      "line_count": 65,
+      "structured_data": [
+        {
+          "text": "PFU Business report",
+          "confidence": 0.9889,
+          "bbox": [
+            [
+              50,
+              38
+            ],
+            [
+              280,
+              38
+            ],
+            [
+              280,
+              64
+            ],
+            [
+              50,
+              64
+            ]
+          ]
+        },
+        {
+          "text": "No.068",
+          "confidence": 0.5829,
+          "bbox": [
+            [
+              1062,
+              36
+            ],
+            [
+              1144,
+              36
+            ],
+            [
+              1144,
+              60
+            ],
+            [
+              1062,
+              60
+            ]
+          ]
+        },
+        {
+          "text": "New customer's development",
+          "confidence": 0.8845,
+          "bbox": [
+            [
+              113,
+              104
+            ],
+            [
+              905,
+              104
+            ],
+            [
+              905,
+              191
+            ],
+            [
+              113,
+              191
+            ]
+          ]
+        },
+        {
+          "text": "and increasing the sale ofproduct",
+          "confidence": 0.8649,
+          "bbox": [
+            [
+              111,
+              163
+            ],
+            [
+              1011,
+              163
+            ],
+            [
+              1011,
+              254
+            ],
+            [
+              111,
+              254
+            ]
+          ]
+        },
+        {
+          "text": "My country economy at this season",
+          "confidence": 0.9248,
+          "bbox": [
+            [
+              56,
+              276
+            ],
+            [
+              394,
+              276
+            ],
+            [
+              394,
+              304
+            ],
+            [
+              56,
+              304
+            ]
+          ]
+        },
+        {
+          "text": "escaping from Odoba of business though holds a crude oil",
+          "confidence": 0.8818,
+          "bbox": [
+            [
+              452,
+              274
+            ],
+            [
+              1004,
+              274
+            ],
+            [
+              1004,
+              304
+            ],
+            [
+              452,
+              304
+            ]
+          ]
+        },
+        {
+          "text": "high so on unstable element that continues still, and recovering gradually and well.",
+          "confidence": 0.7529,
+          "bbox": [
+            [
+              54,
+              301
+            ],
+            [
+              834,
+              301
+            ],
+            [
+              834,
+              334
+            ],
+            [
+              54,
+              334
+            ]
+          ]
+        },
+        {
+          "text": "In the IT industry, there is an influence such as competing intensification in narrowing investment field.",
+          "confidence": 0.5744,
+          "bbox": [
+            [
+              54,
+              328
+            ],
+            [
+              1034,
+              328
+            ],
+            [
+              1034,
+              360
+            ],
+            [
+              54,
+              360
+            ]
+          ]
+        },
+        {
+          "text": "[The main product and service at this season]",
+          "confidence": 0.7933,
+          "bbox": [
+            [
+              55,
+              419
+            ],
+            [
+              581,
+              419
+            ],
+            [
+              581,
+              455
+            ],
+            [
+              55,
+              455
+            ]
+          ]
+        },
+        {
+          "text": "From the product headquarters",
+          "confidence": 0.9115,
+          "bbox": [
+            [
+              74,
+              476
+            ],
+            [
+              394,
+              476
+            ],
+            [
+              394,
+              504
+            ],
+            [
+              74,
+              504
+            ]
+          ]
+        },
+        {
+          "text": "In the image business, the new model turning on of the A3 high-speed;",
+          "confidence": 0.6024,
+          "bbox": [
+            [
+              52,
+              506
+            ],
+            [
+              686,
+              506
+            ],
+            [
+              686,
+              535
+            ],
+            [
+              52,
+              535
+            ]
+          ]
+        },
+        {
+          "text": "usually",
+          "confidence": 0.9928,
+          "bbox": [
+            [
+              780,
+              502
+            ],
+            [
+              848,
+              502
+            ],
+            [
+              848,
+              526
+            ],
+            [
+              780,
+              526
+            ]
+          ]
+        },
+        {
+          "text": "bad",
+          "confidence": 0.9998,
+          "bbox": [
+            [
+              968,
+              508
+            ],
+            [
+              1006,
+              508
+            ],
+            [
+              1006,
+              532
+            ],
+            [
+              968,
+              532
+            ]
+          ]
+        },
+        {
+          "text": "two sided color scanner that achieved a high-speed reading aimed at",
+          "confidence": 0.6723,
+          "bbox": [
+            [
+              52,
+              535
+            ],
+            [
+              686,
+              535
+            ],
+            [
+              686,
+              565
+            ],
+            [
+              52,
+              565
+            ]
+          ]
+        },
+        {
+          "text": "wroom was established in United States, Europe, and Asia/Oceania",
+          "confidence": 0.896,
+          "bbox": [
+            [
+              52,
+              564
+            ],
+            [
+              672,
+              564
+            ],
+            [
+              672,
+              595
+            ],
+            [
+              52,
+              595
+            ]
+          ]
+        },
+        {
+          "text": "20%",
+          "confidence": 0.967,
+          "bbox": [
+            [
+              795,
+              591
+            ],
+            [
+              875,
+              591
+            ],
+            [
+              875,
+              633
+            ],
+            [
+              795,
+              633
+            ]
+          ]
+        },
+        {
+          "text": "very good",
+          "confidence": 0.9539,
+          "bbox": [
+            [
+              970,
+              593
+            ],
+            [
+              1058,
+              593
+            ],
+            [
+              1058,
+              620
+            ],
+            [
+              970,
+              620
+            ]
+          ]
+        },
+        {
+          "text": "Image business",
+          "confidence": 0.9791,
+          "bbox": [
+            [
+              72,
+              635
+            ],
+            [
+              238,
+              635
+            ],
+            [
+              238,
+              665
+            ],
+            [
+              72,
+              665
+            ]
+          ]
+        },
+        {
+          "text": "good",
+          "confidence": 0.7907,
+          "bbox": [
+            [
+              840,
+              651
+            ],
+            [
+              893,
+              651
+            ],
+            [
+              893,
+              678
+            ],
+            [
+              840,
+              678
+            ]
+          ]
+        },
+        {
+          "text": "47 %",
+          "confidence": 0.6341,
+          "bbox": [
+            [
+              981,
+              633
+            ],
+            [
+              1055,
+              633
+            ],
+            [
+              1055,
+              673
+            ],
+            [
+              981,
+              673
+            ]
+          ]
+        },
+        {
+          "text": "1) Scanner class",
+          "confidence": 0.7242,
+          "bbox": [
+            [
+              54,
+              665
+            ],
+            [
+              210,
+              665
+            ],
+            [
+              210,
+              692
+            ],
+            [
+              54,
+              692
+            ]
+          ]
+        },
+        {
+          "text": "A3 high-speed; two sided color scanner  \"fi-590C\" that 100 high-n",
+          "confidence": 0.3617,
+          "bbox": [
+            [
+              54,
+              695
+            ],
+            [
+              690,
+              695
+            ],
+            [
+              690,
+              726
+            ],
+            [
+              54,
+              726
+            ]
+          ]
+        },
+        {
+          "text": "2616",
+          "confidence": 0.1805,
+          "bbox": [
+            [
+              839,
+              685
+            ],
+            [
+              919,
+              685
+            ],
+            [
+              919,
+              727
+            ],
+            [
+              839,
+              727
+            ]
+          ]
+        },
+        {
+          "text": "function to enable industry-leading was installed was announced in",
+          "confidence": 0.6185,
+          "bbox": [
+            [
+              52,
+              728
+            ],
+            [
+              690,
+              728
+            ],
+            [
+              690,
+              754
+            ],
+            [
+              52,
+              754
+            ]
+          ]
+        },
+        {
+          "text": "ScanSnap gotten popular because of an office and individual use:",
+          "confidence": 0.7398,
+          "bbox": [
+            [
+              52,
+              755
+            ],
+            [
+              650,
+              755
+            ],
+            [
+              650,
+              784
+            ],
+            [
+              52,
+              784
+            ]
+          ]
+        },
+        {
+          "text": "2) DLM solution scanner",
+          "confidence": 0.8761,
+          "bbox": [
+            [
+              52,
+              784
+            ],
+            [
+              282,
+              784
+            ],
+            [
+              282,
+              814
+            ],
+            [
+              52,
+              814
+            ]
+          ]
+        },
+        {
+          "text": "The DLM solution that used received the rise of the concern to efficient",
+          "confidence": 0.6393,
+          "bbox": [
+            [
+              52,
+              816
+            ],
+            [
+              690,
+              816
+            ],
+            [
+              690,
+              842
+            ],
+            [
+              52,
+              842
+            ]
+          ]
+        },
+        {
+          "text": "Satisfaction rating to new product",
+          "confidence": 0.6196,
+          "bbox": [
+            [
+              804,
+              820
+            ],
+            [
+              1062,
+              820
+            ],
+            [
+              1062,
+              844
+            ],
+            [
+              804,
+              844
+            ]
+          ]
+        },
+        {
+          "text": "management and internal management of the corporate private circum-",
+          "confidence": 0.9263,
+          "bbox": [
+            [
+              51,
+              846
+            ],
+            [
+              688,
+              846
+            ],
+            [
+              688,
+              877
+            ],
+            [
+              51,
+              877
+            ]
+          ]
+        },
+        {
+          "text": "stances report in recent years and attracted attention.",
+          "confidence": 0.6522,
+          "bbox": [
+            [
+              50,
+              876
+            ],
+            [
+              540,
+              876
+            ],
+            [
+              540,
+              906
+            ],
+            [
+              50,
+              906
+            ]
+          ]
+        },
+        {
+          "text": "function of software that the inspection of data is possible by",
+          "confidence": 0.795,
+          "bbox": [
+            [
+              583,
+              875
+            ],
+            [
+              1144,
+              875
+            ],
+            [
+              1144,
+              904
+            ],
+            [
+              583,
+              904
+            ]
+          ]
+        },
+        {
+          "text": "the sense that turns over the fle is strengthened, and easiness t0 use has been improved:",
+          "confidence": 0.4886,
+          "bbox": [
+            [
+              50,
+              906
+            ],
+            [
+              862,
+              906
+            ],
+            [
+              862,
+              934
+            ],
+            [
+              50,
+              934
+            ]
+          ]
+        },
+        {
+          "text": "[approach on business risk]",
+          "confidence": 0.8619,
+          "bbox": [
+            [
+              53,
+              999
+            ],
+            [
+              377,
+              999
+            ],
+            [
+              377,
+              1035
+            ],
+            [
+              53,
+              1035
+            ]
+          ]
+        },
+        {
+          "text": "In-house activity",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              70,
+              1056
+            ],
+            [
+              246,
+              1056
+            ],
+            [
+              246,
+              1082
+            ],
+            [
+              70,
+              1082
+            ]
+          ]
+        },
+        {
+          "text": "The attestation intended for each office in Shinbashi, Kansai, and Tokai was acquired in environment ISO in February;",
+          "confidence": 0.7312,
+          "bbox": [
+            [
+              50,
+              1082
+            ],
+            [
+              1140,
+              1082
+            ],
+            [
+              1140,
+              1112
+            ],
+            [
+              50,
+              1112
+            ]
+          ]
+        },
+        {
+          "text": "2006. In addition, it participates in the minus 6% that is a national movement of the global warming prevention; and",
+          "confidence": 0.8133,
+          "bbox": [
+            [
+              50,
+              1112
+            ],
+            [
+              1140,
+              1112
+            ],
+            [
+              1140,
+              1143
+            ],
+            [
+              50,
+              1143
+            ]
+          ]
+        },
+        {
+          "text": "\"Culbiz\" is done. The scandal of the enterprise has frequently generated is received; concern is sent t0 the system mainte:",
+          "confidence": 0.5892,
+          "bbox": [
+            [
+              50,
+              1144
+            ],
+            [
+              1140,
+              1144
+            ],
+            [
+              1140,
+              1174
+            ],
+            [
+              50,
+              1174
+            ]
+          ]
+        },
+        {
+          "text": "nance including the observance of the law in recent years",
+          "confidence": 0.8679,
+          "bbox": [
+            [
+              50,
+              1175
+            ],
+            [
+              580,
+              1175
+            ],
+            [
+              580,
+              1206
+            ],
+            [
+              50,
+              1206
+            ]
+          ]
+        },
+        {
+          "text": "100",
+          "confidence": 0.999,
+          "bbox": [
+            [
+              723,
+              1227
+            ],
+            [
+              757,
+              1227
+            ],
+            [
+              757,
+              1247
+            ],
+            [
+              723,
+              1247
+            ]
+          ]
+        },
+        {
+          "text": "Enhancement of system of management",
+          "confidence": 0.9524,
+          "bbox": [
+            [
+              72,
+              1240
+            ],
+            [
+              482,
+              1240
+            ],
+            [
+              482,
+              1270
+            ],
+            [
+              72,
+              1270
+            ]
+          ]
+        },
+        {
+          "text": "90",
+          "confidence": 0.9669,
+          "bbox": [
+            [
+              733,
+              1251
+            ],
+            [
+              757,
+              1251
+            ],
+            [
+              757,
+              1271
+            ],
+            [
+              733,
+              1271
+            ]
+          ]
+        },
+        {
+          "text": "The committee that aimed at the decrease of",
+          "confidence": 0.8219,
+          "bbox": [
+            [
+              50,
+              1270
+            ],
+            [
+              484,
+              1270
+            ],
+            [
+              484,
+              1299
+            ],
+            [
+              50,
+              1299
+            ]
+          ]
+        },
+        {
+          "text": "variety of business",
+          "confidence": 0.9483,
+          "bbox": [
+            [
+              505,
+              1272
+            ],
+            [
+              686,
+              1272
+            ],
+            [
+              686,
+              1300
+            ],
+            [
+              505,
+              1300
+            ]
+          ]
+        },
+        {
+          "text": "80",
+          "confidence": 0.9999,
+          "bbox": [
+            [
+              733,
+              1275
+            ],
+            [
+              757,
+              1275
+            ],
+            [
+              757,
+              1295
+            ],
+            [
+              733,
+              1295
+            ]
+          ]
+        },
+        {
+          "text": "risks in an individual business talk was newly established Moreover,",
+          "confidence": 0.6457,
+          "bbox": [
+            [
+              50,
+              1298
+            ],
+            [
+              682,
+              1298
+            ],
+            [
+              682,
+              1330
+            ],
+            [
+              50,
+              1330
+            ]
+          ]
+        },
+        {
+          "text": "70",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              733,
+              1301
+            ],
+            [
+              757,
+              1301
+            ],
+            [
+              757,
+              1319
+            ],
+            [
+              733,
+              1319
+            ]
+          ]
+        },
+        {
+          "text": "60",
+          "confidence": 0.9997,
+          "bbox": [
+            [
+              735,
+              1327
+            ],
+            [
+              757,
+              1327
+            ],
+            [
+              757,
+              1343
+            ],
+            [
+              735,
+              1343
+            ]
+          ]
+        },
+        {
+          "text": "the",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              50,
+              1332
+            ],
+            [
+              86,
+              1332
+            ],
+            [
+              86,
+              1356
+            ],
+            [
+              50,
+              1356
+            ]
+          ]
+        },
+        {
+          "text": "recognition of \"Privacy mark",
+          "confidence": 0.6983,
+          "bbox": [
+            [
+              81,
+              1326
+            ],
+            [
+              347,
+              1326
+            ],
+            [
+              347,
+              1362
+            ],
+            [
+              81,
+              1362
+            ]
+          ]
+        },
+        {
+          "text": "is received to manage customer and",
+          "confidence": 0.4793,
+          "bbox": [
+            [
+              352,
+              1332
+            ],
+            [
+              686,
+              1332
+            ],
+            [
+              686,
+              1360
+            ],
+            [
+              352,
+              1360
+            ]
+          ]
+        },
+        {
+          "text": "50",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              735,
+              1353
+            ],
+            [
+              757,
+              1353
+            ],
+            [
+              757,
+              1369
+            ],
+            [
+              735,
+              1369
+            ]
+          ]
+        },
+        {
+          "text": "employee's individual information appropriately in 2001 , and the activ-",
+          "confidence": 0.6968,
+          "bbox": [
+            [
+              49,
+              1358
+            ],
+            [
+              686,
+              1358
+            ],
+            [
+              686,
+              1389
+            ],
+            [
+              49,
+              1389
+            ]
+          ]
+        },
+        {
+          "text": "40",
+          "confidence": 0.7709,
+          "bbox": [
+            [
+              731,
+              1375
+            ],
+            [
+              757,
+              1375
+            ],
+            [
+              757,
+              1393
+            ],
+            [
+              731,
+              1393
+            ]
+          ]
+        },
+        {
+          "text": "ity based on the protection of individual information policy is continued:",
+          "confidence": 0.9247,
+          "bbox": [
+            [
+              50,
+              1388
+            ],
+            [
+              684,
+              1388
+            ],
+            [
+              684,
+              1420
+            ],
+            [
+              50,
+              1420
+            ]
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              733,
+              1399
+            ],
+            [
+              757,
+              1399
+            ],
+            [
+              757,
+              1419
+            ],
+            [
+              733,
+              1419
+            ]
+          ]
+        },
+        {
+          "text": "It is _bAsia/ Oceania in globalln addition, our technology, commodity",
+          "confidence": 0.6609,
+          "bbox": [
+            [
+              50,
+              1420
+            ],
+            [
+              685,
+              1420
+            ],
+            [
+              685,
+              1450
+            ],
+            [
+              50,
+              1450
+            ]
+          ]
+        },
+        {
+          "text": "20",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              733,
+              1425
+            ],
+            [
+              757,
+              1425
+            ],
+            [
+              757,
+              1445
+            ],
+            [
+              733,
+              1445
+            ]
+          ]
+        },
+        {
+          "text": "power, and correspondence power were evaluating acquired:",
+          "confidence": 0.9337,
+          "bbox": [
+            [
+              50,
+              1452
+            ],
+            [
+              602,
+              1452
+            ],
+            [
+              602,
+              1482
+            ],
+            [
+              50,
+              1482
+            ]
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              733,
+              1451
+            ],
+            [
+              757,
+              1451
+            ],
+            [
+              757,
+              1471
+            ],
+            [
+              733,
+              1471
+            ]
+          ]
+        },
+        {
+          "text": "998   1999 2000",
+          "confidence": 0.5997,
+          "bbox": [
+            [
+              775,
+              1491
+            ],
+            [
+              911,
+              1491
+            ],
+            [
+              911,
+              1511
+            ],
+            [
+              775,
+              1511
+            ]
+          ]
+        },
+        {
+          "text": "2001",
+          "confidence": 0.9982,
+          "bbox": [
+            [
+              917,
+              1491
+            ],
+            [
+              959,
+              1491
+            ],
+            [
+              959,
+              1509
+            ],
+            [
+              917,
+              1509
+            ]
+          ]
+        },
+        {
+          "text": "2002 20032004",
+          "confidence": 0.873,
+          "bbox": [
+            [
+              968,
+              1488
+            ],
+            [
+              1116,
+              1488
+            ],
+            [
+              1116,
+              1512
+            ],
+            [
+              968,
+              1512
+            ]
+          ]
+        },
+        {
+          "text": "Satisfaction rating t0 new product",
+          "confidence": 0.9024,
+          "bbox": [
+            [
+              805,
+              1539
+            ],
+            [
+              1061,
+              1539
+            ],
+            [
+              1061,
+              1559
+            ],
+            [
+              805,
+              1559
+            ]
+          ]
+        },
+        {
+          "text": "keeps",
+          "confidence": 1.0,
+          "bbox": [
+            [
+              395,
+              271
+            ],
+            [
+              455,
+              279
+            ],
+            [
+              451,
+              306
+            ],
+            [
+              391,
+              298
+            ]
+          ]
+        },
+        {
+          "text": "The",
+          "confidence": 0.9996,
+          "bbox": [
+            [
+              544,
+              873
+            ],
+            [
+              585,
+              878
+            ],
+            [
+              582,
+              903
+            ],
+            [
+              541,
+              898
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

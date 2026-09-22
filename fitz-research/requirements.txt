@@ -1,4 +1,7 @@
 PyMuPDF>=1.23.0
+certifi>=2024.2.2
+easyocr>=1.7.1
+paddlepaddle>=3.0.0
 paddleocr>=2.7.0
 Pillow>=10.0.0
 pytesseract>=0.3.10
