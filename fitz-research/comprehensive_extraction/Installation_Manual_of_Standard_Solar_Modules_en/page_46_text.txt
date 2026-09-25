@@ -1,0 +1,75 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+46 | 
+ANNEX D: MODULE CLEANING GUIDELINE
+This manual covers requirements for the cleaning 
+procedure of Canadian Solar Inc. photovoltaic mo­
+dules. The purpose of these cleaning guidelines is to 
+provide general information for cleaning Canadian 
+Solar modules. Professional installers should read 
+these guidelines carefully and strictly follow these 
+instructions. 
+Failure to follow these instructions may result in 
+death, injury or property damage to the photovol­
+taic module. Damages induced by inappropriate 
+cleaning procedures will void Canadian Solar Inc. 
+warranty.
+SAFETY WARNING
+·	 Cleaning activities create risk of damaging the 
+modules and array components, as well as increa­
+sing the potential electric shock hazard.
+·	 Cracked or broken modules represent an electric 
+shock hazard due to leakage currents, and the risk 
+of shock is increased when modules are wet. 
+    Before cleaning, thoroughly inspect modules for  
+    cracks, damage, and loose connections.
+·	 The voltage and current present in an array during 
+daylight hours are sufficient to cause a lethal elec­
+trical shock.
+·	 Do not immerse the module, partially or totally, in 
+   water or any other cleaning solution.
+·	 Ensure that the circuit is disconnected before 
+starting the cleaning procedure as contact with 
+leakage of electrically active parts can result in 
+injury.
+·	 Ensure that the array has been disconnected from 
+other active components (such as inverter or com­
+biner boxes) before starting with the cleaning.
+·	 Wear suitable protection (clothes, insulated gloves, 
+etc.).
+HANDLING NOTICE
+·	 Use a proper cleaning solution and suitable 
+cleaning equipment.
+·	 Do not use abrasive or electric cleaners on the 
+module. 
+·	 Particular attention should be taken to avoid the 
+module backsheet or frame to come in contact 
+with sharp objects, as scratches may directly affect 
+product safety.
+·	 Do not use abrasive cleaners, de-greasers or any 
+unauthorized chemical substance (e.g. oil, lubricant, 
+pesticide, etc.) on the module.
+·	 Do not use cleaning corrosive solutions containing 
+hydrofluoric acid, alkali, acetone, or industrial alcohol. 
+Only substances explicitly approved by Canadian Solar 
+are allowed to be used for cleaning modules.
+·	 Canadian Solar Inc. recommends to avoid rotating 	
+	 brush cleaning methods, as they could create 	
+	 micro-cracks in the PV modules.
+·	 Dirt must never be scraped or rubbed away when 
+dry, as this will cause micro-scratches on the glass 
+surface.
+OPERATION PREPARATION
+·	 Noticeable dirt must be rubbed away by gentle 
+cleaning-implement (soft cloth, sponge or brush 
+with soft bristles). 
+·	 Ensure that brushes or agitating tools are not   
+   abrasive to glass, EPDM, silicone, aluminum, or 
+   steel. 
+·	 Conduct the cleaning activities avoiding the hottest 
+hours of the day, in order to avoid thermal stress 
+on the module.
+We recommend the following to be used:
+·	 Water with low mineral content
+·	 Near neutral pH water
+·	 The maximum water pressure recommended 
+	 is 4 MPa (40 bar)

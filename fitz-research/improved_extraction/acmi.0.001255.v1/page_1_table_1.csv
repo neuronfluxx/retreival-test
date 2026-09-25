@@ -1,0 +1,55 @@
+Col0,Preprint DOI:,Col2,Col3,Posted o,n July 1,"6, 2026"
+,https://doi.org/10.1099/acmi.0.001255.v1,,,,,
+,© 2026 The Authors. This is an open-acce,ss article,distributed,under the terms,of the,Creative
+,Attribution License.,,,,,
+,,,,,,
+1,"Design, implementation,",and r,eflectio,ns on del,iverin,g
+,,,,,,
+2,machine learning worksho,ps for,medica,l microbio,logy,and
+,,,,,,
+3,infect,ion sc,ience,,,
+,,,,,,
+4,1.1 Author names,,,,,
+,,,,,,
+5,Benjamin R. McFadden* (1),,,,,
+,,,,,,
+6,Mark Reynolds (1),,,,,
+,,,,,,
+7,"Timothy J.J. Inglis (2,3)",,,,,
+,,,,,,
+8,1.2 Affiliation(s),,,,,
+,,,,,,
+9,"1) University of Western Australia,",School o,"f Physics,",Mathematics,and,
+10,"Computing, Perth, 6009, Austral",ia,,,,
+,,,,,,
+11,"2) University of Western Australia,",Schools,of Medicin,e and Biomedi,cal Sci,"ence,"
+12,"Perth, 6009, Australia",,,,,
+,,,,,,
+13,"3) Department of Microbiology, Pat",hWest L,aboratory,"Medicine WA,",QEII M,edical
+14,"Centre, Nedlands, 6009, Austral",ia.,,,,
+15,,,,,,
+16,1.3 Corresponding author and email ad,dress,,,,
+,,,,,,
+17,Benjamin R. McFadden,,,,,
+,,,,,,
+18,benjamin.mcfadden@research.uwa.edu.au,,,,,
+19,,,,,,
+20,1.4 Keywords,,,,,
+,,,,,,
+21,"Machine learning, workshop, medical micr","obiology,",infection sc,"ience, artificial",intellige,nce
+22,,,,,,
+23,2. Abstract,,,,,
+,,,,,,
+24,"Increasingly, machine learning (ML) and ar",tificial int,elligence (A,I) methods are,being a,pplied
+,,,,,,
+25,in medical microbiology and infection scie,nce. With,this comes,the challenge o,f educa,ting
+,,,,,,
+26,professionals in these domains on the fun,damental,theory and,methods of ML,and AI,in a
+,,,,,,
+27,way that is time-efficient and grounded in,practical,application.,This article out,lines the,
+,,,,,,
+28,"design, implementation, and reflections on",deliverin,g “Using D,ata Science and,Machin,e
+,,,,,,
+29,Learning for Infection Science: A Hands-On,Introduct,"ion”, a recu",rring one-day w,orksho,p
+,,,,,,
+30,created to introduce data science and ML,concepts,to infection,science and me,dical,

@@ -1,0 +1,61 @@
+www.canadiansolar.com
+| 5
+Alternatively, a more accurate correction factor for 
+the open-circuit voltage can be calculated using the 
+following formula:
+T is the lowest expected ambient temperature at the 
+system installation site
+αVoc (%/ºC) is the voltage temperature coefficient 
+of the selected module (refer to corresponding 
+datasheet)
+Electrical calculations and design must be performed 
+by competent engineer or consultant.
+4.0  
+UNPACKING AND STORAGE
+PRECAUTIONS 
+·	 Modules should be stored in a dry and ventilated 
+environment to avoid direct sunlight and 
+moisture. If modules are stored in an uncontrolled 
+environment, the storage time should be less than 
+3 months and extra precautions should be taken 
+to prevent connectors from being exposed to 
+moisture or sunlight, like using connector endcaps. 
+·	 Unpack module pallets carefully, following the 
+steps shown on the pallet. Unpack, transport and 
+store the modules with care.
+·	 Modules must always be unpacked and installed by 
+two people. Always use both hands when handling 
+modules.
+·	 Do not stand, step, walk and / or jump  on 
+modules under any circumstances. Localized heavy 
+loads may cause severe micro-cracks at cell level, 
+which in turn may compromise module reliability  
+and void Canadian Solar Inc’s warranty.  
+·	 Do not support the module by the backsheet when 
+handling or installing the module.
+·	 Do not carry modules on your head.
+·	 Do not drop or place objects (such as tools) on the 
+modules.  
+·	 Do not lift modules by their wires or junction box, 
+lift them by the frame. 
+·	 Stacks of modules should contain no more than 12 
+modules, and the frames should be aligned.
+·	 Do not place excessive loads on the module or 
+twist the module frame. 
+·	 Do not use sharp instruments on the modules. 
+Particular care should be taken to avoid module 
+backsheets being damaged by sharp objects, as 
+scratches may directly affect product safety.
+·	 Do not leave modules unsupported or unsecured. 
+·	 Do not change the wiring of bypass diodes.
+·	 Keep all connectors clean and dry at all times.
+·	 Do not expose the modules and its connectors to any 
+unauthorized chemical substance (e.g. oil, lubricant, 
+pesticide, etc.).
+PRODUCT IDENTIFICATION
+·	 Each module has three identical barcodes (one in 
+the laminate under the front glass, the second on 
+the rear side of the module and the third on the 
+frame) that act as a unique identifier. Each module 
+has a unique serial number containing 13 (pre 
+CVOC = 1-αVoc  ˣ (25 - T)

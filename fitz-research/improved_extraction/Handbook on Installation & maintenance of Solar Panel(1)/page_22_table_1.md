@@ -1,0 +1,49 @@
+<!-- Extracted using strategy: text -->
+
+|TECH/|S|/|PROJ/|201|3‐|14/HB‐SP|/2.0|Col9|Col10|Col11|Col12|Col13|Col14|15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||||
+|**   Plan**|**   n**|**   i**|**   ng**||||||||||||
+|Befor|e||design|ing|a|solar ph|otovoltai|c system,|several|co|nsiderations|ar|e to be kept i|n mind|
+|such|a|s|||||||||||||
+| Th|e||cost o|f t|he|system|should no|t be unu|sually h|igh|and at the|sa|me time the|quality|
+|sh|o|u|ld also|no|t s|uffer.|||||||||
+| Ini|t|ia|l costs|an|d|lifetime|costs shal|l also be|taken int|o|consideration|.|||
+| Th|e||system|s|ho|uld be|simple in|design|as far a|s|possible wit|h|high reliabili|ty and|
+|<br>eff|<br>i|<br>c|<br>iency.||||||||||||
+| W|h|e|ther ce|ntr|al|generati|on is bene|ficial or|distribut|ed|is to be work|ed|out.||
+| Th|e||system|to|be|planne|d so as to|cater for|expected|fu|ture growth.||||
+| Pre||v|ention|of|im|proper l|oad to be|ensured.|||||||
+||||||||||||||||
+|**  Col**|**  l**|**  e**|**  ction**|**   of**|**    In**|**    formati**|**    on/data**||||||||
+|Foll|o||wing ty|pe|s o|f inform|ation are|to be gat|hered||||||
+||||||||||||||||
+|**   (i) Lo**||**    a**|**    d/ Ap**|**     pli**|**     ca**|**     tion**|||||||||
+||||||||||||||||
+|||V|oltage|sy|st|em e.g.|AC or DC|or both|||||||
+|||O|perati|ng|vo|ltage ra|nge of loa|d|||||||
+|||D|aily c|ons|u|mption|||||||||
+|||D|aily d|uty|c|ycle|||||||||
+|||C|ritical|ity|of|loads|||||||||
+||||Monthl|y /|W|eekly lo|ad profile||||||||
+||||||||||||||||
+|**    (ii) C**||**     li**|**     matic**|**      c**|**      on**|**      ditions**|||||||||
+||||||||||||||||
+||I|n|solatio|n|||||||||||
+||L||atitude|, L|on|gitude|||||||||
+||T||empera|tur|e||||||||||
+||A||ccessib|ili|ty|to site|||||||||
+||T||errain||||||||||||
+|<br>|L||ocal K|no|wl|edge|||||||||
+||||||||||||||||
+|**         (iii)**|**U**||**ser co**|** m**|** pa**|** tibility**|||||||||
+||||||||||||||||
+||U||ndersta|nd|in|g technic|al issues.||||||||
+||||ainten|anc|e|schedule|s and me|ntality.|||||||
+||||hether|th|e c|ontrols|are field a|djustable|.||||||
+||B||udget c|on|str|aints|||||||||
+||U||ndersta|nd|in|g of man|aging ene|rgy budg|et.||||||
+||||||||||||||||
+|**_lli_**|||**_ &_**||||**_    l P_**|**_     l_**|||||**_                                        b 2_**|**_                                         13_**|
+|**_ato_**|||**_  Ma_**|**_  nt_**|**_  en_**|**_  ance of_**|**_    oar a_**|**_     e_**<br>**Click for**|<br>**  contents**||||**_                                        Novemer_**||
+

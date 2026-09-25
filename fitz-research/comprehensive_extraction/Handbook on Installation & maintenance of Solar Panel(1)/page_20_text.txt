@@ -1,0 +1,60 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+13 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+         The output terminals of the module shall be provided on the back of the solar PV-module.  
+Terminal block shall be made of Nylon-6.  It shall be housed in a HDPE-UV stable 
+junction box secured physically uniformly to the frame of the PV module.  The junction 
+box should have a hinged lid with self-holding fasteners enabling easy handling.  The box 
+lid should be secured with a gasket for greater protection against ingress of moisture 
+(conforming to IP-55) of IS: 2147-62).  Cable outlets from solar PV module terminal shall 
+be through cable glands to be provided in the junction box (with addl. knockouts provided) 
+to help in series /parallel connection of solar PV modules.  The junction box should have 
+common terminals with suitable by pass diodes for prevention of hot spot problem. 
+ 
+         If required by the purchaser the module shall be fixed on a mounting bracket, which shall 
+be suitably designed to withstand the weight of the panel.  The mounting arrangement shall 
+be suitable for pole mounting, column mounting or flat surface, as desired by the purchaser. 
+ 
+         Provision for directional and angular adjustment shall be provided to get maximum 
+utilization of incident sunlight. 
+ 
+         The design/drawings of the mounting bracket shall be supplied along with the module to 
+the purchaser. 
+ 
+         The supplier shall give information regarding the weight and dimensions of the module, to 
+the purchaser. 
+ 
+         The solar photovoltaic module shall be highly reliable, light-weight and shall have a long 
+operational life. 
+ 
+         The recommended values of output power from each module are 4, 6, 9, 12, 30, 32, 35, 40, 
+50, 70, 80 & 100 watts.  The purchaser shall, however, specify the output wattage of the 
+module required by him. 
+ 
+        The recommended nominal voltages of each module are 4, 6, 9, 12 & 24Volts.  The 
+purchaser shall, however, specify the voltage of the module required by him. 
+ 
+2.2.2  Technical requirements 
+        Some of the important technical requirements as per IRS:S 84-92 are as given below: 
+         
+        The following parameters shall be clearly specified by the manufacturer for different type of 
+solar modules manufactured by him: 
+ 
+a) Peak power output 
+ 
+ 
+(Pm) 
+b) Current at peak power output 
+(Im) 
+c) Voltage at peak power output 
+(Vm) 
+d) Short circuit current  
+            (Isc) 
+e) Open circuit voltage  
+           (Voc) 
+f) Conversion efficiency of the module (n) 
+ 
+Click for contents
+Click for contents

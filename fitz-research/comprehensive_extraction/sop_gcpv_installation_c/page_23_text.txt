@@ -1,0 +1,50 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 18 
+Ventilation for cooling of PV Modules: 
+The temperature of a crystalline photovoltaic cell increases while PV modules are in operation. As 
+temperature increases, efficiency of the module decreases. Therefore it is important that there is adequate 
+ventilation for airflow on the backside of the PV modules to remove the generated heat to minimise the 
+power loss due to temperature build-up. It is recommended that, when PV modules are installed on an RCC 
+flat roof, a minimum clearance of the structure from the roof level should be 300mm.  
+ 
+In case of an inclined roof, a gap of 100 -120mm  should be maintained between roof material and solar 
+modules to ensure natural ventilation and cooling of PV modules.  Insufficient cooling will result in high 
+module operating temperatures and lower outputs from the modules.  
+ 
+ 
+Walkway for convenient walking of 
+maintenance personnel 
+Roof edge clearance and gap between PV modules 
+and roof surface 
+ 
+Figure 12: PV array installation on inclined roofs 
+ 
+Ensure there is no Leakage on the Roof: 
+Installation of a PV array mounting structure on the roof requires drilling of holes through roofing material 
+which makes the roof vulnerable to leakage in cases of rain. Leakage from the roof after installation of solar 
+PV modules is a common problem as a result of poor installation practice.  Therefore, it is important to 
+understand best practices of installation to prevent rain water leakage.  
+ 
+The following key points to be kept in mind: 
+• 
+Avoid drilling RCC roofs, instead use concrete ballast and adhesive materials to fix the structure; 
+ 
+• 
+Use proper flashing methods and sealant materials for metallic and tiled inclined roofs; 
+ 
+• 
+Use synthetic sealant which cures under water and can handle temperature up to 100 - 120oC; 
+ 
+• 
+Always fasten the roof attachments on the crest (top of corrugation) to fix the attachment;  
+ 
+• 
+Never drill on the trough (bottom of the corrugation);  
+ 
+• 
+Elevate the sealing area above possible water level. In case of low slope roof, seal the base of the 
+flashing. 

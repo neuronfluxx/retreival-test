@@ -1,0 +1,85 @@
+<!-- Extracted using strategy: text -->
+
+|individual installers o|ffer. Be sure to a|sk to see|the te|chnical specif|ications for th|e|sola|r panels they|are|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
+|offering. You can find|out more abou|t underst|anding|how to read|technical spe|ci|ficati|ons here.||
+|||||||||||
+|**_3. How much elect_**|**_  ricity will solar_**|**_     panels g_**|**_      enerat_**|**_      e?_**||||||
+|||||||||||
+|The amount of electr|icity generated a|nnually w|ill dep|end on a ran|ge of factors i|n|cludi|ng the hardwa|re|
+|||||||||||
+|chosen, the size of th|e system, the ge|ographic|al loca|tion, and the|direction in w|h|ich th|e panels are i|nstalled.|
+|||||||||||
+|With the most comm|on silicon solar|panels typ|ically|1 sq. m of pan|els will gene|ra|te ~1|50W of powe|r on a|
+|||||||||||
+|clear sunny day (that|’s enough to po|wer a lap|top co|mputer). A ho|me solar PV|sy|stem|sized at 20 sq|. m|
+|||||||||||
+|(~3kW) would gener|ate around 2,600|kWh of e|lectrici|ty a year if we|ll-located, ov|e|r 40%|of the typica|l annual|
+|||||||||||
+|electricity demand of|an Irish home.|||||||||
+|||||||||||
+|**_4.  Do solar panels_**|**_    work in Irelan_**|**_      d?_**||||||||
+|||||||||||
+|Yes, solar PV systems|will still generat|e electrici|ty whe|n there is da|ylight, so they||will st|ill function on|overcast|
+|||||||||||
+|days in Ireland. In the|se conditions th|ey will no|t be a|ble to produc|e power at th|ei|r ma|ximum rated c|apacity|
+|||||||||||
+|(the figure in kilowat|ts (kW)), rather a|t some fr|action|of this figure.|Solar panels|w|ill pe|rform at their|best in|
+|||||||||||
+|direct sunlight and th|erefore solar PV|systems|in Irela|nd will typica|lly produce le|s|s tha|n other, sunni|er|
+|||||||||||
+|countries such as Spa|in. As mentione|d above,|a hom|e solar PV sys|tem sized at|20|sq. (|~3kW) would|generate|
+|||||||||||
+|around 2,600kWh of|electricity a year|if well-lo|cated,|over 40% of t|he typical an|n|ual el|ectricity dema|nd of an|
+|||||||||||
+|Irish home.||||||||||
+|||||||||||
+|**_5. How much do so_**|**_   lar panels cost_**|**_     ?_**||||||||
+|||||||||||
+|The cost of purchasin|g and installing|solar pan|els has|come down|considerably|o|ver th|e last 10 year|s. The|
+|||||||||||
+|cost of a solar PV sys|tem depends on|a range|of fact|ors including|the hardware|c|hose|n, the size of t|he|
+|||||||||||
+|system, accessibility|of the roof or sit|e, and the|install|er used. Broa|dly speaking|h|ome|PV systems sh|ould|
+|||||||||||
+|range from around€|1,500 -€2,000 p|er kW ins|talled|(ex-VAT), but|prices will va|ry|dep|ending on the|factors|
+|||||||||||
+|mentioned above.||||||||||
+|||||||||||
+|**_6. Where are solar_**|**_   panels manufa_**|**_    ctured?_**||||||||
+|||||||||||
+|Most solar panels are|manufactured i|n Asia (pr|imarily|in China and|Taiwan) but|th|ere a|re also some|European|
+|||||||||||
+|and North American|manufacturers. T|he comp|onents|for solar pan|els and other|h|ardw|are used in th|e|
+|||||||||||
+|installation come fro|m all around the|world.||||||||
+|||||||||||
+|**_7. Are solar panels_**|**_   right for my h_**|**_      ome?_**||||||||
+|||||||||||
+|There are a variety of|considerations|when det|ermini|ng whether so|lar panels ar|e|right|for your hom|e. Some|
+|||||||||||
+|thought must go into|how much of t|he genera|ted ele|ctricity you w|ill use as this|w|ill af|fect how econ|omical it|
+|||||||||||
+|is as a solution for yo|ur home. Solar P|V system|s gene|rate electricit|y only during|d|aylig|ht hours,||
+|||||||||||
+|predominantly aroun|d the middle of|the day w|hen y|ou may be at|work.|||||
+|||||||||||
+|Also, around 75% of|the annual ener|y from a|solar P|V system is p|roduced from||May|to September|. You|
+|||||||||||
+|need to consider how|much of the ge|nerated e|lectric|ity you will us|e in your ho|m|e, bas|ed on the pat|tern of|
+|||||||||||
+|generation from the|solar PV system,|and the p|attern|of energy us|age and occu|p|ancy|for your hous|e.|
+|||||||||||
+|Without any addition|al systems, a lot|of the ge|nerate|d electricity c|an be spilled|(e|xpor|ted) to the gri|d, and|
+|||||||||||
+|there is currently no|mechanism for h|omeown|ers to c|laim paymen|t for this (see|q|uesti|on 2.9).||
+|||||||||||
+|You also need to con|sider if your roo|f is suitab|le for s|olar PV consi|dering the ag|e|and|condition, the||
+|||||||||||
+|orientation of your h|ouse, and any p|otential sh|ading|from nearby|trees or build|in|gs. T|he best roofto|ps for|
+|||||||||||
+|maximizing electricit|y generation are|those tha|t are s|outh-facing, i|n good cond|iti|on, a|nd with minim|al|
+|||||||||||
+|shading from trees o|r adjacent struct|ures.||||||||
+

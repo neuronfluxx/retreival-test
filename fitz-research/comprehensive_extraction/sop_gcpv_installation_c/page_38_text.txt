@@ -1,0 +1,53 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 33 
+ 
+Figure 24:  Solar PV System connected to single phase system with TN-S earthing configuration 
+ 
+ 
+Figure 25 Solar PV System connected to three phase system with TN-S earthing configuration 
+ 
+In TN-C earthing configuration, protective earth and neutral (PEN) conductors are combined in a single 
+conductor throughout the system. All exposed conductive parts are connected to the PEN conductor. For 
+three phase consumer, local earth electrode has to be provided in addition. Earthing of solar PV system 
+connected to this configuration can be connected to the main earthing terminal in switchboard. 
+ 
+Solar PV Module
+Combiner Box
+Grid Tie Inverter
+ACDB
+P
+N
+E
+DC i/p
+AC o/p
+To Household Loads
+Earthing
+for load
+Main Earthing
+Terminal
+Earthing
+for Grid tie Inverter
+Solar PV Module
+Combiner Box
+Grid Tie Inverter
+ACDB
+L1
+PE
+DC i/p
+AC o/p
+To Household Loads
+Earthing
+for load
+Main Earthing
+Terminal
+Earthing
+for Grid tie Inverter
+Independent
+Earth Electrode
+L2
+L3
+N

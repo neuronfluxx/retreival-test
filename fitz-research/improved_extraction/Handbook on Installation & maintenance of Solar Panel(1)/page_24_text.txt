@@ -1,0 +1,53 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+17 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+2.3.6  Selection of Charge Controller 
+Charge controllers are included in most PV systems to protect the batteries from 
+overcharge and/or excessive discharge. The minimum function of the controller is to 
+disconnect the array when the battery is fully charged and keep the battery fully charged 
+without damage.  
+The charging routine is not the same for all batteries. A charge controller designed for 
+lead- acid batteries should not be used to control NiCd batteries. 
+Charge controllers can be used in parallel to add more modules to a battery bank. 
+           
+             Salient feature of Charge controller  
+ Power devices should be of Solid state, High efficiency with Two stage charging 
+technique. 
+ Protection against Transient/Surge.   
+ Prevent discharge of battery  through solar panel during night. 
+ Protection against overcharge of the battery. 
+ Protection against reverse connection of battery and module. 
+ Robust enclosure and cooling with heat sink. 
+ Control, temperature compensated set points and equalization. 
+ Suitable MCB’s provided at Solar input of 100 Amp. 
+ 
+Typical per cell voltages at ambient temperature 24º - 25º C 
+Boost charging upto                 : 2.34 V 
+Float stage voltage maintains   : 2.29 V 
+Boost stage reactivates at         : 2.14 V 
+Battery low at                           : 1.74 V 
+ 
+Calculate total current that Charge Controller will control 
+     No. of Parallel Modules X Isc X 1.25  =  Charge Controller Capacity 
+    ( Few manufacturers already have built in extra current capacity) 
+ 
+2.3.7  Module mounts 
+      While mounting the modules, following points should be considered for getting maximum 
+output from the solar modules: 
+ 
+ Modules should be oriented to face the Sun. 
+ The Modules produce more power when cooler. 
+ The mounting and color of the modules can sometimes be chosen to blend with the 
+architecture. 
+ Tracking the Sun increases the amount of power from an array 
+ 
+2.3.8  Structure 
+           Select type of structure  i.e  Ground Mount, Rooftop Mount, Pole Mount or Tracker. 
+          A group of Modules mounted on single unit of structure and interconnected together is    
+called PANEL. 
+          Calculate Number of Structures by following formula 
+ 
+Click for contents
+Click for contents

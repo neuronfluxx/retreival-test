@@ -1,0 +1,7 @@
+|CS3W-P,<br>CS3W-MS|Arctech<br>single-axis tracker<br>Portrait two rows|3588 mm rail<br>(bolting method /<br>M8 bolt + M8 plain washer<br>(O.D. = 24 mm) /<br>1155 mm holes position)<br>Rail drawing No:<br>CS2018007|Uplift load ≤<br>2400 Pa<br>Downforce load ≤<br>2400 Pa|SSMFIM-rev01<br>(SkySmart-Module Fixing<br>Installation Manual)|
+|---|---|---|---|---|
+|CS3U-P|Soltec SF7 Sing­<br>le-Axis Tracker|2454 mm rail<br>(Bolting method /<br>M6 bolt + M6 plain washer<br>(O.D.= 18 mm) / 1300 mm<br>+ 400 mm holes position)<br>Rail drawing No:<br>SF7-MR-04-101_Dr_P00<br>SF7-MR-06-102_Dr_P00|Uplift load ≤<br>1800 Pa<br>Downforce load ≤<br>1800 Pa|SF7QG-1500V-en,<br>revision 1.0|
+|CS3W-P,<br>CS3W-MS|Soltec SF7<br>Single-Axis<br>Tracker|2542 mm rail<br>(Bolting method /<br> M6 bolt + M6 plain washer<br>(O.D. = 18 mm) / 1300 mm<br>+ 400 mm holes position)<br>Rail drawing No:<br>SF7-MR-04-018_Dr|<br>Uplift load ≤<br>1200 Pa<br>Downforce load ≤<br>1200 Pa|SF7QG-1500V-en,<br>revision 1.0|
+|CS3U-P|Soltec SF7<br>Single-Axis<br>Tracker|long rail<br>(bolting method /<br>M8 bolt + M8 plain washer<br>(O.D. = 24 mm) /<br>1155 mm holes position)|Uplift load ≤<br>2400 Pa<br>Downforce load ≤<br>2400 Pa|SF7QG-1500V-en,<br>revision 1.0|
+|CS3W-P,<br>CS3W-MS|Soltec SF7<br>Single-Axis<br>Tracker|3297 mm rail<br>(bolting method /<br> M8 bolt + M8 plain washer<br>(O.D. = 24 mm) /<br>1155 mm holes position)<br>Rail drawing No:<br>SF7-MR-04-017_Dr|<br>Uplift load ≤<br>2400 Pa<br>Downforce load ≤<br>2400 Pa|SF7QG-1500V-en,<br>revision 1.0|
+

@@ -1,0 +1,67 @@
+ 
+ 
+ 
+31 
+microbiology students and professionals. The workshop provides participants with the 
+32 
+opportunity for experiential learning using Orange, a no-code, open-source, and free-to-use 
+33 
+data mining software application, where participants are exposed to the fundamentals of 
+34 
+the ML lifecycle. By the conclusion of the one-day workshop, participants gain experience 
+35 
+developing end-to-end analytical pipelines for tabular datasets, with a specific example 
+36 
+focused on blood culture outcome prediction. The workshop emphasises transparency, 
+37 
+reproducibility, and open science, promoting critical awareness of how data science can be 
+38 
+applied within participants’ own domain specialty. This article details the curriculum design, 
+39 
+practical implementation, and delivery of the workshop. Additionally, we reflect on the 
+40 
+lessons learned and directions for future iterations of the workshop. 
+41 
+42 
+3.  Impact statement 
+43 
+Artificial intelligence (AI) and machine learning (ML) are increasingly used in medical 
+44 
+microbiology and infection science, but many professionals have limited time or opportunity 
+45 
+to learn these methods in a practical, accessible way. This article describes the development 
+46 
+and delivery of a one-day workshop designed to introduce students and professionals to the 
+47 
+key ideas behind data science and machine learning. The workshop uses Orange, a free, 
+48 
+open-source, no-code software tool, so participants can focus on understanding the 
+49 
+machine learning process without needing advanced programming skills. 
+ 
+50 
+Through hands-on activities, participants learn how to build simple analytical workflows 
+51 
+using real-world style tabular data. The workshop also highlights important principles such 
+52 
+as transparency, reproducibility, and open science, helping participants think critically about 
+53 
+how these methods could be used responsibly in their own work. 
+ 
+54 
+By sharing the workshop design, teaching approach, and lessons learned, this article 
+55 
+provides a practical model for building machine learning education within medical 
+56 
+microbiology and infection science. It supports the development of a more confident and 
+57 
+informed workforce able to engage with emerging AI, ML, and data science tools. 
+ 
+58 
+59 
+4.  Data summary 
+60 
+The authors confirm that no data was generated or reused in the process of producing this 
+61 
+paper. 
+62 

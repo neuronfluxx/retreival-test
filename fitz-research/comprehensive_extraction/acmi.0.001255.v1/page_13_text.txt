@@ -1,0 +1,71 @@
+ 
+ 
+ 
+269 
+{{TYPE:image; FILENAME:image2.png; ID:rId14}} 
+270 
+Figure 2: Workflow that participants build during the first hands-on session. Participants learn how to import data, 
+271 
+visualise it in a table, and perform exploratory data analysis. The purpose of this session is to show participants how to 
+272 
+use the Orange software. 
+273 
+274 
+8.3.3 
+Hands-on session 2 
+275 
+Following the first break, we start with hands-on session 2. This is the first hands-on session 
+276 
+that involves the BC outcome prediction use case. The focus of this session is data cleaning 
+277 
+and preparation for ML modelling. The session starts with importing the data, followed by 
+278 
+participants learning how to filter data, create new columns/features, and select 
+279 
+columns/features, before concluding with the training and test data split. The focus of this 
+280 
+session is for participants to understand how to prepare tabular datasets for ML and 
+281 
+highlight the importance of the training and test split. The workflow produced during this 
+282 
+session is shown in Figure 3. 
+283 
+284 
+{{TYPE:image; FILENAME:image3.png; ID:rId15}} 
+285 
+Figure 3: In hands-on session 2, participants focus on data cleaning and preparation for machine learning. Starting with 
+286 
+importing the data and concluding with the creation of training and test datasets. 
+287 
+288 
+8.3.4 
+Hands-on session 3 
+289 
+Hands-on session 3 introduces the ML training and cross-validation process. We discuss the 
+290 
+importance of cross-validation and why it is a critical component of any ML pipeline. For the 
+291 
+modelling, we start with tree-based models and explain the importance of model 
+292 
+hyperparameters. As hands-on session 2 and hands-on session 3 are both in-depth sessions, 
+293 
+they are followed by a one-hour break. The workflow produced by the end of hands-on 
+294 
+session 3 is shown in Figure 4. 
+295 
+296 
+{{TYPE:image; FILENAME:image4.png; ID:rId16}} 
+297 
+Figure 4: In hands-on session 3, participants focus on the training of machine learning models, building on the previous 
+298 
+session. 
+ 
+299 
+8.3.5 
+Hands-on session 4 
+300 
+Hands-on session 4 focuses on the evaluation of ML models. An entire session is dedicated 
+301 
+to this topic, as it is very important for those aiming to develop their own ML models and 
+302 
+those reviewing ML models developed by others. Performance metrics can be misleading in 

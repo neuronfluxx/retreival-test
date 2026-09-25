@@ -1,0 +1,56 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+15 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ 2.3.1   Planning 
+Before designing a solar photovoltaic system, several considerations are to be kept in mind 
+such as  
+ The cost of the system should not be unusually high and at the same time the quality 
+should also not suffer. 
+ Initial costs and lifetime costs shall also be taken into consideration. 
+ The system should be simple in design as far as possible with high reliability and 
+efficiency. 
+ Whether central generation is beneficial or distributed is to be worked out. 
+ The system to be planned so as to cater for expected future growth.  
+ Prevention of improper load to be ensured. 
+ 
+   2.3.2  Collection of Information/data 
+          Following types of information are to be gathered 
+ 
+   (i) Load/ Application 
+                  
+ 
+Voltage system e.g.  AC or DC or both                     
+ 
+Operating voltage range of load                    
+ 
+Daily consumption                    
+ 
+Daily duty cycle                   
+ 
+Criticality of loads                   
+ 
+Monthly / Weekly load profile 
+   
+    (ii) Climatic conditions  
+ 
+ Insolation    
+ Latitude, Longitude     
+ Temperature          
+ Accessibility to site 
+ Terrain 
+ 
+Local Knowledge 
+ 
+         (iii) User compatibility  
+ 
+ Understanding technical issues. 
+ Maintenance schedules and mentality.   
+ Whether the controls are field adjustable.  
+ Budget constraints   
+ Understanding of managing energy budget. 
+ 
+  
+Click for contents
+Click for contents

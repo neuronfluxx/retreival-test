@@ -1,0 +1,56 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+26 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.3.3: A Solar Panel installation 
+ 
+3. Any obstruction (such as tree or building) should be avoided in East, West or South of 
+the place of installation. The following is the criteria: 
+ 
+(i) East or West: The distance between solar panel and obstruction should be more than 
+double the height of obstruction.  
+(ii)  South: The distance should be more than half the height of obstruction. 
+ 
+4. 
+The support for the Solar panel need to be a robust one and should not be accessible 
+to general public. It should be so installed that rainwater, bird dropping, leaves etc. do 
+not accumulate and the top surface can be cleaned easily. 
+ 
+5. Calculate Tilt of Array 
+ 
+6. Calculate Space between Rows to avoid shadow. 
+(i) Distance between adjacent rows of structures have to be maintained so that the 
+shadow can be avoided. 
+(ii) Calculate or measure panel height H. 
+(iii) Locate the PV site Latitude. 
+(iv) The minimum panel spacing W is given by the formula W = H X U 
+(v) Where H is the vertical height of the panel from the base as shown in fig. below. 
+(vi) U can be determined from the table C given below, corresponding to the latitude 
+of PV site. 
+West 
+North 
+South 
+East 
+Click for contents
+Click for contents

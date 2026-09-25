@@ -1,0 +1,37 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 3 
+1.3 Fire safety 
+A  grid connected solar PV system consists of several modules, connected in series which produces DC 
+voltage ranging from 150V to 850V. With such a range of DC voltage, it is very easy for an electric arc to 
+be established and hence subsequent fire as a result of loose connections or short-circuit in the system. Fire 
+in a PV system primarily results from poor installation, wrong system design, underrated cables, loose 
+connection, poor O&M, incorrect or faulty equipment, absence of isolator switches and most importantly, 
+damaged DC cables as a result of mechanical stress, action of animals or vermin. 
+ 
+Fire from series arc as a result of loose 
+connection in the circuit 
+Fire from parallel arc as a result of short circuit in a 
+DC combiner box 
+ 
+ 
+PV module is a current limiting device and fuses installed in the strings are sized based on 
+current at peak solar irradiance. Since solar radiation level is normally at lower level than the 
+peak value, fuses are not likely to operate under short-circuit conditions. In such case a short 
+circuit fault in the system may be unnoticed and unattended. 
+ 
+ 
+Below is  the list of general requirements for fire safety in rooftop solar PV systems: 
+ 
+Access, Pathways and Smoke Ventilation  
+Solar PV system should be installed such that it: 
+• 
+Ensures convenient access to the roof; 
+• 
+Provides pathways to specific areas of the roof; 
+• 
+Provides emergency exit from the roof. 
+ 

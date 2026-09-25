@@ -1,0 +1,68 @@
+ 
+ 
+ 
+437 
+438 
+13. References 
+439 
+[1]- Luz CF, Vollmer M, Decruyenaere J, Nijsten MW, Glasner C, Sinha B. Machine learning in 
+440 
+infection management using routine electronic health records: tools, techniques, and 
+441 
+reporting of future technologies. Clinical Microbiology and Infection. 2020 Oct 
+442 
+1;26(10):1291-9. 
+443 
+[2] - Vercio LL, Amador K, Bannister JJ, Crites S, Gutierrez A, MacDonald ME, Moore J, 
+444 
+Mouches P, Rajashekar D, Schimert S, Subbanna N. Supervised machine learning tools: a 
+445 
+tutorial for clinicians. Journal of Neural Engineering. 2020 Nov 19;17(6):062001. 
+446 
+[3] - Magnano CS, Mu F, Russ RS, Cvetkovic M, Treu D, Gitter A. An approachable, flexible and 
+447 
+practical machine learning workshop for biologists. Bioinformatics. 2022 Jul 
+448 
+1;38(Supplement_1):i10-8. 
+449 
+[4] - Demsar J, Curk T, Erjavec A, Gorup C, Hocevar T, Milutinovic M, Mozina M, Polajnar M, 
+450 
+Toplak M, Staric A, Stajdohar M, Umek L, Zagar L, Zbontar J, Zitnik M, Zupan B 
+451 
+(2013) Orange: Data Mining Toolbox in Python, Journal of Machine Learning 
+452 
+Research 14(Aug): 2349−2353. 
+453 
+[5] - Mariella Greutmann, Karsten Borgwardt, Sarah Brüningk, Fabian Franzeck, Christian G. 
+454 
+Giske, Anna G. Green, Alejandro Guerrero-López, Margaret Ip, Catherine Jutzeler, Andre 
+455 
+Kahles, Michael Krauthammer, Nenad Macesic, Benjamin McFadden, Eline Meijer, Nathan 
+456 
+Moore, Jacob Moran-Gilad, Imane Lboukili, Oliver Nolte, Robin Patel, Gerold Schneider, 
+457 
+Markus A. Seeger, Tavpritesh Sethi, Robert L. Skov, Chang Ho Yoon, Belén Rodríguez-Sánchez, 
+458 
+Adrian Egli,ESCMID workshop: Artificial intelligence and machine learning in medical 
+459 
+microbiology diagnostics, Microbes and Infection, 2025, 105562, ISSN 1286-4579, 
+460 
+https://doi.org/10.1016/j.micinf.2025.105562. 
+461 
+(https://www.sciencedirect.com/science/article/pii/S1286457925000942) 
+462 
+[6] - McFadden BR, Reynolds M, Inglis TJ. Developing machine learning systems worthy of 
+463 
+trust for infection science: a requirement for future implementation into clinical practice. 
+464 
+Frontiers in Digital Health. 2023 Sep 27;5:1260602. 
+465 
+[7] - Goktas P, Grzybowski A. Shaping the future of healthcare: ethical clinical challenges and 
+466 
+pathways to trustworthy AI. Journal of Clinical Medicine. 2025 Feb 27;14(5):1605. 
+467 
+[8] - Bürger VK, Amann J, Bui CK, Fehr J, Madai VI. The unmet promise of trustworthy AI in 
+468 
+healthcare: why we fail at clinical translation. Frontiers in Digital Health. 2024 Apr 
+469 
+18;6:1279629. 

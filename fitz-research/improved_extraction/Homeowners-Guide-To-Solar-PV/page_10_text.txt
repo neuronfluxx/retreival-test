@@ -1,0 +1,42 @@
+Finally, it is worth considering other options to improve the energy performance of your home, such as 
+insulation, draught-proofing, improved windows, boiler controls, or some other renewable-generating 
+technology. Speaking to a BER assessor is a good first step. 
+8. Who can install solar panels on my property? 
+Finding a competent installer is important. There are currently no formal qualifications mandated that 
+installers must hold, but connection of the solar system must be carried out by a Registered Electrical 
+Contractor. 
+SEAI’s advice would be to contact multiple installers or developers to get a range of quotes. A good place to 
+start is the Renewable Installers Register which identifies installers that have received accredited training. 
+9. Do I need planning permission to install solar PV on my roof? 
+Domestic houses, regardless of location, may now install unlimited solar panels on their rooftops without any 
+requirement for planning permission (subject to certain conditions).  
+❖ There is no limit to the area of solar panels which can be installed on rooftops of homes, 
+anywhere in the country 
+❖ Solar installations will be able to cover the entire roof of a house  
+❖ The 12sqm/50% roof limit which previously applied to houses has been removed nationwide  
+❖ Heritage homes, Listed buildings and homes in Special Areas of Conservation will need to 
+contact their Local Authority regarding planning, before proceeding. 
+If your planned works don’t comply with these conditions, you must contact the planning department of your 
+Local Authority for specific guidance. In addition, depending on the: 
+❖ Exact classification - for example, a protected structure 
+or 
+❖ The location of the property - for example, an architectural conservation area  
+further requirements may need to be considered. We recommend that you contact the planning department 
+of your Local Authority for guidance. 
+10. What will be installed in my home if I purchase a rooftop solar PV system? 
+The main components are the solar panels which will be located on the roof area, and the inverter which will 
+be located within your house or attic. The solar panels convert the light into DC electricity, and the inverter 
+converts this DC electricity into AC electricity for use in your home. The solar system will be connected to 
+your main electricity panel (‘fuseboard’). Other optional components are an immersion diverter switch, 
+battery, or energy meter (see questions 2.6 and 2.7 for more information). 
+11. How will the solar panels be fixed to my roof? 
+There are several well-proven solutions to connect the solar panels to your roof. Most solutions fix the solar 
+panels above the existing roof tiles on aluminium rails, but some solutions allow for an integrated, ‘flush’, 
+connection where the roof tiles are removed and replaced with the solar panels. The most important 
+consideration for homeowners is that the water tightness of your roof is not affected by the installation. 
+Installers should not be permitted to drill into roof tiles to connect the PV panels, as this could lead to future 
+leaks in your roof. 
+12. How can I maximize the amount of electricity generated that I use? 
+The simplest way to use a higher percentage of the electricity generated is to design the PV system to meet 
+the electricity demand of the house, although this may mean a very small PV system is installed if demand is 
+low during the daytime. 

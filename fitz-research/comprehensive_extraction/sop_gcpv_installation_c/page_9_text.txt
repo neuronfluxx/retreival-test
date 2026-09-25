@@ -1,0 +1,65 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 4 
+Location and Routing of DC cables 
+• 
+Ensure that no exposed DC cables are hanging and lying on the roof; 
+• 
+All DC cables must be protected from any possible physical damage; 
+• 
+DC combiner boxes should be located such that conduit runs are minimized; 
+• 
+Place DC cables separately from AC cable routes and distinctly marked with “DC cables”; 
+• 
+Cable trays must be covered by lid and must not have sharp edges and bends; 
+• 
+When cables trays or conduits cross pathways it should be covered by a bridge made of strong and 
+durable material.  
+ 
+System Isolation 
+• 
+Load breaking DC isolators must be installed to separate PV array and inverter;  
+• 
+DC isolator must have mechanisms for independent manual operation; 
+• 
+DC isolators will not be polarity sensitive; 
+• 
+Be rated to interrupt full load and prospective fault currents from the PV array and the grid; 
+• 
+Be installed in an accessible area. 
+ 
+Marking and Signage: 
+Marking is needed to provide emergency responders with appropriate warning and guidance so that they 
+can work their way around the system and how to isolate it. This can facilitate identifying energized 
+conductors or wires that connect the solar modules to the inverter, as these should not be cut when venting 
+for smoke removal. 
+ 
+IEC 62548 indicates the following signs (using local language or using appropriate local warning symbols) 
+ 
+• 
+Sign at all points of isolation of all sources of supply (PV array DC isolator, Inverter AC isolator) 
+• 
+Sign at main service disconnection switch  
+• 
+Sign at the distribution board to which the supply from the inverter is connected 
+• 
+Sign at DC cables and combiner boxes 
+ 
+Few examples of marking and signage are shown below: 
+ 
+  
+ 
+Figure 1: Example of marking signage for grid connected solar PV system 
+WARNING
+DUAL SUPPLY
+ISOLATE BOTH NORMAL AND SOLAR SUPPLIES 
+BEFORE WORKING ON THIS SWITCHBOARD
+WARNING
+DUAL SUPPLY
+ISOLATE SOLAR SUPPLY AT 
+DISTRIBUTION BOARD XX
+PV ARRAY
+DC ISOLATOR

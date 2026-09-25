@@ -1,0 +1,24 @@
+Page | 25 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+2.5 Step 5: Earthing of PV Module Frames 
+After physical installation, PV module frames are to be bonded together and connected to main earthing 
+conductor of the mounting structure. The conductor used to earth the exposed metallic frames of the PV 
+array shall have a minimum size of 6 mm2 copper or equivalent. PV array bonding conductors shall run as 
+close to the positive and negative PV array and or sub-array conductors as possible to reduce induced 
+voltages due to lightning. The earthing conductor must be properly fastened to the module frame to ensure 
+good electrical contact. PV module frames have anodised coating which is an aluminium oxide and it works 
+as insulation. Therefore, appropriate means should to be employed, which will crash the aluminium oxide 
+coating and establish electrical bond between PV module frames and the structure. 
+ 
+WEEB between PV module frame and rail 
+Specially made mid clamp used for earthing bond 
+ 
+Bonding through WEEB lug 
+Wiley’s earthing and bonding connector 
+ 
+Aluminum bolted to steel without isolation  
+washers and no effective bond 
+Daisy chain connectors are not recommended 
+ 
+Figure 19: Correct and incorrect way of bonding PV module frames 
+ 

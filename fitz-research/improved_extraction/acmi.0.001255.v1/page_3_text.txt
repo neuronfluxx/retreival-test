@@ -1,0 +1,78 @@
+ 
+ 
+63 
+5.  Introduction 
+64 
+Digital transformation across healthcare has led to an unprecedented accumulation of 
+65 
+laboratory, clinical, and infection-related data. In the context of clinical microbiology and 
+66 
+infection science, this data holds the potential to support a variety of areas, including 
+67 
+diagnostic decision-making, antimicrobial resistance monitoring, and process improvement. 
+68 
+Alongside the increasing volume of data, machine learning (ML) and artificial intelligence 
+69 
+(AI) methods are being applied more widely to detect patterns in datasets and develop 
+70 
+predictive models [1]. However, many infection science professionals lack formal training in 
+71 
+computational methods, which limits the translation of raw data into actionable insights and 
+72 
+applications. Furthermore, as research on the application of these methods increases, there 
+73 
+is a need for infection science and clinical microbiology professionals to have the knowledge 
+74 
+to support peer-review and aid in translating applications into practice. In the literature, 
+75 
+there are previously published tutorials and workshops for healthcare professionals and for 
+76 
+those without ML domain expertise [2, 3]. However, to the best of our knowledge, there are 
+77 
+no published papers discussing in-person data science and ML workshops tailored to 
+78 
+infection science. 
+79 
+To address this gap in training amongst those working and/or studying in the clinical 
+80 
+microbiology and infection science domain, authors Benjamin McFadden (BM) and Timothy 
+81 
+Inglis (TI) designed the “Using Data Science and Machine Learning for Infection Science: A 
+82 
+Hands-On Introduction” one-day workshops. Since 2024, the workshop has been delivered 
+83 
+at the ECCMID conference in April 2024 (Barcelona,Spain), and the ESCMID global 
+84 
+conference in April 2025 (Vienna, Austria) and April 2026 (Munich, Germany) with BM and TI 
+85 
+both present to deliver these workshops. The workshop content was also delivered by BM at 
+86 
+the University of Zurich Medical Microbiology Institute in June 2025, and again in April 2026. 
+87 
+Prior to 2024, an earlier version of the workshop was created by TI and delivered in 2019 at 
+88 
+the ECCMID conference (Amsterdam, Netherlands). The planned sequel at ECCMID 2020 was 
+89 
+postponed due to the COVID-19 pandemic. Over its lifetime, the workshop has attracted 
+90 
+participants from diverse worldwide settings including hospitals, research institutes, and 
+91 
+postgraduate programs. The aim of these workshops is to teach the principles and practice 
+92 
+of reproducible ML projects from an end-to-end perspective. This means taking a holistic 
+93 
+view, starting with data preparation, and progressively working through data processing and 
+94 
+cleaning, ML modelling, and ML model evaluation. The teaching of these concepts is 
+95 
+achieved using the Orange data mining software [4], an open-source, no-code tool that 
+96 
+supports a range of analytical tasks, including data cleaning and transformation, 
+97 
+visualisation, descriptive statistics, modelling, and model evaluation. The software also offers 
+98 
+a range of add-ons that provide additional functionality for advanced ML tasks, such as 
+99 
+computer vision and natural language processing. A significant benefit of using Orange is 
+100 
+that it is free to download and use across multiple operating systems. As Orange is a desktop 

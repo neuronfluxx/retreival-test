@@ -1,0 +1,26 @@
+
+PDF EXTRACTION SUMMARY
+============================================================
+
+Document: NIPS-2017-attention-is-all-you-need-Paper
+Pages: 11
+
+CONTENT EXTRACTED:
+  • Text: 5001 words
+  • Images: 3 images
+  • Tables: 1 tables
+  • Links: 79 links
+  • Annotations: 0 annotations
+
+OUTPUT LOCATION: comprehensive_extraction/NIPS-2017-attention-is-all-you-need-Paper
+
+FILES GENERATED:
+  ✓ metadata.json - Document metadata
+  ✓ extraction_results.json - Complete extraction data
+  ✓ page_*_text.txt - Plain text per page
+  ✓ page_*_text.html - HTML formatted text per page
+  ✓ page_*_table_*.md - Tables in Markdown format
+  ✓ page_*_table_*.csv - Tables in CSV format (if pandas available)
+  ✓ images/ - Extracted images folder
+
+============================================================

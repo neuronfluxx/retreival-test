@@ -1,0 +1,67 @@
+Table 1: Maxi,mum path length,"s, per-layer c",omp,lexity and minimum,number of seque,ntial operations
+for different la,yer types. n is t,he sequence,lengt,"h, d is the represen",tation dimension,", k is the kernel"
+size of convolu,tions and r the,size of the n,eighb,orhood in restricted,self-attention.,
+,,,,,,
+Layer Typ,e,Complexi,ty pe,r Layer Sequenti,al Maximum P,ath Length
+,,,,Operatio,ns,
+Self-Atten,tion,O(n,2 · d,) O(1),O(,1)
+Recurrent,,O(n,· d2,) O(n),O(,n)
+Convolutio,nal,O(k ·,n · d,2) O(1),O(log,"(n))
+k"
+Self-Atten,tion (restricted),O(r,· n ·,d) O(1),O(n,/r)
+,,,,,,
+bottoms of the,encoder and dec,oder stacks.,The,positional encodings,have the same d,"imension d
+model"
+as the embeddi,"ngs, so that the",two can be s,umm,ed. There are many,choices of positi,"onal encodings,"
+learned and fix,ed [8].,,,,,
+,,,,,,
+"In this work, w",e use sine and c,osine functi,ons o,f different frequenc,ies:,
+,,,,,,
+,,"PE
+(pos,2i)",= si,n(pos/100002i/dmo,del),
+,,,,,,
+,P,"E
+(pos,2i+1)",= co,s(pos/100002i/dmo,del),
+,,,,,,
+where pos is th,e position and i,is the dimen,sion.,"That is, each dime",nsion of the posi,tional encoding
+corresponds to,a sinusoid. The,wavelengths,form,a geometric progre,ssion from 2π to,10000 · 2π. We
+chose this fun,ction because w,e hypothesiz,ed it,would allow the m,odel to easily le,arn to attend by
+relative positio,"ns, since for an",y fixed offse,"t k,","PE can be rep
+pos+k",resented as a lin,ear function of
+"PE .
+pos",,,,,,
+,,,,,,
+We also experi,mented with usi,ng learned p,ositio,nal embeddings [8,"] instead, and fou",nd that the two
+versions produ,ced nearly iden,tical results,(see,Table 3 row (E)).,We chose the sin,usoidal version
+because it may,allow the mode,l to extrapol,ate to,sequence lengths l,onger than the on,es encountered
+during training,.,,,,,
+,,,,,,
+4 Why Se,lf-Attention,,,,,
+,,,,,,
+In this section,we compare v,arious aspec,ts of,self-attention layer,s to the recurre,nt and convolu-
+tional layers c,ommonly used f,or mapping,one v,ariable-length sequ,ence of symbol,representations
+"(x , ..., x ) to
+1 n",another sequen,ce of equal,lengt,"h (z , ..., z ), with
+1 n","x i, z ∈ Rd, su
+i",ch as a hidden
+layer in a typic,al sequence tran,sduction enc,oder,or decoder. Motiva,ting our use of s,elf-attention we
+consider three,desiderata.,,,,,
+,,,,,,
+One is the tota,l computational,complexity,per la,yer. Another is the,amount of comp,utation that can
+be parallelized,", as measured b",y the minimu,m nu,mber of sequential,operations requi,red.
+,,,,,,
+The third is th,e path length bet,ween long-r,ange,dependencies in th,e network. Learn,ing long-range
+dependencies i,s a key challeng,e in many s,equen,ce transduction tas,ks. One key fact,or affecting the
+ability to learn,such dependen,cies is the le,ngth,of the paths forwar,d and backward,signals have to
+traverse in the,network. The s,horter these,paths,between any comb,ination of positi,ons in the input
+and output seq,"uences, the easie",r it is to lear,n lon,g-range dependenci,es [11]. Hence w,e also compare
+the maximum,path length betw,een any two,inpu,t and output positio,ns in networks c,omposed of the
+different layer,types.,,,,,
+,,,,,,
+As noted in Tab,"le 1, a self-atten",tion layer co,nnect,s all positions with a,constant numbe,r of sequentially
+executed oper,"ations, whereas",a recurrent,layer,requires O(n) seq,uential operatio,ns. In terms of
+computational,"complexity, sel",f-attention l,ayers,are faster than recu,rrent layers whe,n the sequence
+length n is sm,aller than the r,epresentatio,n di,"mensionality d, wh",ich is most ofte,n the case with
+sentence repre,sentations used b,y state-of-th,e-art,models in machine,"translations, suc",h as word-piece
+[31] and byte-,pair [25] represe,ntations. To,impr,ove computational,performance for,tasks involving
+very long sequ,"ences, self-attent",ion could be,restr,icted to considering,only a neighborh,ood of size r in

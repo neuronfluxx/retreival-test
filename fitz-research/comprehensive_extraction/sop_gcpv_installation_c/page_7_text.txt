@@ -1,0 +1,59 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 2 
+1.2 Electrical Safety 
+As per data made available by the Ministry of Home Affairs, Government of India, there are about 10,000 
+accidental deaths every year in India as a result of electrocution. Major causes for these fatal accidents are 
+- snapping of conductor, contact with live wire/ equipment, leakage current, defective tools and apparatus, 
+negligence on safety measures and inadequate maintenance of electrical wiring.  
+ 
+In a grid connected PV system, multiple numbers of PV modules are connected in series, producing a DC 
+voltage of 150V – 850V as input to the grid tied inverter. Similarly, the output of an inverter will be 230V 
+or 415V AC. Therefore, in the event of any fault or leakage, any metallic part of a grid connected solar PV 
+system can potentially cause severe electric hazards in the form of shock, arcing and fire. Hence only 
+certified electricians trained in solar PV installation are to be engaged to install, operate and maintain 
+electrical components and equipment in a grid connected PV system. 
+ 
+The following procedures must be followed by the PV system installers and supervisors:  
+• 
+Ensure all personnel safety resources are available and in good condition;  
+• 
+Check all electrical measurement equipment for function and accuracy; 
+• 
+Check the existing earthing system at the project site using the earth resistance tester; 
+• 
+Make sure there are no uninsulated electrical cables passing through the installation area; 
+• 
+Cordon off the working area during installation and do not allow children to enter; 
+• 
+Never disconnect a wire before you have checked the voltage and current; 
+• 
+Do not presume that everything is connected and working as designed; 
+• 
+Do not trust switches to operate perfectly and do not “believe” schematics; 
+• 
+Always reaffirm isolation procedure; 
+• 
+Always “test before you touch” to establish whether circuits are live or not; 
+• 
+Ensure that the earthing structure is completed and tested before fixing the modules;   
+• 
+Do Not connect the module in series while fixing the modules on the structure; 
+• 
+Strings are connected when the system is ready for commissioning;  
+• 
+Ensure that no exposed DC cables are hanging and lying on the roof; 
+• 
+Ensure that the string cable joints are not exposed and soaked in water; 
+• 
+Tighten the string cable joints (MC4 or equivalent) using appropriate tools and NOT by hand; 
+• 
+Ensure all DC/AC cable joints are protected and inside a combiner box having IP65 or above; 
+• 
+All DC/ AC cables must be protected from any possible physical damage. 
+ 
+ 
+ 

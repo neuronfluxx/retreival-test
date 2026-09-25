@@ -1,0 +1,44 @@
+Frequently Asked Questions on Solar Photovoltaics 
+If you have any comments on these FAQs, please contact info@seai.ie 
+ 
+1. What are solar panels? 
+2. What different types of solar PV panels exist? 
+3. How much electricity will solar panels generate? 
+4. Do solar panels work in Ireland? 
+5. How much do solar panels cost? 
+6. Where are solar panels manufactured? 
+7. Are solar panels right for my home? 
+8. Who can install solar panels on my property? 
+9. Do I need planning permission to install solar PV on my roof? 
+10. What will be installed in my home if I purchase a rooftop solar PV system? 
+11. How will the solar panels be fixed to my roof? 
+12. How can I maximize the amount of electricity generated that I use? 
+13. What about a battery storage system? 
+14. What supports are there for solar PV in homes? 
+15. Is there a ‘feed-in tariff’ payment for excess solar electricity fed into the grid by owners of solar PV 
+systems? 
+16. Does my rooftop PV system require maintenance? 
+17. What is the difference between domestic and non-domestic solar PV schemes? 
+ 
+1. What are solar panels? 
+The term ‘solar panel’ can refer to a wide range of solar technologies. It is often used interchangeably 
+between the panels that generate electricity and those that generate heat. Solar panels which produce 
+electricity are referred to in the industry as ‘solar photovoltaic (PV) modules.’ These are panels made from 
+materials that generate DC electricity when exposed to light. 
+When considering purchasing solar panels it is important to consider whether you would like a system that 
+generates electricity (solar PV panels) or a system that heats water (solar thermal panels). The questions in 
+this document are all about the electricity-generating panels. 
+ 
+2. What different types of solar PV panels exist? 
+There are a variety of different solar PV technologies and products. The performance and cost of different 
+products vary greatly. The most common solar PV technologies are: 
+❖ Mono-crystalline silicon panels: Typically, the most efficient commercial solar panels at converting 
+light into electricity. 
+❖ Multi-crystalline silicon panels: typically, slightly less efficient than mono-crystalline panels but often 
+less expensive 
+❖ Thin film panels: this encompasses a range of technologies (including those made from cadmium 
+telluride (CdTe), copper indium gallium Di selenide (CIGS), and amorphous silicon (a-Si)). These 
+technologies are not as widely deployed but are often favoured because of their appealing 
+appearance. 
+Silicon-based solar panels are by far the most deployed, accounting for over 90% of the global market. When 
+considering installing solar PV panels on your roof you will typically be limited to the products which 

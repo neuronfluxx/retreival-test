@@ -1,0 +1,28 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 14 
+ 
+Gable Roof with tilt >7o <=45 o 
+ 
+Hip Roof with tilt >7 o <=45 o 
+a = 10% of least horizontal dimension or 0.4h (mean roof height) whichever is smaller but not less than 
+4% od least horizontal dimension 
+Figure 6: Pressure coefficient zones in a building (Source: ASCE7-05) 
+ 
+Protection against corrosion: 
+The steel structure will be hot dip galvanised and the aluminium structure will be anodized. These coatings 
+protect the structure from corrosion. Do not drill, weld or cut the structure at the site. This will damage the 
+coating and corrosion will be accelerated.. 
+ 
+ 
+ 
+ 
+Do not drill 
+Do not weld 
+Do not cut 
+Figure 7: Damaging of coating of structure will accelerate corrosion  
+ 
+ 

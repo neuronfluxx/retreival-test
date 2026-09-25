@@ -1,0 +1,56 @@
+www.canadiansolar.com
+| 15
+Bolting on the long frame side using four innermost 
+mounting holes. Mounting rails run perpendicularly to the 
+long frame side.
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Compatible module types:  CS3L-P, CS3L-MS, CS1H-MS 
+and CS1K-MS
+Bolting on the long frame side using four middle moun­
+ting holes. Mounting rails run perpendicularly to the long 
+frame side.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Compatible module types: CS1U-MS
+7.0 
+MAINTENANCE
+·	 Do not make modifications to any components 
+of the PV module (diode, junction box, plug 
+connectors or others).   
+·	 Regular maintenance is required to keep modules 
+clear of snow, bird droppings, seeds, pollen, 
+leaves, branches, dirt spots, and dust.  
+·	 Modules with sufficient tilt (at least 15°), generally 
+may not require cleaning (rain will have a self-
+cleaning effect). If the module has become soiled, 
+wash with water and a non-abrasive cleaning 
+implement (sponge) during the cool part of the 
+day. Do not scrape or rub dry dirt away, as this 
+may cause micro scratches.
+·	 Snow should be removed using a soft brush.
+·	 Periodically inspect the system to check the 
+integrity of all wiring and supports.
+·	 To protect against electric shock or injury, electrical 
+or mechanical inspections and maintenance 
+should be performed by qualified personnel only.
+·	 Please refer to Annex D (Module Cleaning Guide) 
+for additional information on this topic.
+Bolting on the long frame side using four middle moun­
+ting holes. Mounting rails run perpendicularly to the long 
+frame side.
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Compatible module types: CS3U-P, CS3U-MS, CS6U-P, 
+CS6U-M, CS3W-P and CS3W-MS
+Bolting on the long frame side using four middle moun­
+ting holes. Mounting rails run parallel to the long frame 
+side.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤5400 Pa
+Compatible module types: CS3U-P, CS3U-MS, CS6U-P and 
+CS6U-M

@@ -1,0 +1,35 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 42 
+Format of table to record insulation test results:  
+Nominal Voltage Rating of 
+Cable / Conductor 
+(V)  
+Minimum Insulation 
+resistance DC test Voltage 
+(V) 
+Recommended Minimum 
+Insulation Resistance  
+(Mega Ohms)  
+250 
+500 
+25 
+600 
+1000 
+100 
+1000 
+1000 
+100 
+5000 
+2500 
+1000 
+15000 
+2500 
+5000 
+ 
+Source: (International) National Electrical Testing Association (NETA). 
+ 
+ 

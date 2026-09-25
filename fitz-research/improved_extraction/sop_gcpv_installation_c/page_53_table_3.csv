@@ -1,0 +1,53 @@
+Col0,Warrantee,against,any,manufacturing
+3.17.,defect and,violatio,n of,conformity of
+,regulatory,require,ment,
+,,,,
+4.,,Array S,truc,ture
+,,,,
+4.1.,Type of st,ructure,used,
+,,,,
+4.2.,Material o,f structu,re,
+,,,,
+,Frame size,and ori,enta,tion
+4.3.,,,,
+,(Portrait /,landscap,e),
+,,,,
+4.4.,Thickness,of struc,ture,materials
+,,,,
+4.5.,Type of co,ating,,
+,,,,
+4.6.,Type of gr,outing t,o RC,C roof and
+,size of PC,C block,if us,ed
+,,,,
+,Material o,f fastene,rs,
+4.7.,,,,
+,"(nuts, bolt","s, clamp","s, ho",oks etc.)
+,,,,
+4.8.,Tilt angle,,,
+,,,,
+,Are the m,odules a,re in,stalled facing
+,true south?,If not,whic,h orientation
+4.9.,and angle,of devia,tion,from true
+,south.,,,
+4.10.,Clearance,of lowe,st pa,rt of structure
+,to the roof,in mm,,
+,,,,
+5.,DC S,tring C,omb,iner Box
+,,,,
+5.1.,Make,,,
+,,,,
+5.2.,Materials,and IP r,ating,
+,,,,
+5.3.,Rating of,DC fuse,s if u,sed
+,,,,
+5.4.,Rating of,DC isola,tors,
+,,,,
+5.5.,Type of an,d SPDs,used,
+,,,,
+,Have you,marked,cabl,e ferrules for
+5.6.,polarity id,entificat,ion?,
+,,,,
+,Have you,used on,e cab,le gland for
+5.7.,one cable?,,,
+,,,,
+,Have you,tightene,d the,cable glands

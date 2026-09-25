@@ -1,0 +1,61 @@
+Table 2: The Transf,ormer a,chieves better BL,EU scores,than prev,ious,state-of-the-,art models on the
+English-to-German,and En,glish-to-French ne,wstest201,4 tests at,a fra,ction of the tr,aining cost.
+,,,,,,,
+,,,BLE,U,,Training Cos,t (FLOPs)
+Model,,,,,,,
+,,,EN-DE,EN-FR,,EN-DE,EN-FR
+ByteNet [15],,,23.75,,,,
+Deep-Att + P,osUnk,[32],,39.2,,,1.0 · 1020
+GNMT + RL,[31],,24.6,39.92,,2.3 · 1019,1.4 · 1020
+ConvS2S [8],,,25.16,40.46,,9.6 · 1018,1.5 · 1020
+MoE [26],,,26.03,40.56,,2.0 · 1019,1.2 · 1020
+Deep-Att + P,osUnk,Ensemble [32],,40.4,,,8.0 · 1020
+GNMT + RL,Ensem,ble [31],26.30,41.16,,1.8 · 1020,1.1 · 1021
+ConvS2S En,semble,[8],26.36,41.29,,7.7 · 1019,1.2 · 1021
+Transformer,(base m,odel),27.3,38.1,,3.3 · 1,018
+Transformer,(big),,28.4,41.0,,2.3 · 1,019
+,,,,,,,
+Label Smoothing,Durin,"g training, we em",ployed lab,el smoot,hing,"of value ϵ
+ls",= 0.1 [30]. This
+"hurts perplexity, as t",he mod,el learns to be mo,"re unsure,",but impr,oves,accuracy and,BLEU score.
+,,,,,,,
+6 Results,,,,,,,
+,,,,,,,
+6.1 Machine Tra,nslation,,,,,,
+,,,,,,,
+On the WMT 2014,English,-to-German transla,"tion task, t",he big tra,nsfo,rmer model (,Transformer (big)
+in Table 2) outperfo,rms the,best previously re,ported mo,dels (incl,udin,g ensembles),by more than 2.0
+"BLEU, establishing",a new,state-of-the-art B,LEU score,of 28.4.,The,configuration,of this model is
+listed in the bottom,line of,Table 3. Training,took 3.5 d,ays on 8,P10,0 GPUs. Eve,n our base model
+surpasses all previo,usly pu,blished models an,d ensemble,"s, at a fra",ctio,n of the traini,ng cost of any of
+the competitive mod,els.,,,,,,
+,,,,,,,
+On the WMT 2014,English,-to-French translat,"ion task, o",ur big mo,del,achieves a BL,"EU score of 41.0,"
+outperforming all of,the pre,viously published,single mo,"dels, at le",ss t,han 1/4 the tr,aining cost of the
+previous state-of-th,e-art m,odel. The Transfo,rmer (big),model t,rain,ed for Englis,h-to-French used
+"dropout rate P
+drop","= 0.1, i",nstead of 0.3.,,,,,
+,,,,,,,
+For the base model,"s, we us",ed a single mode,l obtained,by avera,ging,the last 5 ch,"eckpoints, which"
+were written at 10-,minute,intervals. For the,big model,"s, we ave",rage,d the last 20,checkpoints. We
+used beam search w,ith a b,eam size of 4 and,length pen,alty α =,0.6,[31]. These,hyperparameters
+were chosen after ex,perime,ntation on the deve,lopment se,t. We set,the,maximum out,put length during
+inference to input le,ngth +,"50, but terminate e",arly when,possible,[31,].,
+,,,,,,,
+Table 2 summarizes,our res,ults and compares,our translat,ion quali,ty a,nd training co,sts to other model
+architectures from t,he litera,ture. We estimate,the numbe,r of float,ing,point operatio,ns used to train a
+model by multiplyin,g the tr,"aining time, the n",umber of G,PUs use,"d, a",nd an estimat,e of the sustained
+single-precision floa,ting-po,int capacity of eac,h GPU 5.,,,,
+,,,,,,,
+6.2 Model Variat,ions,,,,,,
+,,,,,,,
+To evaluate the imp,ortance,of different comp,onents of,the Trans,for,"mer, we varie",d our base model
+"in different ways, m",easuri,ng the change in p,erformanc,e on Eng,lish,-to-German t,ranslation on the
+"development set, ne",wstest2,013. We used bea,m search,as descri,bed,in the previou,"s section, but no"
+checkpoint averagin,g. We,present these resul,ts in Table,3.,,,
+,,,,,,,
+"In Table 3 rows (A),",we vary,the number of atte,ntion head,s and the,atte,ntion key and,"value dimensions,"
+keeping the amoun,t of co,mputation constan,"t, as desc",ribed in,Sect,ion 3.2.2. W,hile single-head
+attention is 0.9 BLE,U wors,e than the best set,"ting, qualit",y also dr,ops,off with too m,any heads.
+,,,,,,,
+5We used values o,"f 2.8, 3.7",", 6.0 and 9.5 TFLO","PS for K80,","K40, M4",0 and,"P100, respecti",vely.

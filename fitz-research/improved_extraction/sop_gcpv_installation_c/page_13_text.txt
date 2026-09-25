@@ -1,0 +1,42 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 8 
+ 
+ 
+Figure 4: Calculation of shadow length analysing sun position 
+ 
+When object is in the South direction: 
+"#$#%&% '#()*$+, -./% )ℎ, /12,+) (%) = 6,#7ℎ) /- 812,+) (%) × :/( (;<#%&)ℎ *$7=,)
+>*$ (;=)#)&?, *$7=,) 
+ 
+When object is in the East or West direction: 
+"#$#%&% '#()*$+, -./% )ℎ, /12,+) (%) = 6,#7ℎ) /- 812,+) (%) × @#$ (;<#%&)ℎ *$7=,)
+>*$ (;=)#)&?, *$7=,) 
+ 
+For example, for a site in Bongaigaon, if height of an object is 3m from the lowest position of array and it 
+is located in the south side of the array position, length of shadow from the object at 8:00am local time will 
+be 5.03m considering azimuth angle of 133.01o and altitude angle of 22.14o from the table 1 below.  
+ 
+"#$#%&% '#()*$+, -./% )ℎ, /12,+) *) 8.00 *% (%) = 3 × :/( (133.01)
+>*$ (22.14) = 5.03m 
+ 
+For the same example, if the object is located in the east or west  side of the array position, length of shadow 
+from the object at 8:00am local time will be 5.39m. 
+"#$#%&% '#()*$+, -./% )ℎ, /12,+) *) 8.00 *% (%) = 3 × @#$ (133.01)
+>*$ (22.14) = 5.39m 
+Shadow analysis – using simulation software:  
+Shadow analysis can also be performed through desktop analysis using simulation software like PVSyst, 
+HelioScope and SketchUp.  However, results from such an analysis solely depends on the accuracy of input 
+data i.e. height, breadth of the object and distance from the solar array location. When shadow analysis is 
+performed with software, confirm the actual physical dimension of the objects that potentially cast shadow.  
+ 
+Remember, a small shadow on PV array can have major impact on the system performance 
+and life. It is strongly recommended that location of PV array be finalised using a solar 
+pathfinder or sun eye or any equivalent solar sitting device.  
+ 
+Height 
+Distance 
+Critical Angle 

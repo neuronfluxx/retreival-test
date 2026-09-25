@@ -1,0 +1,13 @@
+<!-- Extracted using strategy: lines_strict -->
+
+|Col1|Col2|Col3|
+|---|---|---|
+|**LIVE DURING DAYLIGHT**|**LIVE DURING DAYLIGHT**|**LIVE DURING DAYLIGHT**|
+||||
+||||
+|**WARNING**<br>DUAL SUPPLY|**WARNING**<br>DUAL SUPPLY|**WARNING**<br>DUAL SUPPLY|
+|**WARNING**<br>DUAL SUPPLY|DUAL SUPPLY|DUAL SUPPLY|
+|I|<br>SOLATE SOLAR SUPPLY AT<br>DISTRIBUTION BOARD XX||
+|I|||
+|I|||
+

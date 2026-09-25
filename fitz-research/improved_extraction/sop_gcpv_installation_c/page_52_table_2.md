@@ -1,0 +1,26 @@
+<!-- Extracted using strategy: lines_strict -->
+
+|2.8.|Safety Standard (BIS/IEC)|Col3|
+|---|---|---|
+|2.9.|Date and year of obtaining BIS/IEC<br>PV modulequalification certificate||
+|2.10.|Name of the test lab issuing BIS/IEC<br>certificate.||
+|2.11.|Warrantee against any manufacturing<br>or material defect||
+|2.12.|Warrantee on performance (Power<br>output)||
+|**3. **|**PV Inverter**||
+|3.1.|Make||
+|3.2.|Model||
+|3.3.|Capacity||
+|3.4.|Total number of inverters installed||
+|3.5.|AC output voltage and frequency||
+|3.6.|Installed outdoor or indoor?||
+|3.7.|IP rating?||
+|3.8.|Built-in meter and data logger for<br>remote monitoring||
+|3.9.|Frequency tolerance||
+|3.10.|Voltage tolerance||
+|3.11.|Inverter efficiency||
+|3.12.|Total Harmonic Distortion||
+|3.13.|Power factor||
+|3.14.|Quality and Safety Standard<br>(BIS/IEC)||
+|3.15.|Date and year of obtaining BIS/IEC<br>for the inverter||
+|3.16.|Name of the test lab issuing BIS/IEC<br>certificate||
+

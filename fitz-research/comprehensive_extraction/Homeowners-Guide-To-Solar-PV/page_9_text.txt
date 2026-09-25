@@ -1,0 +1,42 @@
+individual installers offer. Be sure to ask to see the technical specifications for the solar panels they are 
+offering. You can find out more about understanding how to read technical specifications here. 
+ 
+3. How much electricity will solar panels generate? 
+The amount of electricity generated annually will depend on a range of factors including the hardware 
+chosen, the size of the system, the geographical location, and the direction in which the panels are installed. 
+With the most common silicon solar panels typically 1 sq. m of panels will generate ~150W of power on a 
+clear sunny day (that’s enough to power a laptop computer). A home solar PV system sized at 20 sq. m 
+(~3kW) would generate around 2,600kWh of electricity a year if well-located, over 40% of the typical annual 
+electricity demand of an Irish home. 
+4.  Do solar panels work in Ireland? 
+Yes, solar PV systems will still generate electricity when there is daylight, so they will still function on overcast 
+days in Ireland. In these conditions they will not be able to produce power at their maximum rated capacity 
+(the figure in kilowatts (kW)), rather at some fraction of this figure. Solar panels will perform at their best in 
+direct sunlight and therefore solar PV systems in Ireland will typically produce less than other, sunnier 
+countries such as Spain. As mentioned above, a home solar PV system sized at 20 sq. (~3kW) would generate 
+around 2,600kWh of electricity a year if well-located, over 40% of the typical annual electricity demand of an 
+Irish home. 
+5. How much do solar panels cost? 
+The cost of purchasing and installing solar panels has come down considerably over the last 10 years. The 
+cost of a solar PV system depends on a range of factors including the hardware chosen, the size of the 
+system, accessibility of the roof or site, and the installer used. Broadly speaking home PV systems should 
+range from around €1,500 - €2,000 per kW installed (ex-VAT), but prices will vary depending on the factors 
+mentioned above. 
+6. Where are solar panels manufactured? 
+Most solar panels are manufactured in Asia (primarily in China and Taiwan) but there are also some European 
+and North American manufacturers. The components for solar panels and other hardware used in the 
+installation come from all around the world. 
+7. Are solar panels right for my home? 
+There are a variety of considerations when determining whether solar panels are right for your home. Some 
+thought must go into how much of the generated electricity you will use as this will affect how economical it 
+is as a solution for your home. Solar PV systems generate electricity only during daylight hours, 
+predominantly around the middle of the day when you may be at work. 
+Also, around 75% of the annual energy from a solar PV system is produced from May to September. You 
+need to consider how much of the generated electricity you will use in your home, based on the pattern of 
+generation from the solar PV system, and the pattern of energy usage and occupancy for your house. 
+Without any additional systems, a lot of the generated electricity can be spilled (exported) to the grid, and 
+there is currently no mechanism for homeowners to claim payment for this (see question 2.9). 
+You also need to consider if your roof is suitable for solar PV considering the age and condition, the 
+orientation of your house, and any potential shading from nearby trees or buildings. The best rooftops for 
+maximizing electricity generation are those that are south-facing, in good condition, and with minimal 
+shading from trees or adjacent structures. 

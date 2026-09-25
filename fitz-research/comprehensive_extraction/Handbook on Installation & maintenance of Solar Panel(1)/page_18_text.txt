@@ -1,0 +1,48 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+11 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+Section II 
+Designing a Solar Photovoltaic System 
+ 
+2.1        Definitions 
+             The following definitions are very important in designing a solar photo voltaic system.  
+ 
+Solar Cell 
+The basic photovoltaic device, which generates electricity when exposed to sunlight, shall 
+be called a “Solar Cell”.  
+ 
+Solar Module 
+The smallest complete environmentally protected assembly of interconnected solar cells 
+shall be called “Module”. 
+ 
+Solar Panel 
+A group of modules fastened together, pre-assembled and interconnected, designed to 
+serve as an installable unit in an Array shall be called “Panel”. 
+ 
+Solar Array 
+A mechanically integrated assembly of modules or panels together with support structure, 
+but exclusive of foundation, tracking, thermal control and other components, as required 
+to form a dc power producing unit shall be called an “Array”. 
+ 
+            Solar irradiation 
+On any given day the solar radiation varies continuously from sunrise to sunset and 
+depends on cloud cover, sun position and content and turbidity of the atmosphere.  
+The maximum irradiance is available at solar noon which is defined as the midpoint, in 
+time, between sunrise and sunset. The total solar radiant power incident upon unit area of 
+an inclined surface (Watt/m²) is called total solar irradiance. 
+    
+   Insolation 
+Insolation differs from irradiance because of the inclusion of time. Insolation is the amount 
+of solar energy received on a given area over time measured in kilowatt-hours per square 
+meter squared (kW-hrs/m2) - this value is equivalent to "peak sun hours".  
+        Peak Sun Hours 
+Peak sun hours is defined as the equivalent number of hours per day, with solar irradiance 
+equaling 1,000 W/m2, that gives the same energy received from sunrise to sunset.  
+Peak sun hours is of significance because PV panel power output is rated with a radiation 
+level of 1,000W/m2. 
+Many tables of solar data are often presented as an average daily value of peak sun hours 
+(kW-hrs/m2) for each month. 
+Click for contents
+Click for contents

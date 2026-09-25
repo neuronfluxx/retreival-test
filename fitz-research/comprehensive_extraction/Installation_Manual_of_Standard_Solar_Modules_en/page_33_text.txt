@@ -1,0 +1,35 @@
+www.canadiansolar.com
+| 33
+Use two insertion profiles running parallel to the long 
+side frame.
+Use two insertion profiles running perpendicularly to 
+the long side frame.
+Maximum Load:
+Uplift load ≤ 2000 Pa
+Downforce load ≤ 2000 Pa
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 4000 Pa
+CS3K-P, CS3K-MS, CS6K-P, CS6K-M, CS6K-MS, CS6V-P, 
+CS6V-M and CS6V-MS
+(Please refer to the separate manual for the KuLite 
+CS3K-P which is a lightweight option for standard 
+CS3K-P only for Japan region) 
+Use two insertion profiles running perpendicular­
+ly to the long side frame. An additional support 
+bar should be placed below the module. Use two 
+clamps on the support bar.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Use two insertion profiles running parallel to the long 
+side frame.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+Use two insertion profiles running perpendicularly to 
+the long  side frame.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 4000 Pa
+CS6A-P, CS6A-M, CS6VL-MS and CS6A-MS

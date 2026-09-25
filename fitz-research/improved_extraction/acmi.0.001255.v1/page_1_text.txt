@@ -1,0 +1,72 @@
+Preprint DOI: 
+Posted on July 16, 2026 
+https://doi.org/10.1099/acmi.0.001255.v1 
+© 2026 The Authors. This is an open-access article distributed under the terms of the Creative Commons 
+Attribution License. 
+ 
+ 
+ 
+ 
+ 
+1 
+Design, implementation, and reflections on delivering 
+2 
+machine learning workshops for medical microbiology and 
+3 
+infection science 
+ 
+4 
+1.1 
+Author names 
+5 
+Benjamin R. McFadden* (1) 
+6 
+Mark Reynolds (1) 
+7 
+Timothy J.J. Inglis (2,3) 
+8 
+1.2 
+Affiliation(s) 
+9 
+1) University of Western Australia, School of Physics, Mathematics and 
+10 
+Computing, Perth, 6009, Australia 
+11 
+2) University of Western Australia, Schools of Medicine and Biomedical Science, 
+12 
+Perth, 6009, Australia 
+13 
+3) Department of Microbiology, PathWest Laboratory Medicine WA, QEII Medical 
+14 
+Centre, Nedlands, 6009, Australia. 
+15 
+16 
+1.3 
+Corresponding author and email address 
+17 
+Benjamin R. McFadden 
+18 
+benjamin.mcfadden@research.uwa.edu.au 
+19 
+20 
+1.4 
+Keywords 
+21 
+Machine learning, workshop, medical microbiology, infection science, artificial intelligence 
+22 
+23 
+2.  Abstract 
+24 
+Increasingly, machine learning (ML) and artificial intelligence (AI) methods are being applied 
+25 
+in medical microbiology and infection science. With this comes the challenge of educating 
+26 
+professionals in these domains on the fundamental theory and methods of ML and AI in a 
+27 
+way that is time-efficient and grounded in practical application. This article outlines the 
+28 
+design, implementation, and reflections on delivering “Using Data Science and Machine 
+29 
+Learning for Infection Science: A Hands-On Introduction”, a recurring one-day workshop 
+30 
+created to introduce data science and ML concepts to infection science and medical 

@@ -1,0 +1,42 @@
+Col0,CAMT,ECH/S/PROJ/2013‐14/HB,‐SP/,2.0,Col5,Col6,Col7,Col8,8
+,,,,,,,,,
+1.1,0.2,Battery Bank,,,,,,,
+,,The Sun is not always a,vaila,ble and,it is not,regular. How,"ever,",loads are to,be fed any time
+,,of the day. Therefore po,wer,should,be stored,in a battery,bank.,Low mainte,nance Lead acid
+,,battery as per IRS: S 88,/200,4 or lat,est of spe,cified capac,ity wi,ll be provid,ed. The capacity
+,,of this battery bank is,give,n in A,mpere -,Hour (AH) a,nd b,us bar volta,ge. The bus-bar
+,,voltage is decided by th,e vol,tage re,quirement,of the load.,,,
+,,,,,,,,,
+1.1,0.3,Solar Charge Contro,ller,,,,,,
+,,Charge controller is th,e inte,rface b,etween A,rray and ba,ttery,bank. It pro,tects the battery
+,,from overcharging and,mo,derate,charging,at finishing,end,of charge,of battery bank.
+,,Therefore it enhances t,he li,fe of th,e battery,bank. It als,o indi,cates the ch,arging status of
+,,batteries like battery,unde,rcharg,"ed, overc",harged or,deep,discharged,through LEDs
+,,indications. Some switc,hes a,nd MC,Bs are als,o provided f,or ma,nual or acci,dental cut-off of
+,,charging. In some charg,e co,ntroller,s load ter,minals are al,so pro,vided throu,gh a low battery
+,,charge cut-off device s,o th,at it ca,n protect,the battery,bank,from deep,discharge. Solar
+,,Charge Controller units,for,Indian,Railways,are manufac,tured,as per RDS,O Specification
+,,No.RDSO/SPN/187/20,04. T,he fro,nt view o,f a typical,CEL,make Char,ge Controller is
+,,shown in Fig.1.7.,,,,,,,
+,,,,,,,,,
+,,Fig.1.7 :,Fro,nt view,of a Cha,rge Controll,er,,
+,,,,,,,,,
+,The t,echnology adopted now,aday,s for m,anufactur,ing solar ch,arge c,ontroller is,MOSFET/IGBT
+,,,,,,,,,
+,techn,ology. With this techno,logy,the idle,current o,f the contro,ller is,less than 5,0 mA depending
+,,,,,,,,,
+,upon,the rating of the charge,cont,roller a,nd its curr,ent. First the,cont,roller is con,nected to battery
+,,,,,,,,,
+,bank,and then it is connect,ed to,Solar,Array/So,lar module,for se,nsing the v,oltage from the
+,,,,,,,,,
+,modu,le. When the system is,put i,nto ope,"ration, the",SPV modul,es sta,rt charging t,he battery bank.
+,,,,,,,,,
+,Care,should be taken that in,no,case th,e battery,connections,are r,emoved fro,m the controller
+,,,,,,,,,
+,termi,nals when the system,is in,operat,"ion, othe",rwise SPV,voltag,e may dam,age the Charge
+,,,,,,,,,
+,contr,"oller, since the Solar vol",tage,is alwa,ys higher,than the batt,ery vo,ltage.,
+,,,,,,,,,
+,,,,,,,,,
+,Insta,llation & Maintenance,of So,lar Pa,"nel
+Click for c",ontents,,Nov,ember 2013

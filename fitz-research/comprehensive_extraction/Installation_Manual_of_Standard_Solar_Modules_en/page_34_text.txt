@@ -1,0 +1,33 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+34 | 
+Use two insertion profiles running perpendicularly to 
+the long side frame. An additional support bar should 
+be placed below the module. Use two clamps on the 
+support bar.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Use two insertion profiles running parallel to the long 
+side frame.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+CS1K-MS, CS1H-MS
+Use two insertion profiles running perpendicularly to 
+the long side frame. An additional support bar should 
+be placed below the module. Use two clamps on the 
+support bar.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Use two insertion profiles running parallel to the long 
+side frame.
+Maximum Load:
+Uplift load ≤ 2000 Pa
+Downforce load ≤ 2000 Pa
+Use two insertion profiles running perpendicularly to 
+the long  side frame.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 4000 Pa
+CS1V-MS, CS1VL-MS

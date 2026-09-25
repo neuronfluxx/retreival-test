@@ -1,0 +1,44 @@
+• 
+Budget: often the available budget is the dominant constraint. 
+ 
+Your selected installer should discuss all of the above factors with you. Your installer will also check your 
+current and past electricity consumption to calculate the appropriate system size. 
+Equipment  
+ 
+SEAI offers guidance to solar PV companies on the type of systems that are eligible for grant funding under 
+the solar PV scheme. This includes guidance on performance eligibility, installation, certification, and design. 
+• 
+A typical solar array consists of several solar PV modules. These modules are typically 1.8m x 1.0m, 
+approximately 40mm thick, and weigh in the region of 20kg each.  
+• 
+The modules are fixed to the roof by a mounting system, a metal system of rails, clamps, and hooks that 
+keeps the array securely fixed to the roof. Modules can be arranged in both landscape (horizontal) or 
+portrait (vertical) orientations. This depends on the orientation of the roof, the required number of 
+panels, and existing roof obstructions (chimneys, skylights, etc).  
+• 
+The cabling generally runs from the PV array and into the home to the inverter.  The inverter is the 
+mechanism that converts the PV-generated DC to AC. This inverter will be sized to suit the size of your 
+solar array. If you are installing a battery, or plan to at a future date, you will need a hybrid inverter.  
+• 
+Optional extras include batteries and hot water diverter.  
+• 
+The battery is an energy storage solution that allows you to store the excess energy generated from your 
+solar for later use in your home. Batteries can also allow you to charge from the grid at night, further 
+reducing your energy costs. There are several variables when deciding on whether to install a battery and 
+these should be researched and discussed thoroughly with your Solar PV company.   
+• 
+A hot water diverter allows you to divert excess energy generated from your solar PV to heat hot water in 
+your tank. It is a cost-effective way to maximize the energy produced by your solar PV system.   
+• 
+Most Solar PV systems now come with an energy monitoring system or are compatible with monitors 
+that can be added later. These are an effective way to monitor the energy produced, energy consumed, 
+and energy exported.   
+• 
+You do not need a smart meter to avail of the SEAI grant.  
+ 
+Figure 2: PV Module             Figure 3: Inverter Figure  Figure 4: Diverter  
+      Figure 5: Battery 
+ 
+ 
+ 
+ 

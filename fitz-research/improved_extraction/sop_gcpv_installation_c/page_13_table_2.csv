@@ -1,0 +1,57 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14,Col15,Page | 8
+,,,,,,,,,,,,,,,,
+I,nstallation of Gr,id Connected Ro,oftop Solar,Photovoltaic,Sy,ste,m,s -,A Ha,nd,bo,ok fo,r Engineer,s,& Develop,ers
+,,Height,,,,,,,,,,,,,,
+,,,,C,rit,ical,A,ngl,e,,,,,,,
+,,,,Distan,ce,,,,,,,,,,,
+,,Figure 4:,Calculati,on of shadow,l,en,g,th a,naly,sin,g,sun,position,,,
+,,,,,,,,,,,,,,,,
+W,hen object is,in the South dir,ection:,,,,,,,,,,,,,
+,,,,,,,,,,,,,:/( (;,<#,%&)ℎ *$,"7=,)"
+,,,,,,,,,,,,,,,,
+,"""#$#%&%","'#()*$+, -./%",")ℎ, /12,",+) (%) = 6,",#",7ℎ,),/-,812,",+)",(,%),×,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,>*$ (;,=)#,")&?, *$","7=,)"
+,,,,,,,,,,,,,,,,
+W,hen object is,in the East or W,est directi,on:,,,,,,,,,,,,
+,,,,,,,,,,,,,@#$ (;,<#,%&)ℎ *$,"7=,)"
+,,,,,,,,,,,,,,,,
+,"""#$#%&%","'#()*$+, -./%",")ℎ, /12,",+) (%) = 6,",#",7ℎ,),/-,812,",+)",(,%),×,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,>*$ (;,=)#,")&?, *$","7=,)"
+,,,,,,,,,,,,,,,,
+F,"or example, fo",r a site in Bong,"aigaon, if",height of an,o,bje,c,t is,3m f,ro,m,the l,owest pos,iti,on of arr,ay and it
+,,,,,,,,,,,,,,,,
+is,located in the,south side of th,e array po,"sition, length",o,f s,h,ado,w fr,om,th,e ob,ject at 8:0,0a,m local t,ime will
+b,e 5.03m consi,dering azimuth,angle of 1,33.01o and al,tit,ud,e,an,gle o,f 2,2.,14o f,rom the ta,bl,e 1 below,.
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,:/(,(133.01),,,
+,,,,,,,,,,,,,,,,
+,"""#$#","%&% '#()*$+,","-./% )ℎ,","/12,+) *) 8.",00,*,%,(%,) =,3,×,,,=,5.03m,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,>*$,(22.14),,,
+,,,,,,,,,,,,,,,,
+F,or the same ex,"ample, if the ob",ject is loca,ted in the ea,st,or,w,est,side,of,th,e arr,ay positio,"n,",length of,shadow
+,,,,,,,,,,,,,,,,
+fr,om the object,at 8:00am loca,l time will,be 5.39m.,,,,,,,,,,,,
+,,,,,,,,,,,,@#$,(133.01),,,
+,,,,,,,,,,,,,,,,
+,"""#$#","%&% '#()*$+,","-./% )ℎ,","/12,+) *) 8.",00,*,%,(%,) =,3,×,,,=,5.39m,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,>*$,(22.14),,,
+,,,,,,,,,,,,,,,,
+S,hadow analysi,s – using simul,ation softw,are:,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+S,hadow analysi,s can also be p,erformed t,hrough desk,to,p a,n,aly,sis u,sin,g,sim,ulation so,ftw,are like,"PVSyst,"
+,,,,,,,,,,,,,,,,
+H,elioScope and,SketchUp. Ho,"wever, res",ults from suc,h,an,a,nal,ysis,sole,ly,dep,ends on t,he,accuracy,of input
+,,,,,,,,,,,,,,,,
+d,"ata i.e. height,",breadth of the,object and,distance fro,m,th,e,sol,ar ar,ray,l,ocati,on. When,s,hadow an,alysis is
+,,,,,,,,,,,,,,,,
+p,erformed with,"software, confi",rm the act,ual physical,di,me,n,sion,of t,he,ob,ject,s that pote,nti,ally cast,shadow.
+,,,,,,,,,,,,,,,,
+,"Remember, a",small shadow,on PV ar,ray can ha,ve,m,a,jor,imp,act,o,n th,e system,p,erforman,ce
+,,,,,,,,,,,,,,,,
+,and life. It is,strongly reco,mmended,that locatio,n,of,P,V,arra,y b,e,fina,lised usin,g,a solar,
+,,,,,,,,,,,,,,,,
+,pathfinder or,sun eye or an,y equival,ent solar sit,ti,ng,d,evi,ce.,,,,,,,

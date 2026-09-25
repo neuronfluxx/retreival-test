@@ -1,0 +1,62 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 34 
+In TN-C-S earthing configuration, the supply side earthing is TN-C type and the consumer side earthing 
+system is TN-S type. This type of distribution is known also as Protective Multiple Earthing and the PEN 
+conductor is referred to as the combined neutral and earth (CNE) Conductor. The supply system PEN 
+conductor is earthed at several points and an earth electrode may be necessary at consumer's installation. 
+ 
+TN-C  Earthing configuration 
+TN-C-S Earthing configuration 
+ 
+Figure 26: TN-C and TN-C-S Earthing system configurations in accordance to IS 3043 
+ 
+All exposed conductive parts of an installation are connected to the PEN conductor via the main earthing 
+terminal and the neutral terminal, these terminals being linked together. The protective neutral bonding 
+(PNB) is a variant of TN-C-S with single point earthing. Earthing of solar PV system connected to this 
+configuration can be connected to the main earthing terminal in switchboard. 
+ 
+ 
+ 
+Figure 27  Solar PV System connected to TN-C and TN-C-S earthing configuration 
+L1
+L2
+L3
+Combined 
+& N Condu
+Consumer installation
+Source of Energy
+Additional source
+may be provided
+Source Earth
+L3
+Combined
+& N Cond
+Consumer installation
+Source of Energy
+L1
+L2
+Source Earth
+Solar PV Module
+Combiner Box
+Grid Tie Inverter
+ACDB
+L1
+PE
+DC i/p
+AC o/p
+To Household Loads
+Earthing
+for load
+Main Earthing
+Terminal
+Earthing
+for Grid tie Inverter
+Independent
+Earth Electrode
+L2
+L3
+N

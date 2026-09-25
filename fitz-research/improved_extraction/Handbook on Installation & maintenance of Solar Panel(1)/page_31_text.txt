@@ -1,0 +1,25 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+24 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+The above values are at standard testing conditions such as 25-degree cell temperature and 
+100-mW/Sq.cm solar radiation. The output will be reduced as temperature rises and 
+intensity of sunlight reduces. Although accurate power is measured with the help of 
+Module Tester at supplier’s end, however to check working of module Voc and Isc can be 
+measured at site as shown in Fig.7 (a) & (b) by simple multimeter in two different modes 
+i.e. Current mode and Voltage mode when module is placed in sunlight. The solar panel is 
+kept in such a position that it receives maximum sunlight.  
+ 
+ 
+ 
+Fig.3.1: Testing before installation. Measurement of (a) Isc (b) Voc 
+ 
+The typical I-V curve of a 35-Watt module with 36 series connected cells is illustrated in 
+Fig 8. 
+ 
+ 
+Fig.3.2: IV curve of a 35 Watt Solar Module  
+ 
+Click for contents
+Click for contents

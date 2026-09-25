@@ -1,0 +1,73 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 24 
+Type of 
+Mounting 
+Method 
+240kg/m2 Wind Pressure 
+540kg/m2 Wind Pressure 
+Bolt type 
+mounting 
+system 
+ 
+Use 4 mounting holes 
+ 
+Use eight mounting holes 
+Clamping on 
+Portrait 
+position 
+ 
+ 
+Clamping on 
+Landscape 
+position 
+ 
+ 
+Mounting rails should run parallel to the 
+short side of the frame. If the expected 
+load is greater than 160kg/m2, a support 
+bar should be inserted. 
+ 
+ 
+Mounting rails should run parallel to the 
+short side of the frame. An additional 
+support bar should be used below the 
+module. 
+ 
+Figure 18: Mounting recommendations of modules as per IEC standard (Example only) 
+ 
+ 
+Since Assam is in the very high damage risk wind zone, the mid-clamps used for attaching the 
+modules must be longer than 50mm (2 inches) in length and it is recommended to use 3 rails 
+while installing in portrait position. In a large system, consideration shall be given for using 
+an end clamp for every fourth module so if one does become loose, then only a few other 
+modules would be affected, not necessarily the whole array.  
+ 
+MOUNTING AREA
+MOUNTING AREA
+A
+A
+1956mm
+949mm
+A = 489mm
+MOUNTING AREA
+MOUNTING AREA
+A
+B
+A
+B
+1956mm
+A = 489mm, B = 244.5mm
+x
+x
+Y
+Y
+Support bar
+949mm
+1956mm
+X = 47.45mm;             Y = 189.80mm
+MOUNTING AREA
+MOUNTING AREA

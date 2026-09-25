@@ -1,0 +1,28 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+8 | 
+by your racking supplier.
+5.1  
+MODULE WIRING
+CORRECT WIRING SCHEME  
+·	 Cable management scheme should be reviewed and 
+approved by the EPC contractor, in particular required 
+cable lengths should be cross-checked considering 
+the specificities of the tracker structure  like bearing 
+house gaps. If longer cable or additional jumper cable 
+is requested, please contact Canadian Solar’s sales 
+representative in advance.
+·	 Do not connect different connectors (brand and 
+model) together.
+·	 Ensure that the wiring is correct before starting up the 
+system. If the measured open circuit voltage (Voc) and 
+short-circuit current (Isc) differ substantially from the 
+specifications, this indicates that there is a wiring fault.  
+·	 When modules have been pre-installed but the system 
+has not been connected to the grid yet, each module 
+string should be kept under open-circuit conditions 
+and proper actions should be taken to avoid dust and 
+moisture penetration inside the connectors.
+·	 For CS3U, CS3K, CS3W and CS3L series modules, Ca­
+nadian Solar Inc. offers optional cable specifications to 
+match various system configurations. Recommended 
+system cable schemes are shown in Table 2 below:

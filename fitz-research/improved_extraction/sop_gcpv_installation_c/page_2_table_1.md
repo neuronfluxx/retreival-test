@@ -1,0 +1,21 @@
+<!-- Extracted using strategy: text -->
+
+|Grid Connected Rooftop Solar P|hotovoltaic Systems - A Handb|ook for Engin|
+|---|---|---|
+||||
+|Standard O|perating Procedure|for|
+||||
+|Installation|of Grid Con|nect|
+||||
+|oftop Solar|Photovoltai|c Sys|
+||||
+|A H|andbook for||
+||||
+|Enginee|rs & Develop|ers|
+||||
+||Prepared by||
+||||
+|GSES India Su|stainable Energy Pv|t. Ltd.|
+||<br>for||
+|The World Bank|– SUPRABHA TA|Program|
+

@@ -1,0 +1,30 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+28 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+3.3.1 Electrical Interconnections 
+                 
+                (i)  Cables 
+1. Cable and terminal connectors are provided with the system 
+2. Required length of cable shall be cut and terminals to be crimped  
+3. Crimping tool to be used for crimping terminal to cable  
+4. Wire size shall be increased as the length of the cable increases. 
+5. All exposed wiring must be in conduits / capping-casing.  
+6. Wiring through roofing must be water proof. 
+7. Where the wiring is through flammable materials like   thatched roof, they 
+must be in a metal conduit. 
+  
+(ii) Connections to the Solar module 
+Open the junction box of the module and connect the module cable with correct 
+polarity.  
+Close the junction box and tie the module cable on the module frame. 
+ 
+        
+     Fig. 3.7(i): Opening of module junction box Fig.3.7 (ii): Module cable with correct polarity 
+ 
+              
+ 
+       Fig.3.7 (iii): Connecting module cable          Fig.3.7 (ii): Closing the junction box cover 
+Click for contents
+Click for contents

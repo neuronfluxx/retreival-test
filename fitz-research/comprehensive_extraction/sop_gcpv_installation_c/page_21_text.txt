@@ -1,0 +1,32 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 16 
+ 
+Mounting structure for single module installed in landscape position with 10-15 o tilt is best suited for 
+the wind zones with very high damage risk. 
+Figure 9: Recommended PV array mounting structure for RCC flat roof in Assam 
+ 
+ 
+ 
+ 
+PV array mounted with larger effective wind area 
+likely to be damaged by strong wind 
+PV arrays installed with large mounting frame 
+size damaged by wind 
+Figure 10: PV array mounting structure with larger frame size is not recommended for Assam  
+ 
+Determining space between two rows: 
+Space between two rows can be determined by analysing the sun’s position for winter solstice (21st 
+December) as explained in the procedures for shadow analysis. In this case, the object that will create 
+shadow is the PV array (row) on the south. The minimum space between two rows shall be higher than 
+maximum length of the shadow at desired time of the day say, 8.00am in the morning and 3.00pm in the 
+afternoon (local time) for lowest position of sun on 21st December. The length of the shadow will be 
+determined by the azimuth and altitude of the sun during the desired time and differential height of the 
+lowest point of the row in the north and highest point of the row in the south.  
+ 
+Recommended PV array 
+mounting structure for 
+RCC flat roofs in Assam 

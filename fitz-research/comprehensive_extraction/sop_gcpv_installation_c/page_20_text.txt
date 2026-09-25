@@ -1,0 +1,41 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 15 
+Tilt angle and orientation: 
+The recommended tilt angle of a module mounting structure to minimise wind pressure is <15o  for a flat 
+surface. However, a minimum tilt of 10o should be maintained for natural cleaning of modules. Ideal 
+orientation of a fixed PV Array should face towards true south (in northern hemisphere). However, for 
+structural uniformity and to accommodate more capacity on a limited space of a RCC flat roof, the 
+orientation could be aligned with roof orientation. A deviation up to 30o with respect to true south will not 
+have major impact on energy generation. In case of an inclined roof, PV modules should always be installed 
+at the same tilt and orientation of the roof. A racked mounting structure over a inclined roof is not 
+recommended for strong wind zones.  
+ 
+ 
+ 
+Racked mounting structure on a inclined roof 
+Damaged rack mounting system installed in a 
+moderate damage risk wind zone 
+Figure 8: Damaging coating of structure will accelerate corrosion  
+ 
+Mounting frame size: 
+A mounting frame is a single table of mounting structure where PV modules are fixed either in landscape 
+or portrait position. As design wind load is proportionate to the projected area normal to the wind, selection 
+of mounting frame size will decide wind pressure on the PV array. Since Assam is situated in very high 
+damage risk wind zones, it is of utmost importance to select the right mounting frame size and module 
+position to minimise wind load and keep the solar plant safe. It is recommended that, for a RCC flat surface, 
+not more than one module in landscape (parallel to the roof surface) should be installed in a racked mounting 
+structure. Portrait position of module shall be avoided to minimise effective wind area. The recommended 
+frame size for flat roof shall be 1 x 1 (landscape) and it shall not be higher than 1 x 5 (landscape) in a single 
+row.  
+ 
+In case of a inclined roof, modules will be installed in the same tilt angle that of the roof. No racking of 
+modules shall be permitted on inclined roof. The recommended frame size for inclined roof shall be 1 x 1 
+(portrait or landscape) and it shall not be higher than 1 x 5 (landscape) or 1 x 10 (portrait) in a single row.  
+ 
+Racking of modules on 
+inclined roof is not 
+recommended 

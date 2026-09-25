@@ -1,0 +1,21 @@
+www.canadiansolar.com
+| 23
+ 
+Use four clamps on the short side. 
+Mounting rails run perpendicular to the long side 
+frame.
+A range = (200 - 250) mm
+Maximum Load:
+Uplift load ≤ 2200 Pa
+Downforce load ≤ 2200 Pa
+A range = (0 - 200) mm
+Maximum Load:
+Uplift load ≤ 2000 Pa
+Downforce load ≤ 2000 Pa
+A
+A
+Rail-less clamping for CS3K-P, CS3K-MS, CS6K-P, 
+CS6K-M, CS6K-MS, CS1K-MS, CS1H-MS 
+(Please refer to the separate manual for the KuLite 
+CS3K-P which is a lightweight option for standard CS3K-P 
+only for Japan region)

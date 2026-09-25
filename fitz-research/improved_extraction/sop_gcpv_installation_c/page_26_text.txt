@@ -1,0 +1,40 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 21 
+2.4 Step 4: Installation of PV modules  
+Modules should be installed after the earthing system of structure is completely constructed. It is important 
+for the installer to know properly about handling, packaging and storage of PV modules so that modules do 
+not get damaged during the process of installation.  
+ 
+Please follow the instruction given in this handbook carefully while handling, storing and installing the 
+PV modules.  
+ 
+Important to Note: 
+Do NOT connect the modules in the strings while fixing the modules in the structure. This will 
+produce high DC voltage, which is extremely dangerous for the installer.  Connection will be 
+done at a later stage. 
+ 
+ 
+(1) Handling and Packaging: 
+• 
+Solar modules should be stacked, packed and transported vertically and separators should be placed 
+between each module. Horizontal stacking should be avoided.   
+ 
+• 
+If due to unavoidable reasons, the modules are required to be stacked horizontally, introduction of 
+a good buffer material between each module and around the modules is  necessary to reduce 
+potential damage. Also, additional protection is to be added to the four corners of each module and 
+not more than six modules should be packed in one box. 
+ 
+ 
+ 
+Solar modules should be stacked, packed and 
+transported vertically 
+If stacked horizontally, NOT more than six modules 
+should be packed in one box 
+ 
+Figure 14: Correct way of packing modules 
+ 

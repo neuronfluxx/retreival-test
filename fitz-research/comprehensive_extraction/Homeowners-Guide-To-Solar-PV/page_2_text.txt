@@ -1,0 +1,45 @@
+What is Solar Photovoltaics (Solar PV)?  
+ 
+The term ‘solar panel’ is often used interchangeably to describe the panels that generate electricity and those 
+that generate hot water. 
+• 
+Solar panels that produce electricity are known as solar photovoltaic (PV) modules. These panels 
+generate electricity when exposed to light. Solar PV is the rooftop solar you see in homes and 
+businesses.  Solar electric panels capture the light from the sun and convert it into the electricity that is 
+used in your home to power your TV, kettle, toaster, phone charger, radio, oven, and so on. 
+• 
+Solar panels that produce hot water are known as solar thermal collectors or solar hot water collectors. 
+ 
+SEAI provides grant support for both Solar PV and Solar Hot Water Collectors. This guide focuses on Solar PV 
+for renewable self-consumers.  
+How can you benefit from investing in Solar PV?  
+ 
+• 
+Reduce your electricity bills by generating your renewable electricity.  
+• 
+Increase the efficiency and add to the value of your home  
+• 
+Reduce your reliance on electricity generated from fossil fuels  
+• 
+Support the environment by reducing your greenhouse gas emissions.  
+ 
+Solar PV is a reliable and sustainable source of renewable energy that can help reduce your reliance on grid 
+electricity and the related cost volatility. Once installed, solar PV will provide electricity quietly, cleanly, and 
+affordably for 25 or more years with minimal maintenance requirements.     
+Installation of domestic solar PV system 
+ 
+A domestic solar PV system consists of several solar panels mounted generally to your roof and connected to 
+the electrical loads within your building. The solar panels generate DC (direct current – like a battery) 
+electricity, which is then converted in an inverter to AC (alternating current – like the electricity in your 
+domestic socket). Solar PV systems are rated in kilowatt peak (kWp). A 1kWp solar PV system would require 3 
+solar panels on your roof. 
+Any excess electricity produced can be stored in a battery, or other storage solution like your hot water 
+immersion tank or Electric Vehicle. It can also be exported from your house into the electrical network on 
+your street. 
+Generating electricity from solar PV 
+ 
+Solar PV systems generate electricity during daylight hours only, predominately around the middle of the 
+day. In Ireland, around 75% is produced from May to September. If this electricity is not used in the home, it 
+is exported to the grid. 
+It is desirable to maximize the amount of solar electricity you use in your home. You can do this by sizing the 
+solar PV system to meet your demand. 

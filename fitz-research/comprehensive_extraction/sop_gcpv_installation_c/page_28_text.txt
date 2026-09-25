@@ -1,0 +1,45 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 23 
+• 
+If due to unavoidable reasons, the modules are needed to be stacked and stored horizontally, a good 
+buffer material should be introduced between each module and around the modules. NOT more 
+than six modules should be stored together. 
+ 
+ 
+ 
+Correct storage of PV modules 
+Wrong storage of PV modules 
+ 
+Figure 16:Wrong storage of PV modules likely to create micro cracks 
+ 
+(4) Module Installation: 
+• 
+PV modules can be fixed either by bolt method or by the clamp method; 
+• 
+Understand and follow manufacturer installation manual and recommendations; 
+• 
+Use personnel safety equipment while installing the modules; 
+• 
+Use of insulated tools and gloves while working with modules; 
+• 
+Do not step on the PV module as this will damage to the solar cells inside the module; 
+• 
+Ensure electrical connectors are well protected from ingression of water and dust;  
+• 
+Do not install/ handle PV modules under gusty winds and if there is rain; 
+• 
+Use appropriate tools and equipment provided/ recommended by manufacturer;  
+• 
+Do NOT connect the modules in the strings (connect in series) 
+ 
+ 
+ 
+Wrong way to  work on a PV module. Stepping on PV modules causes micro cracks 
+ 
+Figure 17:Stepping on PV modules causes micro cracks 
+ 
+ 

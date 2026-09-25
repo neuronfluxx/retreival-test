@@ -1,0 +1,4 @@
+Col0,PV module is a current limiting device and fuses installed in the strings are sized based on,Col2
+,current at peak solar irradiance. Since solar radiation level is normally at lower level than the,
+,"peak value, fuses are not likely to operate under short-circuit conditions. In such case a short",
+,circuit fault in the system may be unnoticed and unattended.,

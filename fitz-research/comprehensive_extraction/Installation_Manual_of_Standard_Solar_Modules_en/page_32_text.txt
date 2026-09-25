@@ -1,0 +1,56 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+32 | 
+MOUNTING METHOD B: 
+INSERTION SYSTEMS
+·	 The mounting method has been qualified by Cana­
+dian Solar Inc. as well as certified by VDE and CSA.
+·	 Insertion methods can vary and depend on the 
+mounting structures. The installer needs to follow 
+the mounting guidelines recommended by the 
+mounting system supplier. Each module must be 
+securely maintained through all its length on two 
+opposite sides. Install and tighten the insertion 
+profiles to the support structure using the hard­
+ware and instructions provided by the mounting 
+system manufacturer. The system designer and 
+installer are solely responsible for load calculations 
+and for the proper design of support structure. 
+·	 Canadian Solar Inc. warranty may be void in cases 
+where improper insertion systems or unsuitable 
+installation methods are found. When installing 
+insertion profiles, please take the following measu­
+res into account:
+         Do not bend the module frame.
+         Do not touch the front glass or cast shadow     
+         onto it.
+         Do not damage the surface of the frame.
+         Ensure that the insertion profiles overlap the  
+         module frame by at least 10 mm (0.39 in).
+         Ensure that the module frame (C-shape)  
+         overlaps the insertion profiles by at least 
+         15 mm (0.59 in).
+         Ensure insertion profile thickness and  
+         tolerances suit module thickness.
+Min. 10 mm 
+overlap
+Min. 15 mm 
+overlap
+6
+CS3U-P, CS3U-MS, CS6U-P and CS6U-M
+Use two insertion profiles running parallel to the long 
+side frame.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Use two insertion profiles running perpendicularly to 
+the long side frame. An additional support bar should 
+be placed below the module. Use two clamps on the 
+support bar.
+Maximum Load:
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Maximum Load:
+Uplift load ≤ 1400 Pa
+Downforce load ≤ 1400 Pa
+Use two insertion profiles running perpendicularly 
+to the long side frame.

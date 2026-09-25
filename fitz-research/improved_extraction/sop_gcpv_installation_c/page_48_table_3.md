@@ -1,0 +1,32 @@
+<!-- Extracted using strategy: text -->
+
+|Installation of|Grid Connect|ed Rooftop|Solar|Photov|oltaic|Sy|stems -|A H|andb|ook for Eng|ineers &|Devel|opers|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||
+|**2.11 Step**|** 11: Com**|**  missioni**|**  ng th**|**   e sys**|**    tem**|||||||||
+|||||||||||||||
+|When you a|re sure that|the conduc|tors a|nd co|nnect|ion|s are a|cce|ptabl|e and the|system|has su|ccessfull|
+|||||||||||||||
+|passed the pr|e-commissio|ning testin|g, the|n it’s t|ime t|o c|ommis|sion|the|system.||||
+|||||||||||||||
+|**Procedures**|** to follow in**|**    sequence:**||||||||||||
+|||||||||||||||
+|(1) Refer to|the inverter’|s system m|anual|and f|ollow|the|start-u|p p|roce|dure||||
+|||||||||||||||
+|(2) Check th|e inverter di|splay and c|onfir|m that|the s|olar|array|is s|uppl|ying power|to the u|tility g|rid.|
+|||||||||||||||
+|(3) Measure|either the A|C or DC cu|rrent|using|a cla|mp|meter|and|com|pare invert|er outpu|t||
+|||||||||||||||
+|(4) Measure|the DC inpu|t voltage a|nd co|nfirm|that it|is|within|the|oper|ating limit|s of the|inverte|r|
+|||||||||||||||
+|(5) Measure|the AC outp|ut voltage|out of|the in|verte|r.||||||||
+|||||||||||||||
+|**Format for**|**  recording in**|**   formation**|**   :**|||||||||||
+||||||||||||||**AC**|
+|||||||||||||||
+||**i**|**Ambie**|**nt**|**Cell**|||**VMP**|||**IMP**|**PMP**||**ower in**|
+|<br>|**Irradance**||||<br>|||||<br>||<br>||
+|**Time**|**W/2 **|**Temp**||**Tem**|**p**<br>|**Me**|**asure**||**Me**|**asured**<br>|**VMP xI**|**MP) **<br>|**Inverter**|
+||**(m) **|**o**||**o**||||||||||
+|||**(C)**||**(C)**|||**(V)**|||**(A)**|**(W)**||**display**|
+

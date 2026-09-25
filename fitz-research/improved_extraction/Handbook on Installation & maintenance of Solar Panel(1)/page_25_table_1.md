@@ -1,0 +1,54 @@
+<!-- Extracted using strategy: text -->
+
+|CH|/S/PR|OJ/2013‐14/H|B|‐SP/2.|0|Col7|Col8|Col9|Col10|Col11|18|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||
+||No.|of Structures|=|Total|No. of M|odul|es /  No.|of Mod|ule|s on single uni|t of  st.|
+|||||||||||||
+||Grou|p of panels c|o|nnecte|d through|junc|tion box|will m|ake|Array.||
+|||||||||||||
+||Whil|e designing s|t|ructure|provisio|n for|future gr|owth s|hou|ld be consider|ed|
+|||||||||||||
+|** Wi**|** ring**|||||||||||
+|Sel|ectin|g the correct|s|ize and|type of|wire|will enha|nce th|e pe|rformance an|d reliability of|
+|PV|syst|em. The size||of the|wire mu|st be|large e|nough|to|carry the max|imum current|
+|exp|ected|without und|u|e volta|ge losses.|||||||
+|All|wire|has a certain||amoun|t of resist|ance|to the fl|ow of c|urr|ent. This resis|tance causes a|
+|dro|p in|the voltage|f|rom t|he source|to|the load.|Volta|ge|drops cause|inefficiencies,|
+|esp|eciall|y in low volt|a|ge syst|ems (12V|or l|ess).|||||
+|Ty|pical|Values of|M|odule|current|and|voltages|are p|rov|ided by the|manufacturer.|
+|Ba|sed o|n system vo|lt|age an|d current|dec|ide size|of wir|e/ca|ble to be use|d for module|
+|<br>int|<br>ercon|<br>nection.||||||||||
+|Ca|lculat|e output curr|e|nt and|voltage o|f th|e panel a|nd dec|ide|specifications|of wire/cable|
+|for|pane|l interconnec|ti|on. Al|ways use|mini|mum pos|sible w|ire|lengths.||
+|Al|ways|use suitable l|u|gs, con|necters e|tc for|connect|ion.||||
+|De|cide|number and t|y|pe of|switches,|fuse|s and cir|cuit br|eak|ers as per loa|d, system and|
+|use|r req|uirement.||||||||||
+|||||||||||||
+|**    Sa**|**    mple**|**     system de**|**      s**|**      ign**||||||||
+|The|desi|gning of a sy|st|em ca|n be bette|r und|erstood b|y the f|ollo|wing example|:|
+|||||||||||||
+||**Step**|** 1: Determin**|**  e**|**   the D**|**    C load**|||||||
+||DC l|oad of a devi|c|e 1 = N|o. of DC|devi|ces X De|vice W|att|s X Hours of d|aily use|
+|||||=|DC Watt|Hour|s per Da|y (1)||||
+|||||||||||||
+||Simi|larly calculat|e|the D|C load of|other|devices.|||||
+|||||||||||||
+||Supp|ose Total DC||Watt|Hours per|Day|of such d|evices|= [|A]||
+|||||||||||||
+||**Step**|** 2: Determin**|**  e**|**   the A**|**    C load an**|**      d co**|**       nvert to**|**         DC**||||
+||AC lo|ad of a devic|e|1 = N|o. of AC|devi|ces X De|vice W|atts|X Hours of d|aily use|
+|||||= A|C Watt H|ours|per Day|(1)||||
+|||||||||||||
+||Simi|larly calculat|e|the A|C load of|other|devices.|||||
+|||||||||||||
+||Supp|ose Total AC||Watt|Hours per|Day|of such d|evices|= (|B)||
+||Divi|de by 0.9 (In|ve|rter, l|osses) to c|onv|ert into D|C||||
+|||||||||||||
+||Supp|ose Total DC||Watt|Hours per|Day|of such d|evices|= [|B]||
+|||||||||||||
+|**_i_**|**_ &_**|**_  i_**||**_    Sl_**|**_     Pl_**||||||**_                                        b 2013_**|
+|**_at_**|**_on_**|**_  Mantenanc_**||**_   of o_**|**_    ar ane_**<br>**Cli**|<br>**ck for**|<br>**  contents**|||**_                                        Nove_**|**_                                        er_**|
+|||||||||||||
+||||||**Cli**|**ck for**|**  contents**|||||
+

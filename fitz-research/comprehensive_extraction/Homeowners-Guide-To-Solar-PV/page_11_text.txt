@@ -1,0 +1,43 @@
+Another simple measure is to install a ‘diverter switch’ which diverts any unused electricity to heat your hot 
+water in your immersion tank. In this way, some of the energy generated is stored as hot water, which you 
+can use later. 
+Finally, a more complicated option is to install a PV system that does not face south but faces west or east. 
+This will provide more energy in the morning or the evening when you have a greater demand to use it. 
+However, an east- or west-facing PV system will generate less energy over the year than a south-facing 
+system. 
+13. What about a battery storage system? 
+This is a more complex way of storing any potential exported electric energy. Adding a battery to your solar 
+PV system means the battery will charge when the PV system is generating electricity that isn't being used, 
+and then discharge when you need it next (normally that evening/night). A battery can increase the 
+percentage of solar PV electricity you use in your house. However, adding a battery to the system will 
+increase the cost of the PV system, and some energy is lost in the battery during the charge and discharge 
+cycle. A battery can potentially allow you to ‘grid shift’ where you store power in batteries at a cheaper night 
+rate for example and consume that energy later in the day.   
+14. What supports are there for solar PV in homes? 
+There are SEAI grant supports for domestic solar PV installations. Grant support is available for PV systems up 
+to 4kWp, but this does not limit the size of your installation to 4kWp.   
+ 
+15. Is there a ‘feed-in tariff’ payment for excess solar electricity fed into the grid by owners of solar 
+PV systems? 
+Yes, this is the Clean Export Guarantee (CEG) introduced as part of the Microgeneration Support Scheme 
+(MSS) in 2022. This essentially means that homeowners get paid for the excess energy generated from the PV 
+system that is not used in the home and is therefore exported back into the grid. To avail of this your installer 
+will need to submit an NC6 to ESB networks and you will need to have a smart meter installed. For more 
+information on the CEG, you will need to refer to your electricity provider.  
+16. Does my rooftop PV system require maintenance? 
+PV systems are low maintenance, but not zero maintenance. The most important aspect is to monitor the 
+performance of your system regularly. This could simply be a routine check of your inverter to see that the 
+system is operational (e.g., no red blinking lights) and that the energy meter is increasing each day. 
+You should get an idea from your installer about how much the PV system should generate each year and 
+see that your system is generating close to that amount. Some suppliers will provide you with access to this 
+information via your smartphone. The most common point of failure is the inverter, which may need to be 
+replaced at some point in the PV system’s lifetime. 
+The solar panels themselves are extremely robust, but consideration should be given to cleaning them every 
+few years to maintain their performance. If you live near the sea or a main road more regular cleaning may 
+be necessary. 
+17. What is the difference between domestic and non-domestic solar PV schemes?  
+ 
+The domestic solar PV scheme is only open to homes that have a domestic MPRN.   If you have a non-
+domestic MPRN (your electricity bill for this) you will have to apply for the non-domestic solar PV scheme.  
+This is typically for farms and commercial buildings.  There are different criteria and grant values for the non-
+domestic scheme, please refer to the SEAI website for further information.  

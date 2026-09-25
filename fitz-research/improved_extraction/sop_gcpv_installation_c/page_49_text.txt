@@ -1,0 +1,46 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 44 
+2.12 Step 12: Anti-Islanding functionality test 
+Unintentional islanding (anti-islanding) can have undesirable impacts on customer and utility equipment 
+integrity.  If unintentional islanding is sustained for a significant period of time, personnel safety could 
+become a cause for concern. To manage these risks, a series of functionality tests to be performed.  
+ 
+• 
+This test must be conducted during noontime in a sunny day. 
+• 
+PV system shall produce more than 20% of the rated output of the PV array or the inverter – 
+whichever is less.  
+• 
+If there is more than one inverter, tests should be carried out for each inverter.  
+ 
+Tests to be performed in sequence: 
+Test 1: Inverter must cease supplying power within two seconds of a loss of mains 
+STEP 1: Keep DC supply from the solar array connected to the inverter 
+STEP 2: Place the voltage probe in the inverter side of the AC main switch (on the load side of the switch.) 
+STEP 3: Turn OFF the AC main switch through which inverter is connected to grid 
+STEP 4: Measure the time taken for the inverter to cease attempting to export power with timing device 
+and record. 
+ 
+Test 2: Inverter must not resume supplying power until mains have been present for more than 60 
+seconds.  
+STEP 1: Keep DC supply from the solar array connected to the inverter. 
+STEP 2: Place the current probe in the inverter side of the AC main switch  (on the load side). 
+STEP 3: Turn ON the AC main switch through which inverter is connected to grid. 
+STEP 4: Measure the time taken for the inverter to re-energize and start exporting power with a timing 
+device and record.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

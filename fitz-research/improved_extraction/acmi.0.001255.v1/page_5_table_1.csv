@@ -1,0 +1,67 @@
+134,These principles align,with a b,roader emerging,philosophy r,egardi,ng the,importance,of
+,,,,,,,,
+135,responsible and trustw,orthy d,ata science and M,L implemen,tation,"[6,7,8",", 9]. By focusi",ng o
+,,,,,,,,
+136,"open workflow design,",partici,pants learn how t,o make their,analys,es int,"erpretable,",
+,,,,,,,,
+137,"shareable, and auditab",le. The,se aspects of the,analytical wo,rkflow,are o,f fundamenta,l
+,,,,,,,,
+138,"importance to clinical,",laborat,"ory, and research",settings sinc,e they,form,the foundatio,n for
+,,,,,,,,
+139,the one-day workshop,s.,,,,,,
+,,,,,,,,
+140,7. Workshop des,ign a,nd framework,,,,,
+,,,,,,,,
+141,7.1 Design principle,s,,,,,,
+,,,,,,,,
+142,The workshop is desig,ned to e,nsure that the int,ended learn,ing out,come,s and teachin,g
+,,,,,,,,
+143,activities are explicitly,aligned,[10]. Noting that,assessment,or eval,uatio,n tasks for the,
+,,,,,,,,
+144,participants are not in,cluded.,Learning outcom,es are clearl,y articul,ated,at the outset,of th
+,,,,,,,,
+145,"workshop, and particip",ants ar,e informed of the,knowledge,and co,mpet,encies they ar,e
+,,,,,,,,
+146,expected to develop b,y the en,d of the session.,Teaching act,ivities a,re de,liberately stru,ctur
+,,,,,,,,
+147,to support these outco,"mes, w",ith an emphasis o,n conceptua,l under,stand,ing of the ML,
+,,,,,,,,
+148,lifecycle rather than na,rrow te,chnical mastery.,,,,,
+,,,,,,,,
+149,In addition to construc,tive alig,"nment, the work",shop draws,on prin,ciples,from experie,ntial
+,,,,,,,,
+150,learning theory and co,gnitive,apprenticeship. E,xperiential l,earning,theo,ry emphasises,
+,,,,,,,,
+151,learning through a cycl,e of co,ncrete experience,", reflective o",bserva,"tion,",abstract,
+,,,,,,,,
+152,"conceptualisation, and",active,experimentation [,11]. This is,operati,onalis,ed through liv,e
+,,,,,,,,
+153,demonstrations of ana,lytical w,"orkflows, hands-","on sessions,",and op,portu,nities for refl,ectio
+,,,,,,,,
+154,on methodological dec,isions.,Cognitive apprent,iceship furth,er info,rmed,the workshop,
+,,,,,,,,
+155,design by recognising t,hat ana,lytical proficiency,develops th,rough,obser,vation of expe,rt
+,,,,,,,,
+156,"practice, guided partici","pation,",and gradual tran,sfer of know,ledge a,nd sk,ills to the,
+,,,,,,,,
+157,participants [12]. Guid,ed by th,is educational fra,mework an,d the ne,eds o,f a multidisci,plinar
+,,,,,,,,
+158,"audience, the worksho",p was d,esigned around t,he following,princip,les:,,
+,,,,,,,,
+159,Authenticity: The analy,tical te,chniques and wor,kflows taug,ht durin,g the,workshop ref,lect
+,,,,,,,,
+160,those commonly requi,red in r,eal-world projects,involving cl,inical a,nd lab,oratory datas,ets i
+,,,,,,,,
+161,tabular/structured for,m. By fo,cusing on broadly,applicable,method,s rath,er than highl,y
+,,,,,,,,
+162,specialised implement,"ations,",participants are e,ncouraged t,o direct,ly ma,p workshop c,onte
+,,,,,,,,
+163,to their own research,or profe,ssional practice.,,,,,
+,,,,,,,,
+164,Progressive scaffolding,: The w,orkshop follows a,linear and c,umulat,ive st,"ructure, with",each
+,,,,,,,,
+165,session explicitly buildi,ng on c,oncepts and skills,introduced,in prior,sessi,ons. This,
+,,,,,,,,
+166,progressive scaffolding,suppo,rts participants wi,th varying le,vels of,prior,"experience,",
+,,,,,,,,
+167,enabling them to incre,mentall,y develop compe,tence throu,gh guid,ed pr,actice.,

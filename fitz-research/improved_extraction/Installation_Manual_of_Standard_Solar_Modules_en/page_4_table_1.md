@@ -1,0 +1,107 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|from sha|rp edge|s.|Col5|Col6|· Do not disassemble a|module or remo|ve any|
+|---|---|---|---|---|---|---|---|---|
+||||||||||
+|||||||module part.|||
+||||||||||
+||Prior to i|nstallati|on, remove a|ll|metallic||||
+||||||||||
+||jewelry to|preven|t accidental|ex|posure to<br>|· ** Do not** artifcially conce|ntrate sunlight|on a modul|
+||||||<br>||||
+||live circui|ts.|||||||
+||||||||||
+|||||||· ** Do not **connect or disco|nnect modules|when curren|
+||||||||||
+||When ins|talling|modules in li|gh|t rain,|from the modules or an|external source|is present.|
+||||||||||
+||morning|dew, ta|ke appropria|te|measures||||
+||||||||||
+||to preven|t water|ingress into|t|he||||
+|<br>|<br>connecto|<br>r.|||<br>|**3.0**|||
+|||||||**MECHANICAL / ELEC**|**  TRICAL**||
+||||||||||
+||**Do not**al|low chil|dren or una|uth|orized<br>|**SPECIFICATIONS**|||
+||||||||||
+||persons|near the|installation|sit|e or||||
+||||||||||
+||storage a|rea of m|odules.|||Module electrical ratings|are measured u|nder Stan­|
+||||||||||
+|||||||dard Test Conditions (STC|) of 1000 W/m2|irradiance,|
+||||||||||
+|·  Do not in|stall mod|ules in s|trong wind.|||with an AM1.5 spectrum,|and a cell temp|erature of|
+||||||||||
+|||||||25°C. Detailed electrical a|nd mechanical|characte­|
+||||||||||
+|·  Use elect|rically ins|ulated t|ools to redu|ce|the risk<br>|ristics of Canadian Solar I|nc. crystalline s|ilicon PV|
+||||||<br>||||
+|of electri|c shock.|||||modules can be found in|Annex C (Mech|anical and|
+||||||||||
+|||||||Electrical Ratings) on**ww**|**w.canadiansol**|**ar.com.**|
+||||||||||
+|·  If the dis|connects|and Ove|r Current Pr|ot|ection<br>|Main electrical characteri|stics at STC are|also stated|
+||||||||||
+|Device (O|CPD)'s ca|nnot be|opened or t|he|inverter<br>|on each module label. Ple|ase refer to the|datasheet|
+||||||||||
+|cannot b|e powere|d down,|cover the fr|on|ts of the<br>|or the product nameplat|e for the maxim|um system|
+||||||<br>||||
+|modules|in the PV|array w|ith an opaqu|e|material<br>|voltage.|||
+||||||<br>||||
+|to stop t|he produc|tion of|electricity wh|e|n installing||||
+||||||||||
+|or workin|g on a m|odule o|r wiring.|||Under certain conditions|, a module may|produce|
+||||||||||
+|||||||more current or voltage t|han under its St|andard Tes|
+||||||||||
+|· ** Do not **u|se or inst|all dam|aged module|s.||Condition's rated power.|As a result, the|module|
+||||||||||
+|||||||short-circuit current und|er STC should b|e multiplied|
+||||||||||
+|·  Contact|with mod|ule surfa|ces or fram|es|may cause<br>|by 1.25, and a correction|factor should b|e applied t|
+||||||<br>||||
+|electric s|hock if th|e front g|lass is brok|en|or the<br>|the open-circuit voltage (|see Table 1 belo|w), when|
+||||||<br>||||
+|backshee|t is torn.|||||determining component|ratings and cap|acities.|
+||||||||||
+|||||||Depending on your local|regulations, an|additional|
+||||||||||
+|·  The PV m|odule doe|s not co|ntain any ser|vic|eable parts.<br>|1.25 multiplier for the sh|ort-circuit curre|nt (giving|
+||||||<br>||||
+|Do not at|tempt to r|epair an|y part of the|mo|dule.<br>|a total multiplier of 1.56)|may be applica|ble when|
+||||||<br>||||
+|||||||sizing conductors and fu|ses.||
+||||||||||
+|·  Keep the|junction|box cov|er closed at|all|times.||||
+||||||||||
+|**Table 1: Lo**|**  w tempe**|**   rature**|**    correction f**|**     ac**|**     tors for open-**|**       circuit voltage**|||
+||||||||||
+|**Lowest Ex**|**pected A**|** mbient**|**  Temperatu**|**re**|**(°C/°F)**<br>|**Correction Factor**|||
+||||||||||
+|24 to 20 / 7|6 to 68|||||1.02|||
+||||||||||
+|19 to 15 / 6|7 to 59|||||1.04|||
+||||||||||
+|14 to 10 / 5|8 to 50|||||1.06|||
+||||||||||
+|9 to 5 / 49|to 41|||||1.08|||
+||||||||||
+|4 to 0 / 40|to 32|||||1.10|||
+||||||||||
+|-1 to -5 / 3|1 to 23|||||1.12|||
+||||||||||
+|-6 to -10 /|22 to 14|||||1.14|||
+||||||||||
+|-11 to -15 /|13 to 5|||||1.16|||
+||||||||||
+|-16 to -20 /|4 to -4|||||1.18|||
+||||||||||
+|-21 to -25 /|-5 to -13|||||1.20|||
+||||||||||
+|-26 to -30 /|-14 to -2|2||||1.21|||
+||||||||||
+|-31 to -35 /|-23 to -3|1||||1.23|||
+||||||||||
+|-36 to -40 /|-32 to -4|0||||1.25|||
+||||||||||
+|EN-Rev IM/G|N-AM-EN/2.|2 Copyrig|ht © July, 2020|. C|anadian Solar Inc.||||
+

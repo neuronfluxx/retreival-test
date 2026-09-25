@@ -1,0 +1,63 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 35 
+ 
+ 
+ 
+TT Earthing configuration 
+IT Earthing configuration 
+ 
+Figure 28: TT and IT Earthing system configurations in accordance to IS 3043 
+ 
+In TT earthing configuration, all exposed conductive parts of the installation are connected to an earth 
+electrode which is electrically independent of the source earthing system. Solar PV system connected to 
+this configuration requires separate earthing for DC and AC side as shown in the figure below. 
+ 
+In IT earthing configuration, all exposed conductive parts of an installation are connected to an earth 
+electrode. The source is either connected to earth through a deliberately introduced earthing impedance or 
+is isolated from earth. Solar PV system connected to TT and IT configuration requires separate earthing for 
+DC and AC side as shown in the figure below. 
+ 
+ 
+Figure 29: Solar PV System connected to TT and IT earthing configuration 
+ 
+L1
+L2
+L3
+N
+Consumer installation
+Source of Energy
+Source Earth
+L1
+L2
+L3
+Consumer installation
+Source of Energy
+Earthing
+Impendance
+Solar PV Module
+Combiner Box
+Grid Tie Inverter
+ACDB
+L1
+PE
+DC i/p
+AC o/p
+To Household Loads
+Earthing
+for load
+Main Earthing
+Terminal
+Earthing
+for Grid tie Inverter
+Independent
+Earth Electrode
+L2
+L3
+N
+Independent DC Side
+Earth Electrode
+Source Earth

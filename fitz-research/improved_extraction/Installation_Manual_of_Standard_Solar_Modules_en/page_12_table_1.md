@@ -1,0 +1,101 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|module ran|ges. Please|refer to Annex|B for more detail|s.|Col7|Col8|Col9|Col10|Col11|
+|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||
+|**G**|**ROUNDING**|** METHOD:**|||||||||
+||||||||||||
+|**B**|**OLT + TOOT**|**  HED NUT +**|**     CUP WASHER.**||||||||
+||||||||||||
+|1.|To fx the wir|e between|||||2. T|hen ti|ghten|the bolt|
+|<br>|<br>|<br>|||||||||
+||the fat was|her and|||||u|sing t|he to|othed nut.|
+||||||||||||
+||cup washer,|place the|||||||||
+||||||||||||
+||cup washer|(concave|||||||||
+||||||||||||
+||side up) bet|ween the|||||||||
+||||||||||||
+||frame and t|he wire.|||||||||
+||||||||||||
+|·|A grounding|kit contain|ing an M5 (3/1|6") SS cap||1703 unless the m|odule is m|ounte|d with|hardware|
+||<br>|<br>|<br>|<br>|||||||
+||bolt, an M5|(3/16") SS f|at washer, an M|5 (3/16")||that has been tes|ted and eva|luated|with|the|
+||||||||||||
+||SS cup wash|er, and an|M5 (3/16") SS n|ut (with||module under thi|s standard|or by|a feld|inspection|
+||||||||||||
+||teeth) is use|d to attach|copper ground|ing wire||certifying that the|installed m|odule|com|plies with|
+||||||||||||
+||to a pre-drill|ed ground|ing hole on the|frame (see||the requirements|of UL 1703.||||
+||||||||||||
+||image below|).|||||||||
+||||||||||||
+||||||·|Canadian Solar In|c. does not|provi|de mo|unting|
+|||||<br>|||||||
+|·|Place the wi|re between|the fat washe|r and the cup||hardware.|||||
+||||||||||||
+||washer. Ens|ure that th|e cup washer is|positioned|||||||
+||||||||||||
+||between the|frame and|the wire with t|he concave<br>|·|Standard module|s can be mo|unted|onto|a support|
+||||||||||||
+||side up to p|revent galv|anic corrosion.|Tighten the||structure using o|ne of severa|l appr|oved|methods.|
+||||||||||||
+||bolt securely|using the S|S toothed nut. A|wrench may||One of such meth|ods is desc|ribed|below|. For details|
+||||||||||||
+||be used to d|o this. The t|ightening torqu|e is 3-7 Nm||of other mountin|g methods|and th|e me|thods re­|
+||||||||||||
+||(2.2-5.2 ft-lbs|).||||commended by C|anadian Sol|ar Inc|. for s|pecial mo­|
+||||||||||||
+|||||||dule ranges, plea|se refer to t|he An|nex A|(Alternative|
+||||||||||||
+|||||||Mounting Metho|ds) of this in|stallat|ion m|anual.|
+||||||||||||
+|**6**|**.0**|||||For information a|bout other i|nstall|ation|methods,|
+||||||||||||
+|**M**|**OUNTING**|** INSTRU**|** CTIONS**|||please contact yo|ur local rep|resent|ative.|Failure to|
+||||||||||||
+|||||||use a recognized|installation|meth|od wil|l void the|
+||||||||||||
+||The|applicable|regulations pe|rtaining to||Canadian Solar In|c. warranty|.|||
+||||||||||||
+||wo|rk safety, a|ccident prevent|ion and|||||||
+||||||||||||
+||sec|uring the c|onstruction site|must be<br>|·|Use appropriate c|orrosion-pr|oof fa|steni|ng|
+|||||<br>|||||||
+||observed. W|orkers and|third party per|sonnel shall||materials. All mou|nting hard|ware (|bolts,|spring|
+|||||||<br>|<br>|<br>|<br>|<br>|
+||wear or inst|all fall arre|st equipment. A|ny third||washers, fat was|hers, nuts) s|hould|be h|ot dip|
+||||||||||||
+||party need t|o be prote|cted against inj|uries and||galvanized or stai|nless steel.||||
+||<br>damages.||||||||||
+||||||·|Use a torque wre|nch for inst|allatio|n.||
+|||||<br>|||||||
+|·|The mountin|g design m|ust be certifed|by a|||||||
+||||||||||||
+||registered p|rofessional|engineer. The|mounting<br>|·|Do not drill additi|onal holes o|r mo|dify th|e module|
+|||||<br>|||||||
+||design and|rocedures|must comply w|ith all||frame. Doing so w|ill void the|warra|nty.||
+||||||||||||
+||applicable lo|cal codes a|nd requirement|s from all|||||||
+||||||||||||
+||relevant aut|horities.|||·|Standard module|s can be ins|talled|in eit|her|
+||||||||||||
+|||||||landscape or port|rait orienta|tions.|Refer|to the|
+||||||||||||
+|·|The module|is consider|ed to be in com|pliance with||detailed instructi|ons for furth|er gu|idanc|e. Please|
+||||||||||||
+||UL 1703 and|IEC 61215|only when the|module is||note that in areas|with heavy|snow|fall (>|2400 Pa)|
+||<br>|<br>|<br>|<br>|||||||
+||mounted in|the manne|r specifed by th|e mounting||further counterm|easures suc|h the|use o|f additional|
+||||||||||||
+||instructions|included in|this installation|manual.||support bars sho|uld be consi|dered|to av|oid snow|
+||||||||||||
+|||||||loads damaging t|he lowest r|ow of|modu|les.|
+||||||||||||
+|·|Any module|without a f|rame (laminate)|shall not be|||||||
+||||||||||||
+||considered t|o comply w|ith the require|ments of UL|||||||
+||||||||||||
+|EN|-Rev IM/GN-A|M-EN/2.2 Cop|yright © July, 2020|. Canadian Solar Inc.|||||||
+

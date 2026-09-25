@@ -1,0 +1,150 @@
+<div id="page0" style="width:612.0pt;height:792.0pt">
+<p style="top:70.8pt;left:107.7pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">Table 3: Variations on the Transformer architecture. Unlisted values are identical to those of the base</span></p>
+<p style="top:81.7pt;left:108.0pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">model. All metrics are on the English-to-German translation development set, newstest2013. Listed</span></p>
+<p style="top:92.6pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">perplexities are per-wordpiece, according to our byte-pair encoding, and should not be compared to</span></p>
+<p style="top:103.5pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">per-word perplexities.</span></p>
+<p style="top:136.5pt;left:146.1pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">N</span></i></p>
+<p style="top:136.5pt;left:167.2pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">d</span></i><span style="font-family:NimbusRomNo9L,serif;font-size:7.0pt;color:#000000">model</span></p>
+<p style="top:136.5pt;left:207.1pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">d</span></i><span style="font-family:NimbusRomNo9L,serif;font-size:7.0pt;color:#000000">ff</span></p>
+<p style="top:136.5pt;left:236.2pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">h</span></i></p>
+<p style="top:136.5pt;left:258.5pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">d</span></i><i><span style="font-family:CMMI7,serif;font-size:7.0pt;color:#000000">k</span></i></p>
+<p style="top:136.5pt;left:285.5pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">d</span></i><i><span style="font-family:CMMI7,serif;font-size:7.0pt;color:#000000">v</span></i></p>
+<p style="top:136.5pt;left:309.8pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">P</span></i><i><span style="font-family:CMMI7,serif;font-size:7.0pt;color:#000000">drop</span></i></p>
+<p style="top:136.5pt;left:345.6pt;line-height:10.0pt"><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000">&#x3f5;</span></i><i><span style="font-family:CMMI7,serif;font-size:7.0pt;color:#000000">ls</span></i></p>
+<p style="top:131.1pt;left:371.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">train</span></p>
+<p style="top:131.1pt;left:405.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">PPL</span></p>
+<p style="top:131.1pt;left:436.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">BLEU</span></p>
+<p style="top:131.1pt;left:474.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">params</span></p>
+<p style="top:142.4pt;left:370.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">steps</span></p>
+<p style="top:142.4pt;left:403.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(dev)</span></p>
+<p style="top:142.4pt;left:438.6pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(dev)</span></p>
+<p style="top:142.4pt;left:477.3pt;line-height:10.0pt"><i><span style="font-family:CMSY10,serif;font-size:10.0pt;color:#000000">&#xd7;</span></i><span style="font-family:CMR10,serif;font-size:10.0pt;color:#000000">10</span><sup><span style="font-family:CMR7,serif;font-size:7.0pt;color:#000000">6</span></sup></p>
+<p style="top:155.1pt;left:116.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">base</span></p>
+<p style="top:155.1pt;left:148.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">6</span></p>
+<p style="top:155.1pt;left:171.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">512</span></p>
+<p style="top:155.1pt;left:202.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">2048</span></p>
+<p style="top:155.1pt;left:236.6pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">8</span></p>
+<p style="top:155.1pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">64</span></p>
+<p style="top:155.1pt;left:285.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">64</span></p>
+<p style="top:155.1pt;left:315.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.1</span></p>
+<p style="top:155.1pt;left:344.8pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.1</span></p>
+<p style="top:155.1pt;left:369.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">100K</span></p>
+<p style="top:155.1pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.92</span></p>
+<p style="top:155.1pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.8</span></p>
+<p style="top:155.1pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">65</span></p>
+<p style="top:184.1pt;left:118.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(A)</span></p>
+<p style="top:167.7pt;left:236.6pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">1</span></p>
+<p style="top:167.7pt;left:256.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">512</span></p>
+<p style="top:167.7pt;left:282.9pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">512</span></p>
+<p style="top:167.7pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.29</span></p>
+<p style="top:167.7pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">24.9</span></p>
+<p style="top:178.6pt;left:236.6pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4</span></p>
+<p style="top:178.6pt;left:256.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">128</span></p>
+<p style="top:178.6pt;left:282.9pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">128</span></p>
+<p style="top:178.6pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.00</span></p>
+<p style="top:178.6pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.5</span></p>
+<p style="top:189.5pt;left:234.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">16</span></p>
+<p style="top:189.5pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:189.5pt;left:285.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:189.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.91</span></p>
+<p style="top:189.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.8</span></p>
+<p style="top:200.5pt;left:234.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:200.5pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">16</span></p>
+<p style="top:200.5pt;left:285.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">16</span></p>
+<p style="top:200.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.01</span></p>
+<p style="top:200.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.4</span></p>
+<p style="top:218.5pt;left:118.7pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(B)</span></p>
+<p style="top:213.1pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">16</span></p>
+<p style="top:213.1pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.16</span></p>
+<p style="top:213.1pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.1</span></p>
+<p style="top:213.1pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">58</span></p>
+<p style="top:224.0pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:224.0pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.01</span></p>
+<p style="top:224.0pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.4</span></p>
+<p style="top:224.0pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">60</span></p>
+<p style="top:269.4pt;left:118.7pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(C)</span></p>
+<p style="top:236.6pt;left:148.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">2</span></p>
+<p style="top:236.6pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">6.11</span></p>
+<p style="top:236.6pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">23.7</span></p>
+<p style="top:236.6pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">36</span></p>
+<p style="top:247.5pt;left:148.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4</span></p>
+<p style="top:247.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.19</span></p>
+<p style="top:247.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.3</span></p>
+<p style="top:247.5pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">50</span></p>
+<p style="top:258.5pt;left:148.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">8</span></p>
+<p style="top:258.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.88</span></p>
+<p style="top:258.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.5</span></p>
+<p style="top:258.5pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">80</span></p>
+<p style="top:269.4pt;left:171.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">256</span></p>
+<p style="top:269.4pt;left:258.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:269.4pt;left:285.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">32</span></p>
+<p style="top:269.4pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.75</span></p>
+<p style="top:269.4pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">24.5</span></p>
+<p style="top:269.4pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">28</span></p>
+<p style="top:280.3pt;left:168.8pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">1024</span></p>
+<p style="top:280.3pt;left:256.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">128</span></p>
+<p style="top:280.3pt;left:282.9pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">128</span></p>
+<p style="top:280.3pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.66</span></p>
+<p style="top:280.3pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">26.0</span></p>
+<p style="top:280.3pt;left:480.9pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">168</span></p>
+<p style="top:291.2pt;left:202.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">1024</span></p>
+<p style="top:291.2pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.12</span></p>
+<p style="top:291.2pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.4</span></p>
+<p style="top:291.2pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">53</span></p>
+<p style="top:302.1pt;left:202.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4096</span></p>
+<p style="top:302.1pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.75</span></p>
+<p style="top:302.1pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">26.2</span></p>
+<p style="top:302.1pt;left:483.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">90</span></p>
+<p style="top:331.1pt;left:118.4pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(D)</span></p>
+<p style="top:314.7pt;left:315.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.0</span></p>
+<p style="top:314.7pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.77</span></p>
+<p style="top:314.7pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">24.6</span></p>
+<p style="top:325.6pt;left:315.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.2</span></p>
+<p style="top:325.6pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.95</span></p>
+<p style="top:325.6pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.5</span></p>
+<p style="top:336.5pt;left:344.8pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.0</span></p>
+<p style="top:336.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.67</span></p>
+<p style="top:336.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.3</span></p>
+<p style="top:347.5pt;left:344.8pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.2</span></p>
+<p style="top:347.5pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">5.47</span></p>
+<p style="top:347.5pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.7</span></p>
+<p style="top:360.1pt;left:119.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">(E)</span></p>
+<p style="top:360.1pt;left:178.6pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">positional embedding instead of sinusoids</span></p>
+<p style="top:360.1pt;left:405.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.92</span></p>
+<p style="top:360.1pt;left:440.3pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">25.7</span></p>
+<p style="top:372.7pt;left:119.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">big</span></p>
+<p style="top:372.7pt;left:148.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">6</span></p>
+<p style="top:372.7pt;left:168.8pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">1024</span></p>
+<p style="top:372.7pt;left:202.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4096</span></p>
+<p style="top:372.7pt;left:234.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">16</span></p>
+<p style="top:372.7pt;left:315.1pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">0.3</span></p>
+<p style="top:372.7pt;left:369.2pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">300K</span></p>
+<p style="top:372.7pt;left:405.0pt;line-height:10.0pt"><b><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">4.33</span></b></p>
+<p style="top:372.7pt;left:440.3pt;line-height:10.0pt"><b><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">26.4</span></b></p>
+<p style="top:372.7pt;left:480.9pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">213</span></p>
+<p style="top:414.6pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">In Table 3 rows (B), we observe that reducing the attention key size</span><i><span style="font-family:CMMI10,serif;font-size:10.0pt;color:#000000"> d</span></i><i><span style="font-family:CMMI7,serif;font-size:7.0pt;color:#000000">k</span></i><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000"> hurts model quality. This</span></p>
+<p style="top:425.5pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">suggests that determining compatibility is not easy and that a more sophisticated compatibility</span></p>
+<p style="top:436.6pt;left:108.0pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">function than dot product may be bene&#xfb01;cial. We further observe in rows (C) and (D) that, as expected,</span></p>
+<p style="top:447.5pt;left:108.0pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">bigger models are better, and dropout is very helpful in avoiding over-&#xfb01;tting. In row (E) we replace our</span></p>
+<p style="top:458.3pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">sinusoidal positional encoding with learned positional embeddings [</span><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">8</span><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">], and observe nearly identical</span></p>
+<p style="top:469.2pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">results to the base model.</span></p>
+<p style="top:499.8pt;left:108.0pt;line-height:12.0pt"><b><span style="font-family:NimbusRomNo9L,serif;font-size:12.0pt;color:#000000">7</span></b></p>
+<p style="top:499.8pt;left:125.9pt;line-height:12.0pt"><b><span style="font-family:NimbusRomNo9L,serif;font-size:12.0pt;color:#000000">Conclusion</span></b></p>
+<p style="top:526.8pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">In this work, we presented the Transformer, the &#xfb01;rst sequence transduction model based entirely on</span></p>
+<p style="top:537.8pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">attention, replacing the recurrent layers most commonly used in encoder-decoder architectures with</span></p>
+<p style="top:548.7pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">multi-headed self-attention.</span></p>
+<p style="top:565.0pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">For translation tasks, the Transformer can be trained signi&#xfb01;cantly faster than architectures based</span></p>
+<p style="top:575.9pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">on recurrent or convolutional layers. On both WMT 2014 English-to-German and WMT 2014</span></p>
+<p style="top:586.8pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">English-to-French translation tasks, we achieve a new state of the art. In the former task our best</span></p>
+<p style="top:597.8pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">model outperforms even all previously reported ensembles.</span></p>
+<p style="top:614.2pt;left:107.5pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">We are excited about the future of attention-based models and plan to apply them to other tasks. We</span></p>
+<p style="top:625.1pt;left:108.0pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">plan to extend the Transformer to problems involving input and output modalities other than text and</span></p>
+<p style="top:635.9pt;left:108.0pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">to investigate local, restricted attention mechanisms to ef&#xfb01;ciently handle large inputs and outputs</span></p>
+<p style="top:647.0pt;left:108.0pt;line-height:9.9pt"><span style="font-family:NimbusRomNo9L,serif;font-size:9.9pt;color:#000000">such as images, audio and video. Making generation less sequential is another research goals of ours.</span></p>
+<p style="top:663.2pt;left:107.7pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">The code we used to train and evaluate our models is available at</span><tt><span style="font-family:SFTT1000,monospace;font-size:10.0pt;color:#000000"> https://github.com/</span></tt></p>
+<p style="top:674.2pt;left:108.0pt;line-height:10.0pt"><tt><span style="font-family:SFTT1000,monospace;font-size:10.0pt;color:#000000">tensorflow/tensor2tensor</span></tt><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">.</span></p>
+<p style="top:701.1pt;left:108.0pt;line-height:10.0pt"><b><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">Acknowledgements</span></b></p>
+<p style="top:701.0pt;left:200.3pt;line-height:10.1pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.1pt;color:#000000">We are grateful to Nal Kalchbrenner and Stephan Gouws for their fruitful</span></p>
+<p style="top:712.0pt;left:108.0pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">comments, corrections and inspiration.</span></p>
+<p style="top:741.9pt;left:303.5pt;line-height:10.0pt"><span style="font-family:NimbusRomNo9L,serif;font-size:10.0pt;color:#000000">9</span></p>
+</div>

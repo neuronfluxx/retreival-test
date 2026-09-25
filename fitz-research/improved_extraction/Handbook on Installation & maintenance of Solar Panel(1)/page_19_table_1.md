@@ -1,0 +1,50 @@
+<!-- Extracted using strategy: text -->
+
+|ECH/S/PROJ/2|013‐14/HB‐S|P/2.0|Col4|Col5|Col6|Col7|12|
+|---|---|---|---|---|---|---|---|
+|||||||||
+|**        Conversion**|**         Efficiency**|||||||
+|The ratio of th|e maximum|power|to the pr|oduct of|area an|d irradiance expre|ssed as a|
+|percentage.||||||||
+||n   =Ma|ximum p|ower  x 1|00%||||
+||Ar|ea x irrad|iance|||||
+|||||||||
+|**    General & T**|**      echnical r**|**       equirem**|**       ents for**|**         Solar P**|**          hoto Vo**|**           ltaic Module**||
+|Following are|the general|and techn|ical requ|irements|of solar|photovoltaic modu|le for use|
+|in Railway S|&T installa|tion for|the corre|ctness o|f its mat|erial, design and|electrical|
+|characteristics|as per IRS|specificati|on IRS:S|84-92||||
+|||||||||
+|** General Re**|**  quirement**|**  s**||||||
+|The solar mod|ule for the|purpose o|f this spe|cificatio|n shall c|onsist of the follo|wing three|
+|main compone|nts:|||||||
+|||||||||
+|(i) Toughen|ed front gla|ss.||||||
+|(ii) A suitabl|e mounting|frame.||||||
+|(iii)An asse|mbly of suita|bly interc|onnected,|silicon|solar cell|s working on the p|rinciple of|
+|photovol|taic convers|ion of sun|light into|electrici|ty.|||
+|||||||||
+|The silicon w|afers cut fr|om the la|rge cryst|al shall|be polish|ed and necessary|chemical|
+|treatment shal|l be given to|achieve|requisite|surface c|haracteri|stics for optimum|efficiency|
+|of individual c|ells.|||||||
+|||||||||
+|P-N junction o|n individua|l wafer sh|all be ma|de by in|jecting i|mpurity (phosphoro|us or any|
+|other suitable|material) by|diffusion|process.|||||
+|||||||||
+|The solar cell|s required t|o form a|module s|hall be|connecte|d in series/ paralle|l through|
+|tinned copper|foils.  Thes|e shall be|mounted|behind|a high tr|ansparency, toughe|ned glass|
+|front surface.|Two thin tr|ansparent|films of|suitable|plastic m|aterial, preferably|(Ethylene|
+|Vinyl Acetate|) shall be in|terposed|between t|he solar|cell laye|r and the front gla|ss and the|
+|solar cell lay|er and the|back plas|tic lamin|ate. Thi|s assemb|ly shall then be|kept in a|
+|temperature co|ntrolled ov|en at a sui|table tem|perature,|so that t|he above assembly|becomes|
+|a solid mass w|ith the cells|protected|against c|orrosion,|moisture|, pollution and we|athering.|
+|||||||||
+|The transpare|ncy of tough|ened glas|s used sh|all not b|e less tha|n 91%.  A certific|ate to this|
+|effect shall be|submitted|by the su|pplier.|A copy o|f test re|sults from a recog|nized test|
+|house or their|own laborat|ory shall|be submit|ted at the|time of t|ype approval.||
+|||||||||
+|The complete|solar modu|le shall b|e sealed i|n an An|odized A|luminium Frame|with RTV|
+|silicon rubber|compound f|illing aro|und the ed|ges to g|ive furthe|r moisture barrier|and shock|
+|<br>resistance.||||||||
+|**_li & i_**||**_    Sl P_**|**_     l_**|||**_                                        b_**|**_                                         2013_**|
+|**_aton  Ma_**|**_  tenance of_**|**_    oar a_**|**_     e_  **<br>**Click for c**|<br>**  ontents**||**_                                        Noveme_**||
+

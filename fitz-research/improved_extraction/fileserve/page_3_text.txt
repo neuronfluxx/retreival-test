@@ -1,0 +1,24 @@
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                                        ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor:6.887 
+ 
+ 
+          Volume 5 Issue IX, September 2017- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1886 
+©IJRASET (UGC Approved Journal): All Rights are Reserved
+ 
+Figure 4 Photovoltaic Module (Multiple cell) 
+C. Photovoltaic Panel 
+It includes one or more PV modules assembled as a pre-wind, field instable unit. In this panel PV cell is series connections. Solar 
+panels are made up of individual PV cells connected together. 
+ 
+Figure 5 Photovoltaic Panel 
+D. Photovoltaic Array 
+It is contain of several amount of PV cells in series and parallel connections. Series connections are responsible for increasing the 
+voltage of the module whereas the parallel connection is responsible for increasing the current in the array. It generates maximum 
+180W in full sunshine. Large the total surface area of the area of the array, more solar electricity it will produce.   

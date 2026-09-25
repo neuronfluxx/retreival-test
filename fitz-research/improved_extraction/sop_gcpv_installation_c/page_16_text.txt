@@ -1,0 +1,53 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 11 
+2.2 Step 2: Installation of PV array mounting structure  
+Failure of PV array mounting structures due to strong winds is a rising concern in Indian solar projects 
+today. It is very common for PV array mounting structures to be conceptualised and designed primarily to 
+enhance energy generation considering area specific tilt angle and use of tracking facility etc. A large 
+number of solar PV systems are reported to be damaged due to inadequate design consideration for wind 
+loading. Apart from the strength and wind loading capacity, a mounting structure must ensure that the PV 
+array receives optimum solar radiation and reduces temperatures loss by allowing enough air circulation. It 
+is also important to ensure that factors such as structure design, placement, orientation, tilt and shading are 
+aligned with electrical string design and choice of inverter. 
+ 
+Wind loading on PV array mounting  structure: 
+The entire state of Assam falls under “Very high damage risk zone A and zone B” with basic wind speed 
+of 180km/ hour and above according to IS 875 Part 3: Wind Loads on Buildings and Structure. The PV 
+array mounting structure for any site in Assam shall be designed to withstand not less than 180km per hour 
+wind speed for the areas under zone B and 200km per hour wind speed for the areas under zone A.  
+ 
+Design of wind pressure must be calculated over basic wind speed, multiplying by the factors derived for - 
+height of the building, topography, pressure coefficient based on roof type and slope, exposure category 
+and importance factor as per IS 875 (Part 3) or ASCE-7.   
+ 
+Table 2 in this handbook provides ready reference of design wind load at different roof heights for 180km 
+per hour wind speed. This table has been specifically prepared for the state of Assam and can be used for 
+preliminary assessment of design wind load at different roof heights in wind zone B. However, the actual 
+design load is likely to vary, based on the specific site parameters. 
+ 
+The design wind load provided in the table 2 is per unit projected area (m2) normal to the wind. Therefore, 
+total wind pressure on a structure will be proportionate to the total projected area of the structure normal to 
+the wind.  
+ 
+Measures to be taken to minimise wind pressure on the mounting structure: 
+ 
+• 
+Keep the “effective wind area” as low as possible considering smaller mounting frame 
+size and lower tilt angle.  
+ 
+• 
+On a flat RCC roof, keep the tilt angle of module mounting structure less than 15o to 
+minimise wind pressure.  
+ 
+• 
+On a inclined roof, use the same tilt as that of the building roof. Never create another 
+tilt on a inclined surface.  
+ 
+• 
+Never mount PV modules at the edges and corners of a building  roof (pressure co-
+efficient zones) to minimise wind pressure (Refer Figure 6 of this handbook) 
+  

@@ -1,0 +1,12 @@
+"0-String
+No.","1-Irradiance
+(W/m2)",Col2,3-Ambient,Col4,Col5,6-Cell,Col7,Col8,"9-V
+OC",Col10,Col11,"12-V
+OC",Col13,Col14,15-Variation,Col16,"17-Acceptable
+(Yes/ No)"
+,,,Temp,,,Temp,,,Effective,,,Measured,,,"of V
+OC",,
+,,,(oC),,,(oC),,,(V),,,(V),,,(%),,
+String 1,,,,,,,,,,,,,,,,,
+String 2,,,,,,,,,,,,,,,,,
+String 3,,,,,,,,,,,,,,,,,

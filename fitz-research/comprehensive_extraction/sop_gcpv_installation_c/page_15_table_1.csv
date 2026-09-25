@@ -1,0 +1,11 @@
+Sl. No.,Cable Segment,Length (m),Size (mm2)
+1,String 1: Array to DC Combiner Box,,
+2,String 2: Array to DC Combiner Box,,
+3,String 3: Array to DC Combiner Box,,
+4,String 4: Array to DC Combiner Box,,
+6,DC Cable: DC Combiner Box to Inverter,,
+7,AC Cable: Inverter to Main Switch Board,,
+8,"Conduit for Cable from Arrays and from Combiner Box
+to Inverter",,
+9,Structure Earthing Terminal bar and Conductor,,
+10,Inverter Earthing cable or conductor,,

@@ -1,0 +1,9 @@
+<!-- Extracted using strategy: lines_strict -->
+
+|2019<br>ECCMID<br>(time: topic)|2024<br>ECCMID<br>(time:<br>topic)|2025<br>ESCMID<br>Global<br>(time:<br>topic)|2025<br>Universit<br>y of<br>Zurich<br>(time:<br>topic)|2026 ESCMID<br>Global (time:<br>topic)|2026 University<br>of Zurich (time:<br>topic)|
+|---|---|---|---|---|---|
+|09:30:<br>Welcome|09:00:<br>Welcome,<br>Data<br>science<br>and<br>machine<br>learning<br>backgroun<br>d|09:00:<br>Welcome,<br>Data<br>science<br>and<br>machine<br>learning<br>backgroun<br>d|09:00:<br>Welcome<br>, Data<br>science<br>and<br>machine<br>learning<br>backgrou<br>nd|9:00 – 9:30:<br>Workshop<br>welcome/introdu<br>ction to data<br>science and<br>machine learning|9:00 – 9:30:<br>Workshop<br>welcome/introdu<br>ction to data<br>science and<br>machine learning|
+|09:35:<br>Broad<br>principles of<br>machine<br>learning|10:00 –<br>10:45:<br>Hands on<br>session 1 –<br>Introducti<br>on to<br>Orange|10:00 –<br>10:45:<br>Hands on<br>session 1 –<br>Introducti<br>on to<br>Orange|10:00 –<br>10:45:<br>Hands on<br>session 1<br>– <br>Introduct<br>ion to<br>Orange|9:30 – 10:00:<br>Understanding<br>the “end-to-end<br>machine learning<br>lifecycle” and<br>hands on session<br>1– Introduction<br>to Orange|9:30 – 10:00:<br>Understanding<br>the “end-to-end<br>machine learning<br>lifecycle” and<br>hands on session<br>1 – Introduction<br>to Orange|
+|10:00:<br>Introducing<br>open-source<br>machine<br>learning<br>software|10:45 –<br>11:15:<br>Morning<br>break|10:45 –<br>11:15:<br>Morning<br>break|10:45 –<br>11:15:<br>Morning<br>break|10:00 – 10:45:<br>Hands on session<br>2 - Data cleaning<br>and preparation|10:00 – 10:45:<br>Hands on session<br>2 - Data cleaning<br>and preparation|
+|10:15: Step<br>1: Caring for<br>your data –|11:15 –<br>12:00:|11:15 –<br>12:00:|11:15 –<br>12:00:<br>Hands on|10:45 – 11:15:<br>Morning break|10:45 – 11:15:<br>Morning break|
+

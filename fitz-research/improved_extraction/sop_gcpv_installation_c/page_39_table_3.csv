@@ -1,0 +1,53 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Page | 34
+,,,,,,,,,,,
+Installation of,Grid Conn,ected Ro,o,ftop Solar,Photovoltaic Syst,ems - A,Handbo,ok for Engine,ers &,Develop,ers
+,,,,,,,,,,,
+In TN-C-S ea,rthing co,nfigurat,io,"n, the su",pply side earthin,g is T,N-C ty,pe and the co,nsum,er side,earthing
+,,,,,,,,,,,
+system is TN,-S type.,This typ,e,of distrib,ution is known a,lso as P,rotecti,ve Multiple,Earthi,ng and,the PEN
+,,,,,,,,,,,
+conductor is,referred,to as th,e,combine,d neutral and ea,rth (CN,E) Co,nductor. The,supp,ly syst,em PEN
+,,,,,,,,,,,
+conductor is e,arthed at,several,p,oints and,an earth electro,de may,be nec,essary at con,sume,r's instal,lation.
+,,,,,,,,,,,
+Source of,Energy,,,,,Source,of Energy,,,,
+,,,,,L1,,,,,,L1
+,,,,,L2,,,,,,L2
+,,,,,L3,,,,,,L3
+,,,,,Combined,,,,,,Combined
+,,,,,& N Condu,,,,,,& N Cond
+,,,,,,,,,,,
+,,,,,Additional source,,,,,,
+,,,,,may be provided,,,,,,
+,,,,,,,,,,,
+Source Earth,,,,,So,urce Eart,h,,,,
+,,,,,,,,,,,
+,Consu,mer installa,tio,n,,,C,onsumer installat,ion,,
+,,,,,,,,,,,
+T,N-C Ear,thing co,nf,iguration,,T,N-C-S,Earthing con,figur,ation,
+,,,,,,,,,,,
+Fig,ure 26: T,N-C and,T,N-C-S E,arthing system c,onfigur,ations i,n accordanc,e to I,S 3043,
+,,,,,,,,,,,
+All exposed c,onductiv,e parts,of,an instal,lation are conne,cted to,the PE,N conductor,via th,e main,earthing
+,,,,,,,,,,,
+terminal and,the neutr,al termi,n,"al, these",terminals being,linked,togethe,r. The prote,ctive,neutral,bonding
+,,,,,,,,,,,
+(PNB) is a v,ariant of,TN-C-S,w,ith singl,e point earthing,. Earthi,ng of s,olar PV syst,em c,onnecte,d to this
+,,,,,,,,,,,
+configuration,can be c,onnecte,d t,o the ma,in earthing termi,nal in s,witchb,oard.,,,
+,,,,,,,,,,,
+,,,,,,,,Gr,id Tie,Inverter,
+,,,,,,,,,,,
+,S,olar PV,M,odule,,Co,mbiner,Box,,,
+,,,,,,,,,,,
+,,,,,,,,,DC i/p,AC o/p,
+,,,,,,,,Earthing,,PE NL3L2L1,
+,,,,,,Earthing,f,or Grid tie Inverter,,,
+,,,,,,for load,,,,,
+,,,,,,,,,,,
+,,,,,,To Hous,ehold Loads,,,,
+,,,,,,,,ACDB,,,
+,,,,Main Earthin,g,Independent,,,,,
+,,,,Terminal,,Earth Electrod,e,,,,
+,,,,,,,,,,,
+Fi,gure 27,Solar P,V,System c,onnected to TN-,C and T,N-C-S,earthing con,figura,tion,

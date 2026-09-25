@@ -1,0 +1,20 @@
+www.canadiansolar.com
+| 9
+Module types
+Standard cables
+Optional cables
+CS3U-P, CS3U-MS, CS3K-P, CS3K-MS, 
+CS3W-P, CS3L-P, CS3W-MS, CS3L-MS
+Leap-frog
+Table 2: System Cable Scheme for CS3U, CS3K, CS3W and CS3L modules
+·	 For CS1V, CS1VL, CS1H, CS1HA and CS1K module series, 
+recommended system cable schemes are shown in Table 3:
+Table 3: System Cable Scheme for CS1V, CS1VL, CS1A, CS1H, CS1HA and CS1K modules
+Module types
+Standard cables
+CS1V-MS, CS1VL-MS, CS1A-MS, 
+CS1H-MS, CS1K-MS, CS1HA-MS
+Rooftop portrait two rows installation
+Trapezoidal rooftop landscape installation
+Rectangle rooftop landscape installation
+Rooftop portrait one row installation

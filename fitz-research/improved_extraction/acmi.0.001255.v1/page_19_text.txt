@@ -1,0 +1,37 @@
+ 
+ 
+ 
+470 
+[9] - Fehr J, Citro B, Malpani R, Lippert C, Madai VI. A trustworthy AI reality-check: the lack of 
+471 
+transparency of artificial intelligence products in healthcare. Frontiers in Digital Health. 2024 
+472 
+Feb 20;6:1267290. 
+473 
+[10] - Biggs J, Tang C, Kennedy G. Teaching for quality learning at university 5e. McGraw-hill 
+474 
+education (UK); 2022 Nov 2. 
+475 
+[11] - Kolb DA. Experiential learning: Experience as the source of learning and development. 
+476 
+FT press; 2014 Dec 17. 
+477 
+[12] - Collins A, Brown JS, Newman SE. Cognitive apprenticeship: Teaching the crafts of 
+478 
+reading, writing, and mathematics. InKnowing, learning, and instruction 2018 Dec 7 (pp. 
+479 
+453-494). Routledge. 
+480 
+[13] - McFadden BR, Inglis TJ, Reynolds M. Machine learning pipeline for blood culture 
+481 
+outcome prediction using Sysmex XN-2000 blood sample results in Western Australia. BMC 
+482 
+infectious diseases. 2023 Aug 24;23(1):552. 
+483 
+[14] - Oonsivilai M, Mo Y, Luangasanatip N, Lubell Y, Miliya T, Tan P, Loeuk L, Turner P, Cooper 
+484 
+BS. Using machine learning to guide targeted and locally-tailored empiric antibiotic 
+485 
+prescribing in a children's hospital in Cambodia. Wellcome open research. 2018 Oct 
+486 
+10;3:131. 

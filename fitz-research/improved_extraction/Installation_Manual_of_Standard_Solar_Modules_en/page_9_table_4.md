@@ -1,0 +1,30 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Col11|Col12|| 9|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||||
+|**le**|** 2: Sy**|**  ste**|**  m Cable**|**    Scheme**|**     for**|**      CS3U, CS3**|**       K,**|**        CS3W an**|**         d CS3L**|**           modules**|||
+||||||||||||||
+|||**Mo**|**dule typ**|** es**|||**S**|**tandard c**|** ables**||**Opti**|**onal cables**|
+||||||||||||<br>|<br>|
+|CS|3U-P,|CS3|U-MS, CS3K-|P, CS3K-MS|,||||||L|eap-frog|
+|CS|3W-P,|CS3|L-P, CS3W-M|S, CS3L-M|S||||||||
+||||||||||||||
+|r|CS1V,|CS|1VL, CS1H,|CS1HA a|nd C|S1K modul|e|series,|||||
+||||||||||||||
+|co|mme|nd|ed system|cable sch|eme|s are show|n|in Table 3:|||||
+||||||||||||||
+|**le**|** 3: Sy**|**  ste**|**  m Cable**|**    Scheme**|**     for**|**      CS1V, CS1V**|**       L**|**       , CS1A, CS**|**         1H, CS**|**          1HA and C**|**            S1K module**|**             s**|
+||||||||||||||
+|||**Mo**|**dule typ**|** es**||||||**Standard**|** cables**||
+||||||||||||||
+||||||||||Rooftop|portrait two|rows installation||
+||||||||||||||
+||CS1V-|MS,|CS1VL-MS,|CS1A-MS,|||||||||
+||CS1H-|MS|CS1K-MS C|S1HA-MS||||Tr|apezoida|l rooftop lan|dscape installati|on|
+|||,|,||||||||||
+||||||||||||||
+|||||||||R|ectangle|rooftop land|scape installatio|n|
+||||||||||||||
+||||||||||Rooftop|portrait one|row installation||
+

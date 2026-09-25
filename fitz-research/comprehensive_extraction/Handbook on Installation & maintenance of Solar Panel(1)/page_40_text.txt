@@ -1,0 +1,119 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+33 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+S. 
+No. 
+Symptom 
+Possible 
+Failure 
+Probable cause 
+Action 
+2. 
+Output 
+voltage 
+OK, but no 
+output 
+current 
+Cell/interco
+nnections 
+Internal damage 
+Return to factory, if 
+Within warranty 
+3. 
+No charging 
+indication on 
+the Charge 
+controller 
+Solar 
+module 
+Shading 
+Remove the shades or change the 
+location of the module and ensure 
+maximum sunlight to fall on the module. 
+Dirt accumulation 
+Clear the particles on the module 
+Module 
+cable 
+Breakage 
+Replace cable 
+Corrosion 
+Dry solder 
+Loose connection  
+Module 
+Broken module 
+Replace module 
+Charge 
+controller 
+Electronic failure 
+Replace Charge controller 
+4. 
+Output 
+voltage for 
+less duration 
+Solar 
+module 
+Shading 
+Remove the shades or change the 
+location of the module and ensure 
+maximum sunlight to fall on the module. 
+Dirt accumulation 
+Clear the particles on the module 
+Improper installation 
+Place the module in such a way that 
+direct sunlight falls on the module for 
+more hours. 
+Module 
+cable 
+Breakage 
+Replace cable 
+Corrosion 
+Loose connection 
+Dry solder 
+Charge 
+controller 
+Electronic failure 
+Replace Charge controller 
+Corrosion 
+Battery 
+Insufficient charging 
+Charge the battery to full charge 
+condition and check the output duration. 
+Low capacity 
+Replace battery 
+Acid leakage 
+Terminal broken 
+5. 
+Always low 
+battery 
+condition 
+Solar 
+module 
+Shading 
+Remove the shades or change the 
+location of the module and ensure 
+maximum sunlight to fall on the module. 
+Dirt accumulation 
+Clear the particles on the module 
+Battery 
+Insufficient charging 
+Charge the battery to full charge 
+condition and check the output duration. 
+Solar 
+Module 
+Improper installation 
+Place the module in such a way that 
+direct sunlight falls on the module for 
+more hours. 
+Module 
+cable 
+Loose connection 
+Replace cable 
+Improper fixing 
+Fix the cable properly and ensure that the 
+connections are tight with correct 
+polarity. 
+ 
+Click for contents
+Click for contents

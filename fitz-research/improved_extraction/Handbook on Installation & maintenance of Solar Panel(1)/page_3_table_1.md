@@ -1,0 +1,31 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|On India|n Railways, S|olar|Panels have|been|in|st|alled|at many stations in non-|
+|---|---|---|---|---|---|---|---|---|---|
+||RE area whe|re grid power|sup|ply is not av|ailabl|e|ro|und th|e clock or not available|
+|a|t all. To i|mpart knowle|dge|about solar|pane|l|to|the r|ailway supervisors and|
+||maintainers,|CAMTECH h|ad p|repared a m|ainte|na|nc|e han|dbook on Solar Panel in|
+|t|he year 2006|. The technol|ogy|is changing|rapidl|y|in|every|field and over the years|
+|t|here have be|en changes in|the|field of sola|r pow|er|te|chnol|ogy too. To acquaint the|
+|f|ield personn|el with latest i|nfor|mation, the|handb|o|ok|was t|aken up for review.|
+|||||||||||
+||The curre|nt version of|the h|andbook co|vers r|ev|is|ed inf|ormation on solar panel,|
+|i|ts installatio|n, maintenanc|e an|d troublesho|oting|an|d|supers|edes the earlier version.|
+||A new secti|on covering ‘|Des|igning a So|lar Ph|o|tov|oltaic|System’ is also being|
+|a|dded to hel|p field engine|ers i|n deciding|the nu|m|be|r of|Solar panels and battery|
+|<br>c|<br>apacity.|||||||||
+||We are s|incerely than|kful|to Shri S.|Bando|pa|dh|yay,|Sr.D.S.T.E./Bhopal/WC|
+||Rly., his sec|tional supervi|sors|and mainta|iners|w|ho|have|helped us in preparing|
+|t|his handboo|k. We are als|o sin|cerely than|kful t|o|Sh|ri A.K|.Harnal, Asstt. General|
+||Manager SP|(Marketing) f|rom|M/s Centra|l Elec|tr|oni|cs Lt|d., Sahibabad who have|
+|p|rovided the|latest inform|atio|n on the su|bject|a|nd|help|ed us in reviewing the|
+|<br>h|<br>andbook.|||||||||
+||Since tech|nological upg|rada|tion and lea|rning|is|a|conti|nuous process, you may|
+|f|eel the need|for some ad|ditio|n/modificati|on in|t|his|hand|book. If so, please give|
+|y|our comme|nts on email|add|ressdirsntc|amtec|h|@|gmail.|com or write to us at|
+|I|ndian Railw|ays Centre|for|Advanced|Maint|en|an|ce T|echnology, In front of|
+||Adityaz Hote|l, Maharajpur|, Gw|alior (M.P.)|4740|0|5.|||
+|||||||||||
+||** CAMTECH**|**  Gwalior**|||||||**                                                               D.K.M.Yadav**|
+||** Date: 29.1**|**  1.2013**|||||||**                                                             Jt .Director (S&T)**|
+

@@ -1,0 +1,82 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 38 
+(5) Selection of SPD for Solar PV Projects 
+Schematic below shows positions of Surge Protection Devices (SPDs) in a grid connected PV system: 
+ 
+ 
+Figure 31: Positions of Surge Protection Devices (SPDs) in a PV system 
+ 
+With the help of schematic above and table below, type of surge protection devices should be selected. 
+ 
+Location 
+PV Modules or 
+Combiner Boxes 
+Inverter 
+DC side 
+Inverter AC side 
+Main Board 
+LDC 
+ 
+LAC 
+Lightning rod 
+Criteria 
+< 10 m 
+> 10 m 
+ 
+< 10 m 
+> 10 m 
+Yes 
+No 
+Type of SPD 
+No need 
+Type 2 
+Type 2 
+No need 
+Type 2 
+Type 1 
+Type 2 
+ 
+ 
+ 
+(6) Voltage rating of DC protection devices: 
+All system protection devices must have a voltage rating of at least the PV Array Maximum Voltage of the 
+system. The PV array will attain a maximum voltage at the lowest expected temperature at the installation 
+site. Maximum VOC of string at lowest expected site temperature (PV Array Maximum Voltage) to be 
+calculated using formula below: 
+ 
+ 
+_`abcdc efg hi jklbmn = _ × efg@jpg × g. q. 
+ 
+Where, 
+M 
+= Number of modules (in a string) in series  
+C.F. 
+= Correction Factor (to be taken from below table) 
+STC      = Standard Test Conditions (25oC Cell temperature, 1000W/m2 irradiance) 
+ 
+ 
+SPD
+1
+SPD
+2
+SPD
+3
+SPD
+4
+DC
+Combiner
+Box
+AC
+Combiner
+Box
+Main LV
+Switch Board
+DC
+Combiner
+Box
+L DC
+L AC

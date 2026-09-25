@@ -1,0 +1,44 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 30 
+2.7 Step 7: AC cabling and installation of inverter 
+When DC cables and DC combiner boxes are installed; the next step is to install AC cables  and  the inverter. 
+Ensure that total voltage drop in all AC cables is less than 2% according to IEC 62548. Voltage drop in AC 
+cables can be calculated using the formulas below: 
+ 
+For AC cables in single-phase circuit: 
+ 
+ 
+Where, 
+HSJ JKLMN= Route length of AC cable in metres (Multiply by 2 for total circuit wire length) 
+OSJ= Current in amperes 
+ρ = resistivity of the wire in Ω/m/mm2 
+T/0 U = Power factor 
+PSJ JKLMN = Cross section area (CSA) of cable in mm2 
+ 
+For AC cables in three-phase circuit: 
+ 
+QIVWX(SJ)(Q) = √3 × HSJ JKLMN × OSJ × Z × cos Φ
+PSJ JKLMN
+ 
+ 
+Procedures to follow: 
+(1) Install the conduit/ cable tray; 
+(2) Pull the conductors through conduit or cable tray; 
+(3) Leave excess conductor or cable near each equipment terminal; 
+(4) Read inverter installation and operation manual carefully; 
+(5) Ensure that there is adequate ventilation for the inverter; 
+(6) Ensure that no direct sunlight falls on the inverter; 
+(7) Mount the inverter with accessories provided by the manufacturer;  
+(8) Ensure there is no grid supply to the inverter; 
+(9) Complete the installation from the inverter to the AC isolator and energy meter as per the drawing;  
+(10) Install the earthing connection as per inverter installation manual; 
+(11) Tighten the cable glands using appropriate tools. 
+ 
+ 
+!!"#!!"(!) = 2!!!!!"!!"#$%!!!!!"!!!!!!! !"# !
+!!"!!"#$%
+ 

@@ -1,0 +1,78 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+12 | 
+1. To fix the wire between 
+     the flat washer and 
+     cup washer, place the 
+     cup washer (concave 
+     side up) between the 
+     frame and the wire.
+2. Then tighten the bolt 
+    using the toothed nut.
+·	 A grounding kit containing an M5 (3/16") SS cap 
+bolt, an M5 (3/16") SS flat washer, an M5 (3/16") 
+SS cup washer, and an M5 (3/16") SS nut (with 
+teeth) is used to attach copper grounding wire 
+to a pre-drilled grounding hole on the frame (see 
+image below). 
+·	 Place the wire between the flat washer and the cup 
+washer. Ensure that the cup washer is positioned 
+between the frame and the wire with the concave 
+side up to prevent galvanic corrosion. Tighten the 
+bolt securely using the SS toothed nut. A wrench may 
+be used to do this. The tightening torque is 3-7 Nm 
+(2.2-5.2 ft-lbs).
+6.0  
+MOUNTING INSTRUCTIONS
+ The applicable regulations pertaining to  
+                   work safety, accident prevention and 
+                   securing the construction site must be 
+observed. Workers and third party personnel shall 
+wear or install fall arrest equipment. Any third 
+party need to be protected against injuries and 
+damages.
+·	 The mounting design must be certified by a 
+registered professional engineer. The mounting 
+design and procedures must comply with all 
+applicable local codes and requirements from all 
+relevant authorities.
+·	 The module is considered to be in compliance with 
+UL 1703 and IEC 61215 only when the module is 
+mounted in the manner specified by the mounting 
+instructions included in this installation manual.
+·	 Any module without a frame (laminate) shall not be 
+considered to comply with the requirements of UL 
+1703 unless the module is mounted with hardware 
+that has been tested and evaluated with the 
+module under this standard or by a field inspection 
+certifying that the installed module complies with 
+the requirements of UL 1703.
+·	 Canadian Solar Inc. does not provide mounting 
+hardware.
+·	 Standard modules can be mounted onto a support 
+structure using one of several approved methods. 
+One of such methods is described below. For details 
+of other mounting methods and the methods re­
+commended by Canadian Solar Inc. for special mo­
+dule ranges, please refer to the Annex A (Alternative 
+Mounting Methods) of this installation manual. 
+For information about other installation methods, 
+please contact your local representative. Failure to 
+use a recognized installation method will void the 
+Canadian Solar Inc. warranty.
+·	 Use appropriate corrosion-proof fastening 
+materials. All mounting hardware (bolts, spring 
+washers, flat washers, nuts) should be hot dip 
+galvanized or stainless steel.  
+·	 Use a torque wrench for installation. 
+·	 Do not drill additional holes or modify the module 
+frame. Doing so will void the warranty. 
+·	 Standard modules can be installed in either 
+landscape or portrait orientations. Refer to the 
+detailed instructions for further guidance. Please 
+note that in areas with heavy snowfall (> 2400 Pa) 
+further countermeasures such the use of additional 
+support bars should be considered to avoid snow 
+loads damaging the lowest row of modules.
+module ranges. Please refer to Annex B for more details.
+GROUNDING METHOD: 
+BOLT + TOOTHED NUT + CUP WASHER.

@@ -1,0 +1,3 @@
+|m to|minimize any haza|rdous|
+|---|---|---|
+

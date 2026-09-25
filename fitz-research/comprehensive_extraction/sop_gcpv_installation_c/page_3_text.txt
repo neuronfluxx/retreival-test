@@ -1,0 +1,46 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+ 
+                  
+ 
+Page | iii 
+Disclaimer: 
+This handbook on “Standard Operating Procedure for Installation of Grid Connected Rooftop Solar 
+Photovoltaic Systems” has been developed under the World Bank - SUPRABHA TA Program to 
+support the Assam Energy Development Agency for quality assurance in implementation of grid 
+connected rooftop solar photovoltaic systems in the state of Assam. This document is to be used for 
+the purpose of reference only and actual design and installation will be as per specific site parameters 
+and requirements. While views expressed in this manual are believed to be accurate at the time of 
+writing, based on recent technical specifications and standards, such information and suggestions do 
+not constitute a warranty, expressed or implied. GSES India Sustainable Energy Pvt. Ltd., Assam 
+Energy Development Agency, the World Bank, MNRE, SBI and TA consortium partners do not 
+assume responsibility and expressly disclaim liability for loss, injury, damage, expense or 
+inconvenience sustained by any users of this manual or in relation to any information or data contained 
+in this publication. 
+ 
+ 
+ 
+Copyright © GSES India Sustainable Energy Pvt. Ltd 
+This handbook has been prepared by GSES India Sustainable Energy Pvt. Ltd. as a consortium partner 
+of the World Bank – SUPRABHA TA Program led by Ernst & Young to support implementation of 
+rooftop solar PV programs in the state of Assam. GSES India Sustainable Energy Pvt. Ltd. holds the 
+copyright of the handbook “Standard Operating Procedure for Installation of Grid Connected Rooftop 
+Solar Photovoltaic Systems”. The implementing agencies, project developers, installation companies 
+and entrepreneurs in the state of Assam will use this handbook to ensure quality of installation of grid 
+connected rooftop solar photovoltaic systems. This handbook can be reproduced and distributed in 
+unlimited numbers, promoted and published in public domain without any change in the content and 
+graphics of the handbook. However, reproduction and distribution of this handbook or any part or 
+content of the handbook by any party or person in digital and print media for commercial purpose is 
+strictly prohibited.  
+ 
+ 
+ 
+ 
+Edition: 
+First Edition July 2019 
+ 
+ 
+ISBN: 978-81-931645-0-3 

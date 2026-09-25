@@ -1,0 +1,49 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+31 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+l) Make sure that the Solar PV module gets direct sunlight throughout the day where 
+you install it. 
+m) The Green indicator on Charge controller is only an indication for charging. It 
+will glow even at small amount of charging. So to ensure efficient charging, the 
+availability of direct sunlight over the Solar PV module for the maximum hours of 
+the day should be ensured. 
+n) It is NOT HEAT BUT LIGHT that produces energy. So let direct sunlight to fall 
+on the module surface without shades.  
+ 
+       4.2   Troubleshooting 
+The SPV Power Source is reliable Source of Electrical energy. However, there may 
+be rare instances, when the SPV Power Source is not able to drive the connected 
+equipment. 
+ 
+ 
+ 
+Fig. 4.1: SPV Power Source 
+The diagnosis of the problem in such situations starts with the battery. Check the 
+voltage of the battery bank. If the voltage of the battery bank is correct as indicated in 
+Charge controller, there may be problem in the inverter or switch between load and 
+inverter i.e. either inverter is tripped or switch/load MCB is tripped or load fuse is 
+blown off. If none of the above fault is observed then check the specific gravity of the 
+electrolyte in the secondary cells of the battery. There may be two cases: 
+ 
+a) 
+If the specific gravity is above the level 1.2 (Hydrometer reading 1200) value or 
+as specified in the maintenance manual, it implies that the battery is in order and 
+the problem would be either with the Charge Controller or Load. Disconnect the 
+load (S & T Equipment) from Charge Controller and connect it directly to Battery 
+Bank. If the equipment operates, the defect may be with the Charge Controller. 
+Disconnect the Charge Controller and check as per troubleshooting instructions 
+given in the manual supplied with it or inform the manufacturer/supplier. 
+ 
+b) If the specific gravity of the electrolyte is below the specified level and 
+BATT/LOW (Red)) LED is glowing, the problem may be with any of the 
+following: 
+ 
+i. 
+Load: This may be drawing more current from the battery than required. In such 
+case, battery is bound to get discharged, even if SPV Panel is functioning 
+properly. This would result in frequent tripping of the load. To avoid this, get the 
+load equipment checked and replace any defective components.  
+Click for contents
+Click for contents

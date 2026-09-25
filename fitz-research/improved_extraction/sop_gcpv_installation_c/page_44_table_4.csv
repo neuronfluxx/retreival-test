@@ -1,0 +1,12 @@
+System Installation,"Min Voltage Rating
+per pole","Min Voltage Rating
+Overall"
+Non-earthed array with isolated inverter,"0.5 x V
+MAX OC ARRAY","V
+OC ARRAY"
+Earthed array with isolated inverter,"V
+MAX OC ARRAY","2 x V
+MAX OC ARRAY"
+Non-earthed array with non-isolated inverter,"V
+MAX OC ARRAY","2 x V
+MAX OC ARRAY"

@@ -1,0 +1,33 @@
+
+PDF EXTRACTION SUMMARY (IMPROVED)
+============================================================
+
+Document: Handbook on Installation & maintenance of Solar Panel(1)
+Pages: 41
+
+CONTENT EXTRACTED:
+  • Text: 10273 words
+  • Meaningful Images: 67 images (filtered for vision models)
+  • Tables: 50 tables (multi-strategy detection)
+  • Links: 29 links
+
+IMAGE FILTERING:
+  • Minimum size: 10000 pixels
+  • Minimum dimension: 100px
+  • Filtered out: icons, logos, small graphics
+
+TABLE DETECTION:
+  • Multiple strategies used: lines, lines_strict, text
+  • Improved detection for tables without gridlines
+
+OUTPUT LOCATION: improved_extraction/Handbook on Installation & maintenance of Solar Panel(1)
+
+FILES GENERATED:
+  ✓ metadata.json - Document metadata
+  ✓ extraction_results.json - Complete extraction data
+  ✓ page_*_text.txt - Plain text per page
+  ✓ page_*_table_*.md - Tables in Markdown format
+  ✓ page_*_table_*.csv - Tables in CSV format
+  ✓ images/ - Meaningful images only (suitable for vision models)
+
+============================================================

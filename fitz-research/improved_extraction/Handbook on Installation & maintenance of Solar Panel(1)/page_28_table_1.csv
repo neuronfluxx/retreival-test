@@ -1,0 +1,99 @@
+"Sr.
+No.",Description,"Upto 3 line
+station","Upto 4 line
+station","Upto 6 line
+station","Upto 4 line
+station with DC
+lit LED signal"
+2.,Required from solar power (in AH),,,,
+(a),"For 12 hrs.
+load per day","12x13= 156
+AH","12x22= 264
+AH",12x28= 336 AH,12x16= 192 AH
+(b),"For 10 hrs.
+load per day","10x13= 130
+AH","10x22= 220
+AH",10x28= 280 AH,10x16= 160 AH
+(c),"For 08 hrs.
+load per day","08x13= 104
+AH","08x22= 176
+AH",08x28= 224 AH,08x28= 224 AH
+(d),"For 06 hrs.
+load per day",06x13= 78 AH,"06x22= 132
+AH",06x28= 168 AH,06x16= 96 AH
+3.,SPV requirement for 110 V system,,,,
+(i),"Derating
+factor
+of Solar Panel",10% (0.9),10% (0.9),10% (0.9),10% (0.9)
+(ii),"Derating
+factor
+of Battery
+efficiency",10% (0.9),10% (0.9),10% (0.9),10% (0.9)
+(iii),"Sun
+availability
+assumed",5 Hrs.,5 Hrs.,5 Hrs.,5 Hrs.
+(iv),"Charging
+current
+of Solar panel",4.2 A,4.2 A,4.2 A,4.2 A
+(v),"No. of 12 V, 70 W Solar Panels required in parallel",,,,
+(a),"For 12 hrs.
+load
+per day","156/(0.9X0.9X
+5X4.2)
+=10 Nos.","264/(0.9X0.
+9X5X4. 2)
+=16 Nos","336/
+(0.9X0.9X5X4.2)
+=20 Nos","192/
+(0.9X0.9X5X4.2)
+=12 Nos"
+(b),"For 10 hrs.
+load
+per day","130/
+(0.9X0.9X
+5X4.2)=0
+8 Nos.","220/
+(0.9X0.
+9X5X4.
+2)=13Nos","280/
+(0.9X0.9
+X5X4.2)
+=17 Nos","160/
+(0.9X0.9
+X5X4.2)
+=10 Nos"
+(c),"For 08 hrs.
+load
+per day","104/
+(0.9X0.9X
+5X4.2)=0
+7 Nos.","176/
+(0.9X0.
+9X5X4.
+2)=11Nos","224/
+(0.9X0.9
+X5X4.2)
+=14 Nos","128/
+(0.9X0.9
+X5X4.2)
+=08 Nos"
+(d),"For 06 hrs.
+load
+per day","78/
+(0.9X0.9X
+5X4.2)=0
+5 Nos.","132/
+(0.9X0.
+9X5X4.
+2)=08
+Nos","168/
+(0.9X0.9
+X5X4.2)
+=10 Nos","96/
+(0.9X0.9
+X5X4.2)
+=06 Nos"
+(vi),"No. of 12V,
+70W
+Solar panel
+required",9,9,9,9

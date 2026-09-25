@@ -1,0 +1,62 @@
+ 
+ 
+ 
+168 
+Reproducibility and transparency: The workshops are grounded in the principles of the 
+169 
+scientific method, with reproducibility positioned as a central priority. Participants are 
+170 
+introduced to best practices for structuring analytical workflows, documenting experimental 
+171 
+decisions, and reporting results in a transparent and trustworthy way. 
+172 
+Experimentation and exploration: Participants are encouraged to actively experiment with 
+173 
+the techniques introduced during the workshop, including applying them to their own 
+174 
+datasets where feasible. This emphasis on exploration reflects experiential learning 
+175 
+principles, reinforcing the iterative nature of ML and supporting deeper engagement with 
+176 
+both methodological choices and their practical implications. 
+177 
+Together, these design principles support the development of ML literacy by prioritising 
+178 
+conceptual understanding, critical thinking, and practical relevance over exhaustive technical 
+179 
+detail, while remaining aligned with established theories of learning and instruction. 
+180 
+7.2 
+Workshop structure 
+181 
+The one-day workshops are structured to provide participants with fundamental background 
+182 
+knowledge in ML and data science, before spending the remainder of the workshop focusing 
+183 
+on the practical implementation and expression of these fundamentals. Collectively, we refer 
+184 
+to these practical components as “hands-on sessions”. The Original workshop in 2019 
+185 
+designed and delivered by TI was the foundation for the design of the subsequent 
+186 
+workshops. The major difference between them is one of scope. In 2019, the focus of the 
+187 
+workshop was on applying Orange specifically to antimicrobial susceptibility testing data. 
+188 
+Following workshops designed by BM and TI focused on working with tabular datasets more 
+189 
+generally, as these are the types of datasets that practitioners are more likely to encounter 
+190 
+in their own environments. Most practitioners would also be familiar with tabular datasets. 
+191 
+The timeline for each of the workshops, along with the topic of each session is presented in 
+192 
+Table 1. 
+193 
+194 
+195 
+196 
+197 
+198 
+199 
+200 

@@ -1,0 +1,49 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+1 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+Section I 
+Solar energy and its applications 
+ 
+1.1 Introduction 
+ 
+The sources of conventional and non-renewable energy such as coal, petrol, diesel etc. are 
+diminishing continuously on Earth, the formation of which is a long process. Hence a need 
+for alternative energy sources was felt such as Wind energy, Bio-energy, Solar energy. 
+These are called as non-conventional or renewable energy sources. Solar energy, which is 
+abundant in nature and free of cost, is considered to be the best and most popular one.  
+ 
+Solar energy is obtained through the use of Solar cells. The Solar cells convert sunlight into 
+electrical energy, based on the principle of photovoltaic effect. The electricity so obtained 
+can directly be used to charge the batteries used for various appliances.  
+ 
+Indian Railways is also a consumer of electricity for general lighting, operation of rolling 
+stock, Telecommunication and Signalling gears such as Signals, Point machines, Relays, 
+Block instruments, Axle Counters etc. Hence solar energy has a wide range of applications 
+in Indian Railways especially at remote or hilly places where grid supply is not available 
+round the clock or not available at all.  
+ 
+1.2 Advantages and Disadvantages of Solar Panel  
+ 
+       Advantages 
+ Fuel source for Solar Panel is direct and endless so no external fuels required. 
+ Sunlight - free of cost. 
+ Unlimited life of Solar Modules, fast response and high reliability. 
+ Can operate under high temperature and in open. 
+ Inherently short circuit protected and safe under any load condition. 
+ Pollution free. 
+ Minimum Maintenance 
+ Independent working 
+ Operation is simple and no electrochemical reaction and no liquid medium. 
+ Noise-free as there are no moving parts. 
+ No AC to DC conversion losses as DC is produced directly. 
+ No transmission losses as installed in the vicinity of the load. 
+ Suitable for remote, isolated and hilly places. 
+ Suitable for moving loads/objects 
+ Since it is in modular form, provision of future expansion of capacity is available. 
+ It can generate powers from milli-watts to several mega watts. 
+ It can be used almost everywhere from small electronic device to large scale MW power 
+generation station. 
+ It can be installed and mounted easily with minimum cost. 
+Click for contents

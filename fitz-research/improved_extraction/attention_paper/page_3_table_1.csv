@@ -1,0 +1,31 @@
+Col0,Col1,Figure 1,: The,Transformer -,model arch,itecture.,Col7,Col8
+,,,,,,,,
+wise fully connec,ted,feed-forwar,d netw,ork. We empl,oy a residua,l conne,ction [10] ar,ound each of
+the two sub-layer,"s, f",ollowed by,layer,normalization,[1]. That i,"s, the ou",tput of eac,h sub-layer is
+LayerNorm(x +,Sub,"layer(x)),",where,Sublayer(x) i,s the functi,on impl,emented by,the sub-layer
+itself. To facilitate,the,se residual,conne,"ctions, all sub-l",ayers in the,"model,",as well as th,e embedding
+"layers, produce ou",tpu,ts of dimens,ion d,"= 512.
+model",,,,
+,,,,,,,,
+Decoder: The d,eco,der is also co,mpos,ed of a stack of,N = 6 iden,tical lay,ers. In addit,ion to the two
+sub-layers in each,en,"coder layer,",the d,ecoder inserts a,third sub-l,"ayer, w",hich perform,s multi-head
+attention over the,outp,ut of the enc,oder s,tack. Similar t,o the encode,"r, we em",ploy residua,l connections
+around each of th,e su,"b-layers, fo",llowe,d by layer norm,alization.,We also,modify the,self-attention
+sub-layer in the d,eco,der stack to,prev,ent positions fr,om attendi,ng to su,bsequent po,sitions. This
+"masking, combine",d w,ith fact that,the o,utput embeddin,gs are offse,t by one,"position, en",sures that the
+predictions for po,sitio,n i can dep,end on,ly on the know,n outputs a,t positio,ns less than,i.
+,,,,,,,,
+3.2 Attention,,,,,,,,
+,,,,,,,,
+An attention funct,ion,can be desc,ribed,as mapping a q,uery and a s,et of ke,y-value pair,"s to an output,"
+"where the query, k",eys,", values, and",outp,ut are all vector,s. The outp,ut is com,puted as a,weighted sum
+"of the values, whe",re t,he weight as,signed,to each value i,s computed,by a co,mpatibility f,unction of the
+query with the cor,res,ponding key,.,,,,,
+,,,,,,,,
+3.2.1 Scaled Do,t-P,roduct Atte,ntion,,,,,
+,,,,,,,,
+We call our partic,ula,"r attention """,Scale,d Dot-Product,"Attention""",(Figure,2). The inp,ut consists of
+,,,,,,,,
+queries and keys,of d,"imension d
+k",", and",values of dimen,"sion d . W
+v",e compu,te the dot p,roducts of the

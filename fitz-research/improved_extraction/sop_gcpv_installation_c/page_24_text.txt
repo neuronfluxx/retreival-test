@@ -1,0 +1,42 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 19 
+2.3 Step 3: Installation and testing of structure earthing system 
+After installation of module mounting structure, the next step is to provide a continuous equipotential bond 
+between mounting structure and module frames. 
+ 
+Following procedures to be followed: 
+ 
+(1) Verify the earthing conductor routing plan;  
+(2) Prepare earth terminal bar / conductor, lugs, clamps, earthing rod and earth pit as per drawing; 
+(3) Ensure all module frames and each part of mounting structure are electrically bonded;  
+(4) Use proper WEEB for bonding;  
+(5) Find the best location for earthing pit where soil is wet and resistivity is least;  
+(6) Attach the earthing terminal bar /wire with earthing rod; 
+(7) Connect terminal bar to structure;  
+(8) Ensure all the connections are neat and tight; 
+(9) Test earthing continuity and resistance of earth electrode after installation. 
+ 
+The conductor used to earth the exposed metallic frames of the PV array shall have a 
+minimum size of 6mm2 copper or equivalent if there is no lightning system installed for the 
+system. When a lightning protection system is installed, minimum size of the conductor shall 
+be 16mm2 copper or equivalent.  PV array bonding conductors should run as close to the 
+positive and negative PV array and or sub-array conductors as possible to reduce induced 
+voltages due to lightning. 
+ 
+Procedure for measurement of earthing continuity and earth electrode resistance using earth 
+resistance tester – Follow in sequence 
+ 
+(1) Short the P1 and E1 terminal of the Earth resistance tester; 
+(2) Connect the electrode under test to E1 terminal of earth resistance tester; 
+(3) Using a hammer, dig an electrode at a distance (D) of minimum 30 meter from the test Electrode; 
+(4) Connect this electrode to E2 terminal of earth resistance tester; 
+(5) Using a hammer, dig another electrode in between both the electrodes at 50% of D; 
+(6) Connect this electrode to P2 of the terminal; 
+(7) Take reading by rotating the handle of Earth resistance tester or press push button; 
+(8) Repeat the above procedure by changing the location of middle electrode to 40% and 60% of D; 
+(9) To get the resistance of electrode, take mean of these three readings.    
+ 

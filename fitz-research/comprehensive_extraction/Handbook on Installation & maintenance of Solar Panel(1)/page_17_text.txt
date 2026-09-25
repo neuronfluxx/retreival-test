@@ -1,0 +1,20 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+10 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+1.10.8   Operation 
+Operation of the Solar power source is very simple. Once the system is installed, CHG. 
+ON (Green) LED will glow during daytime and will indicate that the power is available 
+for charging Battery Bank from SPV panel. Connect the equipment to be operated on solar 
+power to the SPV Charge Control Unit at terminals marked ‘LOAD’ position. 
+ 
+1.11      Types of Solar Panels  
+Solar panels are classified on the basis of the following points : 
+1) Crystalline Silicon (Mono/Poly/Amorphous) 
+2) Different Size or Area of cells 
+3) Type of cells & nos. (Rectangular/Circular/Square/ Pseudo-square/Semi-circular etc.) 
+4) Power (High/Mid/Low range) 
+Go to Index
+Click for contents
+Click for contents

@@ -1,0 +1,60 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Page | 4
+,,,,,,,,,,,,,
+llati,on of Grid,Connected,Rooftop Solar P,hotovolta,ic,Systems,- A,Handb,ook for Engin,e,er,s & Devel,opers
+,,,,,,,,,,,,,
+atio,n and Ro,uting of D,C cables,,,,,,,,,,
+,,,,,,,,,,,,,
+•,Ensure th,at no expo,sed DC cables,are hang,in,g and ly,ing,on the,roof;,,,,
+,,,,,,,,,,,,,
+•,All DC c,ables must,be protected fr,om any,po,ssible ph,ys,ical da,mage;,,,,
+,,,,,,,,,,,,,
+•,DC comb,iner boxes,should be loca,ted such,th,at cond,uit,runs a,re minimized,;,,,
+,,,,,,,,,,,,,
+•,Place DC,cables sep,arately from A,C cable,ro,utes and,di,stinctl,y marked wit,h,“,DC cables,”;
+,,,,,,,,,,,,,
+•,Cable tra,ys must be,covered by lid,and mu,st,not have,sh,arp ed,ges and bend,s,;,,
+,,,,,,,,,,,,,
+•,When cab,les trays o,r conduits cros,s pathwa,ys,it shoul,d b,e cove,red by a brid,,ge,made of s,trong and
+,,,,,,,,,,,,,
+,durable m,aterial.,,,,,,,,,,,
+,,,,,,,,,,,,,
+em,Isolation,,,,,,,,,,,,
+,,,,,,,,,,,,,
+•,Load brea,king DC i,solators must b,e install,ed,to separ,ate,PV ar,ray and inve,r,ter,;,
+,,,,,,,,,,,,,
+•,DC isolat,or must ha,ve mechanisms,for ind,ep,endent m,an,ual op,eration;,,,,
+,,,,,,,,,,,,,
+•,DC isolat,ors will no,t be polarity se,nsitive;,,,,,,,,,
+,,,,,,,,,,,,,
+•,Be rated t,o interrupt,full load and p,rospecti,ve,fault cu,rre,nts fro,m the PV arr,a,y,and the g,rid;
+,,,,,,,,,,,,,
+•,Be install,ed in an ac,cessible area.,,,,,,,,,,
+,,,,,,,,,,,,,
+rkin,g and Sig,nage:,,,,,,,,,,,
+,,,,,,,,,,,,,
+king,is neede,d to provid,e emergency r,esponde,rs,with ap,pro,priate,warning and,,gu,idance so,that they
+,,,,,,,,,,,,,
+wor,k their w,ay around,the system an,d how,to,isolate,it.,This c,an facilitate,,id,entifying,energized
+,,,,,,,,,,,,,
+duct,ors or wir,es that con,nect the solar m,odules,to,the inve,rte,"r, as th",ese should n,o,t b,e cut whe,n venting
+,,,,,,,,,,,,,
+mo,ke remova,l.,,,,,,,,,,,
+,,,,,,,,,,,,,
+625,48 indica,tes the foll,owing signs (us,ing loca,l l,anguage,or,using,appropriate l,o,ca,l warning,symbols)
+,,,,,,,,,,,,,
+•,Sign at al,l points of,isolation of all,sources,of,supply,(P,V array,DC isolator,",",In,verter AC,isolator)
+,,,,,,,,,,,,,
+•,Sign at m,ain service,disconnection,switch,,,,,,,,,
+,,,,,,,,,,,,,
+•,Sign at th,e distributi,on board to wh,ich the,su,pply fro,m t,he inv,erter is conne,c,te,d,
+,,,,,,,,,,,,,
+•,Sign at D,C cables a,nd combiner bo,xes,,,,,,,,,
+,,,,,,,,,,,,,
+exa,mples of,marking a,nd signage are s,hown b,el,ow:,,,,,,,
+,,,,,,,,,,,,,
+,,WARNING,,,,,,,,,WA,RNING,
+,,DUAL SUPPL,Y,,,PV ARR,AY,,D,U,AL,SUPPLY,
+ISO,LATE BOTH,NORMAL AND,SOLAR SUPPLIES,,D,C ISOLA,TO,R,ISOLATE,,SO,LAR SUPPLY,AT
+,BEFORE WOR,KING ON THIS,SWITCHBOARD,,,,,,DISTRIB,,UTI,ON BOARD,XX
+,,,,,,,,,,,,,
+,F,igure 1: Ex,ample of mark,ing sign,ag,e for gri,d c,onnec,ted solar PV,s,ys,tem,

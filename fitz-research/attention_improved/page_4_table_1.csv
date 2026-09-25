@@ -1,0 +1,52 @@
+Figure 2: (,le,ft) Scal,ed Do,t-Product,Attenti,on. (rig,ht) Multi,-Head Attenti,on cons,ists of several
+attention la,ye,rs runni,ng in,parallel.,,,,,,
+,,,,√,,,,,,
+query with,al,"l keys, d",ivide,each by,"d , and
+k",apply a,softmax,function to obt,ain the,weights on the
+values.,,,,,,,,,,
+"In practice,",w,e comp,ute th,e attention,functi,on on a s,et of que,ries simultane,"ously, pa",cked together
+into a matri,x,Q. The,keys,and values,are als,o packed,together,into matrices,K and V,. We compute
+the matrix o,f,outputs,as:,,,,,,,
+,,,,,,,,QKT,,
+,,,,Attentio,"n(Q, K",", V ) = s",oftmax(,√ )V,,(1)
+,,,,,,,,"d
+k",,
+The two mo,st,comm,only u,sed attenti,on func,tions are,additive,"attention [2], a",nd dot-p,roduct (multi-
+plicative) at,te,ntion. D,ot-pr,oduct atten,tion is,identical,to our al,"gorithm, excep",t for the,scaling factor
+"of √1 . Ad
+d",di,tive atte,ntion,computes,the com,patibilit,y functio,n using a feed-,forward,network with
+k,,,,,,,,,,
+a single hid,d,en layer,. Whi,le the two,are sim,ilar in th,eoretical,"complexity, d",ot-produ,ct attention is
+much faster,a,nd more,space,-efficient i,n pract,"ice, since",it can be,implemented,using hig,hly optimized
+matrix mult,ip,lication,code.,,,,,,,
+,,,,,,,,,,
+While for s,m,all value,s of d,"the two
+k",mechan,isms per,form sim,"ilarly, additive",attentio,n outperforms
+dot product,a,ttention,witho,ut scaling,for larg,er values,"of d [3
+k",]. We suspect t,hat for l,arge values of
+"d , the dot
+k",pr,oducts g,row l,arge in ma,"gnitude,",pushing,the softm,ax function in,to regio,ns where it has
+extremely s,m,all grad,ients 4,. To count,eract th,"is effect,",we scale,the dot produ,cts by √,"1 .
+d"
+,,,,,,,,,,k
+3.2.2 Mul,ti,-Head,Atten,tion,,,,,,
+,,,,,,,,,,
+Instead of p,e,rformin,g a sin,gle attenti,on func,tion with,"d -d
+model",imensional ke,"ys, valu","es and queries,"
+we found it,b,eneficia,l to lin,early proj,ect the,"queries, k",eys and,values h times,with dif,"ferent, learned"
+,,,,,,,,,,
+linear proje,ct,ions to,"d , d
+k k","and d di
+v",mensio,"ns, respec",tively. O,n each of thes,e project,ed versions of
+"queries, key",s,and val,ues w,e then perf,orm the,attention,functio,"n in parallel, yi",elding d,"-dimensional
+v"
+output valu,es,. These,are c,oncatenat,ed and,once aga,in proje,"cted, resulting",in the fi,"nal values, as"
+depicted in,Fi,gure 2.,,,,,,,,
+,,,,,,,,,,
+Multi-head,at,tention,allow,s the mode,l to joi,ntly atten,d to infor,mation from d,ifferent,representation
+subspaces a,t,differen,t posit,ions. With,a singl,e attentio,"n head, a",veraging inhib,its this.,
+,,,,,,,,,,
+4To illustr,at,e why th,e dot p,roducts get,"large, as",sume that,the comp,onents of q and k,are inde,pendent random
+variables wit,h,mean 0 a,nd var,iance 1. Th,en their,dot produc,"t, q · k =","Pd i=k q ik i, has
+1",mean 0 a,"nd variance d .
+k"

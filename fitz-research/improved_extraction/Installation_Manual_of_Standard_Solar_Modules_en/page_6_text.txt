@@ -1,0 +1,83 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+6 | 
+March 2013) or 14 (post March 2013) digits.
+·	 A nameplate is also affixed to the rear of each mo-
+dule. This nameplate specifies the model type, as 
+well as the main electrical and safety characteristics 
+of the module.
+5.0  
+MODULE INSTALLATION
+PRECAUTIONARY MEASURES AND 
+GENERAL SAFETY
+·	 Prior to installing modules please obtain 
+information about any requirements and 
+necessary approvals for the site, installation and 
+inspection from the relevant authorities.  
+·	 Check applicable building codes to ensure that the 
+construction or structure (roof, facade, support, 
+etc.) can bear the module system load.   
+·	 CS-series solar modules have been qualified for 
+Application Class A (equivalent to Safety Class II 
+requirements). Modules rated under this class 
+should be used in systems operating at voltage 
+above 50 V or power above 240 W, where general 
+contact access is anticipated.
+·	 Canadian Solar Inc. modules have been certified 
+as Type 1 or Type 4 according to UL 1703 and 
+Class C according to IEC 61730-2, please refer to 
+the datasheet or the product nameplate for the 
+detailed types.
+·	 Consult your local authority for guidelines and 
+requirements for building or structural fire safety.
+   
+UL 1703 SYSTEM FIRE RATING REQUIREMENTS
+·	 A photovoltaic systems composed of UL 1703 
+certified modules mounted on a UL 2703 
+certified mounting system should be evaluated 
+in combination with roof coverings in accordance 
+with UL 1703 standard, with respect to meeting the 
+same fire classification as the roof assembly. 
+·	 Mounting systems with a System Fire Class Rating 
+(Class A, B or C), tested in conjunction with fire 
+rated “Type 1”  or “Type 4” rated modules, are 
+considered acceptable for use with Canadian Solar 
+Inc. modules, provides the mounting system does 
+not violate any other requirements of this manual. 
+·	 Any mounting system limitations on inclination or 
+accessories required to maintain a specific System 
+Fire Class Rating should be clearly specified in the 
+installation instructions and UL 2703 certification 
+of the mounting system supplier.
+·	 When installing modules, ensure the supporting 
+roof has a fire resistant roof covering rated for the 
+application.
+·	 The fire rating for this module is only valid 
+when the product is installed as specified in the 
+mechanical mounting instructions.
+ENVIRONMENTAL CONDITIONS  	
+·	 The module is intended for use in general 
+open-air climates, as defined in IEC 60721-2-1: 
+Classification of environmental conditions Part-2-1: 
+Environmental conditions appearing in nature - 
+Temperature and humidity.
+·	 Please consult the Canadian Solar Inc. technical 
+support department for more information on the 
+use of modules in special climates, , such as an 
+altitude greater than 2000 m.
+Do not install modules near open 
+flames or flammable materials.   
+Do not immerse modules in water or 
+constantly expose modules to water 
+(either fresh or salt) (i.e. from fountains, 
+sea spray).   
+·	 Exposing modules to salt (i.e. marine environments) 
+or sulfur (i.e. sulfur sources, volcanoes) incurs the 
+risk of module corrosion.  
+·	 Do not expose modules and their connectors to any 
+unauthorized chemical substances (e.g. oil, lubricant, 
+pesticide, etc.), as modules may incur damages.
+·	 Failure to comply with these instructions will void 
+Canadian Solar Inc. limited warranty.
+INSTALLATION  REQUIREMENTS  
+·	 Ensure that the module meets the general technical 
+system requirements.

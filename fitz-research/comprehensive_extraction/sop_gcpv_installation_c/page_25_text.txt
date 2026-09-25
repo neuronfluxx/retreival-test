@@ -1,0 +1,26 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 20 
+ 
+ 
+Figure 13: Illustration for earth electrode resistance testing 
+ 
+ 
+Format of table to record results:  
+Position of Middle Electrode 
+Measured Electrode Resistance (ohm) 
+50% of D 
+ 
+40% of D 
+ 
+60% of D 
+ 
+Mean 
+ 
+ 
+Desired electrode resistance is around 1 Ohm and it must be lower than 5 Ohms.  
+ 
+ 

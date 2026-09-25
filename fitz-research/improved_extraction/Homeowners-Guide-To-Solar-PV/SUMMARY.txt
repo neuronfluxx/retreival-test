@@ -1,0 +1,33 @@
+
+PDF EXTRACTION SUMMARY (IMPROVED)
+============================================================
+
+Document: Homeowners-Guide-To-Solar-PV
+Pages: 11
+
+CONTENT EXTRACTED:
+  • Text: 4740 words
+  • Meaningful Images: 11 images (filtered for vision models)
+  • Tables: 10 tables (multi-strategy detection)
+  • Links: 8 links
+
+IMAGE FILTERING:
+  • Minimum size: 10000 pixels
+  • Minimum dimension: 100px
+  • Filtered out: icons, logos, small graphics
+
+TABLE DETECTION:
+  • Multiple strategies used: lines, lines_strict, text
+  • Improved detection for tables without gridlines
+
+OUTPUT LOCATION: improved_extraction/Homeowners-Guide-To-Solar-PV
+
+FILES GENERATED:
+  ✓ metadata.json - Document metadata
+  ✓ extraction_results.json - Complete extraction data
+  ✓ page_*_text.txt - Plain text per page
+  ✓ page_*_table_*.md - Tables in Markdown format
+  ✓ page_*_table_*.csv - Tables in CSV format
+  ✓ images/ - Meaningful images only (suitable for vision models)
+
+============================================================

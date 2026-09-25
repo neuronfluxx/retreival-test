@@ -1,0 +1,62 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+14 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+         The values of parameters from (a) to (f) above shall be specified under standard test 
+conditions of  
+(a) 
+Cell junction temperature of 25 ± 2ºC. 
+(b) 
+Irradiance of 1000 Watt/M.Sq. as measured with a reference solar cell (duly certified 
+by a recognized national/international test house/lab. nominated for this purpose. 
+(c) 
+Standard Solar spectral energy distribution. 
+(d) 
+Air Mass of 1.5. 
+ 
+        The frame of the mounting fixture shall be made of anodized aluminium, conforming to 
+specification IS: 7088-1973 with 20 micron anodization thickness.  All other parts such as 
+fasteners etc. shall be made of galvanized or stainless steel to make them weather-proof.  In 
+addition to holes provided for fixing on to mounting structure, extra holes are to be 
+provided suitably in the frame for cable routing. 
+ 
+        The solar module shall be able to withstand a maximum mean hourly rainfall of 40 mm. 
+          
+        The solar module shall be able to withstand humidity level of upto 95%. 
+ 
+        The conversion efficiency of the modules upto 35W shall not be less than 8% and for 
+modules greater than 35W shall not be less than 12%. 
+ 
+         The cell efficiency of the solar cells shall be greater than 12%.  
+ 
+         If required by the purchaser, the back plastic laminate shall be replaced by a toughened 
+glass sheet to make the module suitable for use in coastal areas/industrially polluted 
+areas/places where the plastic laminate is likely to get corroded. 
+ 
+         If required by the purchaser, an aluminum backing plate to protect the module from 
+miscreants shall be provided. 
+ 
+2.3    Primary phases of designing an SPV system 
+          The primary phases of designing a Photovoltaic system consists of the following steps: 
+ 
+1. 
+Planning 
+2. 
+Collection of  information/data 
+3. 
+Load calculation 
+4. 
+Sizing Solar Array 
+5. 
+Deciding Battery capacity 
+6. 
+Selection of Charge Controller 
+7. 
+Deciding Inverter capacity 
+8. 
+Structure 
+9. 
+Wiring 
+Click for contents
+Click for contents

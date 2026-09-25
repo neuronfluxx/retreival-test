@@ -1,0 +1,26 @@
+
+PDF EXTRACTION SUMMARY
+============================================================
+
+Document: Installation_Manual_of_Standard_Solar_Modules_en
+Pages: 47
+
+CONTENT EXTRACTED:
+  • Text: 13525 words
+  • Images: 34 images
+  • Tables: 103 tables
+  • Links: 0 links
+  • Annotations: 0 annotations
+
+OUTPUT LOCATION: comprehensive_extraction/Installation_Manual_of_Standard_Solar_Modules_en
+
+FILES GENERATED:
+  ✓ metadata.json - Document metadata
+  ✓ extraction_results.json - Complete extraction data
+  ✓ page_*_text.txt - Plain text per page
+  ✓ page_*_text.html - HTML formatted text per page
+  ✓ page_*_table_*.md - Tables in Markdown format
+  ✓ page_*_table_*.csv - Tables in CSV format (if pandas available)
+  ✓ images/ - Extracted images folder
+
+============================================================

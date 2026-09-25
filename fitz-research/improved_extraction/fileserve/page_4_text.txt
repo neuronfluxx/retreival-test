@@ -1,0 +1,29 @@
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                                        ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor:6.887 
+ 
+ 
+          Volume 5 Issue IX, September 2017- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1887 
+©IJRASET (UGC Approved Journal): All Rights are Reserved
+ 
+Figure 6 Photovoltaic Arrays (Multiple Modules) 
+V. SOLAR CONCRETE COLLECTOR 
+A. PARABOLIC TROUGH REFLECTORS 
+It contain of linear parabolic reflector concentrates light onto a receiver positioned along the reflector’s focal line. It consists of 
+receiver is a tube positioned directly above the middle of the parabolic mirror and fluid with a working fluid. A working fluid is 
+heated 150-350 0Cas it flows though the receiver is then used as heat source for a power generation system. 
+ 
+Figure 7 Parabolic Trough Reflectors 
+B. Fresnel 
+In a Fresnel lens, the refraction happens to produce in the surface, while the large material between the two surfaces doesn’t have 
+any problems in the refraction. It will use raise more temperature than conventional one and also used in furnace heating. It 
+installation has been used for surface modifications of metallic materials. This equipment is applying solar energy in the field of 
+high and very high temperatures. These temperatures are achieved in a few seconds. Fresnel concentrator performed 34.3% 
+reduction in reflective area compared to a parabolic of the same diameter, the 20 minutes series of action performance needed for 
+manual adjustment in order to track the sun proved to be a major disadvantage with this device. 

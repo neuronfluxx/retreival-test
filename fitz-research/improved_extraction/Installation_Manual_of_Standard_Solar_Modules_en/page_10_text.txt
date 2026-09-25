@@ -1,0 +1,18 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+10 | 
+The maximum distance between two adjacent module frames should be within 50 mm (1.96 in) for the side 
+with mounting clamps, and within 25 mm (0.98 in) for the side without mounting clamps, in order to meet the 
+system cable scheme.
+·	 For CS1U module series, recommended system cable 
+schemes are shown in Table 4:
+Table 4: System Cable Scheme for CS1U modules
+Module types
+Standard cables
+CS1U-MS
+Portrait installation
+Note: Adjacent two modules (left to right) need to be rotated 180 degrees
+Landscape installation
+Note: Adjacent two modules (up and down) need to be rotated 180 degrees
+Tracker one by one
+Tracker for leapfrog
+Tracker for leapfrog

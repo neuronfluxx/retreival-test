@@ -1,0 +1,27 @@
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                                        ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor:6.887 
+ 
+ 
+          Volume 5 Issue IX, September 2017- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1888 
+©IJRASET (UGC Approved Journal): All Rights are Reserved
+ 
+Figure 8 Fresnel Reflector 
+C. Parabolic Dish 
+It similar in appearance to a large satellite dishes, but has mirror like reflectors and absorber the focal point. It used a dual axial sun 
+tracking. It is efficiency of 30% achieved. By this dish it produces in MW level in solar plant. This is highest conversion 
+performance of the concentrating solar power technology. 
+ 
+Figure 9 Parabolic Dish 
+D. Central Receiver 
+It mostly used in large scale plants that are usually making the more amount power. It also called as “Power Tower”. It operates by 
+focusing a field of thousands of mirrors on to a receiver located at the top of a centrally located Tower. The receiver collects the 
+sun’s heat transfer fluid, which is used to generate stream turbine located at the foot of the tower for production of Electricity.  
+ 
+Figure 10 Central Receiver 

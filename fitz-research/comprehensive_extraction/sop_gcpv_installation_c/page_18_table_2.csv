@@ -1,0 +1,21 @@
+Col0,"F = q x G x C x A (N) [Design wind load on open building and other structure Equation 6-25 of ASCE7]
+z f f",Col2
+"q= 0.613 x K x K x K x V2 x I [Velocity pressure evaluated using equation 6.5.10 of ASCE7]
+z z zt d",,
+"K = Velocity pressure exposure coefficient from Table 6-3 of ASCE7
+z",,
+"K = Topographic Factor = 1.0 (From Figure 6-4 of ASCE7)
+zt",,
+"K = Wind directionality factor = 0.85 (Table 6-4 of ASCE7)
+d",,
+V = Basic wind speed =50 m/s (very high damaged risk zone B),,
+G = Gust effect factor = 0.85 for rigid structure (Section 6.5.8.1 of ASCE7)],,
+,"C = Net force co-efficient = 1.2 (from figure 6-20 of ASCE7 ratio of height to width <=3)
+f",
+"A = Projected area normal to the wind = 1m2
+f",,
+I =1.15 Importance factor = 1.15 for III and IV category structure,,
+Exposure C is applicable to open terrain with obstruction heights 10m or less.,,
+,"Exposure D is applicable to flat, unobstructed areas and water surfaces where the terrain prevails for at least 1524m",
+,"or 10 times the structure height, whichever is greater. Extends inland from the shoreline for 200m, or 10 times the",
+,"structure height, whichever is greater.",

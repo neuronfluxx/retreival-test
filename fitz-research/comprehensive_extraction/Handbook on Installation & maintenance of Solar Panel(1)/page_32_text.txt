@@ -1,0 +1,59 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+25 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+3.3     Installation guidelines 
+          The installation of Solar Power System involves the following major steps: 
+ 
+ 
+Civil Foundation Job 
+ 
+Assembly and fixing of support structure. 
+ 
+Mounting of Solar Modules on the Support Structure. 
+ 
+Installation of Battery Bank. 
+ 
+Interconnection of SPV panel in series & parallel configuration, Charge Control Unit 
+and FJB 
+ 
+Connection of Battery Bank and Load  
+ 
+Earthing of Lightning Protection Unit. 
+ 
+3.3.1  Mounting the Solar Modules  
+For mounting the solar panels first determine mounting method i.e. Roof mount or Ground 
+mount.  
+ 
+While mounting the solar Modules, following points should be considered for getting 
+maximum output from the solar modules: 
+ 
+ Modules should be oriented south facing to receive maximum sunlight.. 
+ The Modules produce more power at low temperature and full sun. 
+ Tracking the Sun increases the amount of power from an array 
+ 
+The Solar panels are generally installed in such a way that they can receive maximum 
+direct sunlight without shade from any building/trees nearby falling on them at any part 
+of the day. 
+ 
+As we know that the Sun rises in the East and sets in the West as a result of Earth’s 
+rotation around its own axis. Also the Earth revolves around the Sun. Due to these two 
+movements there is variation in the angle at which the Sun’s rays fall on Earth’s surface 
+over a year. At any particular place on Earth this variation in angle in one year may be 
+upto 45 degrees. Considering these facts the following guidelines are to be kept in mind 
+while installing solar panels: 
+ 
+1. Solar panels should be installed at an angle of ‘(LATITUDE of the place + 10) degree’ 
+from horizontal. For example, New Delhi has a latitude of 26 degree, hence any solar 
+panel in New Delhi is to be installed at an angle of 26 + 10=36 degree inclined to 
+horizontal. 
+ 
+2. Solar panels should be installed South facing in the Northern hemisphere and North 
+facing in the Southern hemisphere. Since India is in the Northern hemisphere, Solar 
+panels will be installed always- South facing in our country. The directions North- 
+South may be found with the help of Magnetic Compass. The picture given in Fig 3.3 
+illustrates this. 
+ 
+Click for contents
+Click for contents

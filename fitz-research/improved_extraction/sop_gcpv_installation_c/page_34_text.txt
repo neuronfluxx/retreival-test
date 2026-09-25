@@ -1,0 +1,39 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 29 
+Procedures to follow: 
+(1) Review the DC wiring diagram; 
+(2) Install conduit/ cable tray from roof to DC combiner box; 
+(3) Secure all conduits/ cable trays to the building; 
+(4) Pull the DC cables through conduit/ cable tray from roof to the DC combiner box; 
+(5) Leave excess wire at both ends  (roof and combiner Box); 
+(6) Use sealing materials (silicone) to prevent leakage into the conduit and the penetration at roof; 
+(7) Terminate DC cables in DC combiner box; 
+(8) Install cable connectors (MC4 or equivalent) at both ends and tag cable with “+” and “-“ sign; 
+(9) Tighten the cable connector using appropriate tools; 
+(10) Test the cables to ensure correct polarity labelling; 
+(11) Keep all connectors open (OFF); 
+(12) Use cable glands according to size of the cables;   
+(13) Tighten the cable glands using appropriate tools; 
+(14) Use EDPM rubber hole stopper to block unused holes in the combiner box.  
+ 
+ 
+ 
+ 
+Tools for cable connector 
+Tool for cable glands 
+ 
+Figure 22: Tools for cable connector and cable glands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,85 @@
+www.canadiansolar.com
+| 7
+·	 Ensure that other system components do not 
+damage the module mechanically or electrically.
+·	 Modules can be wired in series to increase voltage 
+or in parallel to increase current. To connect modules
+in series, connect the cables from the positive 
+terminal of one module to the negative terminal 
+of the next module. To connect in parallel, 
+connect the cables from the positive terminal of 
+one module to the positive terminal on the next 
+module.  
+·	 The quantity of bypass diodes in the module's 
+junction box may vary depending on the model 
+series.   
+·	 Only connect the quantity of modules that corres-
+ponds to the voltage specifications of the inverters 
+used in the system. In addition modules should not 
+be connected together to create a voltage higher 
+than the maximum permitted system voltage 
+stated on the module nameplate, even under the 
+worst local temperature conditions (see Table 1 
+for the correction coefficients that apply to open-
+circuit voltage).  
+·	 A maximum of two strings can be connected in
+parallel without the need to incorporate an over-
+current protection device (fuses, etc.) in series 
+within each string. Three or more strings can be 
+connected in parallel if an appropriate, certified 
+over-current protection device is installed in series 
+within each string. And it shall be ensured in the 
+PV system design that the reverse current of any 
+particular string is lower than the module maxi­
+mum fuse rating at any circumstance.
+·	 For  high power density modules such as CS1 series 
+intended to be used on rooftop applications, in agree­
+ment with IEC 62548: 2016 Photovoltaic (PV) arrays 
+design requirements, blocking diodes should be used 
+in each PV array module string as exclusive mean of 
+protection against reverse currents where three or 
+more strings are connected in parallel. Where permit­
+ted by your local electrical code, blocking diodes can 
+also be used for overcurrent protection, in place of 
+fuses or other OCPD devices. 
+·	 Only modules with similar electrical outputs 
+should be connected in the same string to avoid or 
+minimize mismatch effects in arrays.     
+·	 To minimize risk in the event of an indirect 
+lightning strike, avoid forming loops with the 
+wiring when designing the system.  
+·	 The recommended maximum series fuse rating is 
+stated in a table in the Annex C.  
+·	 Modules should be safely fixed to bear all expected 
+loads, including wind and snow loads. 
+ ·	A minimum clearance of 6.5 mm (0.25 in) between 
+modules is required to allow for thermal expansion 
+of the frames. 
+·	 The small drainage holes on the underside of the 
+module must not be blocked.
+OPTIMUM ORIENTATION AND TILT  
+·	 To maximize your annual yield, find out the 
+optimum orientation and tilt for PV modules 
+in your region. The highest yields are achieved 
+when sunlight shines perpendicularly onto the PV 
+modules. 
+AVOID SHADING 
+·	 Even minor partial shading (e.g. from dirt deposits) 
+reduces yields. A module can be considered to be 
+unshaded if its entire surface is free from shading 
+all year round. Sunlight should be able to reach the 
+module even on the shortest day of the year.
+·	 Constant shading conditions can affect module 
+service lifetime, due to accelerated ageing of the 
+encapsulation material and thermal stress on the 
+bypass diodes. 
+RELIABLE VENTILATION  
+·	 Sufficient clearance (at least 10 cm (3.94 in)) 
+   between the module frame and the mounting 
+surface is required to allow cooling air to circulate 
+around the back of the module. This also enables 
+condensation or moisture to dissipate. 
+·	 According to UL 1703, any other specific clearan­
+ce required for maintaining a system fire rating 
+should prevail. Detailed clearance requirements 
+pertaining to system fire ratings must be provided 

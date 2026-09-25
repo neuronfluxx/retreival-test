@@ -1,0 +1,52 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+2 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+Disadvantages 
+ Initial cost is high 
+ Dependent on sunlight 
+ Additional cost for storage battery. 
+ Climatic condition, location, latitude, longitude, altitude, tilt angle, ageing, dent, bird 
+dropping, etc. affect the output. 
+ It has no self-storage capacity. 
+ Manufacturing is very complicated process. 
+ To install solar panel large area is required. 
+ 
+1.3   Utilization of Solar Power Supply System in the Indian Railways 
+The efficient running and control of Railway traffic in the country is sometimes seriously 
+hampered by the irregular grid supply (by State Electricity Board) resulting in traffic 
+congestion and other operational equipment failures also. The alternate D.G. sets pose 
+considerable problem as it has a high maintenance cost and necessitates the use of 
+additional D.G. sets as stand by. Again diesel oil is prone to pilferage, and moreover 
+transportation and storage costs are involved. It also causes atmospheric pollution. Hence 
+by harnessing the abundantly available and non-polluting by nature solar energy source for 
+power requirements came into action after decades of research and field experience. 
+ 
+1.4   Application of Solar Powered System for Signalling & Telecommunications 
+Almost all signalling and Telecommunication gears can be run by solar power. In Indian 
+Railway, Signalling system is Solar powered in phased manner. Priorities are given to those 
+locations where there is no conventional power or power transmission through cables is 
+cost effective. Some example of application of solar power for signalling and 
+telecommunication gears are given below: 
+ 
+1. Semaphore signal lighting at night. 
+2. Charging battery to power Signal lighting and Point Machines. 
+3. Charging battery for Integrated Power Supply (IPS) system. 
+4. Charging battery for Optic Fibre Cable hut. 
+5. Solar powered Radio warning system/Gate Signal/HKT/TC. 
+6. Solar powered RRI/PI/relay operation (internal and external circuits)/ALR. 
+7. Charging secondary cells for Tokenless/Token block instruments. 
+8. Lighting Outer/Warner Signals and Distant Signal with motor operation. 
+9. Solar distillation plants. 
+ 
+1.5  Advantages of Solar Powered System for Signalling 
+        Along with the advantages mentioned earlier the following are the additional advantages 
+w.r.t. Signalling: 
+ 
+1. Totally Solid State design and highly desirable. 
+2. Power supply cabling from station building to the signal unit or cabin not needed, since 
+the unit is a self contained power sources. This saves cabling cost. 
+3. Minimum maintenance, which can be easily done by low skilled worker. 
+4. Long life of whole system and the system gives trouble free performance. 
+Click for contents

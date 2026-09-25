@@ -1,0 +1,50 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+8 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+1.10.2  Battery Bank 
+The Sun is not always available and it is not regular. However, loads are to be fed any time 
+of the day. Therefore power should be stored in a battery bank. Low maintenance Lead acid 
+battery as per IRS: S 88/2004 or latest of specified capacity will be provided. The capacity 
+of this battery bank is given in Ampere - Hour (AH) and bus bar voltage. The bus-bar 
+voltage is decided by the voltage requirement of the load. 
+ 
+1.10.3  Solar Charge Controller 
+Charge controller is the interface between Array and battery bank. It protects the battery 
+from overcharging and moderate charging at finishing end of charge of battery bank. 
+Therefore it enhances the life of the battery bank. It also indicates the charging status of 
+batteries like battery undercharged, overcharged or deep discharged through LEDs 
+indications. Some switches and MCBs are also provided for manual or accidental cut-off of 
+charging. In some charge controllers load terminals are also provided through a low battery 
+charge cut-off device so that it can protect the battery bank from deep discharge. Solar 
+Charge Controller units for Indian Railways are manufactured as per RDSO Specification 
+No.RDSO/SPN/187/2004. The front view of a typical CEL make Charge Controller is 
+shown in Fig.1.7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                 Fig.1.7 : Front view of a Charge Controller  
+        
+The technology adopted nowadays for manufacturing solar charge controller is MOSFET/IGBT 
+technology. With this technology the idle current of the controller is less than 50 mA depending 
+upon the rating of the charge controller and its current. First the controller is connected to battery 
+bank and then it is connected to Solar Array/Solar module for sensing the voltage from the 
+module. When the system is put into operation, the SPV modules start charging the battery bank. 
+Care should be taken that in no case the battery connections are removed from the controller 
+terminals when the system is in operation, otherwise SPV voltage may damage the Charge 
+controller, since the Solar voltage is always higher than the battery voltage. 
+ 
+Click for contents
+Click for contents

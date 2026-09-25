@@ -1,0 +1,55 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+34 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+S. 
+No. 
+Symptom 
+Possible 
+Failure 
+Probable cause 
+Action 
+Charge 
+Controller 
+Electronic failure 
+Replace the Charge controller 
+Corrosion 
+6. 
+Front 
+Glass broken 
+Breakage 
+Mishandling/ 
+transportation 
+Unserviceable, Replace 
+7. 
+No voltage 
+Across 
+blocking 
+diode 
+Diode 
+failed in 
+short 
+circuit 
+mode 
+Random failure 
+Replace the diode 
+8. 
+Voltage high 
+Across 
+blocking 
+diode 
+Diode 
+failed in 
+open 
+circuit 
+mode 
+Random failure 
+Replace the diode 
+ 
+Fig. 4.2: Troubleshooting flowchart for SPV Panel 
+
+Go to Index
+        Exit 
+Click for contents
+Click for contents

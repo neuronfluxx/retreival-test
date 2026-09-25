@@ -1,0 +1,31 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 45 
+Annexure 1: Connection diagram for 2kW grid connected PV system  
+ 
+ 
+ 
+To Household Loads
+Solar PV Array (7 x 330Wp)
+Combiner Box
+Grid Tie Inverter
+ACDB
+Main switch board
+Solar Meter
+Net Meter
+Distribution Grid
+L
+N
+PE
+DC i/p
+AC o/p
+Isolator
+Solar PV DC Fuse
+SPD
+MC4 Connector
+AC MCB
+AC Main switch
+Earthing for load

@@ -1,0 +1,69 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Page | 30
+,,,,,,,,,,
+Installation of,Grid Connect,ed Ro,oftop Solar,Photovoltaic,Systems -,A Handb,,ook for,Engineers & Develop,ers
+,,,,,,,,,,
+2.7 Step 7,: AC cab,ling,and ins,tallation,of inve,rter,,,,
+,,,,,,,,,,
+When DC cab,les and DC c,omb,iner boxes,are installed,; the next,step is to,,install,AC cables and the,inverter.
+,,,,,,,,,,
+Ensure that to,tal voltage d,rop i,n all AC ca,bles is less t,han 2% a,ccording,,to IEC,62548. Voltage dro,p in AC
+,,,,,,,,,,
+cables can be,calculated u,sing,the formul,as below:,,,,,,
+,,,,,,,,,,
+For AC cable,s in single-p,hase,circuit:,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,2,!!!!,!!!! !!,"!!!!! !""",#,!,,
+,,,,"!""!!""#$%","!""",,,,,
+,"!
+!","""#!!","(!) =
+""",,,,,,,
+"Where,",,,,!,"!""!!""#$%",,,,,
+,,,,,,,,,,
+"H = Ro
+SJ JKLMN",ute length o,f AC,cable in m,etres (Multi,ply by 2,for total,c,ircuit,wire length),
+"O = Current
+SJ",in amperes,,,,,,,,,
+,,,,,,,,,,
+ρ = resistivity,of the wire,in Ω/,m/mm2,,,,,,,
+,,,,,,,,,,
+T/0 U = Pow,er factor,,,,,,,,,
+,,,,,,,,,,
+,,,,2,,,,,,
+"P = C
+SJ JKLMN",ross section,area,(CSA) of c,able in mm,,,,,,
+,,,,,,,,,,
+For AC cable,s in three-ph,ase c,ircuit:,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,√3 × H,×,O ×,,Z × co,s Φ,
+,,,,SJ,JKLMN,SJ,,,,
+,"Q
+I",VWX(,"(Q) =
+SJ)",,,,,,,
+,,,,,"P
+SJ J",KLMN,,,,
+,,,,,,,,,,
+Procedures t,o follow:,,,,,,,,,
+,,,,,,,,,,
+(1) Install th,e conduit/ c,able,tray;,,,,,,,
+,,,,,,,,,,
+(2) Pull the,conductors t,hrou,gh conduit,or cable tray,;,,,,,
+,,,,,,,,,,
+(3) Leave e,xcess conduc,tor o,r cable nea,r each equip,ment ter,minal;,,,,
+,,,,,,,,,,
+(4) Read inv,erter install,ation,and operat,ion manual,carefully;,,,,,
+,,,,,,,,,,
+(5) Ensure t,hat there is a,dequ,ate ventila,tion for the i,nverter;,,,,,
+,,,,,,,,,,
+(6) Ensure t,hat no direct,sunl,ight falls o,n the inverte,r;,,,,,
+,,,,,,,,,,
+(7) Mount t,he inverter w,ith a,ccessories,provided by,the manu,facturer,;,,,
+,,,,,,,,,,
+(8) Ensure t,here is no gr,id su,pply to the,inverter;,,,,,,
+,,,,,,,,,,
+(9) Complet,e the install,ation,from the i,nverter to the,AC isol,ator and,e,nergy,meter as per the dra,wing;
+,,,,,,,,,,
+(10) Install th,e earthing c,onne,ction as pe,r inverter ins,tallation,manual;,,,,
+,,,,,,,,,,
+(11) Tighten,the cable gla,nds,using appro,priate tools.,,,,,,

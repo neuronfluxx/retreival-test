@@ -1,0 +1,65 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 40 
+2.9 Step 9: Placing of signage  
+It is very important to have appropriate signage at the PV system to minimize any hazardous situations 
+associated with the project site. Place the following signage in appropriate locations, as applicable. The 
+signs should be legible from at least 0.8m. 
+ 
+Procedures to follow: 
+(1) A “SOLAR DC” sign shall be located on all PV array and PV (string) junction boxes. 
+(2) Sign indicating “Live during daylight” shall be attached to all DC junction boxes and switches. 
+(3) The double pole isolator (disconnecting means) at the inverter should be labelled “PV Array DC 
+Isolator” 
+(4) Fire emergency information sign is required at the main building switchboard. 
+(5) The existing main switch in the switchboard should be labelled “Main Switch”. 
+(6) The AC Isolator at the inverter should be labelled: “Inverter AC Isolator” 
+(7) A warning sign at the switchboard should be installed indicating that dual supplies exist and both 
+normal and solar supplies should be disconnected when working on the switchboard. 
+(8) If the grid solar system is connected to  a distribution board, then a warning sign should be installed at 
+that distribution board and also at  every distribution board back to and including the main switchboard. 
+(9) A sign informing people of the shutdown procedure should be located in a prominent position. This 
+sign shall state the open circuit voltage and short circuit current of the array. 
+ 
+ 
+ 
+Figure 32: Different signage for grid connected solar PV system 
+ 
+ 
+WARNING
+DUAL SUPPLY
+ISOLATE BOTH NORMAL AND SOLAR SUPPLIES 
+BEFORE WORKING ON THIS SWITCHBOARD
+SHUTDOWN PROCEDURE
+1. 
+Turn off the switch labelled ‘Inverter AC Isolator’ located next  
+ 
+to the AC terminals of the inverter
+2. 
+Turn off the switch labelled ‘PV Array Main Switch’ located  
+ 
+next to the DC terminals of the inverter
+WARNING: DO NOT OPEN PLUG AND SOCKET CONNECTORS OR PV 
+STRING ISOLATORS UNDER LOAD
+PV ARRAY OPEN CIRCUIT VOLTAGE:  
+ 
+ 
+ 
+VDC
+PV ARRAY SHORT CIRCUIT CURRENT: 
+ 
+ 
+ 
+ADC
+PV ARRAY
+DC ISOLATOR
+INVERTER AC
+ISOLATOR
+LIVE DURING DAYLIGHT
+WARNING
+DUAL SUPPLY
+ISOLATE SOLAR SUPPLY AT 
+DISTRIBUTION BOARD XX

@@ -1,0 +1,54 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+29 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+(iii) 
+Interconnections between Charge controller and Solar Modules  
+For interconnections between charge controller and solar modules, the following 
+general installation guidelines shall be followed: 
+ 
+ For interconnecting the SPV/Arrays with charge controller and battery bank, 
+use minimum wire length so as to avoid the DC voltage drop in the line. At 
+the same time care must be taken to ensure that no wires are hanged loose. 
+ Connect all modules in series & parallel conections. 
+ Use cable conductor size as given below to avoid voltage drop of the system: 
+ 
+(i) 
+For Series connection of modules – 1 X 2.5 Sq. mm PVC sheathed 
+unarmoured. 
+(ii) 
+For Parallel connection of modules – 2 X 2.5 Sq. mm PVC sheathed 
+unarmoured. 
+(iii) 
+From FJB to Charge controller and Charge controller to Battery bank – 2 
+X 10 Sq. mm PVC sheathed unarmoured. 
+ 
+ Open the junction boxes (FJBs) and remove the fuses provided inside the 
+junction boxes. 
+ 
+ 
+ 
+ Connect Battery Positive (+) and Battery Negative (-) OF Charge Controller 
+TO the Battery Bank. 
+ Next connect SPV-1 Negative (-) and SPV-1 Positive of Charge Controller. 
+ 
+ 
+ 
+ 
+ Battery connections must be given first to charge controller. 
+ Insert and replace all the fuses of junction boxes AFTER connecting all the 
+cables to Charge Controller and to the battery bank of 110 V 300AH. 
+ Do not short negative terminals of the system. 
+ All the Positive (+) and Negative (-) wires will run separately from the 
+junction boxes. 
+ 
+ 
+Note: Charge Controller will be damaged if SPV Array is connected first 
+and then the Battery bank. 
+Note: Switch ON MCB of the Charge Controller when all the connections 
+are thoroughly checked and fuses are replaced in the junction boxes. 
+Note: Switch OFF MCB of Charge Controller before any connection. 
+Go to Index
+Click for contents
+Click for contents

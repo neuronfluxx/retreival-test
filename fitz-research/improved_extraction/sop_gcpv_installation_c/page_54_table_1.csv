@@ -1,0 +1,35 @@
+5.9.,Col1,Col2,"Height of DCCB from ground/ floor
+in mm",Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11
+,6.,,,AC Distribution Box/ Board,,,,,,,
+6.1.,,,Make,,,,,,,,
+6.2.,,,Materials and IP rating,,,,,,,,
+6.3.,,,"Type and Rating of AC isolator
+between inverter and grid network",,,,,,,,
+6.4.,,,Type of and SPDs used,,,,,,,,
+6.5.,,,"Have you used one cable gland for
+one cable?",,,,,,,,
+6.6.,,,"Have you tightened the cable glands
+properly?",,,,,,,,
+6.7.,,,"Height of ACDB from ground/ floor
+in mm",,,,,,,,
+,7.,,,Metering,,,Solar meter,,,Net meter,
+7.1.,,,Make,,,,,,,,
+7.2.,,,Type and Model,,,,,,,,
+,8.,,,Safety and System Protections,,,,,,,
+8.1.,,,"Have you followed all fire safety
+norms as mentioned in the SOP for
+installation?",,,,,,,,
+8.2.,,,"Make, current and voltage rating of
+DC isolators",,,,,,,,
+8.3.,,,"Make, current and voltage rating of
+AC isolators",,,,,,,,
+8.4.,,,Earthing conductor material,,,,,,,,
+8.5.,,,Size of earthing conductor,,,,,,,,
+8.6.,,,Type of earthing rod and earth pit,,,,,,,,
+8.7.,,,"Means of equipotential bonding of
+PV module frame and mounting
+structure (WEEB/ grounding bolt/
+clamp)",,,,,,,,
+8.8.,,,"Measured Earthing Resistance (To be
+measured as a part of pre
+commissioning tests)",,,,,,,,

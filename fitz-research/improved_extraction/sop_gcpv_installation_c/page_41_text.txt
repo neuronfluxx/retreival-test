@@ -1,0 +1,54 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 36 
+(2) Protection against overcurrent: 
+Overcurrent within a PV array can result from earthing faults in array wiring or from fault currents due to 
+short circuits in modules, in junction boxes, combiner boxes or in module wiring.   
+ 
+Sizing Fault current protection device: 
+As per IEC 62548: Design requirements for photovoltaic arrays, the rating of fault current protection device 
+for each string should be 
+ 
+1.5 x ISC MOD ≤ ITRIP ≤ 2.4 x ISC MOD 
+ 
+Where, ISC MOD is the short circuit current of the module  
+ 
+According to IEC62548, over current protection devices shall be installed in both positive and negative 
+conductors. 
+ 
+(3) Protection against effects of lightning and overvoltage: 
+• 
+To protect the DC system as a whole, surge protective devices shall be fitted between active 
+conductors and the ground at the Inverter end of the DC cabling and at the array.  
+ 
+• 
+All DC cables should be installed so that positive and negative cables of the same string and the 
+main array cable are bundled together, avoiding the creation of loops in the system. The 
+requirement for bundling includes any associated earth/bonding conductors. 
+ 
+• 
+Long cables over about 50 m should be protected by a surge protective device (SPD). 
+ 
+(4) Lightning Protection System (LPS) 
+The need for a lightning protection system is to be assessed in accordance with IEC 62305-2 and, if required, 
+it should be installed in compliance with IEC 62305-3 or IS 2309. The lightning protection system must be 
+able to provide coverage for full plant.  
+ 
+According to National Building Code of India 2016, vertical air-terminals are required for protecting roof 
+mounted installations such as solar PV system. Protection angle should be considered as per Table 6 of SP7 
+(National Building Code of India 2016).  A design according to rolling sphere method should be done for 
+zone of protection (for example, 1m rod at 0.5m height from panel at four corners provides protection to 
+approximately 12m x 9m area).  Maximum height of the air- termination rod above the panel should be 
+restricted to less than 0.5m considering the influence of shadow from air-terminal.    
+ 
+According to SP7(section 11.5.1.2), air-termination components installed on a structure shall be located at 
+corners, exposed points and edges in accordance a) Protection angle method; b) Rolling sphere method; 
+and c) Mesh method. The protection angle method is suitable for simple shaped buildings but it is subject 
+to limits of air- termination height indicated in Table 6. The mesh method is a suitable form of protection 
+where plane/ pitch roof surfaces are to be protected. The rolling sphere method is suitable in all cases. Refer 
+table 6 and Figures 16, 17, 18, 19, and 20 and good practice in section 8-2(45) of SP7 (National Building 
+Code of India 2016). Table 6 and Figure 16 presented below for reference.  
+ 

@@ -1,0 +1,33 @@
+3.17.,"Warrantee against any manufacturing
+defect and violation of conformity of
+regulatory requirement",Col2
+4.,Array Structure,
+4.1.,Type of structure used,
+4.2.,Material of structure,
+4.3.,"Frame size and orientation
+(Portrait / landscape)",
+4.4.,Thickness of structure materials,
+4.5.,Type of coating,
+4.6.,"Type of grouting to RCC roof and
+size of PCC block if used",
+4.7.,"Material of fasteners
+(nuts, bolts, clamps, hooks etc.)",
+4.8.,Tilt angle,
+4.9.,"Are the modules are installed facing
+true south? If not which orientation
+and angle of deviation from true
+south.",
+4.10.,"Clearance of lowest part of structure
+to the roof in mm",
+5.,DC String Combiner Box,
+5.1.,Make,
+5.2.,Materials and IP rating,
+5.3.,Rating of DC fuses if used,
+5.4.,Rating of DC isolators,
+5.5.,Type of and SPDs used,
+5.6.,"Have you marked cable ferrules for
+polarity identification?",
+5.7.,"Have you used one cable gland for
+one cable?",
+5.8.,"Have you tightened the cable glands
+properly?",

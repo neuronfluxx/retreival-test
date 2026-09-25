@@ -1,0 +1,26 @@
+
+PDF EXTRACTION SUMMARY
+============================================================
+
+Document: Homeowners-Guide-To-Solar-PV
+Pages: 11
+
+CONTENT EXTRACTED:
+  • Text: 4740 words
+  • Images: 11 images
+  • Tables: 0 tables
+  • Links: 8 links
+  • Annotations: 0 annotations
+
+OUTPUT LOCATION: comprehensive_extraction/Homeowners-Guide-To-Solar-PV
+
+FILES GENERATED:
+  ✓ metadata.json - Document metadata
+  ✓ extraction_results.json - Complete extraction data
+  ✓ page_*_text.txt - Plain text per page
+  ✓ page_*_text.html - HTML formatted text per page
+  ✓ page_*_table_*.md - Tables in Markdown format
+  ✓ page_*_table_*.csv - Tables in CSV format (if pandas available)
+  ✓ images/ - Extracted images folder
+
+============================================================

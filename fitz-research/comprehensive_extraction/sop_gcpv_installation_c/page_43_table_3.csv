@@ -1,0 +1,8 @@
+Location,Col1,"PV Modules or
+Combiner Boxes",Col3,Col4,Inverter,Col6,Inverter AC side,Col8,Main Board,Col10
+,,,,,DC side,,,,,
+,"L
+DC",,,,,,"L
+AC",,Lightning rod,
+Criteria,< 10 m,,> 10 m,,,,< 10 m,> 10 m,Yes,No
+Type of SPD,No need,,Type 2,Type 2,,,No need,Type 2,Type 1,Type 2

@@ -1,0 +1,87 @@
+www.canadiansolar.com
+| 11
+CORRECT CONNECTION OF PLUG CONNECTORS  
+·	 Make sure that all connections are safe and 
+properly mated. The PV connector should not be 
+subjected to stress from the exterior. Connectors 
+should only be used to connect the circuit. They 
+should never be used to turn the circuit on and off. 
+·	 Connectors are not waterproof when unmated. 
+When installing modules, connector should be 
+connected to each other as soon as possible or 
+appropriate measures should be taken to avoid 
+moisture and dust penetrating into the connector.
+·	 Do not clean or precondition the connectors using 
+lubricants or any unauthorized chemical substance.
+USE OF SUITABLE MATERIALS  
+·	 Only use dedicated solar cable and suitable 
+connectors (wiring should be sheathed in a 
+sunlight-resistant conduit or, if exposed, should be 
+sunlight-resistant itself) that meet local fire, building 
+and electrical regulations. Please ensure that 
+all wiring is in perfect electrical and mechanical 
+condition.  
+·	 Installers may only use single-conductor cable 
+listed and labeled as USE-2 or PV wire which 
+is 90°C wet rated in North America, and single 
+conductor cable, 2.5-16 mm² (5-14 AWG ), 90°C wet 
+rated in other areas (i.e. TUV 2PfG1169 or EN50618 
+approved), with proper insulation which is able to 
+withstand the maximum possible system open-
+circuit voltage. 
+         
+·	 Only copper conductor material should be used. 
+Select a suitable conductor gauge to minimize 
+voltage drop and ensure that the conductor 
+ampacity complies with local regulations (i.e. NEC 
+690.8(D)).
+CABLE AND CONNECTOR PROTECTION  
+·	 Secure the cables to the mounting system using 
+UV-resistant cable ties. Protect exposed cables 
+from damage by taking appropriate precautions 
+(e.g. placing them inside a metallic raceway like 
+EMT conduit). Avoid exposure to direct sunlight.
+·	 A minimum bending radius of 60 mm (2.36 in) is 
+   required when securing the junction box cables to 
+   the racking system.
+·	 Do not place connectors in locations where water 
+could easily accumulate.
+5.2 
+GROUNDING
+·	 For grounding requirements in North America, 
+a module with exposed conductive parts is 
+considered to comply with UL 1703 only when 
+it is electrically grounded in accordance with 
+both the instructions presented below and the 
+requirements of the National Electrical Code. Any 
+grounding means used with Canadian Solar Inc. 
+modules should be NRTL certified to UL 467 and 
+UL 2703 standards. Please consult our technical 
+service team for the formal approval process.
+·	 For grounding requirements in other areas, 
+although the modules are certified to Safety Class 
+II, we recommend them to be grounded and 	
+that module installation should comply with all 
+applicable local electrical codes and regulations.
+·	 Grounding connections should be installed by a 
+qualified electrician.
+·	 Connect module frames together using adequate 
+grounding cables: we recommend using 4-14 mm² 
+(AWG 6-12) copper wire. Holes provided for this 
+purpose are identified with a grounding symbol        
+    
+ (IEC 61730-1). All conductive connection junc­
+tions must be firmly fixed.
+·	 Do not drill any extra ground holes for convenien­
+ce this will void the modules warranty.
+·	 All bolts, nuts, flat washers, lock washers and other 
+relevant hardware should be made of stainless 
+steel, unless otherwise specified. 
+·	 Canadian Solar Inc. does not provide grounding 
+hardware.
+·	 One grounding method is recommended for Ca­
+nadian Solar Inc. standard modules, as described 
+below. For alternative grounding methods, please 
+refer to Annex B (Alternative Grounding Methods) 
+of this installation manual. It may not be possible 
+to use standard grounding methods for certain 

@@ -1,0 +1,46 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 28 
+ 
+The minimum bending radius 
+cables should be 43mm 
+Incorrect routing of cable 
+Correct routing of cable 
+ 
+Figure 21: Maintain Module bending radius 
+ 
+(2) Installation of DC combiner box   
+DC combiner boxes are generally installed after installation of your PV modules.  
+ 
+Procedures to follow: 
+(1) Review the DC combiner box internal wiring diagram; 
+(2) Prepare the diagram if there is no wiring diagram; 
+(3) Check all components, such as fuses, DC isolator and SPD (Surge Protective Device); 
+(4) Ensure the cable glands are of appropriate ratings and size; 
+(5) Check IP (Ingress Protection) rating and verify if there is any violation of IP rating; 
+(6) If DC combiner box is pre-wired, check if all wiring is done in accordance with the drawings; 
+(7) Install the combiner box  in identified/ marked location; 
+(8) Install conduit for cabling; 
+(9) Keep the DC isolator in OFF position; 
+(10) Place the fuse disconnects in the open circuit condition; 
+(11) Install the SPD (surge protective device).  
+ 
+(3) Installation of DC cable from PV array to DCCB and DCCB to inverter  
+DC cables are installed after installation of DC combiner box, to connect PV arrays on one side and the 
+inverter on the other side. DC cables should be installed within the conduits or cable tray with lid.  
+ 
+Installation of DC cables shall be undertaken with care such that the possibility of line-to-line and line-to-
+earth faults occurring is minimised. All connections shall be verified for tightness and polarity during 
+installation to reduce the risk of faults and possible arcs during commissioning, operation and future 
+maintenance.  
+ 
+Particular attention needs to be given to ensure the protection of wiring systems against external influences 
+and all cables must be protected from mechanical damage. 
+ 
+ 
+ 
+  
+ 

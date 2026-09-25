@@ -1,0 +1,61 @@
+www.canadiansolar.com
+| 13
+·	 In cases where an additional support bar is 
+recommended to improve both mechanical 
+stability and long-term module performance, we 
+recommend selecting a sufficiently resistant 	
+material. Canadian Solar Inc. recommends bars 
+with a minimum thickness of 50 mm (1.97 in). 
+The support bar centerline should be positioned 
+within 100 mm (3.94 in) of the side frame centerline 
+(slight shifts may be necessary to access module 
+grounding holes).
+·	 The loads described in this manual correspond 
+to test loads. For installations complying with IEC  
+61215-2: 2016 and UL 1703, a safety factor of 1.5 
+should be applied for calculating the equivalent 
+maximum authorized design loads. Project design 
+loads depend on construction, applicable standards, 
+location and local climate. Determination of the 
+design loads is the responsibility of the racking 
+suppliers and / or professional engineers. For 
+detailed information, please follow local structural 
+code or contact your professional structural 
+engineer.
+6.1  
+MOUNTING METHOD: BOLTING
+·	 This mounting method has been qualified by 
+Canadian Solar Inc. as well as certified by VDE. and 
+CSA. 
+·	 Modules should be bolted to supporting structures 
+through the mounting holes in the rear frame 
+flanges only.
+·	 Each module must be securely fastened at a 
+minimum of 4 points on two opposite sides.
+      
+   M8 X 1.25 - Grade 8.8 (5/16”-18 Grade B7) 
+galvanized or A2-70 stainless steel bolt and nut 
+should be used. 
+   The yield strength of bolt and nut should not be 
+less than 450 MPa.
+·	 Tightening torques should be 17~23 Nm (12.5~17.0 
+ft-lbs) respectively for M8 (5/16”-18) coarse thread 
+bolts, depending on bolt class. 
+·	 In areas with heavy wind loads, additional 
+mounting points should be used. The system 
+designer and the installer are responsible for 
+correctly calculating the loads and ensuring that 
+the supporting structure meets all the applicable 
+requirements. 
+Mounting method: Bolting
+·	 Modules should be bolted at the following hole 
+locations depending on the configuration and 
+loads:
+Bolt
+Frame
+Nut
+Spring
+Washer
+Washer
+Washer
+Rail

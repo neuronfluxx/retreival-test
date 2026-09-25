@@ -1,0 +1,8 @@
+<!-- Extracted using strategy: lines_strict -->
+
+|scraping<br>and<br>cleaning|Hands on<br>session 2 -<br>Data<br>cleaning<br>and<br>preparatio<br>n|Hands on<br>session 2<br>Data<br>cleaning<br>and<br>preparatio<br>n|session 2<br>- Data<br>cleaning<br>and<br>preparati<br>on|Col5|Col6|
+|---|---|---|---|---|---|
+|10:45:<br>Morning<br>break|12:00 –<br>13:00:<br>Hands on<br>session 3 -<br>Training<br>machine<br>learning<br>models|12:00 –<br>13:00:<br>Hands on<br>session 3 -<br>Training<br>machine<br>learning<br>models|12:00 –<br>13:00:<br>Hands on<br>session 3<br>- Training<br>machine<br>learning<br>models|11:15 – 12:00:<br>Hands on session<br>3 - Training<br>machine learning<br>models|11:15 – 12:00:<br>Hands on session<br>3 - Training<br>machine learning<br>models|
+|11:15: Step<br>2: Define<br>your control<br>population<br>with data<br>machine 1|13:00 –<br>14:00:<br>Lunch<br>break|13:00 –<br>14:00:<br>Lunch<br>break|13:00 –<br>14:00:<br>Lunch<br>break|12:00 – 13:00:<br>Hands on session<br>4 - Evaluating<br>machine learning<br>models|12:00 – 13:00:<br>Hands on session<br>4 - Evaluating<br>machine learning<br>models|
+|12:00: Step<br>3: First look<br>AST with<br>data<br>machine 2|14:00 –<br>15:00<br>Hands on<br>session 4 -<br>Evaluating<br>machine<br>learning<br>models|14:00 –<br>15:00:<br>Hands on<br>session 4 -<br>Evaluating<br>machine<br>learning<br>models|14:00 –<br>15:00:<br>Hands on<br>session 4<br>and 5 -<br>Evaluatin<br>g <br>machine<br>learning<br>models<br>and<br>testing<br>our<br>models<br>with new<br>data and|13:00 – 14:00:<br>Lunch break|13:00 – 14:00:<br>Lunch break|
+

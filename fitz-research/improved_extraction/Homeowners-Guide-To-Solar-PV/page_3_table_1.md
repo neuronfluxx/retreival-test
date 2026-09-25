@@ -1,0 +1,51 @@
+<!-- Extracted using strategy: text -->
+
+|Figure 1: Sol|ar|PV arrang|ement inc|luding inve|rter a|nd batte|ry.|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|<br>**Considerations**||||||||||||
+|**When to invest**||||||||||||
+|||||||||||||
+|Before considering an investment|in|solar techn|ologies, it|is also impo|rtant t|o assess|the ene|rg|y|p|erformance|
+|||||||||||||
+|of the whole home. We recommen|d|the followi|ng approa|ch to impro|ve the|comfort|of your|h|om||e and|
+|||||||||||||
+|reduce your carbon footprint:||||||||||||
+|||||||||||||
+|1. Ensure your home has a g|oo|d energy p|erformanc|e rating (BE|R). Thi|s means i|nsulati|ng|w|a|lls and attic|
+|||||||||||||
+|and ensuring that you hav|e|good doub|le or triple|-glazed win|dows.|||||||
+|||||||||||||
+|2. Upgrade your heating sys|te|m by install|ing a heat|pump.||||||||
+|||||||||||||
+|3. Consider Solar PV or Solar|T|hermal.||||||||||
+|||||||||||||
+|**Roof orientation**||||||||||||
+|||||||||||||
+|•<br>The most suitable roof is sout|h-f|acing and|generates|the most ele|ctricit|y. Howev|er, any|ro|of|i|n good|
+|||||||||||||
+|condition with no shading cou|ld|work well.|Shadows|on solar pan|els can|greatly|reduce|th|eir||ability to|
+|||||||||||||
+|generate electricity, especially|th|ose caused|by object|s less than 1|0 met|ers from|the pan|el|s.|||
+|||||||||||||
+|•<br>Solar panels are expected to la|st|over 20 ye|ars. Your i|nstaller shou|ld che|ck that y|our roo|f i|s i|n|good|
+|||||||||||||
+|condition for a PV system.||||||||||||
+|||||||||||||
+|•<br>Installing solar panels on your|ro|of will typi|cally mean|that additio|nal tim|ber roo|f suppo|rt|ne|e|ds to be|
+|||||||||||||
+|added to your roof. The solar|pa|nel racking|system is|attached to|these|new timb|er sup|o|rts|.||
+|||||||||||||
+|**Sizing the Array**||||||||||||
+|||||||||||||
+|The size of the Solar PV system yo|u|purchase w|ill depend|on several f|actors,|||||||
+|||||||||||||
+|•<br>amount of electricity you use i|n|your home|.|||||||||
+|||||||||||||
+|•<br>Time of day you are at home||||||||||||
+|||||||||||||
+|•<br>Orientation of your roof||||||||||||
+|||||||||||||
+|•<br>Available area: the available ro|of|area may|restrict the|system size|, partic|ularly in|smaller|h|o|m|es.|
+|||||||||||||
+|•<br>Self-consumption: for a given|ins|tallation t|he more of|the energy|that ca|n be use|d on sit|e|th|e|better.|
+

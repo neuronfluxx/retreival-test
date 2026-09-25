@@ -1,0 +1,45 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 22 
+Important to Note: 
+Horizontally stacking the modules causes stress on the modules at the bottom and can lead to 
+micro-cracks that will be not be detected by naked eyes. Even if the separators are used, they 
+are not strong and wide enough to sufficiently separate the modules from each other, thus the 
+upper layers of the stack cause weight stress towards the lower layers that leads to micro-
+cracks in the cells. 
+ 
+(2) Loading, transport and unloading: 
+• 
+Modules may be damaged externally or internally, causing micro cracks while loading, transport 
+and unloading. Any external damage or breakage is visible but internal damage to cells is not visible 
+by naked eye and therefore precaution during loading, transportation and unloading should not be 
+underestimated if there is no visible damage to the modules.  
+ 
+• 
+To avoid breakage and micro-cracks during loading, transportation and unloading of modules, the 
+modules must be packaged properly even if the distance of travel is short.  Rough handling during 
+loading and unloading and walking on the package must be avoided. While carrying the modules 
+in a truck on a bumpy road, the speed of the truck must be controlled and kept at minimum to avoid 
+vibration and jerking.  
+ 
+ 
+ 
+Correct way of unpacking of PV modules 
+Correct way of carrying PV modules 
+ 
+Figure 15:Correct way of unpacking carrying PV modules 
+ 
+• 
+PV modules should be unpacked in the vertical manner as shown in the diagram by two persons. 
+Also, care should be taken to avoid falling over of one module onto the other inside the packaging 
+box. 
+• 
+Do NOT use a knife to cut the zip-ties, instead, use wire cutting pliers 
+ 
+(3) Storage of PV modules: 
+• 
+Similar to packaging, solar modules should be stacked, packed and stored vertically and separators 
+should be placed between each module. Horizontal stacking and storing should be avoided.   

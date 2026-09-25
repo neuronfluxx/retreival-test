@@ -1,0 +1,41 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 6 
+Tasks to be performed during site survey: 
+ 
+(1) Determine PV array location conducting shadow analysis: 
+• 
+Carry out shadow analysis to find the area which is free from shadow in all days of the year  
+• 
+Ensure that the PV array will have safe access for maintenance and fire safety 
+• 
+Ensure that PV array has ample space for air cooling  
+• 
+Ensure that modules are protected from theft and vandalism 
+ 
+Conduct shadow analysis at site: 
+Objects that come in the path of the incident solar rays any time during the day, will cast shadows and hence 
+reduce the solar generation. A taller object located in the east direction would cast shadows during morning 
+and a taller object located on the west direction would cast shadows during the afternoon.  When multiple 
+rows are placed, one row can cast shadow on the other if not properly placed. 
+ 
+Important to Note: 
+• 
+Shading does not only lead to lower generation but can also damage the PV modules 
+over a period of time 
+ 
+• 
+Objective of shading analysis should not end with loss estimation but to understand and 
+review unavoidable shadow and select appropriate inverter and optimize string design 
+to minimize loss due to shadow.  
+ 
+ 
+Shadow from nearby wall 
+Shadow from mumty 
+Figure 2: A small shadow during noon hours may have major impact on plant performance 
+ 
+ 
+ 

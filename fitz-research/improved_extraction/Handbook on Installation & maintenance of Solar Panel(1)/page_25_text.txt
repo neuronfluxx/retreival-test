@@ -1,0 +1,51 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+18 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+No. of Structures = Total No. of Modules /  No. of Modules on single unit of  st. 
+ 
+Group of panels connected through junction box will make Array.  
+ 
+While designing structure provision for future growth should be considered  
+ 
+        
+2.3.9 Wiring 
+Selecting the correct size and type of wire will enhance the performance and reliability of 
+PV system. The size of the wire must be large enough to carry the maximum current 
+expected without undue voltage losses.  
+All wire has a certain amount of resistance to the flow of current. This resistance causes a 
+drop in the voltage from the source to the load. Voltage drops cause inefficiencies, 
+especially in low voltage systems (12V or less).  
+Typical Values of Module current and voltages are provided by the manufacturer. 
+Based on system voltage and current decide size of wire/cable to be used for module 
+interconnection. 
+Calculate output current and voltage of the panel and decide specifications of wire/cable 
+for panel interconnection. Always use minimum possible wire lengths. 
+Always use suitable lugs, connecters etc for connection.  
+Decide number and type of switches, fuses and circuit breakers as per load, system and 
+user requirement. 
+ 
+ 2.4   Sample system design 
+          The designing of a system can be better understood by the following example: 
+ 
+      Step 1: Determine the DC load  
+      DC load of a device 1 = No. of DC devices X Device Watts X Hours of daily use 
+                                       = DC Watt Hours per Day (1) 
+       
+      Similarly calculate the DC load of other devices. 
+       
+      Suppose Total DC Watt Hours per Day of such devices = [A] 
+       
+     Step 2: Determine the AC load and convert to DC 
+     AC load of a device 1 = No. of AC devices X Device Watts X Hours of daily use 
+                                     = AC Watt Hours per Day (1) 
+ 
+      Similarly calculate the AC load of other devices. 
+      Suppose Total AC Watt Hours per Day of such devices = (B) 
+      Divide by 0.9 (Inverter, losses) to convert into DC 
+      Suppose Total DC Watt Hours per Day of such devices = [B] 
+ 
+     
+Click for contents
+Click for contents

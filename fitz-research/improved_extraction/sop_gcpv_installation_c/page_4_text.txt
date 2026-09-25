@@ -1,0 +1,52 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+ 
+                  
+ 
+Page | iv 
+About this handbook: 
+This handbook on “Standard Operating Procedure for Installation of Grid Connected Rooftop Solar 
+Photovoltaic Systems” has been compiled with the help of different training materials and resources 
+available at the GSES library, reference of relevant IEC and BIS standards and GSES India’s in-house 
+expertise and experience. 
+ 
+This handbook has been specifically prepared to support the implementation of residential grid 
+connected rooftop solar PV systems in the state of Assam. Therefore, technical information, installation 
+procedures and instructions given in the handbook are largely applicable and adequate for small grid 
+connected rooftop solar PV systems to be implemented in the state of Assam.  
+ 
+This handbook provides safety guidelines and step-by-step installation and commissioning procedures 
+of grid connected rooftop PV systems in line with relevant IEC and BIS standards, CEA regulations 
+and international best practices guidelines to ensure reliable system performance and electrical, 
+mechanical and personal safety. Technical information and approach of this handbook is based on the 
+predominantly available commercial technologies and components. Technologies such as - 
+concentrating photovoltaic (CPV), bifacial PV modules and PV thermal hybrid collectors have not been  
+considered. 
+ 
+The installation procedures include twelve steps as below. These steps should be followed in sequence.   
+ 
+Step 1: Site survey and shadow analysis 
+Step 2: Installation of  PV array mounting structure 
+Step 3: Installation and testing of structure earthing system 
+Step 4: Installation of PV modules 
+Step 5: Earthing of PV module frames 
+Step 6: DC cabling 
+Step 7: AC cabling and installation of inverter 
+Step 8: System protection and safety 
+Step 9: Placing of signage 
+Step 10: Pre-commissioning tests 
+Step 11: Commissioning the system 
+Step 12: Anti-Islanding functionality test 
+ 
+The main desired outcome of this manual is to facilitate the engineers and developers to ensure effective 
+and quality installation of grid connected rooftop solar PV systems as per international best practices 
+and standards to ensure safety, performance and reliability. 
+ 
+We hope that this ready to practice handbook for solar photovoltaic engineers and developers will 
+enhance their existing skills for effective and quality installation of grid connected rooftop solar PV 
+systems, enabling them to generate a profitable business with better performance and reliability.   
+ 
+ 

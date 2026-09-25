@@ -1,0 +1,43 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+3 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+5. System design suited to monsoon and low light condition thus ensuring failure free 
+operation of the signalling gears throughout the year. 
+ 
+1.6  Photo Voltaic effect 
+Electricity can be generated directly from sunlight, by a process called photovoltaic effect, 
+which is defined as the generation of an electromotive force as a result of the absorption of 
+ionizing radiation. The photo voltaic effect can be observed in almost any junction of 
+material that have different electrical characteristics, but the best performance to date has 
+been from solar cells made of Silicon.  
+ 
+ 
+ 
+Fig.1.1: Photo Voltaic effect 
+ 
+1.7  Solar Cell: Construction & Working 
+The basic building block of a photovoltaic system is the Solar Cell, a semiconductor device 
+having a simple p-n junction and which when exposed to sunlight produces DC electricity. 
+The solar cell is made up of “Semi-Conductor” materials that are processed to make the 
+device photovoltaic. The solar cell is made of single crystal silicon, polycrystalline and 
+amorphous Silicon with an area of a few sq. centimeters to 200 sq. centimeters and even 
+more. A thin p type silicon wafer is taken through phosphorus diffusion process and by 
+screen-printing technology electrodes are made. The P-N junction of the solar cell gives rise 
+to diode characteristics. Hence a solar cell is a PN junction device on which front and back 
+electrical contacts are screen-printed. A sketch of typical psuedo-square solar cell is shown 
+in Fig.2 (a) & (b). The side, which has negative polarity, is taken as front side and that 
+which has positive polarity is taken as backside. The front or Negative side is exposed to 
+sunlight for conduction to take place. Two Tinned copper strips work as terminal leads for 
+interconnection to other cells. For collection of charge from the cell and conduction to 
+terminal leads on negative side, Silver Oxide lines are screen printed horizontally and these 
+are joined to terminal leads at close spacing (refer Fig 2 a). These lines cover only 5% of the 
+total area of the cell, so that these do not pose any hindrance to the exposure of Sunrays. The 
+back or Positive side is not exposed to sunlight; hence Aluminium is coated on whole 
+surface for better conductivity (refer Fig 2 b). Aluminium is coated instead of Silver Oxide 
+as latter is expensive hence not economical. The operation of solar cells involves these 
+major processes: 
+ 
+Click for contents
+Click for contents

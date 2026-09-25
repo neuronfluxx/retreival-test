@@ -1,0 +1,53 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+12 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ 
+        Conversion Efficiency  
+         The ratio of the maximum power to the product of area and irradiance expressed as a 
+percentage. 
+ n   =   Maximum power   x 100% 
+   
+ 
+           Area x irradiance   
+ 
+2.2    General & Technical requirements for Solar Photo Voltaic Module 
+         Following are the general and technical requirements of solar photovoltaic module for use 
+in Railway S&T installation for the correctness of its material, design and electrical 
+characteristics as per IRS specification IRS:S 84-92  
+ 
+2.2.1 General Requirements 
+         The solar module for the purpose of this specification shall consist of the following three 
+main components: 
+ 
+(i) Toughened front glass. 
+(ii) A suitable mounting frame. 
+(iii)An assembly of suitably interconnected, silicon solar cells working on the principle of 
+photovoltaic conversion of sunlight into electricity. 
+ 
+The silicon wafers cut from the large crystal shall be polished and necessary chemical 
+treatment shall be given to achieve requisite surface characteristics for optimum efficiency 
+of individual cells. 
+ 
+P-N junction on individual wafer shall be made by injecting impurity (phosphorous or any 
+other suitable material) by diffusion process. 
+ 
+         The solar cells required to form a module shall be connected in series/ parallel through 
+tinned copper foils.  These shall be mounted behind a high transparency, toughened glass 
+front surface.  Two thin transparent films of suitable plastic material, preferably (Ethylene 
+Vinyl Acetate) shall be interposed between the solar cell layer and the front glass and the 
+solar cell layer and the back plastic laminate. This assembly shall then be kept in a 
+temperature controlled oven at a suitable temperature, so that the above assembly becomes 
+a solid mass with the cells protected against corrosion, moisture, pollution and weathering. 
+ 
+         The transparency of toughened glass used shall not be less than 91%.  A certificate to this 
+effect shall be submitted by the supplier.  A copy of test results from a recognized test 
+house or their own laboratory shall be submitted at the time of type approval. 
+ 
+         The complete solar module shall be sealed in an Anodized Aluminium Frame with RTV 
+silicon rubber compound filling around the edges to give further moisture barrier and shock 
+resistance. 
+ 
+Click for contents
+Click for contents

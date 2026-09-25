@@ -1,0 +1,81 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 41 
+2.10 Step 10: Pre-commissioning tests 
+After completion of installation process, a pre-commissioning test has to be performed. Conducting a pre-
+commissioning test is very important to ensure there are no wrong connections in the system.   
+ 
+Procedure to follow in sequence: 
+(1) Ensure that the PV arrays (string or strings) are in segments (maintain below 70V).  
+(2) Remove the string fuses if installed.  
+(3) Make sure that isolators and circuit breakers are in the ‘OFF’ position. 
+(4) Ensure that the PV array DC isolator and inverter AC isolator are in the ‘OFF’ position.  
+(5) Ensure that the inverter is turned OFF. 
+(6) Measure and confirm that no voltage is present across any string. 
+(7) Measure and confirm that no voltage is present on the output side of the DC combiner box. 
+(8) Check continuity of cables and complete the array cabling. 
+(9) Confirm that the polarity of each of the array connections is correct.  
+(10) Measure and record the open circuit voltage of each string as shown in the table below.  
+(11) Measure irradiance, ambient temperature and cell temperature at the same time. 
+(12) Observe variation between effective (string) voltage and measured (string) voltage.  
+(13) If there is a variation greater than 5% in VOC (open circuit voltage) then investigate the problem.  
+(14) Check the polarity at the input to the PV array DC isolator. 
+(15) Measure and record the open circuit voltage (Voc) at the input to the DC isolator. 
+(16) Check the polarity and continuity between the PV array DC isolator and the inverter. 
+(17) Check the continuity between the inverter and the inverter AC isolator. 
+(18) Check the continuity between the kWh meter and the inverter AC isolator. 
+(19) Measure the voltage of the grid on the output (grid side) of the inverter AC isolator. 
+(20) Measure the resistance of the earth system. 
+(21) Conduct insulation testing of AC and DC cables  
+ 
+Format of table to record string voltage:  
+String 
+No. 
+Irradiance 
+(W/m2) 
+Ambient 
+Temp 
+(oC) 
+Cell 
+Temp 
+(oC) 
+VOC 
+Effective 
+(V) 
+VOC 
+Measured 
+(V) 
+Variation 
+of VOC 
+(%) 
+Acceptable 
+(Yes/ No) 
+String 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+String 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+String 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

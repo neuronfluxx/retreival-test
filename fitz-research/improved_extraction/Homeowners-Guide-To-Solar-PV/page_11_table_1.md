@@ -1,0 +1,83 @@
+<!-- Extracted using strategy: text -->
+
+|Another simpl|e|me|asure is to|install a|‘div|erter switc|h’ w|hich diverts any|unused|electricity|to he|at your ho|t|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||
+|water in your i|m|me|rsion tank.|In this|way,|some of th|e en|ergy generated i|s stored|as hot wa|ter, w|hich you||
+|||||||||||||||
+|can use later.||||||||||||||
+|||||||||||||||
+|Finally, a more||com|plicated o|tion is t|o ins|tall a PV s|yste|m that does not|face sou|th but fac|es we|st or east.||
+|||||||||||||||
+|This will provid||e m|ore energy|in the m|orni|ng or the|eveni|ng when you ha|ve a gre|ater dema|nd to|use it.||
+|||||||||||||||
+|However, an e|a|st-|or west-fac|ing PV s|yste|m will gen|erate|less energy ove|r the yea|r than a s|outh-|facing||
+|<br>system.||||||||||||||
+|**_13. What abo_**|**_ u_**|**_ t a_**|**_   battery st_**|**_    orage s_**|**_     yste_**|**_     m?_**||||||||
+|||||||||||||||
+|This is a more|c|om|plex way of|storing|any|potential e|xpo|rted electric ener|gy. Add|ing a batt|ery to|your sola|r|
+|||||||||||||||
+|PV system me|a|ns t|he battery|will char|ge w|hen the P|V sys|tem is generatin|g electri|city that is|n't b|eing used,||
+|||||||||||||||
+|and then disch|a|rge|when you|need it|next|(normally|that|evening/night).|A batter|y can incre|ase t|he||
+|||||||||||||||
+|percentage of|s|ola|r PV electric|ity you|use i|n your hou|se.|However, adding|a batter|y to the s|ystem|will||
+|||||||||||||||
+|increase the c|os|t o|f the PV sys|tem, an|d so|me energy|is lo|st in the battery|during t|he charge|and|discharge||
+|||||||||||||||
+|cycle. A batter|y|can|potentiall|y allow y|ou t|o ‘grid shif|t’ wh|ere you store po|wer in b|atteries a|t a ch|eaper nig|ht|
+|||||||||||||||
+|rate for examp|l|e an|d consume|that en|ergy|later in th|e da|y.||||||
+|||||||||||||||
+|**_14. What sup_**|**_ p_**|**_ ort_**|**_ s are there_**|**_    for sol_**|**_     ar PV_**|**_       in home_**|**_        s?_**|||||||
+|||||||||||||||
+|There are SEAI||gra|nt supports|for dom|esti|c solar PV i|nsta|llations. Grant su|pport is|available|for P|V systems|up|
+|||||||||||||||
+|to 4kWp, but t|h|is d|oes not lim|it the si|ze of|your insta|llati|on to 4kWp.||||||
+|||||||||||||||
+|**_15. Is there a_**||‘**_fee_**|**_d-in tariff_**|’**_ payme_**|**_ nt f_**|**_  or excess s_**|**_    olar_**|**_     electricity fed i_**|**_       nto the_**|**_         grid by o_**|**_           wner_**|**_           s of solar_**||
+|||||||||||||||
+|**_PV system_**|**_ s_**|**_ ?_**||||||||||||
+|||||||||||||||
+|Yes, this is the|C|lea|n Export G|uarante|e (CE|G) introdu|ced a|s part of the Mi|crogene|ration Sup|port|Scheme||
+|||||||||||||||
+|(MSS) in 2022.||This|essentially|means|that|homeown|ers g|et paid for the e|xcess en|ergy gene|rated|from the|PV|
+|||||||||||||||
+|system that is|n|ot|used in the|home a|nd is|therefore|expo|rted back into t|he grid.|To avail of|this|your instal|ler|
+|||||||||||||||
+|will need to su|b|mit|an NC6 to|ESB net|work|s and you|will|need to have a s|mart me|ter install|ed. Fo|r more||
+|||||||||||||||
+|information o|n|the|CEG, you w|ill need|to r|efer to you|r ele|ctricity provider.||||||
+|||||||||||||||
+|**_16. Does my r_**|**_  o_**|**_  oft_**|**_  op PV syst_**|**_    em req_**|**_     uire_**|**_      maintena_**|**_      nce?_**|||||||
+|||||||||||||||
+|PV systems ar|e|low|maintenan|ce, but|not z|ero maint|enan|ce. The most im|portant|aspect is t|o mo|nitor the||
+|||||||||||||||
+|performance o|f|yo|ur system r|egularly.|This|could sim|ply b|e a routine chec|k of you|r inverter|to se|e that the||
+|||||||||||||||
+|system is oper|a|tion|al (e.g., no|red blin|king|lights) an|d tha|t the energy met|er is inc|reasing ea|ch d|ay.||
+|||||||||||||||
+|You should ge|t|an|idea from y|our inst|aller|about how|mu|ch the PV system|should|generate|each|year and||
+|||||||||||||||
+|see that your s|y|ste|m is genera|ting clo|se to|that amo|unt.|Some suppliers w|ill provi|de you wi|th ac|cess to thi|s|
+|||||||||||||||
+|information vi|a|you|r smartpho|ne. The|mos|t common|poi|nt of failure is th|e inverte|r, which m|ay n|eed to be||
+|||||||||||||||
+|replaced at so|m|e p|oint in the|PV syst|em’s|lifetime.||||||||
+|||||||||||||||
+|The solar pane|l|s th|emselves a|re extre|mely|robust, bu|t co|nsideration shou|ld be giv|en to clea|ning|them ever|y|
+|||||||||||||||
+|few years to m|a|int|ain their pe|rforman|ce. If|you live n|ear t|he sea or a main|road m|ore regula|r clea|ning may||
+|||||||||||||||
+|be necessary.||||||||||||||
+|||||||||||||||
+|**17. ****_What is t_**|**_  h_**|**_  e di_**|**_   fference b_**|**_    etween_**|**_     dom_**|**_     estic and_**|**_       non-_**|**_       domestic solar_**|**_         PV sche_**|**_          mes?_**||||
+|||||||||||||||
+|The domestic|s|olar|PV scheme|is only|ope|n to home|s tha|t have a domesti|c MPRN|.   If you h|ave a|non-||
+|||||||||||||||
+|domestic MPR|N|(y|our electric|ity bill fo|r thi|s) you will|have|to apply for the|non-do|mestic so|lar PV|scheme.||
+|||||||||||||||
+|This is typicall||for|farms and|commer|cial b|uildings.|Ther|e are different cr|iteria an|d grant va|lues|for the no|n-|
+|||||||||||||||
+|domestic sche|m|e,|please refer|to the|SEAI|website fo|r fur|ther information|.|||||
+

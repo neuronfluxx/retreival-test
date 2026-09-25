@@ -1,0 +1,67 @@
+<!-- Extracted using strategy: text -->
+
+|Recurrent model|s typically factor c|omputation along th|e symb|ol position|s of the i|nput and output|
+|---|---|---|---|---|---|---|
+|sequences. Align|ing the positions to|steps in computatio|n time|, they gene|rate a seq|uence of hidden|
+|states_ ht_, as a fun|ction of the previou|s hidden state_ ht−_1|and the|input for p|osition_ t_.|This inherently|
+|sequential nature|precludes paralleliz|<br>   ation within training|<br>      examp|les, which|becomes c|ritical at longer|
+|sequence lengths|, as memory constra|ints limit batching a|cross|examples.|Recent wo|rk has achieved|
+|signiﬁcant impro|vements in computa|tional efﬁciency thro|ugh fac|torization t|ricks [18]|and conditional|
+|computation [26|], while also impro|ving model perform|ance in|case of th|e latter. T|he fundamental|
+|constraint of seq|uential computation|, however, remains.|||||
+|<br>|<br>|<br>|||||
+|Attention mecha|nisms have become|an integral part of c|ompelli|ng sequenc|e modelin|g and transduc-|
+|tion models in va|rious tasks, allowin|g modeling of depe|ndenci|es without r|egard to t|heir distance in|
+|the input or outp|ut sequences [2, 16].|In all but a few case|s [22],|however, s|uch attenti|on mechanisms|
+|are used in conju|nction with a recurr|ent network.|||||
+|<br>|<br>|<br>|||||
+|In this work we|propose the Transf|ormer, a model arch|itectur|e eschewin|g recurre|nce and instead|
+|relying entirely|on an attention mec|hanism to draw glob|al dep|endencies b|etween in|put and output.|
+|The Transformer|allows for signiﬁca|ntly more paralleliz|ation a|nd can reac|h a new st|ate of the art in|
+|translation qualit|y after being trained|for as little as twel|ve hou|rs on eight|P100 GPU|s.|
+|<br><br>|<br>||||||
+|**2**<br>**Backgrou**|**nd**||||||
+||||||||
+|The goal of redu|cing sequential com|putation also forms t|he fou|ndation of t|he Extend|ed Neural GPU|
+|[20], ByteNet [15|] and ConvS2S [8],|all of which use con|volutio|nal neural n|etworks a|s basic building|
+|block, computing|hidden representati|ons in parallel for all|input|and output p|ositions.|In these models,|
+|the number of op|erations required to|relate signals from t|wo arbi|trary input|or output|positions grows|
+|in the distance be|tween positions, lin|early for ConvS2S a|nd loga|rithmically|for Byte|Net. This makes|
+|it more difﬁcult|to learn dependenc|ies between distant|positi|ons [11]. I|n the Tran|sformer this is|
+|reduced to a con|stant number of op|erations, albeit at th|e cost|of reduced|effective|resolution due|
+|to averaging atte|ntion-weighted pos|itions, an effect we|count|eract with|Multi-He|ad Attention as|
+|described in sect|ion 3.2.||||||
+|<br>|<br>||||||
+|Self-attention, so|metimes called intra|-attention is an atten|tion m|echanism r|elating dif|ferent positions|
+|of a single seque|nce in order to com|pute a representatio|n of th|e sequence|. Self-att|ention has been|
+|used successfull|y in a variety of task|s including reading|compr|ehension, a|bstractive|summarization,|
+|textual entailmen|t and learning task-|independent sentenc|e repre|sentations|[4, 22, 23|, 19].|
+|<br>|<br>|<br>|<br>|<br>|<br>|<br>|
+|End-to-end mem|ory networks are b|ased on a recurrent|attenti|on mechan|ism inste|ad of sequence-|
+|aligned recurrenc|e and have been sho|wn to perform well|on sim|ple-languag|e question|answering and|
+|language modeli|ng tasks [28].||||||
+|<br>|<br>||||||
+|To the best of o|ur knowledge, how|ever, the Transform|er is t|he ﬁrst tra|nsduction|model relying|
+|entirely on self-a|ttention to compute|representations of i|ts inpu|t and outpu|t without|using sequence-|
+|aligned RNNs or|convolution. In the|following sections,|we wil|l describe t|he Transf|ormer, motivate|
+|self-attention an|d discuss its advanta|ges over models suc|h as [1|4, 15] and|[8].||
+|<br><br>|<br>||||||
+|**3**<br>**Model Ar**|** chitecture**||||||
+|<br>|<br>||||||
+|Most competitiv|e neural sequence tr|ansduction models h|ave an|encoder-de|coder stru|cture [5, 2, 29].|
+||||||||
+|Here, the encod|er maps an input s|quence of symbol|repres|ntations (|1_, ..., xn_|to a sequence|
+||||||||
+|of continuous r|presentations **z** =|(_z_1_, ..., zn_). Give|**z**, th|decoder t|hen gene|rates an output|
+||||||||
+|sequence (_y_1_, ..._|_  ym_) of symbols o|e element at a time|At ea|ch step the|model is|auto-regressive|
+|[9], consuming t|he previously gener|ated symbols as add|itional|input when|generatin|g the next.|
+|<br>|<br>|<br>|<br>|<br>|<br>|<br>|
+|The Transformer|follows this overal|l architecture using|stacke|d self-atten|tion and p|oint-wise, fully|
+|connected layers|for both the encod|er and decoder, sho|wn in t|he left and|right hal|ves of Figure 1,|
+|<br>respectively.<br><br>|<br>||||||
+|**3.1**<br>**Encoder a**|** nd Decoder Stacks**||||||
+|<br>|<br>||||||
+|**Encoder:**<br>The|encoder is compos|ed of a stack of _N_|= 6 i|dentical lay|ers. Eac|h layer has two|
+|sub-layers. The|ﬁrst is a multi-head|self-attention mech|anism,|and the sec|ond is a s|imple, position-|
+

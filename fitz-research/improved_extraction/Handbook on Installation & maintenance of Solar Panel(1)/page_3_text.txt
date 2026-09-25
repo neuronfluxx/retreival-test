@@ -1,0 +1,36 @@
+                                   PREFACE 
+ 
+     On Indian Railways, Solar Panels have been installed at many stations in non-
+RE area where grid power supply is not available round the clock or not available 
+at all. To impart knowledge about solar panel to the railway supervisors and 
+maintainers, CAMTECH had prepared a maintenance handbook on Solar Panel in 
+the year 2006. The technology is changing rapidly in every field and over the years 
+there have been changes in the field of solar power technology too. To acquaint the 
+field personnel with latest information, the handbook was taken up for review. 
+ 
+      The current version of the handbook covers revised information on solar panel, 
+its installation, maintenance and troubleshooting and supersedes the earlier version. 
+A new section covering ‘Designing a Solar Photovoltaic System’ is also being 
+added to help field engineers in deciding the number of Solar panels and battery 
+capacity.  
+ 
+      We are sincerely thankful to Shri S. Bandopadhyay, Sr.D.S.T.E./Bhopal/WC 
+Rly., his sectional supervisors and maintainers who have helped us in preparing 
+this handbook. We are also sincerely thankful to Shri A.K.Harnal, Asstt. General 
+Manager SP (Marketing) from M/s Central Electronics Ltd., Sahibabad who have 
+provided the latest information on the subject and helped us in reviewing the 
+handbook. 
+ 
+     Since technological upgradation and learning is a continuous process, you may 
+feel the need for some addition/modification in this handbook. If so, please give 
+your comments on email address dirsntcamtech@gmail.com or write to us at 
+Indian Railways Centre for Advanced Maintenance Technology, In front of 
+Adityaz Hotel, Maharajpur, Gwalior (M.P.) 474005.   
+ 
+ 
+ 
+ CAMTECH Gwalior                                                             D.K.M.Yadav 
+ Date: 29.11.2013                                                           Jt .Director (S&T) 
+                                        
+Click for contents
+Click for contents

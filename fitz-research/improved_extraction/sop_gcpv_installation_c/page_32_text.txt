@@ -1,0 +1,36 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 27 
+Follow the steps below in sequence for module wiring or stringing: 
+(1) Review the DC cable wiring diagram; 
+(2) Review module interconnection (string or series) diagram; 
+(3) Check that there isn’t any bare cable in module wire; 
+(4) Connect DC cable connector (MC4 or equivalent) properly with crimping tool; 
+(5) Connect number of modules in series in accordance with the wiring diagram provided; 
+(6) Attach the cables with cable tie wraps to the module frame and/or rails;  
+(7) Ensure minimum looping in cable; 
+(8) Ensure NO cable is hanging loose; 
+(9) Label the terminals with “+” and “-”sign using cable tag. 
+ 
+Four important instructions to follow: 
+(1) Always verify the voltage and polarity of each individual string before making a 
+parallel connection. Electrical and electronic components can be irreparably damaged 
+if an array string is connected in reverse polarity to another. 
+ 
+(2) If you measure a reversed polarity or a difference of more than 10V between strings 
+then check the string configuration before making the connection. 
+ 
+(3) Minimize the area of conductive loops to reduce the magnitude of lightening-induced 
+overvoltage as shown in the figure below. 
+ 
+(4) Keep bending radius of cables more than 40mm or as recommended by module 
+manufacturer. Maintain correct cable routing as shown in the picture below. 
+ 
+ 
+ 
+ 
+Figure 20:Module wiring to avoid lightning strikes 
+ 

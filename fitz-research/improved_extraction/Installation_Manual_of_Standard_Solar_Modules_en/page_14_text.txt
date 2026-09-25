@@ -1,0 +1,47 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+14 | 
+Table 5: Approved bolting methods
+Bolting on the short frame side using four standard 
+mounting holes. Mounting rails run parallel to the 
+long frame side.
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+Compatible module types: CS6A-P, CS6A-M and 
+CS6A-MS
+Bolting on the short frame side using four standard 
+mounting holes. Mounting rails run perpendicularly to 
+the long frame side. An additional support bar should 
+be placed below the module as shown below. 
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Compatible module types: CS6A-P, CS6A-M and 
+CS6A-MS
+Bolting on the long frame side using four innermost 
+mounting holes. Mounting rails run perpendicularly to 
+the long frame side.
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+Compatible module types: CS1V-MS, CS1VL-MS, 
+CS3K-P, CS3K-MS, CS6A-P, CS6A-M, CS6V-P, CS6V-M, 
+CS6K-P, CS6K-M, CS6K-MS, CS6V-MS, CS6VL-MS, CS6A-
+MS and CS1HA-MS
+(Please refer to the separate manual for the KuLite 
+CS3K-P which is a lightweight option for standard 
+CS3K-P only for Japan region) 
+Bolting on the long frame side using four innermost 
+mounting holes. Mounting rails run parallel to the 
+long frame side.
+Maximum Load:
+Uplift load ≤ 2400 Pa 
+Downforce load ≤4000 Pa
+Compatible module types: CS1V-MS, CS1VL-MS, 
+CS3K-P, CS3K-MS, CS6A-P, CS6A-M, CS6A-MS, CS6V-P, 
+CS6V-M, CS6V-MS, CS6K-P, CS6K-M, CS6K-MS and 
+CS1HA-MS
+(Please refer to the separate manual for the KuLite 
+CS3K-P which is a lightweight option for standard 
+CS3K-P only for Japan region) 
+Support bar 

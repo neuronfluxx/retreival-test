@@ -1,0 +1,42 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Col14,Page | 37
+,,,,,,,,,,,,,,,
+Installation of,,Grid,Connected,Ro,oftop S,olar P,hotovolt,aic Systems -,A Han,dbook fo,r Engine,ers & De,vel,o,pers
+,,,,,,,,,,,,,,,
+According to,,SP7,(National,B,uilding,Code,of Indi,a 2016) rad,ioactiv,e air- te,rminals,shall no,t b,e,allowed.
+,,,,,,,,,,,,,,,
+Any other ki,,nd of,air- term,in,al like,dissi,pation s,ystem/ESE,air-ter,minal/C,SE air-,terminal,sh,a,ll not be
+acceptable.,,,,,,,,,,,,,,,
+Table 6 of S,P,7: M,aximum V,al,ues of,Mesh,Size and,Protection,Angle,Corres,ponding,to the C,las,s,of LPS
+,,,,,,,,,,,,,,,
+(Clause 11.5,.,1.2),,,,,,,,,,,,,
+,,,,,Rollin,g,,,,,,,,,
+Sl. Clas,s,of,Mesh,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,sphere,,,Protection,angle,with re,spect to,height,,,
+No. LP,,S,Size,,,,,,,,,,,,
+,,,,,Radiu,s,,,,,,,,,
+,,,m,,m,,10m,20m,30m,4,5m,60,m,,
+,,,,,,,,,,,,,,,
+i) I,,,5 x 5,,20,,45,23,,Ca,nnot be,used,,,
+,,,,,,,,,,,,,,,
+ii) II,,,10 x 10,,30,,54,38,23,,Cann,ot be us,ed,,
+,,,,,,,,,,,,,,,
+iii) II,I,,15 x 15,,45,,62,48,36,,23,Cannot,be,u,sed
+,,,,,,,,,,,,,,,
+iv) IV,,,20 x 20,,60,,65,54,45,,34,2,3,,
+,,,,,,,,,,,,,,,
+Figure 30: P,,rotec,tion angle,m,ethod o,f air-,termina,tion design,for diff,erent h,eights ac,cording,to,ta,ble 6 of
+,,,,,,,,,,,,,,,
+SP7 (Source,,Figu,re 16 of SP,7),,,,,,,,,,,
+,,,,,,,,,,,,,,,
+H = Height o,,f the,building o,ve,r the gr,ound,referen,ce plane,,,,,,,
+,,,,,,,,,,,,,,,
+h1= Physica,l,heig,ht of an air,-t,erminat,ion r,od,,,,,,,,
+,,,,,,,,,,,,,,,
+h2 = Height,o,f the,air-termin,at,ion rod,over,the gro,und (= h1 +,H),,,,,,
+,,,,,,,,,,,,,,,
+a1= The pro,t,ectio,n angle co,rr,espondi,ng to,the air-,termination,"height,",h = h1,", being t",he heigh,t a,b,ove the
+,,,,,,,,,,,,,,,
+roof surface,t,o be,measured,(re,ferenc,e plan,e),,,,,,,,
+,,,,,,,,,,,,,,,
+a2= The pro,t,ectio,n angle co,rr,espondi,ng to,the hei,"ght, h2 (= H",+ h1),,,,,,

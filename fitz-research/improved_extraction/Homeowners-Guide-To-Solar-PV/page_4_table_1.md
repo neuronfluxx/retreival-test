@@ -1,0 +1,55 @@
+<!-- Extracted using strategy: text -->
+
+|•|Budget: often|the availab|le budget is the|dominant|constraint.|Col7|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+||||||||||
+|You|r selected insta|ller should|discuss all of th|e above fa|ctors with you.|Your installer|will also check y|our|
+||||||||||
+|curr|ent and past el|ectricity co|nsumption to c|alculate th|e appropriate sy|stem size.|||
+|<br>**Eq**|<br>**uipment**||||||||
+|SEA|I offers guidan|ce to solar|PV companies o|n the type|of systems that|are eligible f|or grant funding|under|
+||||||||||
+|the|solar PV schem|e. This incl|udes guidance|on perform|ance eligibility,|installation, c|ertification, and|design.|
+||||||||||
+|•<br>|A typical solar|array cons|ists of several so|lar PV mo|dules. These mo|dules are typi|cally 1.8m x 1.0|m,|
+||||||||||
+||approximately|40mm thic|k, and weigh in|the region|of 20kg each.||||
+||||||||||
+|•<br>|The modules a|re fixed to|the roof by a m|ounting sy|stem, a metal sy|stem of rails,|clamps, and ho|oks that|
+||||||||||
+||keeps the arra|y securely f|ixed to the roof.|Modules|can be arranged|in both land|scape (horizonta|l) or|
+||||||||||
+||portrait (vertic|al) orientat|ions. This depen|ds on the|orientation of th|e roof, the re|quired number|of|
+||||||||||
+||panels, and exi|sting roof|obstructions (ch|imneys, sk|ylights, etc).||||
+||||||||||
+|•<br>|The cabling ge|nerally run|s from the PV ar|ray and in|to the home to|the inverter.|The inverter is th|e|
+||||||||||
+||mechanism th|at converts|the PV-generat|ed DC to A|C. This inverter|will be sized t|o suit the size o|f your|
+||||||||||
+||solar array. If y|ou are inst|alling a battery,|or plan to|at a future date,|you will need|a hybrid invert|er.|
+||||||||||
+|•<br>|Optional extra|s include b|atteries and hot|water dive|rter.||||
+||||||||||
+|•<br>|The battery is|an energy|storage solution|that allow|s you to store th|e excess ener|gy generated fr|om you|
+||||||||||
+||solar for later|use in your|home. Batteries|can also a|llow you to char|ge from the|rid at night, fur|ther|
+||||||||||
+||reducing your|energy cos|ts. There are sev|eral varia|bles when decidi|ng on whethe|r to install a bat|tery an|
+||||||||||
+||these should b|e research|ed and discusse|d thoroug|hly with your Sol|ar PV compa|ny.||
+||||||||||
+|•<br>|A hot water di|verter allow|s you to divert|excess ene|rgy generated fr|om your sola|r PV to heat hot|water i|
+||||||||||
+||your tank. It is|a cost-effe|ctive way to ma|ximize the|energy produce|d by your sol|ar PV system.||
+||||||||||
+|•<br>|Most Solar PV|systems n|ow come with an|energy m|onitoring syste|m or are comp|atible with mon|itors|
+||||||||||
+||that can be ad|ded later. T|hese are an effe|ctive way|to monitor the e|nergy produc|ed, energy cons|umed,|
+||||||||||
+||and energy ex|ported.|||||||
+||||||||||
+|•<br>|You do not ne|ed a smart|meter to avail o|f the SEAI|grant.||||
+||||||||||
+|**Figu**|**re 2: PV Mod**|**   ule**|**                Figure 3: Inver**|**                  ter Figure**|**                     Figure 4: Dive**|**                       rter**<br>|**      Figure 5: Batte**|**        ry**|
+

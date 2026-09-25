@@ -1,0 +1,58 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 1 
+1 Safety First  
+1.1 General Safety Guidelines  
+Before starting installation work, identify all personal health and safety risks related to the project site. 
+After identifying all possible risks, suggest the ways to mitigate the risks so that they are corrected before 
+proceeding with the installation and commissioning work.  
+ 
+A wrong safety assessment will impact the installation schedule and could result in serious injury to the 
+installer and other personnel in the vicinity.  
+ 
+Risk involve during PV system installation are: 
+• 
+Falling from the roof; 
+• 
+Electrocution - When the wiring of the PV modules in series creates a solar array with a DC voltage,  
+it reaches a “deadly” voltage (≥120 V DC); 
+• 
+Injuries from lifting and installing heavy inverters; 
+• 
+Injuries from falling objects from roofs; 
+• 
+Exposure to the Sun; 
+• 
+Insect bites – some insect may be poisonous; 
+• 
+Cuts and bumps; 
+• 
+Thermal burns; 
+ 
+Personal safety resources: 
+• 
+A work partner (never work alone); 
+• 
+Safety plan & first-aid kit; 
+• 
+An understanding of safety practices, equipment and emergency procedures; 
+• 
+Safety helmet & eye protection; 
+• 
+Proper measuring equipments: electrical & dimensional; 
+• 
+Appropriate safety harnesses, if working on roof; 
+• 
+Tape, wire nuts or cable connectors to protect cable terminals; 
+• 
+Fire extinguisher; 
+• 
+Appropriate ladder; 
+• 
+Appropriate lifting equipments; 
+• 
+ Suitable labels on all equipment, wiring, etc. 
+ 

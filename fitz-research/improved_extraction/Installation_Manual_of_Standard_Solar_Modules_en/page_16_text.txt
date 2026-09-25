@@ -1,0 +1,80 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+16 | 
+All the basic requirements of the main installation 	
+manual should apply to the alternative mounting 	
+methods, unless otherwise specified.
+The loads described in this manual corresponds 
+to test loads. For installations complying with IEC 
+61215-2: 2016 and UL 1703, a safety factor of 1.5 
+should be applied for calculating the equivalent 
+maximum authorized design loads.
+Project design loads depend on construction, appli­
+cable standards, location and local climate. Deter­
+mination of the design loads is the responsibility of 
+the racking suppliers or professional engineers. For 
+detailed information, please follow local structural 
+code or contact your professional structural en­
+gineer.
+MOUNTING METHOD A CLAMPING
+·	 The mounting method has been qualified by Cana­
+dian Solar Inc. as well as certified by VDE and CSA.
+·	 Top or bottom clamping methods will vary and 
+are dependent on the mounting structures. Please 
+follow the mounting guidelines recommended by 
+the mounting system supplier.
+·	 Each module must be securely fastened at a 
+minimum of four points on two opposite sides. 
+The clamps should be positioned symmetrically. 
+The clamps should be positioned according to the 
+authorized position ranges defined in table A. 
+·	 Install and tighten the module clamps to the 
+mounting rails using the torque stated by the 
+mounting hardware manufacturer. M8 X 1.25 
+(5/16”) bolt and nut are used for this clamping 
+method. 
+·	 Tightening torques should be within 17~23 Nm 
+(12.5~17.0 ft-lbs) for M8 (5/16”) coarse thread bolts, 
+depending on the bolt class. For the bolt grade, 
+the technical guideline from the fastener suppliers 
+should be followed. Different recommendations 
+from specific clamping hardware suppliers should 
+prevail. 
+·	 The system designer and installer are responsible 
+for load calculations and for proper design of sup­
+port structure. 
+·	 Canadian Solar Inc.’s warranty may be void in cases 
+where improper clamps or unsuitable installation 
+methods are found. When installing inter-modu­
+les or end-type clamps, please take the following 
+measures into account:
+	 	     Do not bend the module frame.
+        Do not touch or cast shadows on the front glass.
+        Do not damage the surface of the frame (to the 
+        exception of the clamps with bonding pins).
+        Ensure the clamps overlap the module frame               
+        by at least 5 mm (0.2 in)
+        Overlap in length by at least
+         a)  80 mm (3.15 in) when 2400 Pa < uplift load ≤  
+              4000 Pa is required.
+        b) 40 mm (1.57 in) when uplift load ≤ 2400 Pa is 
+            required.
+  	     Ensure the clamp’s thickness is at least 3 mm  
+        (0.12 in).
+·	 Clamp material should be anodized aluminum 
+alloy or stainless steel.
+·	 Clamp positions are of crucial importance for the 
+reliability of the installation. The clamp centerlines 
+must only be positioned within the ranges indica­
+ted in table A, depending on the configuration and 
+load. 
+·	 For configurations where the mounting rails run 
+parallel to the frame, precautions should be taken 
+to ensure the bottom flange of the module frame 
+overlaps the rail by 15 mm (0.59 in) or more.
+ANNEX A: ALTERNATIVE MOUNTING METHODS
+Min. 5 mm 
+overlap
+Min. 3 mm thickness
+Min. overlap length 
+40 mm
+6

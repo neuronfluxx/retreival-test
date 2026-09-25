@@ -1,0 +1,61 @@
+[1],"Jimmy Lei Ba, Jam","ie Ryan Kiros, a",nd Geoffrey E,Hinton. Layer nor,maliz,ation. arXiv preprint
+,"arXiv:1607.06450,",2016.,,,,
+,,,,,,
+[2],"Dzmitry Bahdanau,",Kyunghyun Cho,", and Yoshua B",engio. Neural ma,chine,translation by jointly
+,learning to align an,d translate. CoR,"R, abs/1409.04","73, 2014.",,
+,,,,,,
+[3],"Denny Britz, Anna","Goldie, Minh-Th","ang Luong, an",d Quoc V. Le. Ma,ssive,exploration of neural
+,machine translation,architectures.,"CoRR, abs/1703",".03906, 2017.",,
+,,,,,,
+[4],"Jianpeng Cheng, Li","Dong, and Mire",lla Lapata. Lon,g short-term mem,ory-n,etworks for machine
+,reading. arXiv prep,rint arXiv:1601,".06733, 2016.",,,
+,,,,,,
+[5],"Kyunghyun Cho, B",art van Merrien,"boer, Caglar G","ulcehre, Fethi B",ougar,"es, Holger Schwenk,"
+,and Yoshua Bengio,. Learning phra,se representatio,ns using rnn enc,oder-d,ecoder for statistical
+,machine translation,". CoRR, abs/14","06.1078, 2014.",,,
+,,,,,,
+[6],Francois Chollet.,Xception: Deep,learning with,depthwise separ,able,convolutions. arXiv
+,preprint arXiv:161,"0.02357, 2016.",,,,
+,,,,,,
+[7],"Junyoung Chung, Ç","aglar Gülçehre,",Kyunghyun Ch,"o, and Yoshua Be",ngio.,Empirical evaluation
+,of gated recurrent n,eural networks,on sequence mo,"deling. CoRR, a",bs/141,"2.3555, 2014."
+,,,,,,
+[8],"Jonas Gehring, Mi","chael Auli, Davi","d Grangier, De","nis Yarats, and Y",ann N,. Dauphin. Convolu-
+,tional sequence to,sequence learnin,g. arXiv prepri,nt arXiv:1705.03,122v2,", 2017."
+,,,,,,
+[9],Alex Graves. G,enerating seque,nces with rec,urrent neural ne,twork,s. arXiv preprint
+,"arXiv:1308.0850, 2",013.,,,,
+,,,,,,
+[10],"Kaiming He, Xian","gyu Zhang, Sha","oqing Ren, an",d Jian Sun. Deep,resid,ual learning for im-
+,age recognition. I,n Proceedings o,f the IEEE Co,nference on Com,puter,Vision and Pattern
+,"Recognition, pages","770–778, 2016.",,,,
+,,,,,,
+[11],"Sepp Hochreiter, Y","oshua Bengio, P","aolo Frasconi,",and Jürgen Schm,idhub,er. Gradient flow in
+,recurrent nets: the,difficulty of lear,ning long-term,"dependencies, 20",01.,
+,,,,,,
+[12],Sepp Hochreiter a,nd Jürgen Schm,idhuber. Long,short-term mem,ory.,"Neural computation,"
+,"9(8):1735–1780, 1",997.,,,,
+,,,,,,
+[13],"Rafal Jozefowicz,","Oriol Vinyals, M","ike Schuster, N","oam Shazeer, an",d Yon,ghui Wu. Exploring
+,the limits of langua,ge modeling. ar,Xiv preprint ar,"Xiv:1602.02410,",2016.,
+,,,,,,
+[14],Łukasz Kaiser and,Ilya Sutskever.,Neural GPUs le,arn algorithms. In,Inter,national Conference
+,on Learning Repre,sentations (ICLR,"), 2016.",,,
+,,,,,,
+[15],"Nal Kalchbrenner,","Lasse Espeholt, K",aren Simonyan,", Aaron van den","Oord,","Alex Graves, and Ko-"
+,ray Kavukcuoglu. N,eural machine tr,anslation in line,ar time. arXiv pre,print,"arXiv:1610.10099v2,"
+,2017.,,,,,
+[16],"Yoon Kim, Carl De","nton, Luong Ho","ang, and Alexan",der M. Rush. Str,ucture,d attention networks.
+,In International Co,nference on Lea,rning Represen,"tations, 2017.",,
+,,,,,,
+[17],Diederik Kingma a,nd Jimmy Ba. A,dam: A method,for stochastic op,timiz,"ation. In ICLR, 2015."
+,,,,,,
+[18],Oleksii Kuchaiev a,nd Boris Ginsbu,rg. Factorizatio,n tricks for LSTM,netw,orks. arXiv preprint
+,"arXiv:1703.10722,",2017.,,,,
+,,,,,,
+[19],"Zhouhan Lin, Mi","nwei Feng, Cic",ero Nogueira,"dos Santos, Mo","Yu,","Bing Xiang, Bowen"
+,"Zhou, and Yoshua",Bengio. A stru,ctured self-atte,ntive sentence e,mbedd,ing. arXiv preprint
+,"arXiv:1703.03130,",2017.,,,,
+,,,,,,
+[20],Samy Bengio Łuk,asz Kaiser. Can,active memory,replace attentio,n? In,Advances in Neural
+,Information Proces,"sing Systems, (N","IPS), 2016.",,,

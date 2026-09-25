@@ -1,0 +1,50 @@
+<!-- Extracted using strategy: text -->
+
+|TECH/S/PROJ/2|013‐1|4|/HB‐SP/2.0|Col5|Col6|5|
+|---|---|---|---|---|---|---|
+||||||||
+|**  Solar Photo**|**    Volt**|**    ai**|**    c (SPV) Modul**|**      e**|||
+||||||||
+|The power ge|nerate|d|by a single cell|is smal|l and therefore several cells are|interconnected|
+|in series/paral|lel c|o|mbination to||||
+|get the req|uired|v|oltage and||||
+|current. When|a nu|m|ber of solar||||
+|cells are conne|cted|in|series to get||||
+|a specific vo|ltage||the unit so||||
+|formed is call|ed as|S|olar Module.||||
+|Charging batt|eries|is|the primary||||
+|use of SPV|mod|ule|. Therefore||||
+|normally 36|cells|a|re joined in||||
+|series to form|a sta|nd|ard module,||||
+|which is capa|ble o|f|charging 12||||
+|volts battery.|A te|rm|inal box is||||
+|provided on t|he b|ac|kside of the||||
+|module for ex|terna|l|connections.||||
+|A Bypass d|iode|is|connected||||
+|across +ve and|–ve|in|the terminal||||
+|box. Cathode|of the|d|iode will be||||
+|at +ve termina|l and|A|node will be||||
+|at –ve termin|al o|f|the module.||||
+|This diode p|rotect|s|the module||||
+|cells from o|verhe|at|ing due to||||
+|shadowing of|the|mo|dule or any||||
+|cell breakage|Gene|ral|ly the rating||||
+|of bypass dio|de is|1|.52 times of||||
+|the maximum|curre|n|t of module.||||
+|The Repetiti|ve|Re|verse Peak||||
+|Voltage Vrrm|of th|e|diode should||||
+|be double the|string|o|pen voltage.||||
+|For<br>Indian|Rai|lw|ays<br>Solar||||
+|Photovoltaic||Mo|dule<br>is||||
+|manufactured|<br>as||per<br>RDSO||||
+|Specification|No.|I|RS:S 84/92||||
+|with latest am|endm|e|nt. A typical||||
+|solar module i|s sho|w|n in Fig 1.3.||||
+||||||||
+|**_1.3: Solar Mo_**|**_  dule_**||||||
+||||||||
+|**_lli &_**|||**_    Sl P_**|**_     l_**||**_                                        b 2013_**|
+|**_aton  Ma_**|**_  nten_**|**_  n_**|**_  ce of oar an_**|<br>**Click for**|**_                                        Nove_**<br>**  contents**|**_                                        mer_**|
+||||||||
+|||||**Click for**|**  contents**||
+

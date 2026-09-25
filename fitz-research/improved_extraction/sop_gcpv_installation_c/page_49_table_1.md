@@ -1,0 +1,49 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Page | 44|
+|---|---|---|---|---|---|---|---|---|---|---|
+||||||||||||
+|Installation of G|rid Connec|ted Rooftop Solar|Photo|voltaic|Systems -|A Handbook fo|r|Engineers|& Devel|opers|
+||||||||||||
+|**2.12 Step 1**|** 2: Anti-**|**  Islanding fu**|**   ncti**|**   onalit**|**   y test**||||||
+||||||||||||
+|Unintentional|islanding|(anti-islanding) c|an h|ave und|esirable|impacts on cu|st|omer and|utility|equipment|
+||||||||||||
+|integrity.  If u|nintention|al islanding is su|stain|ed for|a signifi|cant period of|t|ime, perso|nnel sa|fety could|
+||||||||||||
+|become a caus|e for conc|ern. To manage t|hese|risks, a|series of|functionality t|e|sts to be p|erform|ed.|
+||||||||||||
+|• <br>This t|est must b|e conducted durin|g no|ontime|in a sunn|y day.|||||
+||||||||||||
+|• <br>PV sy|stem shal|l produce more t|han|20% of|the rate|d output of th|e|PV array|or the|inverter –|
+||||||||||||
+|which|ever is les|s.|||||||||
+||||||||||||
+|• <br>If ther|e is more t|han one inverter,|tests|should|be carrie|d out for each|i|nverter.|||
+||||||||||||
+|**Tests to be p**|**   erforme**|**   d in sequence:**|||||||||
+||||||||||||
+|**Test 1: Invert**|**  er must c**|**    ease supplying p**|**      owe**|**      r withi**|**       n two sec**|**         onds of a loss**|**             o**|**             f mains**|||
+||||||||||||
+|STEP 1: Keep|DC suppl|y from the solar a|rray|connec|ted to the|inverter|||||
+||||||||||||
+|STEP 2: Place|the voltag|e probe in the inv|erter|side of|the AC|main switch (o|n|the load s|ide of t|he switch.)|
+||||||||||||
+|STEP 3: Turn|OFF the A|C main switch th|roug|h whic|h inverter|is connected t|o|grid|||
+||||||||||||
+|STEP 4: Meas|ure the ti|me taken for the|inver|ter to c|ease atte|mpting to expo|r|t power w|ith tim|ing device|
+||||||||||||
+|and record.|||||||||||
+||||||||||||
+|**Test 2: Invert**|**  er must n**|**    ot resume suppl**|**      ying**|**       power**|**        until ma**|**         ins have been**||**            present fo**|**             r more**|**               than 60**|
+|<br>**seconds.**|||||||||||
+|STEP 1: Keep|DC suppl|y from the solar a|rray|connec|ted to the|inverter.|||||
+||||||||||||
+|STEP 2: Place|the curren|t probe in the inv|erter|side of|the AC|main switch  (o||n the load|side).||
+||||||||||||
+|STEP 3: Turn|ON the A|C main switch thr|ough|which|inverter|is connected to||grid.|||
+||||||||||||
+|STEP 4: Meas|ure the tim|e taken for the in|vert|er to re-|energize|and start expo|rt|ing power|with a|timing|
+||||||||||||
+|device and rec|ord.||||||||||
+

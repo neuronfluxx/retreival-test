@@ -1,0 +1,73 @@
+ 
+ 
+ 
+371 
+analyse or report this feedback; therefore, it is not included in this paper. Future research 
+372 
+ethics-approved work may enable systematic evaluation of participant feedback and its use 
+373 
+in future reports. 
+374 
+While quantitative and qualitative feedback is important for evaluating the success of 
+375 
+educational initiatives, broader indicators of impact should also be considered. Reflections, 
+376 
+such as whether participants became more critical consumers of ML literature or whether 
+377 
+new collaborations and projects emerged following the workshop, may provide more 
+378 
+meaningful insight into the workshop’s achievement of its intended objectives. 
+379 
+Although the one-day workshop format is efficient and effective practical introduction to the 
+380 
+ML lifecycle, it does not scale infinitely. There is a finite amount of material that can be 
+381 
+reasonably accommodated within the current structure. Multi-day formats are better suited 
+382 
+to spaced repetition, deeper exploration of complex topics, and more sustained 
+383 
+engagement. Expanding the delivery format represents an important area for future 
+384 
+development. For example, the workshop could be delivered online across multiple shorter 
+385 
+sessions, improving accessibility and reducing resource requirements associated with in- 
+386 
+person attendance. 
+387 
+Finally, given the multidisciplinary nature of the participant cohort, the workshop provides a 
+388 
+valuable opportunity for networking and collaboration. Future iterations should place 
+389 
+greater emphasis on facilitating interaction and collaboration among participants as a core 
+390 
+component of the workshop design. We hope that this paper will encourage other educators 
+391 
+to develop similar workshops based on the framework presented here, thereby supporting 
+392 
+broader efforts to improve ML literacy within the infection science community. 
+393 
+11. Conclusion 
+394 
+The “Using Data Science and Machine Learning for Infection Science: A Hands-On 
+395 
+Introduction” workshops demonstrate how carefully designed, one-day educational 
+396 
+interventions can support development of computational literacy among infection science 
+397 
+professionals, while maintaining a commitment to transparency and open science. By 
+398 
+integrating foundational theory of the ML lifecycle with real-time demonstrations and 
+399 
+hands-on sessions, the workshop offers a replicable model for domain-specific data science 
+400 
+education. 
+401 
+Successful delivery of the workshop on multiple occasions suggests that this approach is 
+402 
+both feasible and valuable for the infection science and clinical microbiology community. As 
+403 
+the workshop continues to evolve, ongoing reflection is needed to identify opportunities for 
+404 
+improvement, expansion, and broader dissemination of the material. By sharing both the 
+405 
+content and lessons learned through open channels, we hope that this work will become a 

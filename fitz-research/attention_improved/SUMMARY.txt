@@ -1,0 +1,19 @@
+
+IMPROVED PDF EXTRACTION SUMMARY
+============================================================
+
+Document: NIPS-2017-attention-is-all-you-need-Paper
+Pages: 11
+
+CONTENT EXTRACTED:
+  • Text: 5001 words
+  • Images: 3 meaningful images (filtered)
+  • Tables: 12 tables (improved detection)
+
+IMAGE FILTERING:
+  • Minimum size: 100px
+  • Minimum pixels: 20000
+  • Icons and logos excluded
+
+OUTPUT: attention_improved
+============================================================

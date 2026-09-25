@@ -1,0 +1,21 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 31 
+Important to Note: 
+Adequate clearances between inverter and other objects have to be maintained for ventilation/ 
+cooling of inverter.  Generally instruction is given in the manufacturer’s installation manual.   
+In general,  
+• 
+Minimum 20cm clearance to be maintained to the top and bottom of the inverter;  
+• 
+Minimum 10cm clearance to be maintained to the right and left of the inverter; 
+• 
+Keep adequate clearance to access the fans and air filters for regular cleaning; 
+• 
+Keep adequate clearance for cable entry. 
+ 
+ 
+ 

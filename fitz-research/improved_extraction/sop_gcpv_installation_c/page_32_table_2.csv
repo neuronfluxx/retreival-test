@@ -1,0 +1,37 @@
+I,nsta,llati,o,n of Grid,Connec,ted Rooftop,Solar Photov,olt,aic System,s - A H,andbook for,Engineers &,Developers
+,,,,,,,,,,,,,
+F,oll,ow,th,e steps,below in,sequence f,or module,wir,ing or str,inging,:,,
+,,,,,,,,,,,,,
+,(,1),R,eview t,he DC c,able wiring,diagram;,,,,,,
+,,,,,,,,,,,,,
+,(,2),R,eview,module i,nterconnect,ion (string,or,series) dia,gram;,,,
+,,,,,,,,,,,,,
+,(,3),C,heck th,at there,isn’t any ba,re cable in,mo,dule wire,;,,,
+,,,,,,,,,,,,,
+,(,4),C,onnect,DC cabl,e connector,(MC4 or e,qu,ivalent) p,roperly,with crimp,ing tool;,
+,,,,,,,,,,,,,
+,(,5),C,onnect,number,of modules,in series in,ac,cordance,with t,he wiring dia,gram provi,ded;
+,,,,,,,,,,,,,
+,(,6),A,ttach th,e cables,with cable,tie wraps t,o t,he module,frame,and/or rails,;,
+,,,,,,,,,,,,,
+,(,7),E,nsure m,inimum,looping in,cable;,,,,,,
+,,,,,,,,,,,,,
+,(,8),E,nsure N,O cable,is hanging,loose;,,,,,,
+,,,,,,,,,,,,,
+,(,9),L,abel the,termin,als with “+”,and “-”sig,n u,sing cable,tag.,,,
+,,,,,,,,,,,,,
+,Fo,ur,i,mporta,nt instr,uctions to,follow:,,,,,,
+,,,,,,,,,,,,,
+,,(1),,Always,verify,the voltage,and pola,rity,of each,indivi,dual string,before mak,ing a
+,,,,paralle,l conne,ction. Elec,trical and,el,ectronic,compo,nents can b,e irrepara,bly dama
+,,,,if an ar,ray stri,ng is conn,ected in re,ve,rse polar,ity to,another.,,
+,,,,,,,,,,,,,
+,,(2),,If you,measure,a reverse,d polarity,or,a differe,nce of,more than,10V betwe,en strings
+,,,,then ch,eck the,string con,figuration,be,fore mak,ing th,e connectio,n.,
+,,,,,,,,,,,,,
+,,(3),,Minimi,ze the a,rea of con,ductive lo,op,s to reduc,e the,magnitude,of lighteni,ng-induce
+,,,,overvo,ltage as,shown in,the figure,be,low.,,,,
+,,,,,,,,,,,,,
+,,(4),,Keep b,ending,radius of c,ables mor,e t,han 40m,m or a,s recomme,nded by mo,dule
+,,,,,,,,,,,,,
+,,,,manufa,cturer.,Maintain,correct ca,ble,routing,as sho,wn in the p,icture belo,w.

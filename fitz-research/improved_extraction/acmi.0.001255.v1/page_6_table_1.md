@@ -1,0 +1,53 @@
+<!-- Extracted using strategy: text -->
+
+|168|Reproducibility and tra|n|sparency:|The workshop|s are grounded|in the p|rinciples of th|e|
+|---|---|---|---|---|---|---|---|---|
+||||||||||
+|169<br>|scientific method, with|r|eproduci|bility positioned|as a central pr|iority. P|articipants are||
+||||||||||
+|170<br>|introduced to best pra|cti|ces for st|ructuring analy|tical workflows|, docum|enting experi|ment|
+||||||||||
+|171<br>|decisions, and reportin|g|results in|a transparent|and trustworth|y way.|||
+||||||||||
+|172<br>|Experimentation and e|xp|loration:|Participants ar|e encouraged t|o activel|y experiment|with|
+||||||||||
+|173<br>|the techniques introdu|ce|d during|the workshop,|including apply|ing them|to their own||
+||||||||||
+|174<br>|datasets where feasibl|e.|This emp|hasis on explor|ation reflects e|xperient|ial learning||
+||||||||||
+|175<br>|principles, reinforcing t|h|e iterativ|e nature of ML|and supporting|deeper|engagement|with|
+||||||||||
+|176<br>|both methodological c|ho|ices and|their practical i|mplications.||||
+||||||||||
+|177<br>|Together, these design|p|rinciples|support the de|velopment of M|L literac|y by prioritisin|g|
+||||||||||
+|178<br>|conceptual understand|in|g, critica|l thinking, and|practical releva|nce over|exhaustive te|chni|
+||||||||||
+|179<br>|detail, while remaining|a|ligned wi|th established|theories of lear|ning and|instruction.||
+||||||||||
+|180<br>|**7.2**<br>**Workshop struct**|** u**|** re**||||||
+||||||||||
+|181<br>|The one-day workshop|s|are struc|tured to provid|e participants w|ith fund|amental back|grou|
+||||||||||
+|182<br>|knowledge in ML and d|a|ta scienc|e, before spend|ing the remain|der of th|e workshop fo|cusi|
+||||||||||
+|183<br>|on the practical implem|e|ntation a|nd expression|of these funda|mentals.|Collectively, w|e re|
+||||||||||
+|184<br>|to these practical com|po|nents as|“hands-on sess|ions”. The Orig|inal wor|kshop in 2019||
+||||||||||
+|185<br>|designed and delivered|b|y TI was|the foundation|for the design|of the su|bsequent||
+||||||||||
+|186<br>|workshops. The major|di|fference|between them|is one of scope|. In 2019|, the focus of|the|
+||||||||||
+|187<br>|workshop was on appl|yi|ng_Orang_|_e_specifically to|antimicrobial s|usceptib|ility testing da|ta.|
+||||||||||
+|188<br>|Following workshops d|e|signed by|BM and TI foc|used on workin|g with ta|bular dataset|s mo|
+||||||||||
+|189<br>|generally, as these are|th|e types o|f datasets that|practitioners a|re more|likely to encou|nter|
+||||||||||
+|190<br>|in their own environm|en|ts. Most|practitioners w|ould also be fa|miliar wi|th tabular dat|asets|
+||||||||||
+|191<br>|The timeline for each o|f|the work|shops, along wi|th the topic of|each ses|sion is presen|ted i|
+||||||||||
+|192<br>|Table 1.||||||||
+

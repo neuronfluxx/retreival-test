@@ -1,0 +1,72 @@
+ 
+ 
+336 
+9.  Reflections 
+337 
+After delivering this workshop on multiple occasions to a diverse audience, there is a clear 
+338 
+opportunity for reflection. Participants have come from a wide range of backgrounds, 
+339 
+including medical microbiology, infectious diseases, laboratory science, epidemiology, data 
+340 
+science, and graduate programmes. Designing and delivering a workshop that is valuable 
+341 
+across such disciplinary diversity is challenging. This diversity is a key motivator for 
+342 
+presenting the material in the most generalisable way possible, with an emphasis on shared 
+343 
+concepts, workflows, and decision-making processes rather than on discipline-specific 
+344 
+technical detail. 
+345 
+Levels of engagement varied across the range of participants, reflecting both differences in 
+346 
+prior experience and the intensity of the material. A recurring challenge is the risk of 
+347 
+information overload. While the one-day format is beneficial in enabling efficient content 
+348 
+delivery, it is also inherently constrained. There is a practical limit to the depth achievable in 
+349 
+a single day, and depth is often sacrificed in favour of conceptual coherence. The primary 
+350 
+objective of the workshop, therefore, is not complete technical mastery, but rather for 
+351 
+participants to leave with robust mental models of the ML lifecycle, alongside introductory 
+352 
+technical skills and improved literacy. 
+353 
+This trade-off is an acknowledged limitation of the one-day format. The contrast became 
+354 
+particularly evident during delivery of a multi-day version of the workshop, in which content 
+355 
+could be distributed across several days [5]. In this setting, concepts were reinforced 
+356 
+iteratively, allowing participants more time to reflect, consolidate learning, and build 
+357 
+progressively on prior material. Additionally, the workshop is delivered exclusively in English, 
+358 
+which may limit accessibility for participants whose primary language is not English. 
+359 
+10. Future directions 
+360 
+Across all workshops delivered in 2024, 2025, and 2026, the material has been taught to 220 
+361 
+participants from a range of countries and professional backgrounds. There are plans to 
+362 
+continue offering this workshop in future years if demand remains. Beyond in-person 
+363 
+delivery, a key future objective is to ensure that the workshop material is accessible to the 
+364 
+wider infection science community. In support of this goal, an open-source repository will be 
+365 
+created to host the workshop and supplementary content. The repository will serve as a 
+366 
+freely available, regularly updated educational resource for those interested in applying 
+367 
+machine learning to infection science. Its open-source nature will enable community 
+368 
+contribution, adaptation, and extension, including a roadmap for future development. 
+369 
+Participant feedback was collected following workshop delivery and provided valuable 
+370 
+insights into potential improvements. However, ethics approval was not obtained to formally 

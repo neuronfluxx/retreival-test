@@ -1,0 +1,71 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+20 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+Step 11: Determine Minimum Battery Capacity 
+ [Total Daily Amp-hr per Day with Batteries (Step 5)  X  Desired Reserve Time 
+(Days)] / Percent of  Usable  Battery Capacity 
+ = (73 Amp-hrs/Day X 3 Days) / 0.80 
+ =  274  
+ ~   300 Amp-hrs  
+ 
+Step 12:  Choose a Battery 
+Use Flooded Lead Acid Battery Cells 
+Nominal Voltage = 2 Volts No. of cells =24 
+Rated Capacity = 100 Amp-hrs 
+(3 Strings in Parallel) 
+ 
+ 
+ 
+Or 
+Nominal Voltage 6Volts, No. of Batteries = 8(series) 
+Rated Capacity 150 AH, 2 Strings in Parallel 
+ 
+Step 13: Choose Charge Controller 
+No. of  Parallel Modules X Isc X 1.25  =  Charge Controller Capacity 
+5 x 5x 1.25 = 31.25 Amps  (Nearest higher available Value may be selected) 
+e.g. 48 Volts 40 Amps may be chosen. 
+ 
+Step 14: Choose Inverter 
+AC Watts on Inverter = Total AC Watts of AC devices X 25% extra. 
+Inverter of nearest higher rating may be chosen to cater for surge. 
+ 
+ 
+ 2.5    Solar Panel Requirement for IPS System at PI Station in Non-RE Area 
+RDSO has standardized the Solar Panel requirements for IPS System at Panel Interlocked 
+Station in Non- RE area based on the assumption that all three sources of supply i.e. solar 
+power, AC commercial supply and DG set supply will be utilized everyday for running 
+signalling system at a station. Battery capacity has already been specified as 300 AH for 
+IPS system in non-RE area. These requirements are separately worked out for up to 3 line 
+station, 4 line station, 6 line station and 4 line station with DC LED Signals, and are 
+tabulated in Table A below: 
+          
+TABLE A 
+Sr. 
+No. 
+Description 
+Upto 3 line 
+station 
+Upto 4 line 
+station 
+Upto 6 line 
+station 
+Upto 4 line 
+station with DC 
+lit LED signal 
+1. 
+Approximate 
+Signalling 
+load 
+(AC + DC) 
+except track 
+circuit at 110 
+V 
+ 
+13A 
+22A 
+28A 
+16A 
+Click for contents
+Click for contents

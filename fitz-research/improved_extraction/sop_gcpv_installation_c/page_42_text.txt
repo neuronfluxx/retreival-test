@@ -1,0 +1,77 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 37 
+According to SP7 (National Building Code of India 2016) radioactive air- terminals shall not be allowed. 
+Any other kind of air- terminal like dissipation system/ESE air-terminal/CSE air-terminal shall not be 
+acceptable. 
+ 
+Table 6 of SP7: Maximum Values of Mesh Size and Protection Angle Corresponding to the Class of LPS 
+(Clause 11.5.1.2) 
+ 
+Sl. 
+No. 
+Class of 
+LPS 
+Mesh 
+Size 
+Rolling 
+sphere 
+Radius 
+Protection angle with respect to height 
+ 
+ 
+m 
+m 
+10m 
+20m 
+30m 
+45m 
+60m 
+i) 
+I 
+ 5 x 5 
+20 
+45 
+23 
+Cannot be used 
+ii) 
+II 
+10 x 10 
+30 
+54 
+38 
+23 
+Cannot be used 
+iii) 
+III 
+15 x 15 
+45 
+62 
+48 
+36 
+23 
+Cannot be used 
+iv) 
+IV 
+20 x 20 
+60 
+65 
+54 
+45 
+34 
+23 
+ 
+ 
+ 
+Figure 30: Protection angle method of air-termination design for different heights according to table 6 of 
+SP7 (Source Figure 16 of SP7) 
+ 
+H = Height of the building over the ground reference plane 
+h1= Physical height of an air-termination rod 
+h2 = Height of the air-termination rod over the ground (= h1 + H)  
+a1= The protection angle corresponding to the air-termination height, h = h1, being the height above the 
+roof surface to be measured (reference plane) 
+a2= The protection angle corresponding to the height, h2 (= H+ h1) 

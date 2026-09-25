@@ -1,0 +1,69 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+16 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ 2.3.3 Load calculation 
+   For DC Loads 
+Load Amps  X  Operating Hours per Day  =    Amp Hour Per Day  (AHPD) 
+(If Load is available in watts, divide the wattage by  system voltage to get  Amps) 
+(Multiply by % duty cycle  if data available)   
+ 
+  For AC Loads 
+ AC Watts X Operating Hours per Day   = Watt Hours Per Day (WHPD) 
+ AHPD = WHPD /  (Inverter Efficiency X  Nominal System Voltage) 
+ 
+ 2.3.4  Sizing Solar Array 
+ 
+No. of Series Modules = Nominal DC System Voltage / Nominal Voltage of Solar 
+Module 
+                                                                                                          
+No. Of Parallel Modules = AHPD / {(1- Module derating*) X  Battery AH Efficiency X                         
+Im 
+of 
+Module 
+X 
+Solar 
+Insolation 
+of 
+the 
+worst 
+Month} 
+                                                                     
+No of Modules in Solar Array =  No of Series Modules X No of Parallel Modules                        
+ 
+Capacity of Solar Array   =  No of Modules X Capacity of  Each Module  
+ 
+* Derating ~10% on account of dust, mismatch, orientation etc. 
+ 
+2.3.5 Deciding Battery capacity 
+  For calculating the capacity and number of  batteries, first the  number  of back up days 
+are to be decided, based on No. of Consecutive sunless days. 
+ 
+  For Example     Back up days for residential load =  3 to 5 days 
+                            Back up days for Industrial Load  =   7 to 14 days 
+                            Back up days for poor weather     =   7 to 14 days 
+ 
+Check 
+Manufacturer’s 
+Recommended 
+Maximum 
+Depth 
+of 
+Discharge 
+(DOD) 
+Normally it is     
+                            80%  for deep cycling 
+                            59% for shallow cycling 
+ 
+Check the temperature variations of site and determine the Maximum DOD as per data 
+given by battery manufacturer.  
+ 
+         Battery Capacity (In AH) =  (AHPD X No. of back up days) /  Max DOD  
+ 
+         No of series Batteries = System DC Voltage / Battery Voltage  
+ 
+         No of Parallel Batteries =  Total AH Required /  AH of Individual Battery  
+ 
+Click for contents
+Click for contents

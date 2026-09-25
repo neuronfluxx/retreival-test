@@ -1,0 +1,21 @@
+S.,Symptom,Possible,Col3,Probable cause,Action
+No.,,Failure,,,
+,,Charge,,Electronic failure,Replace the Ch
+,,Controller,,Corrosion,
+6.,Front,Breakage,,Mishandling/,"Unserviceable,"
+,Glass broken,,,transportation,
+7.,No voltage,Diode,,Random failure,Replace the di
+,Across,failed in,,,
+,blocking,short,,,
+,diode,circuit,,,
+,,mode,,,
+8.,Voltage high,Diode,,Random failure,Replace the di
+,Across,failed in,,,
+,blocking,open,,,
+,diode,circuit,,,
+,,mode,,,
+,,Fig. 4.2:,Tr,oubleshooting flowcha,rt for SPV Pa
+,,,,,
+,,,,,
+Install,ation & Maint,enance of,So,"lar Panel
+Click for contents",

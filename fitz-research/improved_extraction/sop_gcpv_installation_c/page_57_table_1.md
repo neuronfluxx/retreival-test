@@ -1,0 +1,59 @@
+<!-- Extracted using strategy: text -->
+
+|ndard Operat|ing Proced|ure for Installa|tion of Grid|Connected|Rooftop Sol|ar Photovoltaic|Systems|
+|---|---|---|---|---|---|---|---|
+|||||||||
+|||- A Handbo|ok for Engin|eers & Dev|elopers|||
+|||||||||
+|**About SUPR**|** ABHA**|||||||
+|||||||||
+|The Sustaina|ble Partne|rship for Roof|top Solar A|cceleration|in Bharat|(SUPRABHA) i|s a USD13|
+|||||||||
+|million prog|ram which|is led by The|World Bank|and SBI a|nd impleme|nted in partners|hip with the|
+|||||||||
+|Ministry of N|ew and Re|newable Energ|y (MNRE).|SUPRABH|A  will be o|ffering Technica|l Assistance|
+|||||||||
+|to 17 Partne|r States (A|ssam, Andhra|Pradesh,|Bihar, Chha|ttisgarh, Ch|andigarh, Delhi|,  Haryana,|
+|||||||||
+|Jharkhand, M|adhya Prad|esh, Manipur,|Meghalaya,|Mizoram, N|agaland, O|disha, Rajasthan,|Sikkim and|
+|||||||||
+|Tripura) tow|ards establi|shing an enab|ling ecosys|tem for acc|elerated  de|ployment of gri|d connected|
+|||||||||
+|Rooftop Sola|r.  The con|sortium partn|ers to imple|ment SUPR|ABHA are|EY, GSES,  Ed|elman, EVI,|
+|||||||||
+|IDAM and S|CGJ. EY is|the lead partn|er.|||||
+|||||||||
+|The SUPRA|BHA TA P|rogram consis|ts of six int|erventions|namely Poli|cy, Capacity Bu|ilding, SSN|
+|Knowledge|Exchange,|Media and O|utreach, Pro|cess Stream|lining and|Demand Aggre|gation. The|
+|program cov|ers a wide r|ange of stakeh|olders from|consumers,|regulators a|nd distribution c|ompanies to|
+|urban local b|odies, finan|cial institution|s and entrep|reneurs.||||
+|||||||||
+|**About GSES**||||||||
+|||||||||
+|GSES India|Sustainabl|e Energy Pvt.|Ltd. is the|Indian cou|nterpart of|Global Sustain|able Energy|
+|Solutions (G|SES), Aust|ralia a multi-di|sciplinary o|rganisation|specialising|in professional|services and|
+|training acro|ss the Ren|ewable Energi|es sector an|d comprises|a team of|highly experien|ced systems|
+|engineers, de|signers and|installers and|accredited t|rainers.||||
+|||||||||
+|GSES is rec|ognised wi|thin industry|as the leade|r in renew|able energy|innovation and|technology|
+|<br>education.||||||||
+|GSES devel|ops and del|ivers solar PV|training co|urses in ac|cordance wi|th international|competency|
+|standards an|d accreditat|ion requiremen|ts.  Internat|ionally, GS|ES undertak|e to guarantee th|e quality of|
+|all its trainin|g programs.|||||||
+|||||||||
+|GSES has au|thored a lib|rary of public|ations, inclu|ding solar tr|aining book|s, solar referenc|e books and|
+|solar busines|s and mark|eting books. A|ll books are|updated reg|ularly to ens|ure students and|readers are|
+|presented wi|th the most|recent informa|tion availab|le on renew|able energy|technology.||
+|||||||||
+|||||||||
+|**GSES Cont**|** ct:**||||**Th**|** World Bank**|**   ontact:**|
+|||||||||
+|||||||||
+|||||||||
+|GSES India<br>|ustainable<br>|Energy Pvt. L<br>|d.||Dr.|Amit Jain||
+|F – 7B, Okhl<br>|a Industrial<br>|Area Phase 1<br>|||Ren|ewable Energy|Specialist|
+|New Delhi -|110020, In|dia|||<br>Em|<br>ail: amitjain@w|<br> orldbank.or|
+|Phone: +91 -|11 - 41040|534||||||
+|Email: info@|gses.in|||||||
+|Web: www.g|ses.in|||||||
+

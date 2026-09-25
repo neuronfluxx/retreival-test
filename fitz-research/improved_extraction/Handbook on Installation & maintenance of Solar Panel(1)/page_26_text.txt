@@ -1,0 +1,56 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+19 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ Step 3: Determine the Total System load  
+     Suppose total DC load [A] = 2000 Watt Hours per Day 
+               & total DC load [B] = 1500 Watt Hours per Day 
+ 
+    Total System Load [A+B] =3500 Watt Hours per Day 
+    Step 4: Determine Total DC Ampere Hours per Day 
+    i.e. Total System Load/System Nominal Voltage 
+      = 3500 Watt Hours per Day/48 Volts 
+      = 73 Ampere Hours per Day 
+ 
+    Step 5: Determine Total Ampere Hours per Day with Batteries 
+    i.e. Total Ampere Hours per Day/(Battery efficiency X Module derating) 
+    = 73/(0.9 X 0.9) 
+    =73/0.81 
+    = 90.12 
+    ~ 100 Ampere Hours per Day 
+ 
+    Step 6: Determine the Total PV Array Current 
+    i.e. Total Daily Ampere Hour requirement / Design Insolation* 
+    =100 Amp-hrs / 5.0 peak solar hrs  
+    = 20 Amps 
+* Insolation Based on Optimum Tilt for Season 
+ 
+    Step 7: Select PV Module type 
+    For example 
+    Choose CEL PM 75 module: 
+ 
+Max Power = 75 W (@STC) 
+ 
+Max Current = 4.41 Amps 
+ 
+Max Voltage = 17 Volts 
+ 
+   Step 8: Determine Number of Modules in Parallel 
+   i.e. Total PV Array Current / (Module Operating Current)  
+   = 20 Amps / (4.41 Amps/Module)  
+   = 4.5 
+   ~   5Nos.of modules 
+  
+  Step 9: Determine Number of Modules in Series 
+  i.e. System Nominal Voltage / Module Nominal Voltage 
+  =  48 Volts / (12 Volts/module) 
+   = 4 Modules 
+ 
+  Step 10:Determine Total Number of Modules 
+  Number of modules in parallel X Number of modules in Series 
+  = 5 X 4 = 20 modules of 75 Watt each i.e. 1500Wp 
+ 
+  
+Click for contents
+Click for contents

@@ -1,0 +1,74 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 39 
+Table 3: Voltage correction factors for crystalline silicon PV modules (IEC 62548) 
+Lowest expected operating temperature (°C) 
+Correction Factor  
+24 to 20 
+1.02 
+19 to 15 
+1.04 
+14 to 10 
+1.06 
+9 to 5 
+1.08 
+4 to 0 
+1.10 
+-1 to -5 
+1.12 
+-6 to -10 
+1.14 
+-1 to -15 
+1.16 
+-16 to -20 
+1.18 
+ 
+ 
+Table 4: Minimum Voltage Rating of Array Isolators according to IEC62548 
+System Installation 
+Min Voltage Rating 
+per pole 
+Min Voltage Rating 
+Overall 
+Non-earthed array with isolated inverter 
+0.5 x V
+MAX OC ARRAY 
+V 
+OC ARRAY 
+Earthed array with isolated inverter 
+V
+ MAX OC ARRAY 
+2 x V 
+MAX OC ARRAY 
+Non-earthed array with non-isolated inverter 
+V
+ MAX OC ARRAY 
+2 x V 
+MAX OC ARRAY 
+ 
+For example, if  open circuit voltage (Voc) of a PV module at STC is 42V and 10 modules are connected in 
+a string and modules are installed at site where minimum ambient temperature goes up to 0oC, the actual 
+string voltage will be 10 x 42 x1.10 = 462V. Therefore overall minimum voltage rating for array isolators 
+will be  2 x 462 = 924V.   
+ 
+(7) System Isolation:  
+According to Central Electricity Authority (Technical Standards for connectivity of Distributed Generation 
+Resources) Regulations, 2013 there should be a manually operating isolating switch between distributed 
+generation resource and electric system, which shall meet the following requirements: 
+ 
+• 
+Allow visible verification that separation has been established 
+• 
+Indicators to show clearly closed and open position 
+• 
+Be capable of readily accessible and be capable of being locked in open position 
+• 
+May not be rated for load-break 
+• 
+Be located at height of 2.44 m above ground level 
+ 
+ 
+ 

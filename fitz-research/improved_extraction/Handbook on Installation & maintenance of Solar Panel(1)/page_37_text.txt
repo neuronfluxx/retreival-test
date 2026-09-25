@@ -1,0 +1,51 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+30 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+Section IV 
+     Maintenance & Troubleshooting 
+ 
+ 
+        4.1    Maintenance 
+Solar panels require virtually no maintenance. However the associated equipments 
+such as batteries and charge controller are to be maintained. Once a fortnight the 
+surface of the panels should be wiped clean with wet rag to remove dust, fallen 
+leaves, bird dropping etc. Only water to be used and no other cleaning agent. 
+ 
+With Solar Panel Secondary battery maintenance becomes minimum. Still general 
+periodical maintenance of battery should be carried out in usual manner and as per 
+maintenance manual. 
+For efficient working of  SPV system certain precautions are to be observed as given 
+below. 
+ 
+        4.1.1Precautions and Preventive Steps 
+Please ensure that: 
+a) SPV Modules are connected in parallel and SPV Panel output voltage is less than 
+25 Volts under normal sunshine condition (for 12 V System/Module) 
+b) All connections are properly made tight and neat using the crimped Red (for +ve) 
+and Black (for –ve) wires supplied by the manufacturer in order to avoid reverse 
+connection. 
+c) The rating of the fuse in the charge controller is not changed. 
+d) The SPV Panel is installed facing SOUTH and with the correct ‘Angle of tilt’. 
+e) There is no shadow on any part of the SPV Panel at any time of the day, to get 
+maximum power. 
+f) SPV Modules are protected against any act of vandalism and accidental strike or 
+hit by heavy objects, like stone, hammer etc. If the SPV Panel is installed on 
+ground, it must be fenced properly to protect it from cattle and to prevent from 
+any damage/theft. Fencing should be made in such a way that no shadow should 
+fall on SPV Panel at any time of the day. 
+g) Battery Bank is placed on a rack or platform insulated from ground and located in 
+a well-ventilated room and also sufficient clearance is there over the battery. 
+h) FIRST the Battery Bank, then SPV Panel and then Load is connected to SPV 
+Charge Control Unit and for disconnection reverse sequence is adopted. 
+i) Battery terminals are never shorted even momentarily as shorting will result in 
+HEAVY SPARK AND FIRE. (To avoid the same connect the cable at Charge 
+Controller end ‘First’ and then Battery end.) 
+j) Never connect the Load directly to the SPV Panel as SPV Panel may give 
+higher/lower voltage than required by the Load Equipment and hence the 
+equipment may be DAMAGED permanently. 
+k) Blocking diode is provided at the array output for protection against reverse 
+polarity. 
+Click for contents
+Click for contents

@@ -1,0 +1,51 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 5 
+2 Rooftop Solar PV System Installation Procedure 
+Before starting the installation process, the installer must go through all installation documents and verify 
+the quantity and availability of listed equipment, accessories, and tools for installation and commissioning 
+of the solar PV system. Verification of the quantity and availability must be done before starting the 
+installation procedure to minimize the risk of project delay or an incomplete job due to non-availability or 
+shortage of the equipment, accessories and tools. The installation and commissioning procedures for grid 
+connected solar PV systems are presented in twelve steps. These steps are to be followed in sequence.  
+ 
+Step 1: Site survey and shadow analysis 
+Step 2: Installation of  PV array mounting structure 
+Step 3: Installation and testing of structure earthing system 
+Step 4: Installation of PV modules 
+Step 5: Earthing of PV Module Frames 
+Step 6: DC cabling 
+Step 7: AC cabling and installation of inverter 
+Step 8: System protection and safety 
+Step 9: Placing of signage 
+Step 10: Pre-commissioning tests 
+Step 11: Commissioning the system 
+Step 12: Anti-Islanding functionality test 
+2.1 Step 1: Site survey and shadow analysis 
+The site parameters that influence performance and reliability of a PV system are - access to solar radiation, 
+near shadow and far shadow, ambient temperature, air flow and ventilation, wind speed, height of building, 
+terrain, orientation, dust level and pollution, salinity, humidity, extreme weather conditions etc. A number 
+of parameters are likely to be variable from one site to another even in the same geographical area. 
+Therefore, it is crucial to plan a solar PV project to suit the site parameters and also to select the right 
+components and customise the design accordingly to ensure better performance and safety. An inaccurate 
+site assessment will lead to wrong design and installation of a PV system, which eventually follows into 
+poor maintenance, poor performance and unreliable system functioning.  
+ 
+Must have tools for site survey: 
+• 
+Personal protective equipment (as applicable to site condition)  
+• 
+A Solar Pathfinder or Sun eye to identify / determine shadow free area 
+• 
+A compass to record direction (Mobile app is available)  
+• 
+A measuring tape/ digital distance meter to measure distance  
+• 
+An angle measuring equipment (Mobile app is available) 
+• 
+A notebook  
+• 
+A working partner (Never survey a site alone) 

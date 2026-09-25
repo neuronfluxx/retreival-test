@@ -1,0 +1,68 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 43 
+2.11 Step 11: Commissioning the system 
+When you are sure that the conductors and connections are acceptable and the system has successfully 
+passed the pre-commissioning testing, then it’s time to commission the system. 
+ 
+Procedures to follow in sequence: 
+(1) Refer to the inverter’s system manual and follow the start-up procedure 
+(2) Check the inverter display and confirm that the solar array is supplying power to the utility grid. 
+(3) Measure either the AC or DC current using a clamp meter and compare inverter output  
+(4) Measure the DC input voltage and confirm that it is within the operating limits of the inverter 
+(5) Measure the AC output voltage out of the inverter. 
+ 
+Format for recording information:  
+Time 
+Irradiance 
+(W/m2) 
+Ambient 
+Temp 
+(oC) 
+Cell 
+Temp 
+(oC) 
+VMP  
+Measured 
+(V) 
+IMP 
+Measured 
+(A) 
+PMP 
+(VMP x IMP) 
+(W) 
+AC 
+Power in 
+Inverter 
+display 
+(W) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

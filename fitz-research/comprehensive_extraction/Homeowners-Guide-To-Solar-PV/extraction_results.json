@@ -1,0 +1,1838 @@
+{
+  "filename": "Homeowners-Guide-To-Solar-PV",
+  "page_count": 11,
+  "metadata": {
+    "author": "FUDGE iMac 27'' - 2",
+    "title": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Microsoft® Word for Microsoft 365",
+    "producer": "Microsoft® Word for Microsoft 365",
+    "creation_date": "D:20241014103002+01'00'",
+    "mod_date": "D:20241014103002+01'00'",
+    "format": "PDF 1.7",
+    "encryption": null,
+    "page_count": 11,
+    "is_pdf": true,
+    "is_encrypted": false,
+    "is_form_pdf": false,
+    "permissions": -4
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 1087,
+        "blocks_count": 16,
+        "words_count": 100
+      },
+      "images": [
+        {
+          "filename": "page_1_img_1.jpeg",
+          "xref": 23,
+          "width": 404,
+          "height": 104,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 9890,
+          "ext": "jpeg",
+          "bbox": [
+            56.70000076293945,
+            724.7549438476562,
+            202.20999145507812,
+            762.4549560546875
+          ],
+          "transform": [
+            145.50999450683594,
+            0.0,
+            -0.0,
+            37.70000076293945,
+            56.70000076293945,
+            724.7549438476562
+          ]
+        },
+        {
+          "filename": "page_1_img_2.jpeg",
+          "xref": 24,
+          "width": 712,
+          "height": 330,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 42008,
+          "ext": "jpeg",
+          "bbox": [
+            259.80999755859375,
+            51.25,
+            579.0,
+            218.05999755859375
+          ],
+          "transform": [
+            319.19000244140625,
+            0.0,
+            -0.0,
+            166.80999755859375,
+            259.80999755859375,
+            51.25
+          ]
+        },
+        {
+          "filename": "page_1_img_3.png",
+          "xref": 25,
+          "width": 491,
+          "height": 127,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 14008,
+          "ext": "png",
+          "bbox": [
+            59.983001708984375,
+            83.6090087890625,
+            234.22300720214844,
+            134.6300048828125
+          ],
+          "transform": [
+            174.24000549316406,
+            0.0,
+            -0.0,
+            51.020999908447266,
+            59.983001708984375,
+            83.6090087890625
+          ]
+        },
+        {
+          "filename": "page_1_img_4.png",
+          "xref": 27,
+          "width": 1564,
+          "height": 607,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 5266,
+          "ext": "png",
+          "bbox": [
+            15.720000267028809,
+            51.239990234375,
+            579.0,
+            270.1199951171875
+          ],
+          "transform": [
+            563.280029296875,
+            0.0,
+            -0.0,
+            218.8800048828125,
+            15.720000267028809,
+            51.239990234375
+          ]
+        },
+        {
+          "filename": "page_1_img_5.jpeg",
+          "xref": 29,
+          "width": 689,
+          "height": 365,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 44300,
+          "ext": "jpeg",
+          "bbox": [
+            260.5,
+            70.89994812011719,
+            579.0,
+            218.699951171875
+          ],
+          "transform": [
+            318.5,
+            0.0,
+            -0.0,
+            147.8000030517578,
+            260.5,
+            70.89994812011719
+          ]
+        },
+        {
+          "filename": "page_1_img_6.jpeg",
+          "xref": 30,
+          "width": 426,
+          "height": 172,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 7769,
+          "ext": "jpeg",
+          "bbox": [
+            379.1499938964844,
+            717.7039794921875,
+            532.7000122070312,
+            779.85400390625
+          ],
+          "transform": [
+            153.5500030517578,
+            0.0,
+            -0.0,
+            62.150001525878906,
+            379.1499938964844,
+            717.7039794921875
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 11,
+          "name": "BCDGEE+Wingdings-Regular",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 18,
+          "name": "BCDHEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "Type0"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            16.222999572753906,
+            218.59698486328125,
+            579.0030517578125,
+            270.0999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.0,
+            0.11400000005960464,
+            0.4390000104904175
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            15.75,
+            51.29998779296875,
+            360.6300048828125,
+            213.88995361328125
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1726
+        }
+      ],
+      "stats": {
+        "text_length": 1087,
+        "word_count": 100,
+        "block_count": 16,
+        "image_count": 6,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 5,
+        "drawing_count": 2
+      }
+    },
+    {
+      "page_number": 2,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 2648,
+        "blocks_count": 11,
+        "words_count": 426
+      },
+      "images": [],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 33,
+          "name": "BCDIEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            87.25994873046875,
+            312.55401611328125,
+            88.0999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            56.66400146484375,
+            280.8499755859375,
+            375.3139953613281,
+            281.69000244140625
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            56.66400146484375,
+            434.469970703125,
+            319.3940124511719,
+            435.3099670410156
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            56.66400146484375,
+            596.1399536132812,
+            292.0039978027344,
+            596.97998046875
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 2648,
+        "word_count": 426,
+        "block_count": 11,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 5,
+        "drawing_count": 4
+      }
+    },
+    {
+      "page_number": 3,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 1746,
+        "blocks_count": 10,
+        "words_count": 277
+      },
+      "images": [
+        {
+          "filename": "page_3_img_1.jpeg",
+          "xref": 47,
+          "width": 730,
+          "height": 435,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 31484,
+          "ext": "jpeg",
+          "bbox": [
+            122.36000061035156,
+            70.89996337890625,
+            520.0599975585938,
+            254.3399658203125
+          ],
+          "transform": [
+            397.70001220703125,
+            0.0,
+            -0.0,
+            183.44000244140625,
+            122.36000061035156,
+            70.89996337890625
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 45,
+          "name": "BCDJEE+Open Sans",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            255.64996337890625,
+            520.0540161132812,
+            256.489990234375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            56.66400146484375,
+            365.3299865722656,
+            156.14401245117188,
+            366.16998291015625
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            56.66400146484375,
+            519.0700073242188,
+            165.74400329589844,
+            519.9099731445312
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            56.66400146484375,
+            672.699951171875,
+            161.54400634765625,
+            673.5399780273438
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 1746,
+        "word_count": 277,
+        "block_count": 10,
+        "image_count": 1,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 5,
+        "drawing_count": 4
+      }
+    },
+    {
+      "page_number": 4,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 2455,
+        "blocks_count": 8,
+        "words_count": 403
+      },
+      "images": [
+        {
+          "filename": "page_4_img_1.jpeg",
+          "xref": 50,
+          "width": 214,
+          "height": 411,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 16526,
+          "ext": "jpeg",
+          "bbox": [
+            79.44999694824219,
+            503.5699462890625,
+            156.6999969482422,
+            651.5699462890625
+          ],
+          "transform": [
+            77.25,
+            0.0,
+            -0.0,
+            148.0,
+            79.44999694824219,
+            503.5699462890625
+          ]
+        },
+        {
+          "filename": "page_4_img_2.jpeg",
+          "xref": 51,
+          "width": 360,
+          "height": 378,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 14153,
+          "ext": "jpeg",
+          "bbox": [
+            426.0,
+            509.469970703125,
+            555.25,
+            645.219970703125
+          ],
+          "transform": [
+            129.25,
+            0.0,
+            -0.0,
+            135.75,
+            426.0,
+            509.469970703125
+          ]
+        },
+        {
+          "filename": "page_4_img_3.jpeg",
+          "xref": 52,
+          "width": 285,
+          "height": 322,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 9223,
+          "ext": "jpeg",
+          "bbox": [
+            309.75,
+            540.969970703125,
+            412.3999938964844,
+            645.969970703125
+          ],
+          "transform": [
+            102.6500015258789,
+            0.0,
+            -0.0,
+            105.0,
+            309.75,
+            540.969970703125
+          ]
+        },
+        {
+          "filename": "page_4_img_4.jpeg",
+          "xref": 53,
+          "width": 392,
+          "height": 509,
+          "colorspace": 3,
+          "bpc": 8,
+          "size": 14416,
+          "ext": "jpeg",
+          "bbox": [
+            182.25,
+            509.4700012207031,
+            291.7200012207031,
+            651.6199951171875
+          ],
+          "transform": [
+            109.47000122070312,
+            0.0,
+            -0.0,
+            142.14999389648438,
+            182.25,
+            509.4700012207031
+          ]
+        }
+      ],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            151.0999755859375,
+            128.3040008544922,
+            151.94000244140625
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 2455,
+        "word_count": 403,
+        "block_count": 8,
+        "image_count": 4,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 4,
+        "drawing_count": 1
+      }
+    },
+    {
+      "page_number": 5,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 3280,
+        "blocks_count": 7,
+        "words_count": 496
+      },
+      "images": [],
+      "tables": [],
+      "links": [
+        {
+          "type": 2,
+          "from": [
+            72.44999694824219,
+            168.69000244140625,
+            429.7200012207031,
+            182.64996337890625
+          ],
+          "uri": "https://www.esbnetworks.ie/staying-safe/safety-at-home-group/safety-at-home",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 56
+        },
+        {
+          "type": 2,
+          "from": [
+            336.6199951171875,
+            699.43994140625,
+            540.5499877929688,
+            713.3999633789062
+          ],
+          "uri": "https://www.seai.ie/grants/home-energy-grants/solar-electricity-grant/",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 59
+        },
+        {
+          "type": 2,
+          "from": [
+            54.45000076293945,
+            713.3999633789062,
+            207.1300048828125,
+            727.3699951171875
+          ],
+          "uri": "https://www.seai.ie/grants/home-energy-grants/solar-electricity-grant/",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 60
+        }
+      ],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 57,
+          "name": "BCDKEE+SegoeUI-Italic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 11,
+          "name": "BCDGEE+Wingdings-Regular",
+          "type": "ttf",
+          "encoding": "Type0"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            87.25994873046875,
+            240.76400756835938,
+            88.0999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            74.66400146484375,
+            180.37994384765625,
+            427.53399658203125,
+            180.97998046875
+          ],
+          "color": null,
+          "fill": [
+            0.0,
+            0.40400001406669617,
+            0.6940000057220459
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            60.74399948120117,
+            290.8099365234375,
+            259.7239990234375,
+            291.64996337890625
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            56.66400146484375,
+            528.3099975585938,
+            251.9239959716797,
+            529.1499633789062
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 3280,
+        "word_count": 496,
+        "block_count": 7,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 3,
+        "annotation_count": 0,
+        "font_count": 6,
+        "drawing_count": 4
+      }
+    },
+    {
+      "page_number": 6,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 3141,
+        "blocks_count": 14,
+        "words_count": 489
+      },
+      "images": [],
+      "tables": [],
+      "links": [
+        {
+          "type": 2,
+          "from": [
+            54.45000076293945,
+            142.75994873046875,
+            540.5499877929688,
+            156.72998046875
+          ],
+          "uri": "https://www.seai.ie/grants/home-energy-grants/individual-grants/solar-electricity-grant/Solar-PV-Scheme-Guide-1.pdf",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 63
+        },
+        {
+          "type": 2,
+          "from": [
+            54.45000076293945,
+            156.72998046875,
+            111.45999908447266,
+            178.69000244140625
+          ],
+          "uri": "https://www.seai.ie/grants/home-energy-grants/individual-grants/solar-electricity-grant/Solar-PV-Scheme-Guide-1.pdf",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 64
+        },
+        {
+          "type": 2,
+          "from": [
+            270.1300048828125,
+            520.0,
+            335.3500061035156,
+            533.969970703125
+          ],
+          "uri": "https://esb.ie/our-businesses/esb-networks",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 65
+        },
+        {
+          "type": 2,
+          "from": [
+            241.25999450683594,
+            533.969970703125,
+            417.80999755859375,
+            547.9299926757812
+          ],
+          "uri": "https://www.seai.ie/",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 66
+        }
+      ],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 33,
+          "name": "BCDIEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 57,
+          "name": "BCDKEE+SegoeUI-Italic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            154.46002197265625,
+            528.2139892578125,
+            155.05999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.0,
+            0.40400001406669617,
+            0.6940000057220459
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            56.66400146484375,
+            168.37994384765625,
+            109.2239990234375,
+            168.97998046875
+          ],
+          "color": null,
+          "fill": [
+            0.0,
+            0.40400001406669617,
+            0.6940000057220459
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            56.66400146484375,
+            216.97998046875,
+            307.5140075683594,
+            217.82000732421875
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            103.33999633789062,
+            417.9100036621094,
+            470.489990234375,
+            418.5099792480469
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 4,
+          "rect": [
+            103.33999633789062,
+            431.9499816894531,
+            457.6499938964844,
+            432.54998779296875
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 5,
+          "rect": [
+            103.33999633789062,
+            445.8699645996094,
+            143.29998779296875,
+            446.469970703125
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 6,
+          "rect": [
+            56.66400146484375,
+            586.300048828125,
+            278.68402099609375,
+            587.1400146484375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 3141,
+        "word_count": 489,
+        "block_count": 14,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 4,
+        "annotation_count": 0,
+        "font_count": 6,
+        "drawing_count": 7
+      }
+    },
+    {
+      "page_number": 7,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 1944,
+        "blocks_count": 16,
+        "words_count": 327
+      },
+      "images": [],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 38,
+          "name": "SymbolMT",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            177.25994873046875,
+            247.36399841308594,
+            178.0999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            56.66400146484375,
+            296.2099609375,
+            101.42399597167969,
+            296.80999755859375
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            56.66400146484375,
+            328.12994384765625,
+            185.44400024414062,
+            328.72998046875
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            56.66400146484375,
+            463.14996337890625,
+            388.7539978027344,
+            463.7499694824219
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 4,
+          "rect": [
+            56.66400146484375,
+            574.4200439453125,
+            326.9540100097656,
+            575.260009765625
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 1944,
+        "word_count": 327,
+        "block_count": 16,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 4,
+        "drawing_count": 5
+      }
+    },
+    {
+      "page_number": 8,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 2761,
+        "blocks_count": 14,
+        "words_count": 438
+      },
+      "images": [],
+      "tables": [],
+      "links": [
+        {
+          "type": 2,
+          "from": [
+            307.8299865722656,
+            97.05999755859375,
+            365.760009765625,
+            110.3599853515625
+          ],
+          "uri": "mailto:info@seai.ie",
+          "page": -1,
+          "to": "",
+          "file": "",
+          "xref": 71
+        }
+      ],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 57,
+          "name": "BCDKEE+SegoeUI-Italic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 72,
+          "name": "Arial-ItalicMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 74,
+          "name": "BCDLEE+MS PMincho",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 79,
+          "name": "BCDMEE+SegoeUI-BoldItalic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 81,
+          "name": "Arial-BoldItalicMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 11,
+          "name": "BCDGEE+Wingdings-Regular",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [
+        {
+          "index": 0,
+          "rect": [
+            56.66400146484375,
+            86.05999755859375,
+            368.2340087890625,
+            86.77996826171875
+          ],
+          "color": null,
+          "fill": [
+            0.06270000338554382,
+            0.20800000429153442,
+            0.49799999594688416
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 1,
+          "rect": [
+            55.20000076293945,
+            97.0999755859375,
+            539.760009765625,
+            110.41998291015625
+          ],
+          "color": null,
+          "fill": [
+            0.9329213500022888,
+            0.9330434203147888,
+            0.9328908324241638
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 2,
+          "rect": [
+            310.0299987792969,
+            108.739990234375,
+            363.54998779296875,
+            109.3399658203125
+          ],
+          "color": null,
+          "fill": [
+            0.0,
+            0.40400001406669617,
+            0.6940000057220459
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        },
+        {
+          "index": 3,
+          "rect": [
+            55.20000076293945,
+            110.41998291015625,
+            539.760009765625,
+            123.6199951171875
+          ],
+          "color": null,
+          "fill": [
+            0.9329213500022888,
+            0.9330434203147888,
+            0.9328908324241638
+          ],
+          "width": null,
+          "type": "f",
+          "items_count": 1
+        }
+      ],
+      "stats": {
+        "text_length": 2761,
+        "word_count": 438,
+        "block_count": 14,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 1,
+        "annotation_count": 0,
+        "font_count": 9,
+        "drawing_count": 4
+      }
+    },
+    {
+      "page_number": 9,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 3626,
+        "blocks_count": 14,
+        "words_count": 604
+      },
+      "images": [],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 79,
+          "name": "BCDMEE+SegoeUI-BoldItalic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 81,
+          "name": "Arial-BoldItalicMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 74,
+          "name": "BCDLEE+MS PMincho",
+          "type": "ttf",
+          "encoding": "Type0"
+        }
+      ],
+      "drawings": [],
+      "stats": {
+        "text_length": 3626,
+        "word_count": 604,
+        "block_count": 14,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 4,
+        "drawing_count": 0
+      }
+    },
+    {
+      "page_number": 10,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 3453,
+        "blocks_count": 17,
+        "words_count": 555
+      },
+      "images": [],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 79,
+          "name": "BCDMEE+SegoeUI-BoldItalic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 81,
+          "name": "Arial-BoldItalicMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 74,
+          "name": "BCDLEE+MS PMincho",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 11,
+          "name": "BCDGEE+Wingdings-Regular",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 16,
+          "name": "ArialMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 33,
+          "name": "BCDIEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "Type0"
+        }
+      ],
+      "drawings": [],
+      "stats": {
+        "text_length": 3453,
+        "word_count": 555,
+        "block_count": 17,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 7,
+        "drawing_count": 0
+      }
+    },
+    {
+      "page_number": 11,
+      "rect": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "rotation": 0,
+      "mediabox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "cropbox": [
+        0.0,
+        0.0,
+        594.9600219726562,
+        842.0399780273438
+      ],
+      "text": {
+        "plain_length": 3636,
+        "blocks_count": 14,
+        "words_count": 625
+      },
+      "images": [],
+      "tables": [],
+      "links": [],
+      "annotations": [],
+      "fonts": [
+        {
+          "xref": 5,
+          "name": "BCDEEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 74,
+          "name": "BCDLEE+MS PMincho",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 79,
+          "name": "BCDMEE+SegoeUI-BoldItalic",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 81,
+          "name": "Arial-BoldItalicMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 33,
+          "name": "BCDIEE+SegoeUI",
+          "type": "ttf",
+          "encoding": "Type0"
+        },
+        {
+          "xref": 9,
+          "name": "BCDFEE+SegoeUI-Bold",
+          "type": "ttf",
+          "encoding": "TrueType"
+        },
+        {
+          "xref": 89,
+          "name": "Arial-BoldMT",
+          "type": "n/a",
+          "encoding": "TrueType"
+        }
+      ],
+      "drawings": [],
+      "stats": {
+        "text_length": 3636,
+        "word_count": 625,
+        "block_count": 14,
+        "image_count": 0,
+        "table_count": 0,
+        "link_count": 0,
+        "annotation_count": 0,
+        "font_count": 7,
+        "drawing_count": 0
+      }
+    }
+  ]
+}

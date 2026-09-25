@@ -1,0 +1,70 @@
+ 
+ 
+ 
+101 
+application, it can also be used offline without an internet connection. We selected Orange 
+102 
+as the tool for the workshop for these reasons, so that participants were not limited by the 
+103 
+cost of software or requiring a particular operating system. 
+104 
+This paper highlights and reflects on the workshop’s design, implementation and delivery, 
+105 
+outlining the successes, challenges, and future directions. This paper contributes to the 
+106 
+literature by providing a blueprint for teaching domain-specific computational literacy in a 
+107 
+way that is time-efficient, transparent, and accessible for participants. This workshop also 
+108 
+laid the foundation for the practical Orange-based sessions delivered by BM at the recent 
+109 
+ESCMID 4-day artificial intelligence workshop [5]. 
+110 
+111 
+6. Rationale and motivation 
+112 
+6.1 
+The skills gap in infection science 
+113 
+Infection science professionals routinely generate and interact with large volumes of digital 
+114 
+data, such as culture and antimicrobial susceptibility testing results, clinical patient 
+115 
+information, test turnaround times, and operational workflow metrics. Despite this, 
+116 
+structured training in data analytics is often limited. Traditional laboratory education 
+117 
+emphasises diagnostic reasoning and quality assurance but does not necessarily address 
+118 
+statistical computing, ML, and AI. Whilst the potential of analytics may be recognised, the 
+119 
+inability to translate the analytical requirements into practice limits progress. These one-day 
+120 
+workshops have been designed to address this educational gap by introducing the ML 
+121 
+lifecycle using an open-source tool that requires no prior programming or advanced 
+122 
+computational experience. 
+123 
+6.2 
+Motivation 
+124 
+The workshop is designed in response to three pedagogical needs identified through 
+125 
+previous experience by authors BM and TI. These include the following: 
+126 
+Accessibility: Provide an entry point to data science and ML for participants without prior 
+127 
+computational experience. 
+128 
+Relevance: Contextualise examples around infection-science scenarios to make abstract 
+129 
+concepts meaningful. This includes focusing on tabular datasets, as this is the data modality 
+130 
+participants are most likely to use on a regular basis. 
+131 
+Transparency: Promote transparent, open, and reproducible data science practices, 
+132 
+encouraging participants to document analytical steps and adopt open-source tools where 
+133 
+possible. 

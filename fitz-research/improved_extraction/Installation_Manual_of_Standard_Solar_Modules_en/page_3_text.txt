@@ -1,0 +1,88 @@
+www.canadiansolar.com
+| 3
+1.0  
+GENERAL INFORMATION
+This general manual provides important safety 
+information relating to the installation, maintenance 
+and handling of CS-series solar modules. 
+Professional installer must read these guidelines 
+carefully and strictly follow these instructions. 
+Failure to follow these instructions may result in 
+death, injury or property damage. The installation 
+and handling of PV modules requires professional 
+skills and should only be performed by qualified 
+professionals. The installers must inform end–users 
+(consumers) the aforesaid information accordingly. 
+The word "module" or "PV module" used in this 
+manual refers to one or more CS-series solar 
+modules.
+This manual is only valid for the standard module ty­
+pes CS1V-MS, CS1VL-MS, CS1U-MS, CS1H-MS, CS1K-
+MS, CS3U-P, CS3U-MS, CS3K-P, CS3K-MS, CS6A-P, 
+CS6A-M, CS6V-P, CS6V-M, CS6K-P, CS6K-M, CS6K-MS, 
+CS6V-MS, CS6VL-MS, CS6A-MS, CS6U-P, CS6U-M, 
+CS3W-P, CS3L-P, CS3W-MS, CS3L-MS and CS1HA-MS.
+(Notice: For KuLite CS3K-P, a special lightweight opti­
+on for standard CS3K-P only applies to Japan region. 
+Please refer to the separate Annex E : Mounting 
+Method Clamping for KuLite to get its mounting 
+methods.)
+Please retain this manual for future reference. 
+We recommend checking www.canadiansolar.com 
+regularly for the most updated version.
+1.1  
+INSTALLATION MANUAL DISCLAIMER 
+The information contained in this manual is subject
+to change by Canadian Solar Inc. without prior 
+notice. Canadian Solar Inc. gives no warranty of any 
+kind whatsoever, either explicitly or implicitly, 
+with respect to the information contained herein. 
+In the event of any inconsistency among different 
+language versions of this document, the English   
+version shall prevail. Please refer to our product lists 
+and documents published on our website at: http://
+www.canadiansolar.com as these lists are updated 
+on a regular basis.
+1.2  
+LIMITATION OF LIABILITY
+Canadian Solar Inc. shall not be held responsible for 
+damages of any kind, including – without limitation 
+– bodily harm, injury or damage to property, in 
+connection with handling PV modules, system 
+installation, or compliance or non-compliance with 
+the instructions set forth in this manual.
+2.0  
+SAFETY PRECAUTIONS
+                     Warning
+                     Before attempting to install, wire, operate 
+                    and / or service the module and other 
+electrical equipment, all instructions should be 
+read and understood. PV module connectors pass 
+direct current (DC) when exposed to sunlight or 
+other light sources. Contact with electrically active 
+parts of the module, such as terminals, can result in 
+injury or death, irrespective of whether or not the 
+module and the other electrical equipment have 
+been connected. 
+                    AVERTISSEMENT:
+                    Toutes les instructions devront être lues 
+                    et comprises avant de procéder à 
+l’installation, le câblage, l’exploitation et/ou l’entretien 
+des panneaux. Les interconnexions des panneaux 
+conduisent du courant continu (CC) lorsque le 
+panneau est exposé à la lumière du soleil ou à 
+d’autres sources lumineuses. Tout contact avec des 
+éléments sous tension du panneau tels que ses 
+bornes de sortie peut entraîner des blessures ou la 
+mort, que le panneau soit connecté ou non.
+GENERAL SAFETY
+·	 All modules must be installed by licensed 
+electricians in accordance to the applicable 
+electrical codes such as, the latest National 
+Electrical Code (USA) or Canadian Electric Code 
+(Canada) or other national or international 
+applicable electrical codes.  
+Protective clothing (non-slip gloves, 
+clothes, etc.) must be worn during 
+installation to prevent direct contact with 
+30 V DC or greater, and to protect hands 

@@ -1,0 +1,64 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Page | 39
+,,,,,,,,,,,
+Insta,llati,on o,f Grid Connect,ed Rooftop So,lar Photov,oltaic Systems,- A Handbo,o,k for Enginee,rs & Deve,lopers
+,,,,,,,,,,,
+Tab,le 3:,Vo,ltage correcti,on factors for,crystalli,ne silicon PV,modules (I,E,C 62548),,
+,,,,,,,,,,,
+,,Low,est expected,operating te,mperatur,e (°C),,,Correction,Factor,
+,,,,,,,,,,,
+,,,,24 to 20,,,,,1.02,,
+,,,,,,,,,,,
+,,,,19 to 15,,,,,1.04,,
+,,,,,,,,,,,
+,,,,14 to 10,,,,,1.06,,
+,,,,,,,,,,,
+,,,,9 to 5,,,,,1.08,,
+,,,,,,,,,,,
+,,,,4 to 0,,,,,1.10,,
+,,,,,,,,,,,
+,,,,-1 to -5,,,,,1.12,,
+,,,,,,,,,,,
+,,,,-6 to -10,,,,,1.14,,
+,,,,,,,,,,,
+,,,,-1 to -15,,,,,1.16,,
+,,,,,,,,,,,
+,,,,-16 to -20,,,,,1.18,,
+,,,,,,,,,,,
+Tab,le 4:,Mi,nimum Voltag,e Rating of A,rray Isola,tors accordi,ng to IEC6,25,48,,
+,,,,,,,,,,,
+,,,,,,Min Vo,ltage Rati,ng,Min,Voltage,Rating
+,,,,,,,,,,,
+,,,System Ins,tallation,,,,,,,
+,,,,,,p,er pole,,,Over,all
+No,n-e,arth,ed array with,isolated inver,ter,0.5 x V,,,,V,
+,,,,,,,MAX OC ARRA,Y,,OC ARR,AY
+Ea,rthe,d ar,ray with isola,ted inverter,,V,,,2 x,V,
+,,,,,,MA,X OC ARRAY,,,MAX OC,ARRAY
+No,n-e,arth,ed array with,non-isolated,inverter,V,,,2 x,V,
+,,,,,,MA,X OC ARRAY,,,MAX OC,ARRAY
+For,exa,mpl,"e, if open circ",uit voltage (,"V ) of a P
+oc",V module at,STC is 42V,,and 10 modu,les are c,onnected in
+,,,,,,,,,,,
+a str,ing,and,modules are,installed at s,ite where,minimum am,bient temp,e,rature goes u,p to 0oC,", the actual"
+,,,,,,,,,,,
+strin,g v,olta,ge will be 10,x 42 x1.10 =,462V. Th,erefore overa,ll minimu,m,voltage ratin,g for arr,ay isolators
+,,,,,,,,,,,
+will,be,2 x,462 = 924V.,,,,,,,,
+,,,,,,,,,,,
+(7),Sys,tem,Isolation:,,,,,,,,
+,,,,,,,,,,,
+Acc,ordi,ng t,o Central Elec,tricity Autho,rity (Tech,nical Standar,ds for conn,e,ctivity of Di,stributed,Generation
+,,,,,,,,,,,
+Res,ourc,es),"Regulations,",2013 there sh,ould be a,manually op,erating iso,la,ting switch,between,distributed
+,,,,,,,,,,,
+gen,erati,on r,esource and e,lectric system,", which s",hall meet the,following,re,quirements:,,
+,,,,,,,,,,,
+,•,All,ow visible ver,ification that,separatio,n has been est,ablished,,,,
+,,,,,,,,,,,
+,•,Indi,cators to show,clearly clos,ed and op,en position,,,,,
+,,,,,,,,,,,
+,•,Be,capable of rea,dily accessib,le and be,capable of be,ing locked,in,open positi,on,
+,,,,,,,,,,,
+,•,Ma,y not be rated,for load-brea,k,,,,,,
+,,,,,,,,,,,
+,•,Be,located at heig,ht of 2.44 m,above gro,und level,,,,,

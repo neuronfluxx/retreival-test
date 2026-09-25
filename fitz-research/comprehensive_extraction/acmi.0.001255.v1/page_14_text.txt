@@ -1,0 +1,66 @@
+ 
+ 
+ 
+303 
+the context of highly imbalanced datasets, such as the one participants use in the 
+304 
+workshops, and this is discussed in detail. In this session, we primarily focus on the area 
+305 
+under the receiver operating characteristic curve (AUC), and metrics relating to the 
+306 
+confusion matrix such as sensitivity and specificity. We also build on the previous session to 
+307 
+go beyond training and cross-validation performance and examine model performance on 
+308 
+the test set we prepared earlier. The workflow produced by the end of this session is shown 
+309 
+in Figure 5. 
+310 
+311 
+{{TYPE:image; FILENAME:image5.png; ID:rId17}} 
+312 
+Figure 5: Hands-on session 4 focuses on evaluating the models trained in the previous session. This includes evaluating 
+313 
+the models during cross-validation and assessing their performance on the test set. 
+ 
+314 
+8.3.6 
+Hands-on session 5 
+315 
+Hands-on session 5 focuses on the example case of using an external validation set and how 
+316 
+participants can adapt their workflow to accommodate this. By the end of this session, 
+317 
+participants have completed the entire BC outcome prediction workflow (Figure 1). Likewise, 
+318 
+participants using their own datasets should have a similar workflow adapted to their 
+319 
+particular purpose. 
+320 
+321 
+8.3.7 
+Hands-on session 6 
+322 
+Hands-on session 6 extends on what participants have learnt over the course of the 
+323 
+workshop and introduces some different types of workflows. These include workflows 
+324 
+where more data cleaning is required, such as missing value handling and encoding of 
+325 
+categorical variables. Multiclass classification is also discussed. Additional workflows for 
+326 
+regression tasks, unsupervised learning, and computer vision are also introduced. 
+327 
+328 
+All participants receive the workshop materials before the workshop, and the content 
+329 
+remains available to them after it concludes. Participants are provided with a record of all 
+330 
+email communication, instructions for installing the Orange software, the workshop 
+331 
+presentation slides, copies of the completed Orange workflows, and additional 
+332 
+supplementary material, including the datasets. 
+333 
+334 
+335 

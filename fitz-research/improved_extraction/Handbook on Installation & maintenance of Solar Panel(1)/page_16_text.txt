@@ -1,0 +1,68 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+9 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+LED indications of Charge Controller 
+        
+Sr. No. 
+LED Colour 
+Indication 
+1. 
+GREEN 
+Boost Charging (SPV1 & SPV2) 
+2. 
+YELLOW 
+Float Charging (SPV) 
+3. 
+RED 
+Battery LOW  
+4. 
+RED 
+Battery REVERSE with Alarm 
+5. 
+RED 
+PV REVERSE with Alarm 
+ 
+1.10.4  Field Junction Box (FJB) 
+FJB is the interface between Solar panels and the 
+Charge 
+Controller. 
+All 
+the 
+incoming/outgoing 
+cables/wires from Solar panel to Charge Controller are 
+terminated at FJB. 
+ 
+                                               
+                                                               Fig.1.8 : A typical FJB 
+ 
+ 
+ 
+ 
+ 
+ 1.10.5  Solar Module Mounting Structure 
+This is made up of galvanized iron frames and angles. In this structure flexibility is 
+provided to change the module-mounting angle seasonally. This structure is grouted by 
+small civil work and modules are mounted subsequently. Also, this mounting structure 
+should be earthed suitably at several places if voltage of the array is more than 50 Volts.  
+ 
+1.10.6 Earthing kit 
+Earthing kit is provided to earth the mounting structure. Provision of earthing shall be done 
+as follows: 
+The installation shall have proper earth terminals and shall be properly earthed. 
+Zonal Railways shall provide earthing arrangement as per IS:S 3043 and directions issued 
+by RDSO for Lighting and Surge protection for signaling equipment vide letter No. 
+STS/E/SPD dated 22.06.2004. The earth resistance shall not be more than 2 ohm. Earth 
+provided shall preferably be maintenance free using earth resistance improvement material. 
+ 
+1.10.7  Cables 
+We require different types of cables to connect module to module, modules to charge 
+controller, charge controller to battery, or connect battery to load as required. The cable 
+size used for interconnection of SPV module, Charge Controller and battery shall be 
+minimum 2 X 2.5 sq. mm Cu. Cable. As far as some hardware is concerned the screws and 
+bolts/nuts are of Chrome plated, stainless steel and brass so that rusting should not be take 
+place. 
+ 
+Click for contents
+Click for contents

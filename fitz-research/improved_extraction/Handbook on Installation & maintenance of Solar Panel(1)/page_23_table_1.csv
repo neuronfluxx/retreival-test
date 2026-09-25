@@ -1,0 +1,50 @@
+AMT,EC,H/S/PROJ/20,Col3,13‐14/HB‐S,P/,2.0,Col7,Col8,Col9,Col10,16
+,,,,,,,,,,,
+2.3.3,,Load calcu,l,ation,,,,,,,
+,,For DC Loa,,ds,,,,,,,
+,,Load Amps,,X Operatin,g,Hours p,er Day = A,mp Hour Pe,r Day (AH,PD),
+,,(If Load is a,v,ailable in w,,"atts, divid",e the wattage,by system,voltage to g,et Amps,)
+,,(Multiply by,,% duty cyc,l,e if data,available),,,,
+,,,,,,,,,,,
+,,For AC Loa,,ds,,,,,,,
+,,AC Watts X,,Operating,H,ours per,Day = Watt,Hours Per D,ay (WHPD,),
+,,AHPD = W,H,PD / (Inv,e,rter Effic,iency X Nom,inal System,Voltage),,
+,,,,,,,,,,,
+2.3.4,,Sizing Sol,a,r Array,,,,,,,
+,,,,,,,,,,,
+,,No. of Serie,,s Modules,,= Nomin,al DC Syste,m Voltage,/ Nominal,Voltage,of Solar
+,,Module,,,,,,,,,
+,,No. Of Paral,l,el Module,s,= AHPD,/ {(1- Modul,e derating*),X Battery,AH Effi,ciency X
+,,Im of,,Module,,X S,olar Insola,tion of,the,worst,Month}
+,,,,,,,,,,,
+,,No of Mod,u,les in Sola,r,Array =,No of Ser,ies Module,s X No of,Parallel,Modules
+,,,,,,,,,,,
+,,Capacity of,S,olar Array,,= No of,Modules X C,apacity of,Each Modul,e,
+,,,,,,,,,,,
+,,* Derating ~,1,0% on acc,o,unt of du,"st, mismatch,",orientation,etc.,,
+,,,,,,,,,,,
+2.3.,5,Deciding B,a,ttery cap,a,city,,,,,
+,,For calculatin,,g the capac,it,y and nu,mber of batte,"ries, first th",e number o,f back up,days
+,,are to be dec,i,"ded, based",o,n No. of,Consecutive s,unless days,.,,
+,,,,,,,,,,,
+,,For Example,,Back up,d,ays for re,sidential load,= 3 to 5 da,ys,,
+,,,,Back up,d,ays for I,ndustrial Load,= 7 to 14,days,,
+,,,,Back up,d,ays for p,oor weather,= 7 to 14,days,,
+,,,,,,,,,,,
+,C,heck Manu,f,acturer’s,,Recomm,ended Maxi,mum Dep,th of D,ischarge,(DOD)
+,N,ormally it is,,,,,,,,,
+,,,,80% for,d,eep cycl,ing,,,,
+,,,,59% for,s,hallow cy,cling,,,,
+,,,,,,,,,,,
+,C,heck the tem,,perature va,r,iations o,f site and det,ermine the,Maximum,DOD as,per data
+,gi,ven by batte,r,y manufact,u,rer.,,,,,
+,,,,,,,,,,,
+,B,attery Capaci,t,y (In AH),=,(AHPD,X No. of bac,k up days) /,Max DOD,,
+,,,,,,,,,,,
+,N,o of series B,a,tteries = Sy,s,tem DC,Voltage / Batt,ery Voltage,,,
+,,,,,,,,,,,
+,N,o of Parallel,,Batteries =,,Total AH,Required / A,H of Indivi,dual Battery,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+nsta,lla,tion & Main,t,enance of,S,olar Pan,"el
+Click for conten",ts,N,ovember,2013

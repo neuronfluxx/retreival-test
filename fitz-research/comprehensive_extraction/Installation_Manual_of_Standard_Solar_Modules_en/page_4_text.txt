@@ -1,0 +1,89 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+4 | 
+from sharp edges.
+Prior to installation, remove all metallic 
+jewelry to prevent accidental exposure to 
+live circuits.
+When installing modules in light rain, 
+morning dew, take appropriate measures 
+to prevent water ingress into the 
+connector.
+Do not allow children or unauthorized 
+persons near the installation site or 
+storage area of modules.
+·	 Do not install modules in strong wind.
+·	 Use electrically insulated tools to reduce the risk 
+of electric shock. 
+·	 If the disconnects and Over Current Protection 
+Device (OCPD)'s cannot be opened or the inverter 
+cannot be powered down, cover the fronts of the 
+modules in the PV array with an opaque material 
+to stop the production of electricity when installing 
+or working on a module or wiring.
+·	 Do not use or install damaged modules.
+·	 Contact with module surfaces or frames may cause 
+electric shock if the front glass is broken or the 
+backsheet is torn.
+·	 The PV module does not contain any serviceable parts. 
+Do not attempt to repair any part of the module. 
+·	 Keep the junction box cover closed at all times.
+·	 Do not disassemble a module or remove any 
+	 module part.
+·	 Do not artificially concentrate sunlight on a module.
+  
+·	 Do not connect or disconnect modules when current 
+from the modules or an external source is present.
+3.0  
+MECHANICAL / ELECTRICAL 
+SPECIFICATIONS
+Module electrical ratings are measured under Stan­
+dard Test Conditions (STC) of 1000 W/m2 irradiance, 
+with an AM1.5 spectrum, and a cell temperature of 
+25°C. Detailed electrical and mechanical characte­
+ristics of Canadian Solar Inc. crystalline silicon PV 
+modules can be found in Annex C (Mechanical and 
+Electrical Ratings) on www.canadiansolar.com. 
+Main electrical characteristics at STC are also stated 
+on each module label. Please refer to the datasheet 
+or the product nameplate for the maximum system 
+voltage.
+Under certain conditions, a module may produce 
+more current or voltage than under its Standard Test 
+Condition's rated power. As a result, the module 
+short-circuit current under STC should be multiplied 
+by 1.25, and a correction factor should be applied to 
+the open-circuit voltage (see Table 1 below), when 
+determining component ratings and capacities. 
+Depending on your local regulations, an additional 
+1.25 multiplier for the short-circuit current (giving 
+a total multiplier of 1.56) may be applicable when 
+sizing conductors and fuses. 
+Lowest Expected Ambient Temperature (°C/°F)
+Correction Factor
+24 to 20 / 76 to 68
+1.02
+19 to 15 / 67 to 59
+1.04
+14 to 10 / 58 to 50
+1.06
+9 to 5 / 49 to 41
+1.08
+4 to 0 / 40 to 32
+-1 to -5 / 31 to 23
+1.10
+1.12
+-6 to -10 / 22 to 14
+1.14
+-11 to -15 / 13 to 5
+1.16
+-16 to -20 / 4 to -4
+1.18
+-21 to -25 / -5 to -13
+1.20
+-26 to -30 / -14 to -22
+1.21
+-31 to -35 / -23 to -31
+1.23
+-36 to -40 / -32 to -40
+1.25
+Table 1: Low temperature correction factors for open-circuit voltage

@@ -1,0 +1,47 @@
+<!-- Extracted using strategy: text -->
+
+|Col1|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9|Col10|Page|| 33|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||
+|Installation|of Grid Conn|ected|Rooft|op Solar Photov|oltai|c Syste|ms - A Ha|ndbook for Eng|ineer|s & Developers||
+|||||||||||||
+||||||||||Grid|Tie Inverter||
+|||||||||||||
+|||Solar|PV M|odule|||Combi|ner Box||||
+|||||||||||||
+||||||||||DC i/|p<br>AC o/p||
+|||||||||||P<br>N<br>E<br><br>||
+|||||||||Earthing||||
+||||||||Earthing<br>|for Grid tie Inverter||||
+||||||||for load|||||
+|||||||||||||
+||||||||To Household Loa|ds||||
+|||||||||ACD||||
+||||||Main Ea|rthing||||||
+||||||<br>Term|<br>inal||||||
+|_Figur_|_e 24:  Solar_|_    PV S_|_     ystem_|_      connected to_|_        sing_|_        le phas_|_         e system_|_           with TN-S ear_|_             thin_|_              configuration_||
+|||||||||||||
+||||||||||Grid|Tie Inverter||
+|||||||||||||
+||S|olar P|V Mo|dule|||Combi|ner Box||||
+|||||||||||||
+||||||||||DC|i/p<br>AC o/p||
+|||||||||Earthing||L1<br>PE<br><br><br>L2<br>L3<br>N||
+||||||||Earthing<br>|for Grid tie Inverter||||
+||||||||for load|||||
+|||||||||||||
+||||||||To Household Lo|ads||||
+|||||||||ACD|B|||
+|||||Main Earthing||In|dependent|||||
+|||||Terminal||Ear|th Electrode|||||
+|||||||||||||
+|_Figu_|_re 25 Solar_|_   PV Sy_|_    stem_|_     connected to_|_       three_|_        phase_|_         system w_|_          ith TN-S eart_|_            hing_|_             configuration_||
+|||||||||||||
+|In TN-C e|arthing con|figura|tion,|protective ear|th an|d neutr|al (PEN)|conductors a|re c|ombined in a sin|gle|
+|||||||||||||
+|conductor|throughout|the sy|stem.|All exposed|cond|uctive|parts are|connected to|the|PEN conductor.|For|
+|||||||||||||
+|three phas|e consumer,|local|earth|electrode ha|s to|be prov|ided in a|ddition. Eart|hing|of solar PV sys|tem|
+|||||||||||||
+|connected|to this confi|gurati|on ca|n be connecte|d to|the mai|n earthin|g terminal in|switc|hboard.||
+

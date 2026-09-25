@@ -1,0 +1,65 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Page | 11
+,,,,,,,,
+Instal,lation o,f Gr,id Connected Rooftop S,olar Photovo,ltaic Systems -,A Handbook for E,ngineers & Devel,opers
+,,,,,,,,
+2.2,Step,2:,Installation of P,V array,mounting,structure,,
+,,,,,,,,
+Failu,re of P,V a,rray mounting structu,res due to,strong winds,is a rising concer,n in Indian sol,ar projects
+,,,,,,,,
+today,. It is v,ery,common for PV array,mounting,structures to,be conceptualised,and designed p,rimarily to
+,,,,,,,,
+enhan,ce en,ergy,generation consideri,ng area spe,cific tilt angl,e and use of trac,king facility et,c. A large
+,,,,,,,,
+numb,er of s,ola,r PV systems are repo,rted to be d,amaged due t,o inadequate desi,gn consideratio,n for wind
+,,,,,,,,
+loadi,ng. Ap,art,from the strength and,wind loadin,"g capacity, a",mounting structur,e must ensure t,hat the PV
+,,,,,,,,
+array,receiv,es o,ptimum solar radiation,and reduc,es temperatur,es loss by allowin,g enough air cir,culation. It
+,,,,,,,,
+is als,o impo,rtan,t to ensure that factors,such as str,ucture design,", placement, orien","tation, tilt and s",hading are
+,,,,,,,,
+align,ed with,ele,ctrical string design a,nd choice o,f inverter.,,,
+,,,,,,,,
+Win,d loadi,ng,on PV array mount,ing struct,ure:,,,
+,,,,,,,,
+The e,ntire s,tate,of Assam falls under,“Very high,damage risk,zone A and zone,B” with basic w,ind speed
+,,,,,,,,
+of 18,0km/ h,our,and above according,to IS 875,Part 3: Wind,Loads on Buildin,gs and Structur,e. The PV
+,,,,,,,,
+array,mount,ing,structure for any site i,n Assam sh,all be designe,d to withstand not,less than 180k,m per hour
+,,,,,,,,
+wind,speed,for,the areas under zone B,and 200km,per hour wi,nd speed for the ar,eas under zone,A.
+,,,,,,,,
+Desig,n of w,ind,pressure must be calc,ulated over,basic wind sp,"eed, multiplying b",y the factors de,rived for -
+,,,,,,,,
+heigh,t of th,e b,"uilding, topography, p",ressure coe,fficient based,on roof type and,"slope, exposur",e category
+,,,,,,,,
+and i,mporta,nce,factor as per IS 875 (P,art 3) or A,SCE-7.,,,
+,,,,,,,,
+Table,2 in t,his,handbook provides rea,dy referenc,e of design w,ind load at differe,nt roof heights,for 180km
+,,,,,,,,
+per h,our wi,nd s,peed. This table has b,een specifi,cally prepared,for the state of A,ssam and can b,e used for
+,,,,,,,,
+preli,minary,ass,essment of design win,d load at di,fferent roof h,eights in wind zo,"ne B. However,",the actual
+,,,,,,,,
+desig,n load,is li,"kely to vary, based on",the specifi,c site paramet,ers.,,
+,,,,,,,,
+The d,esign,win,d load provided in the,table 2 is p,er unit project,ed area (m2) norm,al to the wind.,"Therefore,"
+,,,,,,,,
+total,wind p,ress,ure on a structure will,be proporti,onate to the t,otal projected area,of the structure,normal to
+,,,,,,,,
+the w,ind.,,,,,,,
+,,,,,,,,
+Me,asures,to,be taken to minimis,e wind pre,ssure on the,mounting struc,ture:,
+,,,,,,,,
+,• Ke,ep,the “effective wind a,rea” as lo,w as possibl,e considering sm,aller mountin,g frame
+,siz,e a,nd lower tilt angle.,,,,,
+,,,,,,,,
+,• O,n a,"flat RCC roof, keep t",he tilt ang,le of module,mounting struct,ure less than 1,5o to
+,mi,nim,ise wind pressure.,,,,,
+,,,,,,,,
+,• O,n a,"inclined roof, use th",e same tilt,as that of th,e building roof.,Never create a,nother
+,til,t on,a inclined surface.,,,,,
+,,,,,,,,
+,• Ne,ver,mount PV modules,at the edg,es and corne,rs of a building,roof (pressure,co-
+,eff,ici,ent zones) to minimis,e wind pre,ssure (Refer,Figure 6 of this,handbook),

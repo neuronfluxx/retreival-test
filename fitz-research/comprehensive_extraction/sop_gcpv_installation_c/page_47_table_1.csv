@@ -1,0 +1,8 @@
+Col0,Nominal Voltage Rating of,Col2,Col3,Minimum Insulation,Col5,Col6,Recommended Minimum,Col8
+,Cable / Conductor,,,resistance DC test Voltage,,,Insulation Resistance,
+,(V),,,(V),,,(Mega Ohms),
+250,,,500,,,25,,
+600,,,1000,,,100,,
+1000,,,1000,,,100,,
+5000,,,2500,,,1000,,
+15000,,,2500,,,5000,,

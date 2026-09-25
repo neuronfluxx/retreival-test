@@ -1,0 +1,71 @@
+ 
+ 
+ 
+assistance, 
+networkin 
+g 
+machine 
+learning 
+for 
+infection 
+science 
+and 
+clinical 
+microbiolo 
+gy. 
+machine learning 
+for infection 
+science and 
+clinical 
+microbiology 
+15:30: 
+Summative 
+exercise 
+17:00 – 
+18:00: 
+Close 
+workshop 
+- 
+Opportuni 
+ties for 
+further 
+questions, 
+technical 
+assistance, 
+networkin 
+g 
+17:00 – 18:00: 
+Close workshop - 
+Opportunities for 
+further 
+questions, 
+technical 
+assistance, 
+networking 
+16:00: 
+Review 
+204 
+Table 1: The timeline and topic of each session for the workshops presented in 2019,2024, 2025, and 2026 
+205 
+8. Workshop implementation and delivery 
+206 
+8.1 
+Workshop preparation 
+207 
+The workshops are taught using the Orange data mining software. To ensure that the 
+208 
+workshop is delivered efficiently, it is critical that participants are appropriately set up with 
+209 
+Orange on their own laptops before attending the workshop. To coordinate this, BM 
+210 
+developed a brief instructional document to guide participants in installing Orange on their 
+211 
+own laptops. The instruction documents have been developed for Windows, Mac, and Linux 
+212 
+(Ubuntu) operating systems. They are sent out to all participants as part of the pre-workshop 
+213 
+communications strategy. This strategy, which ensures that participants are prepared for the 
+214 
+workshop, is outlined in Table 2. Across all workshops, participants were appropriately set 
+215 
+up when they arrived, demonstrating the effectiveness of this communication approach. 

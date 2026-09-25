@@ -1,0 +1,57 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Col12,Col13,Page,| 38
+,,,,,,,,,,,,,,,
+Installation,of Gri,d Connected Ro,oft,op Solar,Ph,otovolta,ic Sy,stems,-,A Han,dbook for E,ngineers &,,Developers,
+,,,,,,,,,,,,,,,
+(5) Select,ion o,f SPD for Sol,ar,PV Pro,jec,ts,,,,,,,,,
+,,,,,,,,,,,,,,,
+Schematic,below,shows positi,ons,of Sur,ge,Protecti,on D,evice,s,(SPDs,) in a grid,connected,P,V system:,
+,,,,,,,,,,,,,,,
+,,,,DC,,,DC,,,,AC,,,,
+,,,,Combin,er,C,ombin,er,,,Combiner,Main,L,V,
+,,,,Box,,,Box,,,,Box,Switch B,,oard,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,SPD,,"L
+DC",SPD,,,,SPD,"L SP
+AC",D,,
+,,,,1,,,2,,,,3,4,,,
+,,,,,,,,,,,,,,,
+,,Figure 31:,Po,sitions,of,Surge P,rotec,tion,D,evices,(SPDs) in,a PV syste,m,,
+,,,,,,,,,,,,,,,
+With the h,elp of,schematic abo,ve,and ta,ble,"below,",type,of su,rg,e prot,ection devi,ces should,,be selected.,
+,,,,,,,,,,,,,,,
+,,PV Mo,dul,es or,,Inver,ter,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,In,verter,AC side,M,a,in Board,
+Locati,on,Combine,r,Boxes,,DC s,ide,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,"L
+D",C,,,,,,,L,AC,Lig,h,tning rod,
+,,,,,,,,,,,,,,,
+Criter,ia,< 10 m,,> 10 m,,,,<,1,0 m,> 10 m,Yes,,No,
+,,,,,,,,,,,,,,,
+Type of,SPD,No need,,Type 2,,Type,2,N,o n,eed,Type 2,Type 1,,Type 2,
+,,,,,,,,,,,,,,,
+(6) Voltag,e rat,ing of DC pr,ote,ction,dev,ices:,,,,,,,,,
+,,,,,,,,,,,,,,,
+All system,prote,ction devices,mu,st have,a v,oltage r,ating,of a,t l,east th,e PV Array,Maximum,,Voltage of,the
+,,,,,,,,,,,,,,,
+system. Th,e PV,array will atta,in,a maxi,mu,m volta,ge at,the l,ow,est ex,pected tem,perature at,,the installat,ion
+,,,,,,,,,,,,,,,
+site. Maxi,mum,"V of string
+OC",at,lowest,ex,pected,site t,emp,era,ture (,PV Array,Maximum,,Voltage) to,be
+,,,,,,,,,,,,,,,
+calculated,using,formula below,:,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,_`a,bc,"dc e
+f","h
+g",i jklb,mn =,_,×,"e
+fg@","× g. q
+jpg",.,,,
+"Where,",,,,,,,,,,,,,,,
+M,,= Number of,mo,dules (i,n a,string),in se,ries,,,,,,,
+,,,,,,,,,,,,,,,
+C.,F.,= Correction F,ac,tor (to,be t,aken fr,om b,elow,ta,ble),,,,,
+ST,C,= Standard Te,st,Conditi,ons,(25oC,Cell,temp,er,"ature,",1000W/m2,irradiance,),,

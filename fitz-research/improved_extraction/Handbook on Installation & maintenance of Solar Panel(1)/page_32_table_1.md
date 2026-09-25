@@ -1,0 +1,51 @@
+<!-- Extracted using strategy: text -->
+
+|CH|/S/PROJ/20|13|‐14/HB‐SP/2.|0|Col6|Col7|Col8|Col9|Col10|Col11|Col12|Col13|Col14|Col15|25|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||||||
+|**     In**|**     stallation**|**      g**|**      uidelines**|||||||||||||
+|Th|e installatio|n|of Solar Pow|er Sys|tem in|volves||the|foll|owing maj|or steps:|||||
+|||||||||||||||||
+||Civil Fou|nd|ation Job|||||||||||||
+||Assembl|y a|nd fixing of|suppo|rt struc|ture.||||||||||
+||Mountin|g o|f Solar Mod|ules on|the S|upport||Str|uctu|re.||||||
+||Installati|on|of Battery B|ank.||||||||||||
+||Interconn|ec|tion of SPV|panel|in seri|es & p|a|ral|lel c|onfiguratio|n, Charg|e C|o|ntr|ol Unit|
+||and FJB|||||||||||||||
+||Connecti|on|of Battery B|ank a|nd Loa|d||||||||||
+||Earthing|of|Lightning P|rotecti|on Un|it.||||||||||
+|||||||||||||||||
+|**  M**|**  ounting t**|**   he**|**    Solar Mod**|**     ules**||||||||||||
+|Fo|r mounting|th|e solar panel|s first|determ|ine m|o|un|ting|method i.e.|Roof m|ou|nt|or|Ground|
+|<br>mo|<br>unt.|||||||||||||||
+|W|hile mount|ing|the solar|Modul|es, fol|lowin|g|po|ints|should be|consid|ered||for|getting|
+|ma|ximum out|pu|t from the so|lar mo|dules:|||||||||||
+|||||||||||||||||
+||Modules s|ho|uld be orien|ted sou|th fac|ing to|r|ece|ive|maximum s|unlight.|.||||
+||The Modu|le|s produce m|ore po|wer at|low te||mpe|ratu|re and full|sun.|||||
+||Tracking t|he|Sun increas|es the|amoun|t of p|o|we|r fro|m an array||||||
+|||||||||||||||||
+|T|he Solar pa|nel|s are genera|lly ins|talled|in such||a|way t|hat they ca|n receiv|e m|a|xim|um|
+|di|rect sunlig|ht|without shad|e from|any b|uildin|g|/tre|es n|earby fallin|g on the|m|at|an|y part|
+|of|the day.|||||||||||||||
+|||||||||||||||||
+|A|s we know|th|at the Sun|rises i|n the|East a|n|d|sets|in the Wes|t as a r|esu|lt|of|Earth’s|
+|ro|tation arou|nd|its own axi|s. Als|o the|Earth r|e|vo|lves|around the|Sun. D|ue|to|th|ese two|
+|m|ovements t|he|re is variatio|n in th|e ang|le at w||hic|h the|Sun’s ray|s fall on|Ea|rt|h’s|surface|
+|o|ver a year.|At|any particu|lar pla|ce on|Earth|t|his|vari|ation in an|gle in o|ne|y|ear|may be|
+|u|pto 45 degr|ee|s. Considerin|g thes|e fact|s the f|o|llo|wing|guideline|s are to|be|ke|pt|in mind|
+|w|hile installi|ng|solar panels|:||||||||||||
+|||||||||||||||||
+|1.|Solar panel|s s|hould be ins|talled|at an|angle|o|f ‘(|LAT|ITUDE of|the pla|ce +||10)|degree’|
+||from horiz|on|tal. For exam|ple,|New D|elhi h|a|s a|latit|ude of 26|degree,|hen|c|e a|ny solar|
+||panel in N|ew|Delhi is to|be in|stalle|d at an||an|gle|of 26 + 10|=36 de|gre|e|inc|lined to|
+|<br>|<br>horizontal.|<br>||||||||||||||
+|2.|Solar pane|ls|should be in|stalle|d Sout|h faci|n|g i|n th|e Northern|hemisp|her|e|an|d North|
+||facing in t|he|Southern h|emisph|ere. S|ince I|n|dia|is i|n the Nort|hern he|mis|p|her|e, Solar|
+||panels will|b|e installed|always|- Sou|th faci|n|g|in o|ur country|. The d|irec|ti|ons|North-|
+||South may|be|found with|the h|elp of|Magn|e|tic|Com|pass. The|picture|giv|en|in|Fig 3.3|
+||illustrates t|his|.|||||||||||||
+|||||||||||||||||
+|**_i_**|**_ & i_**||**_    Sl_**|**_     P_**|**_     l_**||||||||||**_                                         013_**|
+|**_at_**|**_on  Man_**|**_  te_**|**_  ance of o_**|**_    ar a_**|**_     e_**<br>**Click**|<br>** for cont**|<br>**  e**|<br>**  nts**|||**_                                        Nov_**|**_                                        em_**||**_                                        r_**||
+

@@ -1,0 +1,51 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+26 | 
+CS6A-P, CS6A-M, CS6VL-MS and CS6A-MS
+Use four clamps on the long side. Mounting rails 
+run perpendicularly to the long side frame. 
+Use four clamps on the short side. Mounting rails 
+run parallel to the long side frame.
+A1 range = (0 – 219) mm
+Maximum Load: 
+Uplift load ≤ 2000 Pa
+Downforce load ≤ 2000 Pa
+A2 range = (200 – 250) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+A1
+A1
+A1
+A1
+A1 range = (220 – 440) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+A1 range = (270 – 330) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+A2
+A2
+A2
+A2
+ Use four clamps on the short side.
+Use four clamps on the short side and two clamps 
+on the long side. An additional support bar should 
+be placed below the center of the module.
+A2
+A2
+A2
+A2
+A2
+A2
+A2
+A2
+A2 range = (0 – 250) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 2400 Pa
+A2 range = (200 – 250) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa

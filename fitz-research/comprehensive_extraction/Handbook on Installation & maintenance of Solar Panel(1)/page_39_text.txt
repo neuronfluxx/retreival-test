@@ -1,0 +1,80 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+32 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+ii. 
+SPV Panel: The SPV Panel may not be producing required power for which the 
+Power Source has been designed. In that case, check the SPV Panel as given 
+below: 
+ 
+ Check for any loose connection/breakage of wire in SPV module 
+interconnections. 
+ If there is no such loose connection, clean the SPV Modules with soft cloth. 
+Whenever there is bright sunshine, measure the voltage and current of each 
+module after disconnecting the wire. Open circuit voltage of each module should 
+be around 21 volts and short circuit current should be as per table given under 
+Para 6 depending upon the wattage of the module, at 100 mW/Sq.cm AM 1.5 
+Solar radiation. 
+ If any of the SPV modules gives low voltage/current output during bright sunlight 
+(Sun intensity 90 mW/Sq. cm) inform the manufacturer/Supplier with module 
+serial number along with the measurement taken, for necessary investigations. 
+ 
+iii. 
+Failure of blocking diode: Blocking diode fails in short circuit and open circuit 
+mode. If it is failed in short circuit mode, voltage across its terminal will be zero 
+in place of 0.7 V while charging current flows through it. When it fails in open 
+circuit mode, the current will not flow through the diode. The diode may be 
+checked as per standard method of checking of diode by removing from the 
+circuit. 
+ 
+Apart from these some possible complaints and troubleshooting methods for Solar 
+modules are listed in Table C below: 
+Table C 
+S. 
+No. 
+Symptom 
+Possible 
+Failure 
+Probable cause 
+Action 
+1. 
+No output 
+Cable 
+Conductor break 
+Replace cable 
+Corrosion 
+Loose connection 
+Improper connection 
+Verify the wire connections are tight, 
+corrosion free and of correct polarity. 
+Connector 
+Defective connector 
+Replace connector 
+ 
+Loose connection 
+Pin loose 
+Corrosion 
+Improper fixing 
+Fix the connector properly 
+Junction 
+box 
+Mechanical damage 
+Return to factory for 
+Servicing 
+Connection problem 
+Connect properly 
+Charge 
+controller 
+Electronic failure 
+Replace charge controller 
+None of the 
+above 
+ 
+ 
+ 
+Internal problem 
+Return to factory, if 
+within warranty 
+Click for contents
+Click for contents

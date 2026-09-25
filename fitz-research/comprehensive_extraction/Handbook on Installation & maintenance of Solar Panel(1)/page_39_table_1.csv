@@ -1,0 +1,22 @@
+"S.
+No.",Symptom,"Possible
+Failure",Probable cause,Action
+1.,No output,Cable,Conductor break,Replace cable
+,,,Corrosion,
+,,,Loose connection,
+,,,Improper connection,"Verify the wire connections are tight,
+corrosion free and of correct polarity."
+,,Connector,Defective connector,Replace connector
+,,,Loose connection,
+,,,Pin loose,
+,,,Corrosion,
+,,,Improper fixing,Fix the connector properly
+,,"Junction
+box",Mechanical damage,"Return to factory for
+Servicing"
+,,,Connection problem,Connect properly
+,,"Charge
+controller",Electronic failure,Replace charge controller
+,,"None of the
+above",Internal problem,"Return to factory, if
+within warranty"

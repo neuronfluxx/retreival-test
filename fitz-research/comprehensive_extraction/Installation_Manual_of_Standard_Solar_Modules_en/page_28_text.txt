@@ -1,0 +1,48 @@
+EN-Rev IM/GN-AM-EN/2.2 Copyright © July, 2020. Canadian Solar Inc.
+28 | 
+Use four clamps on the short side.
+Use four clamps on the short side and two clamps 
+on the long side. An additional support bar 
+should be placed below the center of the module.
+A2 range = (0 – 210) mm
+Maximum Load: 
+Uplift load ≤ 2000 Pa
+Downforce load ≤ 2000 Pa
+A2 range = (170 – 210) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 5400 Pa
+       
+A2
+A2
+A2
+A2
+A2
+A2
+A2
+A2
+Use four clamps on the long side. Mounting rails 
+run parallel to the long side frame. 
+A1
+A1
+A1
+A1
+A1 range = (240 – 330) mm
+Maximum Load: 
+Uplift load ≤ 2400 Pa
+Downforce load ≤ 4000 Pa
+A3
+A3
+A5
+A5
+Use six clamps on the long side. Mounting rails 
+run perpendicularly to the long side frame.
+A3 range = (80 –380) mm
+A5 range = (80 –380) mm
+Maximum Load: 
+Uplift load ≤ 4000 Pa
+Downforce load ≤ 6000 Pa
+A4
+A4
+A4
+A4

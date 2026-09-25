@@ -1,0 +1,68 @@
+ 
+ 
+ 
+236 
+have learnt, ask questions, receive technical support, or have a rest before starting the next 
+237 
+set of sessions. 
+238 
+239 
+8.3 
+Session content 
+240 
+8.3.1 
+Introductory presentation 
+241 
+The workshops start with a one-hour presentation. This presentation consists of a general 
+242 
+introduction to the workshop and outlines the learning goals. Participants are shown the 
+243 
+final Orange workflow that they build by the conclusion of the workshop (Figure 1). The 
+244 
+workflow that participants build is based on previous work by BM, TI, and MR, regarding ML 
+245 
+for blood culture outcome prediction [13]. To the best of our knowledge, this is the first time 
+246 
+that a workshop has been delivered that presents a workflow for blood culture outcome 
+247 
+prediction. However, the workflows can be easily adapted, and participants are encouraged 
+248 
+to bring their own datasets to the workshop and apply what they learn to their specific 
+249 
+problems. Following this introduction, for the remaining hour of the first session, we cover 
+250 
+fundamental data science, and ML concepts, and provide some examples of where ML has 
+251 
+been applied to infectious diseases and clinical microbiology. Following this, we introduce 
+252 
+the data science and ML lifecycle to participants, outlining the main components, including 
+253 
+1) problem identification and ML objective; 2) data preparation; 3) model development; and 
+254 
+4) evaluation. We then provide additional background on structured data and supervised 
+255 
+ML. 
+256 
+257 
+{{TYPE:image; FILENAME:image1.png; ID:rId13}} 
+258 
+Figure 1: Final analytical workflow developed by the participants of the workshop. Includes data cleaning and 
+259 
+processing, training and testing machine learning models, cross-validation, and model evaluation. 
+ 
+260 
+261 
+262 
+263 
+8.3.2 
+Hands-on session 1 
+264 
+The first hands-on session is designed to introduce participants to the Orange software 
+265 
+ecosystem in preparation for the remainder of the workshop. The session utilises publicly 
+266 
+available, published data [14], and its focus is on how to use Orange. This includes importing 
+267 
+data into the application and visualising it. The resulting workflow produced during this 
+268 
+hands-on session is shown in Figure 2. 

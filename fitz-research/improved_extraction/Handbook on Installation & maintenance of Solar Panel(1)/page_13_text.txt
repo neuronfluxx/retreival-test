@@ -1,0 +1,36 @@
+CAMTECH/S/PROJ/2013‐14/HB‐SP/2.0 
+ 
+6 
+Installation & Maintenance of Solar Panel                                                     November 2013 
+ 
+1.9  Solar Panel 
+A Solar panel consists of a number of solar modules, which are connected in series and 
+parallel configuration to provide specific voltage and current to charge a battery. A diode is 
+connected on the +ve terminal of such string in forward bias. This is called Blocking diode. 
+This diode is provided so that in daytime current can flow from module to battery, but at 
+night or in cloudy day current should not flow back from battery to module or from one 
+string to another string Drawing shown in Fig 4 below illustrates a Solar panel. 
+ 
+ 
+ 
+Fig.1.4: Structure of a Solar Panel  
+ 
+1.10 Main Components of Solar Photo Voltaic System 
+  The solar power system consists of the following components: 
+ 
+i. 
+Solar array. 
+ii. 
+Battery Bank 
+iii. 
+Solar Charge Controller 
+iv. 
+Field Junction Box 
+v. 
+Solar Module Mounting Structure 
+vi. 
+Earthing kit 
+vii. 
+Cables. 
+Click for contents
+Click for contents

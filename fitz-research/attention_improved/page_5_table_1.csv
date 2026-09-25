@@ -1,0 +1,71 @@
+Col0,Col1,Col2,Col3,O,Col5
+,MultiHe,"ad(Q, K, V )","= Concat(head
+1",", ..., head h)W O",
+,,,,,
+,,"where head
+i",= Attention(QW,"Q , KW iK , V W iV )
+i",
+,,,,,
+Where the,projections are par,ameter matrice,s W iQ ∈Rdmodel×,"dk, W iK ∈Rdmodel×dk, W",iV ∈Rdmodel×dv
+and W O ∈,Rhdv×dmodel.,,,,
+,,,,,
+In this wo,rk we employ h,= 8 parallel,"attention layers,",or heads. For each o,f these we use
+,,,,,
+"d = d =
+k v","d /h = 64. D
+model",ue to the reduc,ed dimension of,"each head, the total com",putational cost
+is similar t,o that of single-he,ad attention wi,th full dimensio,nality.,
+,,,,,
+3.2.3 Ap,plications of Atte,ntion in our M,odel,,
+,,,,,
+The Transf,ormer uses multi-,head attention,in three different,ways:,
+,,,,,
+• In,"""encoder-decode","r attention"" la","yers, the queries",come from the previous,"decoder layer,"
+an,d the memory ke,ys and values,come from the o,utput of the encoder. Th,is allows every
+p,osition in the deco,der to attend o,ver all positions,in the input sequence. T,his mimics the
+ty,pical encoder-dec,oder attention,mechanisms in,sequence-to-sequence,models such as
+[3,"1, 2, 8].",,,,
+,,,,,
+• T,he encoder contai,ns self-attentio,n layers. In a se,lf-attention layer all of t,"he keys, values"
+an,d queries come fr,om the same p,"lace, in this case",", the output of the previ",ous layer in the
+en,coder. Each posit,ion in the enco,der can attend to,all positions in the previ,ous layer of the
+en,coder.,,,,
+• Si,"milarly, self-atten",tion layers in th,e decoder allow,each position in the deco,der to attend to
+al,l positions in the,decoder up to a,nd including tha,t position. We need to p,revent leftward
+in,formation flow in,the decoder to,preserve the auto,-regressive property. We,implement this
+in,side of scaled dot-,product attenti,on by masking ou,t (setting to −∞) all val,ues in the input
+of,the softmax whic,h correspond t,o illegal connect,ions. See Figure 2.,
+,,,,,
+3.3 Posit,ion-wise Feed-Fo,rward Netwo,rks,,
+,,,,,
+In addition,to attention sub-,"layers, each of",the layers in ou,r encoder and decoder c,ontains a fully
+connected,feed-forward netw,"ork, which is",applied to each p,osition separately and i,dentically. This
+consists of,two linear transfo,rmations with,a ReLU activatio,n in between.,
+,,,,,
+,,,,,
+,,FFN(x) = m,"ax(0, xW + b
+1 1",")W + b
+2 2",(2)
+,,,,,
+While the l,inear transformati,ons are the sam,e across different,"positions, they use diffe",rent parameters
+from layer,to layer. Anoth,er way of des,cribing this is a,s two convolutions with,kernel size 1.
+The dimen,sionality of input,and output is,"d = 512,
+model",and the inner-layer has,dimensionality
+"d = 204
+ff",8.,,,,
+,,,,,
+3.4 Emb,eddings and Soft,max,,,
+,,,,,
+Similarly t,o other sequence,transduction m,"odels, we use le",arned embeddings to co,nvert the input
+tokens and,output tokens to v,ectors of dimen,"sion d . We
+model",also use the usual learned,linear transfor-
+mation and,softmax function,to convert the,decoder output t,o predicted next-token p,robabilities. In
+"our model,",we share the sam,e weight matrix,between the tw,o embedding layers and t,he pre-√softmax
+linear trans,"formation, similar",to [24]. In the,embedding layer,"s, we multiply those weig","hts by d .
+model"
+,,,,,
+3.5 Posit,ional Encoding,,,,
+,,,,,
+Since our,model contains no,recurrence and,"no convolution, i",n order for the model to,make use of the
+order of th,"e sequence, we mu",st inject some,information abou,t the relative or absolute,position of the
+tokens in t,he sequence. To t,"his end, we ad","d ""positional enc","odings"" to the input em",beddings at the

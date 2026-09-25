@@ -1,0 +1,72 @@
+ 
+ 
+ 
+134 
+These principles align with a broader emerging philosophy regarding the importance of 
+135 
+responsible and trustworthy data science and ML implementation [6,7,8, 9]. By focusing on 
+136 
+open workflow design, participants learn how to make their analyses interpretable, 
+137 
+shareable, and auditable. These aspects of the analytical workflow are of fundamental 
+138 
+importance to clinical, laboratory, and research settings since they form the foundation for 
+139 
+the one-day workshops. 
+140 
+7. Workshop design and framework 
+141 
+7.1 
+Design principles 
+142 
+The workshop is designed to ensure that the intended learning outcomes and teaching 
+143 
+activities are explicitly aligned [10]. Noting that assessment or evaluation tasks for the 
+144 
+participants are not included. Learning outcomes are clearly articulated at the outset of the 
+145 
+workshop, and participants are informed of the knowledge and competencies they are 
+146 
+expected to develop by the end of the session. Teaching activities are deliberately structured 
+147 
+to support these outcomes, with an emphasis on conceptual understanding of the ML 
+148 
+lifecycle rather than narrow technical mastery. 
+149 
+In addition to constructive alignment, the workshop draws on principles from experiential 
+150 
+learning theory and cognitive apprenticeship. Experiential learning theory emphasises 
+151 
+learning through a cycle of concrete experience, reflective observation, abstract 
+152 
+conceptualisation, and active experimentation [11]. This is operationalised through live 
+153 
+demonstrations of analytical workflows, hands-on sessions, and opportunities for reflection 
+154 
+on methodological decisions. Cognitive apprenticeship further informed the workshop 
+155 
+design by recognising that analytical proficiency develops through observation of expert 
+156 
+practice, guided participation, and gradual transfer of knowledge and skills to the 
+157 
+participants [12]. Guided by this educational framework and the needs of a multidisciplinary 
+158 
+audience, the workshop was designed around the following principles: 
+159 
+Authenticity: The analytical techniques and workflows taught during the workshop reflect 
+160 
+those commonly required in real-world projects involving clinical and laboratory datasets in 
+161 
+tabular/structured form. By focusing on broadly applicable methods rather than highly 
+162 
+specialised implementations, participants are encouraged to directly map workshop content 
+163 
+to their own research or professional practice. 
+164 
+Progressive scaffolding: The workshop follows a linear and cumulative structure, with each 
+165 
+session explicitly building on concepts and skills introduced in prior sessions. This 
+166 
+progressive scaffolding supports participants with varying levels of prior experience, 
+167 
+enabling them to incrementally develop competence through guided practice. 

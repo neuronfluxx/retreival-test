@@ -1,0 +1,69 @@
+<!-- Extracted using strategy: text -->
+
+|What is Sol|ar P|hotovo|ltaic|s (Solar PV|)?|Col7|Col8|Col9|Col10|Col11|Col12|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|||||||||||||
+|The term ‘solar p|anel’|is often use|d inter|changeably to|des|cribe the panels th|at gene|ra|te elect|ricity and|those|
+|||||||||||||
+|that generate ho|t wat|er.||||||||||
+|||||||||||||
+|•<br>Solar panels|that p|roduce ele|ctricity|are known as|sola|r photovoltaic (PV|) modul|es|. These|panels||
+|||||||||||||
+|generate elec|tricit|y when exp|osed t|o light. Solar P|V is t|he rooftop solar y|ou see|in|homes|and||
+|||||||||||||
+|businesses.|Solar|electric pan|els cap|ture the light f|rom|the sun and conv|ert it in|to|the ele|ctricity tha|t is|
+|||||||||||||
+|used in your|hom|e to power|your TV|, kettle, toaste|r, ph|one charger, radi|o, oven,|a|nd so o|n.||
+|||||||||||||
+|•<br>Solar panels|that p|roduce ho|t water|are known as|sola|r thermal collector|s or sol|ar|hot wa|ter collect|ors.|
+|||||||||||||
+|SEAI provides gra|nt su|pport for b|oth So|lar PV and Sola|r Ho|t Water Collector|s. This g|ui|de focu|ses on Sol|ar PV|
+|||||||||||||
+|for renewable sel|f-con|sumers.||||||||||
+|||||||||||||
+|**How can yo**|**  u b**|**   enefit f**|**    rom**|**     investing**|**      in**|**       Solar PV?**||||||
+|||||||||||||
+|•<br>Reduce your|elect|ricity bills b|y gene|rating your ren|ewa|ble electricity.||||||
+|||||||||||||
+|•<br>Increase the|efficie|ncy and ad|d to th|e value of you|r ho|me||||||
+|||||||||||||
+|•<br>Reduce your|relian|ce on elec|tricity g|enerated from|fos|sil fuels||||||
+|||||||||||||
+|•<br>Support the|envir|onment by|reducin|g your greenh|ous|e gas emissions.||||||
+|||||||||||||
+|Solar PV is a relia|ble a|nd sustaina|ble sou|rce of renewa|ble e|nergy that can he|lp redu|ce|your re|liance on|grid|
+|||||||||||||
+|electricity and th|e rela|ted cost vo|latility.|Once installed|, sol|ar PV will provide|electrici|ty|quietly|, cleanly, a|nd|
+|||||||||||||
+|affordably for 25|or m|ore years w|ith min|imal maintena|nce|requirements.||||||
+|||||||||||||
+|**Installation**|** of**|**  domest**|**  ic sol**|**   ar PV syst**|**     em**|||||||
+|||||||||||||
+|A domestic solar|PV sy|stem consi|sts of s|everal solar pa|nels|mounted general|ly to yo|ur|roof an|d connect|ed to|
+|||||||||||||
+|the electrical load|s wit|hin your b|uilding.|The solar pane|ls g|enerate DC (direct|curren|t –|like a b|attery)||
+|||||||||||||
+|electricity, which|is the|n converte|d in an|inverter to AC|(alt|ernating current –|like the|el|ectricit|y in your||
+|||||||||||||
+|domestic socket)|. Sola|r PV system|s are r|ated in kilowat|t pe|ak (kWp). A 1kWp|solar P|V s|ystem|would req|uire 3|
+|||||||||||||
+|solar panels on y|our r|oof.||||||||||
+|||||||||||||
+|Any excess electr|icity|produced c|an be s|tored in a batt|ery,|or other storage s|olution|lik|e your|hot water||
+|||||||||||||
+|immersion tank o|r Ele|ctric Vehicl|e. It can|also be expor|ted|from your house i|nto the|ele|ctrical|network o|n|
+|||||||||||||
+|your street.||||||||||||
+|||||||||||||
+|**Generating**|** ele**|** ctricity**|**  from**|**   solar PV**||||||||
+|||||||||||||
+|Solar PV systems|gene|rate electri|city du|ring daylight h|ours|only, predominat|ely arou|nd|the m|iddle of th|e|
+|||||||||||||
+|day. In Ireland, ar|ound|75% is pro|duced|from May to S|epte|mber. If this elect|ricity is|no|t used i|n the hom|e, it|
+|||||||||||||
+|is exported to th|e grid|.||||||||||
+|||||||||||||
+|It is desirable to|maxi|mize the am|ount o|f solar electrici|ty y|ou use in your ho|me. You|ca|n do th|is by sizin|g the|
+|||||||||||||
+|solar PV system t|o me|et your de|mand.|||||||||
+

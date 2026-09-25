@@ -1,0 +1,52 @@
+<!-- Extracted using strategy: text -->
+
+|CAMTE|CH/S|/PR|OJ/2013‐14/HB‐SP/2|.0|Col6|Col7|Col8|Col9|32|
+|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
+||ii.||SPV Panel: The SP|V Panel m|ay not be|producing requ|ired power|for w|hich the|
+||||Power Source has|been desig|ned. In th|at case, check|the SPV P|anel a|s given|
+||||<br>below:|||||||
+||||Check for any|loose co|nnection/b|reakage of|wire in S|PV|module|
+||||<br>interconnections.|||||||
+||||If there is no such|loose con|nection, c|lean the SPV|Modules wi|th so|ft cloth.|
+||||Whenever there is|bright sun|shine, me|asure the volta|ge and cu|rrent|of each|
+||||module after discon|necting the|wire. Op|en circuit voltag|e of each m|odul|e should|
+||||be around 21 volts|and short|circuit cur|rent should be|as per tabl|e give|n under|
+||||Para 6 depending u|pon the w|attage of|the module, at|100 mW/S|q.cm|AM 1.5|
+||||Solar radiation.|||||||
+||||If any of the SPV m|odules giv|es low volt|age/current out|put during b|right|sunlight|
+||||(Sun intensity 90|mW/Sq. cm|) inform|the manufactur|er/Supplier|with|module|
+||||serial number along|with the m|easuremen|t taken, for nec|essary inves|tigati|ons.|
+|||||||||||
+||iii.||Failure of blocking|diode: Blo|cking dio|de fails in shor|t circuit an|d ope|n circuit|
+||||mode. If it is failed|in short ci|rcuit mode|, voltage across|its termina|l will|be zero|
+||||in place of 0.7 V w|hile chargi|ng current|flows through|it. When it|fails|in open|
+||||circuit mode, the c|urrent will|not flow|through the di|ode. The d|iode|may be|
+||||checked as per sta|ndard met|hod of ch|ecking of diode|by remov|ing f|rom the|
+||||<br>circuit.|||||||
+||Ap|art|from these some po|ssible comp|laints and|troubleshooting|methods fo|r Sola|r|
+||mo|dul|es are listed in Tabl|e C below:||||||
+|**Table**|** C**|||||||||
+|**S.**<br>|**Sym**|**pto**|**m**<br>**Possible**|**Probable ca**|** use**|**Action**||||
+|**No.**|||**Failure**|||||||
+|1.<br>|No o|utpu|t<br>Cable|Conductor b|reak|Replace cable||||
+|||||Corrosion||||||
+|||||Loose conn|ection|||||
+|||||Improper co|nnection|Verify the wire|connections|are tig|ht,|
+|||||||corrosion free a|nd of correct|polar|ity.|
+||||Connector<br>|Defective co|nnector|Replace connec|tor|||
+|||||Loose conn|ection|||||
+|||||Pin loose||||||
+|||||Corrosion||||||
+|||||Improper fix|ing|Fixthe connect|or properly|||
+||||Junction|Mechanical|damage|Return to factor|y for|||
+||||box|||Servicing||||
+|||||Connection|problem|Connect proper|ly|||
+||||Charge|Electronic f|ailure|Replace charge|controller|||
+||||<br>controller|||||||
+||||None of the|Internal pro|blem|Return to factor|y, if|||
+||||above|||within warranty||||
+|||||||||||
+|**_Ill_**|**_i_**|**_ &_**|**_  i  S_**|**_     Pl_**||||**_                                        b_**|**_                                         013_**|
+|**_nsta_**|**_ato_**||**_  Mantenance of o_**|**_    ar ane_**<br>**Clic**|<br>**k for content**|<br>**  s**|**_                                        Nove_**|**_                                        er_**||
+

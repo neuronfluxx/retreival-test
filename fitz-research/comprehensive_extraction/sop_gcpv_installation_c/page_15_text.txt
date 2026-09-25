@@ -1,0 +1,85 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 10 
+(2) Determine suitable location for inverters and other electrical equipment: 
+• 
+Location of string combiner box, inverters and instruments should be such that their access is 
+controlled; 
+ 
+• 
+Minimum distance from the PV array to reduce losses; 
+ 
+• 
+Protection from the environment as needed by the inverter class; 
+ 
+• 
+Inverter should be installed in such a place where there is enough space for cross ventilation, heat 
+dissipation and  maintenance. The inverter manufacturer generally recommends this in their 
+installation manual; 
+ 
+• 
+The location of overcurrent protection devices and/or load breaking disconnecting means should 
+be at the end of the cable that is electrically most remote from the PV modules. 
+ 
+(3) Identify cabling routes and therefore the required cable run distances: 
+Determine cable routes and hence cable length based on array location, combiner box location, inverter 
+location and location of main switch board.  Cable routes are not always the shortest paths of the cables. 
+The cable routes have to be decided based on wiring rules, considering the safety of cables and personnel 
+alike. 
+ 
+Please follow the steps below: 
+• 
+Verify the location of equipment and routing of the cable at the site and measure cable length and 
+compare with the drawing / design documents; 
+ 
+• 
+Determine the length of conduit or cable tray required for the installation; 
+ 
+• 
+Prepare the cables according to the length and size as determined after site measurement.  
+ 
+Prepare and maintain cable cutting schedule as per table below: 
+Sl. No. 
+Cable Segment 
+Length (m) 
+Size (mm2) 
+1 
+String 1: Array to DC Combiner Box  
+ 
+ 
+2 
+String 2: Array to DC Combiner Box  
+ 
+ 
+3 
+String 3: Array to DC Combiner Box 
+ 
+ 
+4 
+String 4: Array to DC Combiner Box  
+ 
+ 
+6 
+DC Cable: DC Combiner Box to Inverter 
+ 
+ 
+7 
+AC Cable: Inverter to Main Switch Board 
+ 
+ 
+8 
+Conduit for Cable from Arrays and from Combiner Box 
+to Inverter 
+ 
+ 
+9 
+Structure Earthing Terminal bar and Conductor  
+ 
+ 
+10 
+Inverter Earthing cable or conductor 
+ 
+ 

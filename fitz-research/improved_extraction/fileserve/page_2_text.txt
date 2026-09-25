@@ -1,0 +1,32 @@
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                                        ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor:6.887 
+ 
+ 
+          Volume 5 Issue IX, September 2017- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1885 
+©IJRASET (UGC Approved Journal): All Rights are Reserved
+III. WORKING OF SOLAR ENERGY 
+PV cells Convert Sunlight to Direct Current (DC) electricity. Charge Controller work as control the power from solar panel which 
+reverse back to solar panel get cause of panel damage. Battery System act as storage of electric power is used when sunlight not 
+available (i.e. night).From this system connected to inverter for convert Direct Current (DC) into Alternating Current (AC). 
+ 
+Figure 2 Working of solar energy 
+IV. MODELING OF PV PANEL 
+A. Solar Cell (Photovoltaic Cell) 
+The cells converted solar radiation directly into electricity. It consist various kinds of semiconductor materials. 
+It has two types: positive charge and negative charge shown on fig.1.This cell technology are used to design 
+solar cells with low cost as well as high conversion efficiency. When the cell absorbed photons from sunlight, 
+electrons are knocked free from silicon atoms and are drawn off by a grid of metal conductors, pressure a flow 
+of electric direct current. Solar cell PV made up of many chemicals. 
+ 
+Figure 3 Photovoltaic Cell (4 cell) 
+B. Photovoltaic Module 
+A PV module consists of solar cell circuits sealed in an environmentally protective laminate and are the fundament building blocks 
+of PV system. Generally sizes from 60W to 170W. Usually a number of PV modules are arranged in series and parallel to meet the 
+energy requirement. 

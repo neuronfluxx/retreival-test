@@ -1,0 +1,57 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 32 
+2.8 Step 8: System protection and safety  
+(1) Earthing system configurations 
+Internationally, earthing systems are classified as TN System, TT System and IT System.   
+ 
+TN system - has one or more points of the source of energy directly earthed and the exposed and extraneous 
+conductive parts of the consumer side installation are connected by means of protective conductors to the 
+earthed point(s) of the source, that is, there is a metallic path for earth fault currents to flow from the 
+installation to the earthed point(s) of the source. TN systems are further sub-divided into TN-C, TN-S and 
+TN-C-S systems.  
+ 
+TT system - has one or more points of the source of energy directly earthed and the exposed and extraneous 
+conductive parts of the installation are connected to a local earth electrode or electrodes are electrically 
+independent of the source earth(s).  
+ 
+IT system - has the source either unearthed or earthed through a high impedance and the exposed 
+conductive parts of the installation are connected to electrically independent earth electrodes.  
+ 
+In accordance to IS 3043: Code of Practice for Earthing, Indian distribution system uses an admixture of 
+earthing types mentioned above. Different earthing systems for distribution network and corresponding 
+earthing system for grid connected PV systems connected to the grid network have been discussed below.  
+ 
+ 
+ 
+TN-S Earthing configuration for 1-phase 
+TN-S Earthing configuration for 3-phase 
+ 
+Figure 23: TN-S Earthing system configurations in accordance to IS 3043 
+ 
+For TN-S earthing configuration, all exposed conductive parts of the installation are connected to protective 
+conductor via the main earthing terminal of the installation. For 3-phase connections of configuration, an 
+independent earth electrode within the customer premises in necessary. Earthing of solar PV system 
+connected to this configuration can be connected to the main earthing terminal in switchboard. 
+ 
+L1
+L2
+L3
+N
+PE
+Source Earth
+Consumer installation
+Source of Energy
+Exposed
+Conductive Part
+L1
+L2
+L3
+N
+PE
+Consumer installation
+Source of Energy
+Source Earth

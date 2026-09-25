@@ -1,0 +1,74 @@
+ 
+ 
+ 
+216 
+The course material is also provided to participants, made available to them via a link to a 
+217 
+password protected Dropbox folder. The content remains available to participants beyond 
+218 
+the conclusion of the workshop. 
+219 
+The rooms used for the workshops are of a classroom style set up, with access to power at 
+220 
+each individual desk so that participants can ensure their devices have sufficient battery 
+221 
+power to sustain the activities throughout the duration of the workshop. 
+222 
+Weeks until workshop 
+Email content 
+8 
+- 
+Facilitator introduction. 
+- 
+Summary of the content in the 
+workshop. 
+- 
+Instructions for installing Orange. 
+4 
+- 
+Sharing the Dropbox link that 
+contains all the workshop material. 
+- 
+Sharing the schedule for the 
+workshop. 
+- 
+Instructions for participants to bring 
+their own datasets if they are 
+interested. 
+1 
+- 
+Reminder of start time of the 
+workshop and details regarding 
+venue. 
+- 
+Reminders regarding accessing the 
+content and downloading the 
+Orange software. 
+223 
+Table 2: Due to the international nature of the workshop, email is used to communicate with participants. Emails are 
+224 
+sent 8, 4, and 1 week before the workshop, with each email containing content to support appropriate participant 
+225 
+preparation 
+ 
+226 
+8.2 
+Workshop delivery 
+227 
+The workshop content is typically taught by both BM and TI. BM delivers the session 
+228 
+content, both theoretical and hands-on sessions, with TI providing technical support and 
+229 
+clinical microbiology expertise. Having a professional data scientist (BM) and a clinical 
+230 
+microbiologist (TI) delivering the workshop allows for a more diverse range of skill sets and 
+231 
+knowledge to support participants with their questions and inquiries. Both BM and TI acted 
+232 
+as coaches during the hands-on sessions, modelling the content to participants and 
+233 
+demonstrating reasoning and transparent problem-solving practices. Participants are 
+234 
+encouraged to ask questions and participate throughout the hands-on sessions. The break 
+235 
+periods, as shown in Table 1, provide opportunities for students to consolidate what they 

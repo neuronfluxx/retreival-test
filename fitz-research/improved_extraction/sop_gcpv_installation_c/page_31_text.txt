@@ -1,0 +1,54 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 26 
+2.6 Step 6: DC cabling 
+It is important to minimise voltage drop loss in the cables for a desired performance of solar PV systems. 
+Ensure that aggregate voltage drop in all DC cables is less than 3% as recommended by IEC 62548 PV 
+array design requirements. Voltage drop in DC cables can calculated using formula below: 
+ 
+ 
+Where, 
+HIJ JKLMN= Route length of DC cable in meters (multiply by 2 for total circuit wire length) 
+OIJ = DC current in amperes 
+ρ = Resistivity of the wire in Ω/m/mm2 (For copper ρ = 0.0183 Ω/m/mm2) 
+PIJ JKLMN = Cross sectional area (CSA) of DC cable in mm2 
+H/00 = Q/*(),% 1&/2 #' % 
+Vmp string= String Voltage (No. of modules in string x Vmp at maximum temperature) 
+ 
+(1) Module wiring or stringing  
+After physical installation and establishment of earthing bond of the frames, PV  modules are connected in 
+series electrically to form a string. 
+ 
+Precautions to take while wiring modules: 
+• 
+Only a trained and qualified installer should perform all wiring;   
+• 
+Use stainless steel clamp or UV protected cable tie to fix cables; 
+• 
+DO NOT connect all the module in series to avoid high DC voltage; 
+• 
+Final connection will be done when the system is ready for commissioning;  
+• 
+Ensure electrical connectors are well protected against corrosion and soiling; 
+• 
+Ensure that connectors are corrosion free, cleaned with absolutely no gaps between the contacts;  
+• 
+DO NOT allow any inflammable liquids/gases near installation area. 
+ 
+Important to Note: 
+While connecting modules, each string should have one MC4 disconnected until all wiring to 
+the DC combiner box has been completed. This is to ensure that no one is working on live 
+dangerous DC voltage. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A!"!!"#$% = 2!!!!!"!!"#$%!!!!!"!!!!
+!"##!!!!!"!!"#$%&
+ 

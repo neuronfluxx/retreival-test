@@ -1,0 +1,37 @@
+ 
+ 
+Installation of Grid Connected Rooftop Solar Photovoltaic Systems - A Handbook for Engineers & Developers 
+ 
+ 
+Page | 7 
+Procedures to follow for shadow analysis: 
+ 
+Shadow analysis – using solar pathfinder: 
+The most accurate and easy method to determine usable and shadow free area is by using a solar pathfinder. 
+The Solar Pathfinder is a simple but highly accurate tool for determining shadow free area at any location. 
+The equipment works on a reflective principle rather than actually showing shadows. It can be used anytime 
+of the day, anytime of the year, in either cloudy or clear weather. The actual position of the sun at the time 
+of the solar site analysis is irrelevant. The sun path diagram provided with this device is latitude specific, 
+which provides the percentage of solar radiation available at different times of the day. By positioning the 
+solar pathfinder at the location where an object can  cast shadows, one can easily determine whether the 
+location is shadow free or if shadow is unavoidable, how much energy will be blocked by the shadow until 
+what time and which months of the year. The picture below shows solar pathfinder (left) and sun path 
+diagram (right). The images seen in the solar pathfinder are objects (trees) which  will create shadows at 
+different times of the day in different months of the year.  
+ 
+ 
+ 
+Figure 3: Solar Pathfinder and sun path diagram (www.solarpathfinder.com)  
+ 
+ 
+Shadow analysis – analysing sun position: 
+When the position and height of the object are known, it is easy to calculate shadow length at different 
+times of the day using a simple trigonometry formula as shown below. Azimuth angle and altitude angle 
+can be derived from various web tools that are available in web domain. One such web tool is 
+www.suncalc.org.   
+ 
+Table 1 below provides position of sun over different locations in Assam on 21st December.   
+ 
+To calculate minimum distance from the objects to proposed PV array to avoid shadowing, the formula 
+given below could be used. Consider azimuth and altitude angle on 21st December (Northern Hemisphere) 
+to get maximum distance in the year. 

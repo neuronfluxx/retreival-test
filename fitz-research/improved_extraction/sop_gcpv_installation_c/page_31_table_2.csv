@@ -1,0 +1,67 @@
+Col0,Col1,Col2,Col3,Col4,Col5,Col6,Col7,Col8,Col9,Col10,Col11,Pag,e | 26
+,,,,,,,,,,,,,
+I,nsta,llation of,Gr,id Connect,ed Rooftop Sola,r Pho,tovoltaic Syste,ms - A Hand,book for Engine,ers &,Develo,pers,
+,,,,,,,,,,,,,
+2,.6,Step,6:,DC cab,ling,,,,,,,,
+,,,,,,,,,,,,,
+It,is,importa,nt,to minimis,e voltage drop,loss,in the cables,for a desire,d performance,of sol,ar PV,sys,tems.
+,,,,,,,,,,,,,
+E,ns,ure that,agg,regate vo,ltage drop in al,l D,C cables is les,s than 3%,as recommende,d by,IEC 6,254,8 PV
+,,,,,,,,,,,,,
+a,rra,y design,re,quirements,. Voltage drop,in D,C cables can,calculated,using formula b,elow:,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,2!!!!,!!!! !,!!!,,,,
+,,,,,,,"!""!!""","#$% !""",,,,,
+,,,,,"A
+!""!!""",#$%,=,,,,,,
+,,"Where,",,,,,"!""##!!","!!
+!""!!""#$%&",,,,,
+,,,,,,,,,,,,,
+,,"H
+IJ JKLM","=
+N",Route len,gth of DC cable,in,meters (multip,ly by 2 for,total circuit wir,e leng,th),,
+,,"O = D
+IJ",C c,urrent in a,mperes,,,,,,,,
+,,ρ = Resi,sti,vity of the,wire in Ω/m/m,m2 (F,or copper ρ =,0.0183 Ω/,m/mm2),,,,
+,,,,,,,,,,,,,
+,,,,,,,,2,,,,,
+,,"P
+IJ JKLM","=
+N",Cross sec,tional area (CS,A) o,f DC cable in,mm,,,,,
+,,H/00 =,Q/,"*(),% 1&/",2 #' %,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,"V
+mp string",= S,tring Volt,age (No. of mo,dules,in string x V,"at maxim
+mp",um temperatur,e),,,
+,,,,,,,,,,,,,
+(,1),Module,wi,ring or str,inging,,,,,,,,
+,,,,,,,,,,,,,
+A,fte,r physic,al i,nstallation,and establishm,ent,of earthing bo,nd of the fr,"ames, PV mod",ules a,re con,nec,ted in
+,,,,,,,,,,,,,
+s,eri,es electri,cal,ly to form,a string.,,,,,,,,
+,,,,,,,,,,,,,
+P,re,cautions,to,take while,wiring module,s:,,,,,,,
+,,,,,,,,,,,,,
+,,• Onl,y a,trained an,d qualified inst,aller,should perfor,m all wirin,g;,,,,
+,,,,,,,,,,,,,
+,,• Use,sta,inless stee,l clamp or UV,prot,ected cable tie,to fix cabl,es;,,,,
+,,,,,,,,,,,,,
+,,• DO,NO,T connec,t all the module,in s,eries to avoid,high DC v,oltage;,,,,
+,,,,,,,,,,,,,
+,,• Fina,l c,onnection,will be done w,hen t,he system is r,eady for co,mmissioning;,,,,
+,,,,,,,,,,,,,
+,,• Ens,ure,electrical,connectors are,well,protected aga,inst corrosi,on and soiling;,,,,
+,,,,,,,,,,,,,
+,,• Ens,ure,that conn,ectors are corro,sion,"free, cleaned",with absolu,tely no gaps be,tween,the co,nta,cts;
+,,,,,,,,,,,,,
+,,• DO,NO,T allow a,ny inflammabl,e liq,uids/gases nea,r installatio,n area.,,,,
+,,,,,,,,,,,,,
+,Im,portant,to,Note:,,,,,,,,,
+,,,,,,,,,,,,,
+,W,hile con,ne,cting mod,"ules, each str",ing,should have,one MC4,disconnected,until,all wi,rin,g to
+,,,,,,,,,,,,,
+,th,e DC co,m,biner box,has been co,mple,ted. This is,to ensure,that no one i,s wor,king,on,live
+,,,,,,,,,,,,,
+,da,ngerous,D,C voltage,.,,,,,,,,
