@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+myevn/
+venv/
+env/
+
+# Extraction outputs (don't commit extracted data)
+extracted_images/
+extracted_text/
+comprehensive_extraction/
+improved_extraction/
+*_extracted/
+extraction_log.txt
+
+# PDF files (don't commit large PDFs)
+*.pdf
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
