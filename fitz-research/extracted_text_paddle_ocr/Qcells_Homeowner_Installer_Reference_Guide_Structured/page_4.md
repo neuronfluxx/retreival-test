@@ -1,0 +1,27 @@
+## Page 4
+
+2. Homeowner Learning Guide
+Focus on what the owner can observe, what is normal, and when to escalate.
+2.1 Core vocabulary
+Term
+Meaning in plain language
+kW
+Instantaneous power - how much the system is producing or using at a point in time.
+kWh
+Energy over time - produced, consumed, stored or imported.
+DC
+Electricity produced by PV modules and present on the PV / battery side of many systems.
+AC
+Electricity used by standard household circuits and the utility grid.
+MPPT
+Inverter control function that operates a PV input near its best power point.
+Rapid shutdown
+A safety function intended to reduce voltage in PV conductors when required by the applicable code / system design.
+2.2 Questions to ask during handover
+• Where are the inverter, service disconnect and any battery located?
+• What does a normal monitoring screen look like?
+• Which alerts require a call, and which can clear themselves?
+• Where are the one-line, equipment list, warranties, permits and final inspection records stored?
+• What is the safe procedure during a utility outage, severe storm or suspected electrical issue?
+O:m ke--ked-mlwa le n-r n many
+a sunny day.

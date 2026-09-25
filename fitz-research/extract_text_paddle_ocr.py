@@ -12,12 +12,15 @@ from paddleocr import PaddleOCR
 import certifi
 import json
 import ssl
+import shutil
+import subprocess
+import tempfile
 from PIL import Image
 import io
 
 
 class PDFTextExtractor:
-    def __init__(self, lang='en', use_gpu=False):
+    def __init__(self, lang='en', use_gpu=False, fast=False):
         """
         Initialize the PDF text extractor with PaddleOCR.
         
@@ -31,9 +34,11 @@ class PDFTextExtractor:
         )
         # Simplified initialization for newer PaddleOCR version
         self.ocr = PaddleOCR(
-            use_textline_orientation=True,  # Enable text orientation detection
             lang=lang,
             device="gpu:0" if use_gpu else "cpu",
+            use_doc_orientation_classify=not fast,
+            use_doc_unwarping=not fast,
+            use_textline_orientation=not fast,
         )
         print("PaddleOCR initialized successfully!")
     
@@ -132,7 +137,7 @@ class PDFTextExtractor:
         
         return "\n".join(full_text), structured_data
     
-    def extract_from_pdf(self, pdf_path, output_dir, save_images=False):
+    def extract_from_pdf(self, pdf_path, output_dir, save_images=False, zoom=2.0):
         """
         Extract text from all pages in a PDF.
         
@@ -158,12 +163,16 @@ class PDFTextExtractor:
         
         # Process each page
         for page_num in range(len(pdf_document)):
-            print(f"  Processing page {page_num + 1}/{len(pdf_document)}...", end=" ")
+            print(
+                f"  Processing page {page_num + 1}/{len(pdf_document)}...",
+                flush=True,
+            )
             
             page = pdf_document[page_num]
             
             # Convert page to image
-            img = self.pdf_page_to_image(page)
+            img = self.pdf_page_to_image(page, zoom=zoom)
+            print(f"    Rendered image: {img.width}x{img.height}px; running OCR...", flush=True)
             
             # Save image if requested
             if save_images:
@@ -185,19 +194,19 @@ class PDFTextExtractor:
             results["pages"].append(page_result)
             
             # Save individual page text
-            page_text_path = os.path.join(output_dir, f"page_{page_num + 1}.txt")
+            page_text_path = os.path.join(output_dir, f"page_{page_num + 1}.md")
             with open(page_text_path, "w", encoding="utf-8") as f:
-                f.write(full_text)
+                f.write(f"## Page {page_num + 1}\n\n{full_text}\n")
             
-            print(f"✓ ({len(structured_data)} lines, {len(full_text.split())} words)")
+            print(f"    Done: {len(structured_data)} lines, {len(full_text.split())} words")
         
         pdf_document.close()
         
         # Save combined text from all pages
         all_text = "\n\n--- Page Break ---\n\n".join([p["text"] for p in results["pages"]])
-        full_text_path = os.path.join(output_dir, f"{pdf_name}_full_text.txt")
+        full_text_path = os.path.join(output_dir, f"{pdf_name}_full_text.md")
         with open(full_text_path, "w", encoding="utf-8") as f:
-            f.write(all_text)
+            f.write(f"# {pdf_name}\n\n{all_text}\n")
         
         # Save structured JSON data
         json_path = os.path.join(output_dir, f"{pdf_name}_ocr_data.json")
@@ -207,7 +216,35 @@ class PDFTextExtractor:
         return results
 
 
-def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=False, save_images=False):
+def convert_pptx_to_pdf(pptx_path, output_dir):
+    """Convert a PowerPoint presentation to PDF using LibreOffice."""
+    soffice = (
+        shutil.which("soffice")
+        or shutil.which("libreoffice")
+        or "/Applications/LibreOffice.app/Contents/MacOS/soffice"
+    )
+    if not Path(soffice).exists():
+        raise RuntimeError(
+            "PPTX input requires LibreOffice. Install it from https://www.libreoffice.org/ "
+            "and ensure the 'soffice' command is available on PATH."
+        )
+
+    subprocess.run(
+        [soffice, "--headless", "--convert-to", "pdf", "--outdir", str(output_dir), str(pptx_path)],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    pdf_path = Path(output_dir) / f"{Path(pptx_path).stem}.pdf"
+    if not pdf_path.exists():
+        raise RuntimeError(f"LibreOffice did not create the expected PDF: {pdf_path}")
+    return pdf_path
+
+
+def process_pdf_folder(
+    input_folder, output_folder=None, lang='en', use_gpu=False,
+    save_images=False, zoom=2.0, fast=False
+):
     """
     Process all PDF files in a folder with PaddleOCR.
     
@@ -222,12 +259,15 @@ def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=Fals
         dict: Processing statistics
     """
     input_path = Path(input_folder)
-    if input_path.is_file() and input_path.suffix.lower() == ".pdf":
+    supported_extensions = {".pdf", ".pptx"}
+    if input_path.is_file() and input_path.suffix.lower() in supported_extensions:
         pdf_files = [input_path.name]
         input_folder = str(input_path.parent)
     else:
         pdf_files = [
-            f for f in os.listdir(input_folder) if f.lower().endswith(".pdf")
+            f for f in os.listdir(input_folder)
+            if Path(f).suffix.lower() in supported_extensions
+            and not f.startswith("~$")
         ]
     
     if not pdf_files:
@@ -243,7 +283,7 @@ def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=Fals
     os.makedirs(output_folder, exist_ok=True)
     
     # Initialize OCR
-    extractor = PDFTextExtractor(lang=lang, use_gpu=use_gpu)
+    extractor = PDFTextExtractor(lang=lang, use_gpu=use_gpu, fast=fast)
     
     stats = {
         "total_pdfs": len(pdf_files),
@@ -253,38 +293,44 @@ def process_pdf_folder(input_folder, output_folder=None, lang='en', use_gpu=Fals
     }
     
     # Process each PDF
-    for idx, pdf_file in enumerate(pdf_files, 1):
-        pdf_path = os.path.join(input_folder, pdf_file)
-        pdf_name = Path(pdf_file).stem
-        pdf_output_dir = os.path.join(output_folder, pdf_name)
+    with tempfile.TemporaryDirectory(prefix="paddleocr_pptx_") as temp_dir:
+        for idx, pdf_file in enumerate(pdf_files, 1):
+            source_path = Path(input_folder) / pdf_file
+            pdf_path = source_path
+            if source_path.suffix.lower() == ".pptx":
+                pdf_path = convert_pptx_to_pdf(source_path, Path(temp_dir))
+            pdf_name = source_path.stem
+            pdf_output_dir = os.path.join(output_folder, pdf_name)
         
-        print(f"\n[{idx}/{len(pdf_files)}] Processing: {pdf_file}")
-        print("-" * 60)
+            print(f"\n[{idx}/{len(pdf_files)}] Processing: {pdf_file}")
+            print("-" * 60)
         
-        try:
-            results = extractor.extract_from_pdf(pdf_path, pdf_output_dir, save_images)
+            try:
+                results = extractor.extract_from_pdf(
+                    pdf_path, pdf_output_dir, save_images, zoom=zoom
+                )
             
-            total_words = sum(p["word_count"] for p in results["pages"])
-            stats["total_pages"] += results["total_pages"]
-            stats["total_words"] += total_words
+                total_words = sum(p["word_count"] for p in results["pages"])
+                stats["total_pages"] += results["total_pages"]
+                stats["total_words"] += total_words
             
-            stats["processed_files"].append({
-                "filename": pdf_file,
-                "pages": results["total_pages"],
-                "words": total_words,
-                "status": "success"
-            })
+                stats["processed_files"].append({
+                    "filename": pdf_file,
+                    "pages": results["total_pages"],
+                    "words": total_words,
+                    "status": "success"
+                })
             
-            print(f"  ✓ Extracted {results['total_pages']} page(s), {total_words} words")
+                print(f"  ✓ Extracted {results['total_pages']} page(s), {total_words} words")
             
-        except Exception as e:
-            print(f"  ✗ Error processing {pdf_file}: {e}")
-            stats["processed_files"].append({
-                "filename": pdf_file,
-                "pages": 0,
-                "words": 0,
-                "status": f"error: {e}"
-            })
+            except Exception as e:
+                print(f"  ✗ Error processing {pdf_file}: {e}")
+                stats["processed_files"].append({
+                    "filename": pdf_file,
+                    "pages": 0,
+                    "words": 0,
+                    "status": f"error: {e}"
+                })
     
     return stats
 
@@ -295,7 +341,7 @@ def main():
     )
     parser.add_argument(
         "input_folder",
-        help="Path to a PDF file or folder containing PDF files"
+        help="Path to a PDF/PPTX file or folder containing PDF/PPTX files"
     )
     parser.add_argument(
         "-o", "--output",
@@ -317,6 +363,17 @@ def main():
         help="Save page images along with text",
         action="store_true"
     )
+    parser.add_argument(
+        "--zoom",
+        type=float,
+        default=2.0,
+        help="PDF rendering scale before OCR (default: 2.0; use 1.0 for faster processing)",
+    )
+    parser.add_argument(
+        "--fast",
+        action="store_true",
+        help="Skip document orientation and unwarping for faster CPU OCR",
+    )
     
     args = parser.parse_args()
     
@@ -327,9 +384,9 @@ def main():
     
     if not os.path.isdir(args.input_folder) and not (
         os.path.isfile(args.input_folder)
-        and args.input_folder.lower().endswith(".pdf")
+        and Path(args.input_folder).suffix.lower() in {".pdf", ".pptx"}
     ):
-        print(f"Error: '{args.input_folder}' is not a PDF file or directory.")
+        print(f"Error: '{args.input_folder}' is not a PDF/PPTX file or directory.")
         return
     
     print("=" * 60)
@@ -340,6 +397,8 @@ def main():
     print(f"Language: {args.lang}")
     print(f"GPU: {'Enabled' if args.gpu else 'Disabled'}")
     print(f"Save images: {'Yes' if args.save_images else 'No'}")
+    print(f"Render zoom: {args.zoom}")
+    print(f"Fast mode: {'Enabled' if args.fast else 'Disabled'}")
     print("=" * 60)
     
     try:
@@ -348,7 +407,9 @@ def main():
             args.output,
             lang=args.lang,
             use_gpu=args.gpu,
-            save_images=args.save_images
+            save_images=args.save_images,
+            zoom=args.zoom,
+            fast=args.fast,
         )
         
         print("\n" + "=" * 60)

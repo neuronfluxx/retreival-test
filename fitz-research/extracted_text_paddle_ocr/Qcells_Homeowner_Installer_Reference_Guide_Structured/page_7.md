@@ -1,0 +1,34 @@
+## Page 7
+
+5. Electrical Design Considerations
+Start from the approved module, inverter and battery documents, then apply project voltage / current limits, temperature
+assumptions and applicable code.
+5.1 Design items that change field decisions
+Design item
+Why it matters
+Field reminder
+String voltage
+Cold-weather Voc can rise
+Use design temperature and exact module Voc.
+String current
+Affects conductors, connectors, fuse and MPPT limits
+Compare design current with equipment ratings.
+MPPT window
+Inverter needs adequate operating voltage
+Confirm string Vmp across expected temperatures.
+Conductor ampacity
+Limits safe continuous current
+Apply code-required derating / correction factors.
+Grounding / bonding
+Provides fault-current path and equipment safety
+Follow system and racking manufacturer instructions.
+Rapid shutdown
+Required or configured according to code / system
+Verify device placement and commissioning.
+Arc-fault protection
+Required by many residential configurations
+Confirm equipment behavior and test / commission as
+required.
+5.2 Example string arithmetic - illustrative only
+For a 10-module string using the 440 W class example, nominal STC Vmp is about 10 x 33.33 = 333.3 V and nominal Voc is
+voltage, inverter windows and applicable code.

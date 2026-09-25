@@ -1,0 +1,43 @@
+## Page 8
+
+6. Roof, Mounting and Weather Factors
+affect the long-term system.
+6.1 Installer focus and homeowner observation
+Factor
+Installer focus
+Homeowner observation
+Roof age / condition
+Confirm remaining life and repair conflicts
+Leaks, damaged shingles, loose tiles
+Attachment layout
+Use engineered / approved attachment method and spacing
+Visible misalignment or movement
+Water management
+Match flashing / seal strategy to roofing system
+Water stains or interior dampness
+Wind / snow
+Use approved design loads and local conditions
+Post-storm inspection if accessible and safe
+Thermal movement
+Allow for equipment and rail movement per system
+Unexpected rubbing / contact
+Clearances / pathways
+Maintain required access and equipment clearances
+Do not store objects against equipment
+6.2 Load note
+The cited Q.TRON BLK M-G2+ documentation describes test loads of up to 8100 Pa push / 3600 Pa pull, with installation design
+dependent on the complete module / racking / attachment configuration and site conditions. A module rating does not replace
+project-specific attachment engineering.
+6.3 Visual field cues
+1
+2
+3
+4
+5
+6
+Verify
+Design
+Install
+Monitor
+Commission
+Handover

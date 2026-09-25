@@ -1,0 +1,37 @@
+## Page 13
+
+11. Installer Troubleshooting
+Use a structured evidence-first approach: identify the asset, capture the symptom and establish the last known-good state
+before changing configuration.
+11.1 Diagnostic cases
+Case
+Diagnostic sequence
+Evidence to capture
+No production
+Verify irradiance / array state -> DC path -> inverter state -> AC status ->
+Voltage / current readings, alarms,
+monitoring
+screenshots
+Low one-string output
+Compare peer strings -> inspect shading -> connectors -> insulation /
+String comparison, photos, test results
+continuity as permitted
+Inverter fault
+Capture code -> consult current manual -> check upstream /
+Code, timestamp, firmware, operating
+downstream conditions
+state
+Intermittent offline
+Check gateway / network -> time sync -> signal -> power cycle only per
+Network event log, reconnect time
+procedure
+Battery not charging
+Check SOC / reserve -> PV surplus -> inverter state -> battery alarms ->
+SOC, power flow, alarm / event log
+grid conditions
+11.2 Change handling logic
+Document every configuration change with before / after values, reason, approver where required, date / time and rollback path.
+Avoid trial-and-error changes to protection, grid or battery parameters.
+11.3 Evidence hierarchy
+Start with identity and timestamps; then compare peer assets; then validate electrical/ communications observations using the
+current manufacturer procedure. Keep the original evidence before modifying settings.

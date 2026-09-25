@@ -1,0 +1,50 @@
+## Page 15
+
+13. Maintenance and Preventive Care
+Maintenance is a combination of homeowner observation and qualified service activity.
+13.1 Suggested cadence
+Interval
+Homeowner
+Installer / O&M;
+Monthly
+Check monitoring and unresolved alerts
+Review fleet alarms / trends where contracted
+Quarterly
+Look for new shade or visible roof changes from ground
+Trend analysis, communications health
+level
+After severe weather
+Report visible damage; do not climb roof
+Targeted inspection if required
+Annual
+Review production trend and service records
+Inspect accessible equipment, labels, fasteners / attachments as
+permitted
+As required
+Follow manufacturer cleaning guidance
+Electrical / thermal / firmware checks per procedure
+13.2 Cleaning is site-specific
+Soiling can reduce yield, but cleaning frequency should reflect site conditions, manufacturer guidance, local water constraints,
+access safety and cost / benefit. Avoid practices that can damage glass, coatings, frames or connectors.
+13.3 Example maintenance record
+Date
+Asset
+Observation
+Action
+Result
+2026-01-15
+Array A
+Normal
+None
+Closed
+2026-05-10
+Inverter 1
+Network alert
+Reconnected gateway per procedure
+Online
+2026-08-24
+Roof plane B
+Visual inspection; no damage found
+Closed
+Post-storm check
+The records above are illustrative training data, not Qcells service records.

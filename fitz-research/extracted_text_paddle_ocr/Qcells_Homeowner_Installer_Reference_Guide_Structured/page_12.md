@@ -1,0 +1,33 @@
+## Page 12
+
+10. Homeowner Troubleshooting
+Safe homeowner actions first; escalate electrical, roof and equipment work to qualified personnel.
+10.1 Common symptoms
+Symptom
+Safe homeowner action
+Escalate when...
+Monitoring shows offline
+Check internet / router status and app timestamp
+Equipment remains offline after normal
+network recovery
+Production appears low
+Compare with weather and similar days
+Persistent underperformance or repeated
+alarms
+Inverter shows a warning
+Record exact message / time; follow owner manual
+Warning persists, repeats or indicates
+electrical / safety issue
+Battery not supplying backup
+Check configured backup / operating mode and SOC
+Backup does not behave as documented
+after outage
+Visible damage after storm
+Stay clear of damaged / loose conductors or equipment
+Any physical / electrical damage is
+suspected
+Leak near array
+Avoid roof / electrical inspection yourself
+Water intrusion or structural concern exists
+10.2 Do not perform these actions
+change protected settings without qualified procedures.

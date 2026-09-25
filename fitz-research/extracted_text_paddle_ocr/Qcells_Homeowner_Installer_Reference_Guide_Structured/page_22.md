@@ -1,0 +1,33 @@
+## Page 22
+
+20. Sources and Document Control
+Use the original manufacturer document for final technical decisions.
+20.1 Primary manufacturer references
+Qcells North America - Q.TRON BLK M-G2+
+https://us.qcells.com/q-tron-blk-m-g2/
+Qcells Q.TRoN BLK M-G2+ series datasheet (415-440 W class; public revision cited in this guide)
+https://us.qcells.com/wp-content/uploads/2024/08/Qcells_Data_sheet_Q.TRON_BLK_M-G2_series_415-440_2024-08_Rev04_
+NA.pdf
+Qcells North America - Q.HOME CORE
+https://us.qcells.com/qhome-core/
+Qcells Q.HOME CORE technical documents
+https://us.qcells.com/qhome-core/technical-documents/
+20.2 Document control
+Field
+Value
+Document title
+Qcells Solar - Homeowner & Installer Reference Guide
+Revision
+v2.0 - structured hierarchy edition
+Reference date
+16 September 2026
+Pages
+22 planned
+Use
+Educational / workflow reference
+Important limitation
+Product values, code requirements, utility rules and installation procedures must be verified against current
+project-specific documents.
+End of guide
+This document is designed as a learning and workflow artifact. Sample project history and current-status records are synthetic
+examples for demonstrating how technical and operational information can be organized.

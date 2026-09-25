@@ -1,0 +1,37 @@
+## Page 11
+
+9. Monitoring and Performance Checks
+9.1 Interpreting observations
+Data
+Alert
+Action
+Use trends and persistent deviations rather than reacting to a single production value.
+Observation
+Possible explanations
+Next step
+Low production on a cloudy day
+Expected irradiance reduction
+Compare weather and prior similar days
+One string / MPPT lower than
+Shading, connector / string issue, device limitation
+Check monitoring detail and escalate for field
+peers
+test
+Communication gap
+Network, gateway, firmware, credentials
+Check network status and monitoring device
+Repeated fault code
+Equipment condition or configuration
+Capture code / time and use manufacturer
+procedure
+Battery SOC stops changing
+Operating mode, reserve setting, no surplus, or condition
+Review configured mode and event log
+9.2 Suggested monthly homeowner review
+• Confirm the system is online.
+• Review energy production for the prior 30 days.
+• Check for unresolved alerts.
+• Note major weather events or changes such as roof work, new shade or electrical upgrades.
+9.3 Installer analytics
+Where contracted, retain time-series data with timestamps, device state, fault codes, communication health and work-order
+references. This helps distinguish a temporary communications outage from a PV generation problem.

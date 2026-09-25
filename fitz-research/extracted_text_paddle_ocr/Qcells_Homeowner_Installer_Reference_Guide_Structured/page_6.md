@@ -1,0 +1,42 @@
+## Page 6
+
+4. Q.TRON BLK M-G2+ Technical Snapshot
+Example technical snapshot based on the Qcells North America Q.TRON BLK M-G2+ documentation.
+4.1 Published product characteristics
+Parameter
+Published value
+Cell technology
+108 half-cell monocrystalline; Q.ANTUM NEO technology
+Power class
+415 / 420 / 425 / 430 / 435 / 440 Wp
+Maximum module efficiency
+Up to 22.5%
+Module dimensions
+67.8 in × 44.6 in × 1.18 in (1722 × 1134 × 30 mm)
+Weight
+46.7 lb (21.2 kg)
+Maximum system voltage
+1000 V IEC / 1000 V UL (per cited datasheet)
+Maximum series fuse rating
+25 A DC
+NMOT
+109 +/- 5.4 F (43 +/- 3 C)
+Continuous-duty module temperature
+-40 F to +185 F (-40 C to +85 C)
+4.2 440 W class electrical values at STC
+Metric
+440 W class
+Pmax
+440 W
+Isc
+13.90 A
+Voc
+39.88 V
+Impp
+13.20 A
+Vmpp
+33.33 V
+Efficiency
+>=22.5%
+Source: Qcells North America Q.TRON BLK M-G2+series documentation. Product values are revision-speciic. Verify the current datasheet before
+design or field work.

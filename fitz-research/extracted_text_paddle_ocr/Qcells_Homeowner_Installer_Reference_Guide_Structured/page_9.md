@@ -1,0 +1,47 @@
+## Page 9
+
+7. Installation Workflow
+1
+2
+3
+4
+5
+6
+Verify
+Design
+Install
+Monitor
+Commission
+Handover
+7.1 Core installation sequence
+Phase
+Key activities
+Evidence to retain
+1. Site verification
+Roof, electrical service, shade, access, structural / roof constraints
+Site survey, photos, measurements
+2. Design
+Array, electrical, equipment, labels, shutdown strategy
+Approved plan set / one-line
+3. Material staging
+Verify models, quantities, connectors, serials, damage
+Receiving checklist / serial log
+4. Mechanical
+Racking, attachments, flashing, module placement
+Photos, torque records
+install
+5. DC / AC install
+Conductors, terminations, disconnects, equipment
+Inspection notes, continuity / termination checks
+6. Monitoring setup
+Gateway / network pairing, equipment enrollment
+Screenshots / device IDs
+7. Commissioning
+Functional checks, startup, alarms, test sequence
+Commissioning report
+8. Handover
+Owner orientation, documents, maintenance instructions
+Signed handover
+7.2 Serial-number discipline
+Capture the complete serial-number record before closing the project. It shortens future troubleshooting, supports warranty
+interactions and links field assets to monitoring records.
